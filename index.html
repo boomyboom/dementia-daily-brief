@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>치매·AD 데일리 브리프</title>
+<style>
+  :root {
+    --bg: #f6f7f9;
+    --card: #ffffff;
+    --ink: #1a1d23;
+    --ink-soft: #5a616e;
+    --line: #e4e7ec;
+    --accent: #2f5fde;
+    --accent-soft: #eef2fd;
+    --high: #d93838;
+    --high-bg: #fdeeee;
+    --mid: #b07a10;
+    --mid-bg: #fdf6e6;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", -apple-system, sans-serif;
+    background: var(--bg); color: var(--ink); line-height: 1.65;
+  }
+  header {
+    background: var(--card); border-bottom: 1px solid var(--line);
+    padding: 20px 24px; position: sticky; top: 0; z-index: 10;
+  }
+  .header-inner { max-width: 880px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  h1 { font-size: 20px; font-weight: 700; }
+  h1 .sub { font-size: 13px; font-weight: 400; color: var(--ink-soft); margin-left: 8px; }
+  .date-nav { display: flex; align-items: center; gap: 8px; }
+  .date-nav button {
+    border: 1px solid var(--line); background: var(--card); border-radius: 8px;
+    padding: 6px 12px; font-size: 14px; cursor: pointer; color: var(--ink);
+  }
+  .date-nav button:disabled { opacity: 0.35; cursor: default; }
+  .date-nav select {
+    border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px;
+    font-size: 14px; background: var(--card); color: var(--ink);
+  }
+  main { max-width: 880px; margin: 0 auto; padding: 28px 24px 80px; }
+  .headline {
+    background: var(--accent-soft); border: 1px solid #d6e0f8; border-radius: 12px;
+    padding: 18px 20px; margin-bottom: 28px; font-size: 16px; font-weight: 600; color: #233a78;
+  }
+  section { margin-bottom: 36px; }
+  section > h2 {
+    font-size: 17px; font-weight: 700; padding-bottom: 8px; margin-bottom: 14px;
+    border-bottom: 2px solid var(--ink);
+  }
+  .item {
+    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    padding: 16px 18px; margin-bottom: 12px;
+  }
+  .item-title { font-size: 15px; font-weight: 700; margin-bottom: 6px; }
+  .item-title a { color: var(--ink); text-decoration: none; }
+  .item-title a:hover { color: var(--accent); text-decoration: underline; }
+  .item-summary { font-size: 14px; color: #333a45; margin-bottom: 10px; }
+  .item-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .badge { font-size: 12px; border-radius: 6px; padding: 2px 8px; font-weight: 600; }
+  .badge.source { background: #f0f1f4; color: var(--ink-soft); font-weight: 500; }
+  .badge.tag { background: var(--accent-soft); color: var(--accent); }
+  .badge.high { background: var(--high-bg); color: var(--high); }
+  .badge.medium { background: var(--mid-bg); color: var(--mid); }
+  .empty { color: var(--ink-soft); font-size: 14px; padding: 8px 2px; }
+  footer { max-width: 880px; margin: 0 auto; padding: 0 24px 40px; font-size: 12px; color: var(--ink-soft); }
+  #status { text-align: center; padding: 60px 0; color: var(--ink-soft); }
+</style>
+</head>
+<body>
+<header>
+  <div class="header-inner">
+    <h1>🧠 치매·AD 데일리 브리프<span class="sub">알츠하이머·진단 SW 시장 동향</span></h1>
+    <div class="date-nav">
+      <button id="prev" title="이전 날짜">◀</button>
+      <select id="dateSelect"></select>
+      <button id="next" title="다음 날짜">▶</button>
+    </div>
+  </div>
+</header>
+<main>
+  <div id="status">브리핑을 불러오는 중…</div>
+  <div id="content" style="display:none">
+    <div class="headline" id="headline"></div>
+    <div id="sections"></div>
+  </div>
+</main>
+<footer>
+  매일 오전 9시(KST) 자동 갱신 · AI가 수집·요약한 내용이므로 중요 의사결정 전 원문 확인 필요
+</footer>
+<script>
+const SECTION_ORDER = ["research", "regulatory", "market", "competitors", "media"];
+let dates = [];
+let current = 0;
+
+async function loadManifest() {
+  const res = await fetch("briefs/manifest.json", { cache: "no-store" });
+  const manifest = await res.json();
+  dates = manifest.dates.slice().sort().reverse(); // 최신 우선
+  const sel = document.getElementById("dateSelect");
+  sel.innerHTML = dates.map(d => `<option value="${d}">${d}</option>`).join("");
+  sel.onchange = () => { current = dates.indexOf(sel.value); render(); };
+  document.getElementById("prev").onclick = () => { if (current < dates.length - 1) { current++; render(); } };
+  document.getElementById("next").onclick = () => { if (current > 0) { current--; render(); } };
+}
+
+function esc(s) {
+  return String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
+}
+
+async function render() {
+  const date = dates[current];
+  document.getElementById("dateSelect").value = date;
+  document.getElementById("prev").disabled = current >= dates.length - 1;
+  document.getElementById("next").disabled = current <= 0;
+
+  const res = await fetch(`briefs/${date}.json`, { cache: "no-store" });
+  const brief = await res.json();
+
+  document.getElementById("headline").textContent = brief.headline || "";
+
+  const ordered = SECTION_ORDER
+    .map(id => brief.sections.find(s => s.id === id))
+    .filter(Boolean)
+    .concat(brief.sections.filter(s => !SECTION_ORDER.includes(s.id)));
+
+  document.getElementById("sections").innerHTML = ordered.map(sec => `
+    <section>
+      <h2>${esc(sec.title)}</h2>
+      ${sec.items.length === 0 ? '<div class="empty">오늘은 해당 분야의 주요 소식이 없습니다.</div>' :
+        sec.items.map(it => `
+        <div class="item">
+          <div class="item-title">${it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>` : esc(it.title)}</div>
+          <div class="item-summary">${esc(it.summary)}</div>
+          <div class="item-meta">
+            ${it.importance === "high" ? '<span class="badge high">중요</span>' : ""}
+            ${it.importance === "medium" ? '<span class="badge medium">주목</span>' : ""}
+            ${it.source ? `<span class="badge source">${esc(it.source)}</span>` : ""}
+            ${(it.tags || []).map(t => `<span class="badge tag">${esc(t)}</span>`).join("")}
+          </div>
+        </div>`).join("")}
+    </section>`).join("");
+
+  document.getElementById("status").style.display = "none";
+  document.getElementById("content").style.display = "block";
+}
+
+loadManifest().then(render).catch(e => {
+  document.getElementById("status").textContent = "브리핑을 불러오지 못했습니다: " + e.message;
+});
+</script>
+</body>
+</html>
