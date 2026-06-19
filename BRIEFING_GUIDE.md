@@ -11,7 +11,10 @@
 ## 수집 대상 (섹션별)
 
 ### 1. `research` — 학술·연구
-- PubMed, Nature/Science/Lancet/JAMA/Alzheimer's & Dementia 등 주요 저널의 신규 논문
+- PubMed 및 주요 저널의 신규 논문. 특히 다음 고임팩트·전문 저널을 매일 우선 확인한다:
+  - **종합의학**: NEJM(New England Journal of Medicine), The Lancet, JAMA, Nature, Science, Cell
+  - **신경과/치매 전문**: JAMA Neurology, Lancet Neurology, Nature Medicine, Nature Aging, Neurology, Brain, Alzheimer's & Dementia, Acta Neuropathologica, Molecular Neurodegeneration, Annals of Neurology
+  - **영상의학/AI**: Radiology, Radiology: Artificial Intelligence, NeuroImage, npj Digital Medicine
 - 치매/AD 바이오마커(아밀로이드, 타우, 혈액검사), 뇌영상(MRI/PET) 분석, AI 진단 모델 관련 논문 우선
 - 주요 임상시험 결과 발표 (ClinicalTrials.gov, 학회 발표 — AAIC, CTAD, AD/PD 등)
 - arXiv/medRxiv의 의료 AI·신경영상 분석 관련 프리프린트
