@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T09:00:00+09:00",
+  "headline": "기저 MRI 한 장과 기본 인구통계만으로 알츠하이머병 진단·조직분할·현재 및 향후 36개월 인지점수를 동시에 예측하는 멀티태스크 딥러닝 모델이 Nature Aging에 발표돼, PET·유전자·체액검사 없이 단일 MRI로 진단·예후를 구현하는 흐름이 강화됐다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "학술·연구",
+      "items": [
+        {
+          "title": "단일 MRI 1장으로 알츠하이머병 진단·인지기능 변화까지 예측하는 멀티태스크 AI (Nature Aging)",
+          "summary": "연구팀이 기저 MRI 한 장과 나이·학력 등 기본 인구통계만으로 알츠하이머병 진단, 조직 분할, 현재 및 향후 36개월 인지점수를 동시에 예측하는 멀티태스크 딥러닝 모델을 발표했다. 손실함수 맞춤 설계와 조직분할 기반 잠재표현을 정규화에 활용해, 기저 인지검사·고가의 PET·유전자/체액 분석이나 종단 데이터 없이도 작동한다. 일반 임상 현장에서 조기 진단·예후·임상시험 대상자 선별에 적용 가능하다는 점에서 뇌 MRI 기반 진단과 직결된다.",
+          "source": "Nature Aging",
+          "url": "https://www.nature.com/articles/s43587-026-01121-2",
+          "tags": ["뇌영상AI", "MRI", "예후예측"],
+          "importance": "high"
+        },
+        {
+          "title": "손끝 채혈(원격 모세혈관 샘플링)로 측정한 알츠하이머 혈액 바이오마커, 인지기능과 상관 (Nature Communications)",
+          "summary": "PROTECT 코호트에서 자가 손끝 채혈로 수집한 p-tau217·GFAP 등 알츠하이머 혈액 바이오마커가 정맥혈 측정치 및 인지·기능 지표와 잘 상관함을 인지정상·경도인지장애·알츠하이머 환자 174명에서 검증했다. 모세혈관 p-tau217이 아밀로이드 부담을 정확히 분류해, 전문 의료기관을 찾지 못하는 조기 인지저하군의 대규모 원격 선별·임상 트리아지 도구가 될 수 있음을 제시했다.",
+          "source": "Nature Communications",
+          "url": "https://www.nature.com/articles/s41467-026-71448-2",
+          "tags": ["혈액바이오마커", "p-tau217", "조기선별"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가",
+      "items": [
+        {
+          "title": "식약처, 혁신 의료제품 '길잡이 프로그램' 12개 신규 과제 선정…신경계 치료제 2건·디지털의료기기 2건 포함",
+          "summary": "식품의약품안전처가 6월 24일 혁신 의료제품의 신속 제품화를 지원하는 '길잡이 프로그램' 신규 지원 대상으로 12개 과제를 선정해 누적 36개 품목으로 확대했다고 밝혔다. 선정 품목은 의약품 9건(항암제 4건·백신 1건·신경계 치료제 2건 등)과 의료기기 3건(일반 1건·디지털의료기기 2건)으로, 각 품목에 전담 PM을 배정해 개발부터 허가까지 맞춤형 상담을 제공한다.",
+          "source": "메디팜헬스뉴스",
+          "url": "https://www.medipharmhealth.co.kr/news/article.html?no=117320",
+          "tags": ["식약처", "인허가지원", "디지털의료기기"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "그레이매터스헬스, 알츠하이머 PET 뇌영상 클리닉 확장 위해 125만 캐나다달러 조달",
+          "summary": "캐나다 상장사 그레이매터스헬스(Grey Matters Health)가 비중개 사모 방식으로 총 125만 캐나다달러(1차 50만·2차 75만)를 조달했다. 자금은 알츠하이머병 프로그램과 미국 플로리다(데이비)에 여는 첫 뇌 전용 PET 신경영상 클리닉 'NovaScan' 출범·운영에 쓰인다. 조기 진단 수요 증가에 맞춘 영상 진단 인프라 투자라는 점에서 뇌영상 진단 시장 동향을 보여준다.",
+          "source": "Proactive Investors",
+          "url": "https://www.proactiveinvestors.com/companies/news/1094134/grey-matters-health-raises-125-million-to-advance-alzheimers-imaging-clinic-expansion.html",
+          "tags": ["투자유치", "뇌영상진단", "알츠하이머"],
+          "importance": "medium"
+        },
+        {
+          "title": "ADDF, 음성 기반 디지털 바이오마커 'SpeechDx' 연구로 알츠하이머 조기진단 시장 공략",
+          "summary": "알츠하이머약물발견재단(ADDF) 진단가속기(Diagnostics Accelerator)가 다국가·다언어 음성 데이터 기반 알츠하이머 조기진단 연구 SpeechDx의 성과를 'Alzheimer's & Dementia'에 발표했다. 음성은 접근성이 높고 부담이 적으며 인지와 밀접해 확장 가능한 디지털 바이오마커로 주목받고 있다. 진단가속기는 2018년 출범한 1억5000만 달러 규모 글로벌 이니셔티브로 혈액·디지털 바이오마커 개발을 지원해 왔다.",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/new-alzheimers--dementia-paper-highlights-speechdxs-role-in-advancing-ai-driven-tools-for-earlier-alzheimers-detection-and-risk-assessment-302806454.html",
+          "tags": ["디지털바이오마커", "조기진단", "ADDF"],
+          "importance": "medium"
+        }
+      ]
+    },
+    { "id": "competitors", "title": "경쟁사 동향", "items": [] },
+    { "id": "media", "title": "주요 언론", "items": [] }
+  ]
+}
