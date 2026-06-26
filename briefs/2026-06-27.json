@@ -1,0 +1,84 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T08:05:00+09:00",
+  "headline": "식약처가 AI 디지털의료기기의 허가 후 변경사항을 사전 승인받아 추가 심사 없이 반영할 수 있는 '변경관리 계획서(PCCP)' 허가·심사 가이드라인을 제정해, 뇌영상 AI 등 SaMD 개발사의 모델 업데이트 부담이 크게 줄어들 전망이다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "학술·연구",
+      "items": [
+        {
+          "title": "알츠하이머·전두측두엽 치매 신경세포 사멸의 새 기전 '카리옵토시스(karyoptosis)' 규명 (Nature Communications)",
+          "summary": "킹스칼리지런던과 영국 치매연구소(UK DRI) 연구팀이 독성 단백질 축적 시 세포핵이 쪼그라들며 붕괴하는 새로운 세포사멸 기전 '카리옵토시스'를 규명해 Nature Communications(2026-06-25)에 발표했다. 전두측두엽 치매 또는 말기 알츠하이머 환자 28명의 뇌세포 3,000개를 전산 알고리즘으로 분석한 결과, 알츠하이머 환자 전두피질 세포의 35%에서 카리옵토시스 징후가 나타나 건강한 고령 대조군(15%)을 크게 웃돌았다. 이 경로를 매개하는 단백질 키나아제 상호작용을 표적하면 신경세포 사멸을 늦추거나 막을 수 있어 새로운 치료 표적이 될 수 있다.",
+          "source": "Nature Communications (King's College London / UK DRI)",
+          "url": "https://www.nature.com/articles/s41467-026-73802-w",
+          "tags": ["신경퇴행기전", "세포사멸", "알츠하이머", "전두측두엽치매", "치료표적"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가",
+      "items": [
+        {
+          "title": "식약처, AI 디지털의료기기 '변경관리 계획서(PCCP)' 허가·심사 가이드라인 제정",
+          "summary": "식품의약품안전처는 6월 26일 「디지털의료기기 변경관리 계획서 허가·심사 가이드라인」을 제정했다고 밝혔다. 인공지능이 적용된 디지털의료기기의 허가 후 예상되는 변경사항을 사전에 승인받아 추가 허가·심사 없이 제품에 반영하도록 하는 PCCP(사전변경관리계획) 제도를 지원하기 위한 것으로, 변경관리 대상·판단 절차, 적용·미적용 사례, 변경 검증 방법, 위험·이익 분석 등 세부사항을 담았다. FDA의 PCCP 제도에 대응하는 국내 규제로, 뇌영상 AI 등 SaMD 개발사가 성능 개선 모델을 신속히 반영할 수 있는 길을 열어 BeauBrain 사업과 직결된다.",
+          "source": "청년의사",
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3040390",
+          "tags": ["식약처", "PCCP", "디지털의료기기", "AI SaMD", "변경관리"],
+          "importance": "high"
+        },
+        {
+          "title": "FDA, Aidoc 'First Read' 방사선 판독보고서 생성 AI에 혁신의료기기 지정 부여",
+          "summary": "미국 FDA가 6월 25일 Aidoc의 'First Read'에 혁신의료기기 지정(Breakthrough Device Designation)을 부여했다. First Read는 흉부 방사선 영상에서 생명을 위협하는 4가지 소견을 분석해 예비 판독보고서 초안을 자동 생성하는 AI 소프트웨어로, 영상의학과 의사의 판독·보고 시간을 줄여 고난도 임상 판단에 집중하도록 돕는 것을 목표로 한다. 영상 판독을 보조·자동화하는 AI SaMD에 대한 미국 규제당국의 우호적 기조를 보여준다.",
+          "source": "ITN Online",
+          "url": "https://www.itnonline.com/content/fda-grants-breakthrough-device-designation-ai-drafts-radiology-reports",
+          "tags": ["FDA", "혁신의료기기지정", "Aidoc", "영상AI", "방사선판독"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "ALZpath, 애보트와 알츠하이머 혈액검사 개발 위한 pTau217 항체 글로벌 라이선스 계약 체결",
+          "summary": "알츠하이머 혈액진단 기업 ALZpath가 6월 24일 애보트(Abbott)와 자사 독자 인산화 타우217(pTau217) 항체에 대한 글로벌 라이선스 계약을 체결했다고 발표했다. 애보트는 세계 최대 규모의 면역분석 장비 기반인 Alinity ci 계열 체외진단(IVD) 시스템에서 구동되도록 이 검사를 개발해, 고가의 PET 영상·뇌척수액 검사보다 저렴하고 비침습적인 혈액 기반 조기진단을 1차 의료 현장까지 확산하는 것을 목표로 한다. pTau217 항체는 18개국 200편 이상의 논문으로 검증된 바이오마커로, 항아밀로이드 치료제 확산에 따른 조기 진단 수요를 겨냥한 대형 진단기업의 시장 진입 신호다(계약 규모 미공개).",
+          "source": "StockTitan / Abbott (ALZpath)",
+          "url": "https://www.stocktitan.net/news/ABT/al-zpath-signs-global-licensing-agreement-with-abbott-to-advance-ia05zfdlrcyt.html",
+          "tags": ["혈액바이오마커", "pTau217", "Abbott", "ALZpath", "라이선스", "조기진단"],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "뉴로엑스티(NeuroXT), 美 BIDMC와 MRI 기반 AI로 알츠하이머 정밀치료 협력 확대",
+          "summary": "국내 의료영상 AI 기업 뉴로엑스티(NeuroXT)가 6월 26일 미국 보스턴 베스이스라엘디코니스병원(BIDMC)과 알츠하이머 정밀의료를 위한 연구 협력을 확대했다고 밝혔다. 2024년 시작한 협력을 발전시켜, BIDMC에서 1년 이상 알츠하이머 치료를 받은 환자 데이터를 분석하고 MRI 기반 AI로 통상 고가의 PET 검사로 측정하는 영상 바이오마커를 추출해 치료 반응 패턴을 규명할 계획이다. 단순 진단을 넘어 어떤 환자가 특정 치료제로 가장 큰 효과를 볼지 식별하는 것이 목표로, MRI 기반 뇌영상 AI의 적용 영역을 진단에서 치료 반응 예측으로 확장하는 사례다(계약 규모 미공개).",
+          "source": "Longevity.Technology",
+          "url": "https://longevity.technology/news/ai-and-alzheimers-neuroxt-bidmc-aim-to-personalize-care/",
+          "tags": ["뇌영상AI", "MRI", "NeuroXT", "BIDMC", "정밀의료", "PET대체"],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "\"혼자서도 양치 잘하시던데\"…치매 초기부터 치태 제거율은 '뚝' (디멘시아뉴스)",
+          "summary": "미국 오하이오주립대 치과대학 연구팀이 50세 이상 65명을 인지 정상부터 중증 치매까지 다섯 단계로 나눠 자연스러운 칫솔질 영상을 분석한 결과, 겉보기에 독립적으로 양치하는 듯해도 치태 제거 효율은 경도인지장애(MCI) 단계부터 13% 떨어지고 중증에서는 46%까지 급감했다고 디멘시아뉴스가 6월 26일 보도했다. 중증 단계에서는 80%가 칫솔질 시작·완료에 단서 제공이 필요했으며 일부는 도움을 받아도 끝내지 못해, 인지저하 단계별 구강건강 돌봄의 중요성을 시사한다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11077",
+          "tags": ["치매", "구강건강", "돌봄", "인지단계"]
+        }
+      ]
+    }
+  ]
+}
