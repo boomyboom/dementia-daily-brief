@@ -22,10 +22,47 @@
           "url": "https://www.nature.com/articles/s43856-026-01652-0",
           "tags": ["MRI", "딥러닝", "루이소체병", "알츠하이머", "신경영상", "감별진단"],
           "importance": "high"
+        },
+        {
+          "title": "DTI-ALPS 글림프계 지표, 인지장애·뇌 위축·혈장 타우와 연관…2형 당뇨 신경퇴행 위험 비침습 MRI 바이오마커 (Journal of Alzheimer's Disease)",
+          "summary": "중국 우한대 중난병원 연구진이 이중 코호트(60명+35명)에서 확산텐서영상 기반 DTI-ALPS 지수가 경도인지장애를 동반한 2형 당뇨 환자에서 인지정상군·건강 대조군보다 유의하게 낮음을 확인했다. ALPS 지수 저하는 인지기능 저하 및 뇌 위축과 상관관계를 보였고, 연령·성별 보정 후 혈장 pTau217과 음의 상관을 나타냈다. 우측 판개 하전두회 용적이 ALPS-인지 관계를 매개해, DTI-ALPS가 신경퇴행 위험을 식별하는 비침습 영상 바이오마커가 될 수 있음을 시사한다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42370748/",
+          "tags": ["MRI", "DTI-ALPS", "글림프계", "바이오마커", "pTau217"],
+          "importance": "high"
+        },
+        {
+          "title": "내측측두엽 네트워크 취약성의 구조·분자적 결정요인…아밀로이드와 GFAP의 시너지 규명 (Alzheimer's Research & Therapy)",
+          "summary": "프랑스 노르망디대(Caen) 연구진이 인지정상 65세 이상 88명을 대상으로 종단 확산 MRI 트랙토그래피, 휴지기 fMRI, 아밀로이드 PET(Florbetapir), 혈장 GFAP를 통합 분석했다. 경로 무결성과 아밀로이드 부담 사이에 역U자형 비선형 관계가 확인됐으며, 혈장 GFAP가 후내측 경로에서 아밀로이드-구조 무결성 관계를 조절했다. 후내측 시스템은 아밀로이드와 별아교세포 반응성의 시너지에 민감한 반면, 전측두 시스템은 아밀로이드 존재 시 기능적 연결성 증가와 연관된 구조 무결성 저하를 보였다.",
+          "source": "Alzheimer's Research & Therapy",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42374489/",
+          "tags": ["MRI", "트랙토그래피", "아밀로이드PET", "GFAP", "내측측두엽"],
+          "importance": "high"
+        },
+        {
+          "title": "생활습관 개선이 신장질환 위험군의 치매 아형·뇌 구조 변화에 미치는 영향…UK 바이오뱅크 30만명 분석 (Brain Imaging and Behavior)",
+          "summary": "UK 바이오뱅크 304,369명 분석에서 KDIGO 신장질환 위험이 높은 군 가운데 중상위 생활습관 점수를 유지한 사람들의 치매 발생이 감소했다(최상위 2개 군 위험비 0.826, 0.749). 건강한 습관은 혈관성 치매 위험 감소와 강하게 연관됐으나 알츠하이머병과는 일관된 연관이 없었다. 영상 분석에서 우수한 생활습관은 더 큰 회백질 용적·피질하 구조 및 백질 고신호강도 감소와 상관됐다.",
+          "source": "Brain Imaging and Behavior",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42370981/",
+          "tags": ["MRI", "UK바이오뱅크", "치매아형", "생활습관", "회백질"],
+          "importance": "medium"
         }
       ]
     },
-    { "id": "regulatory", "title": "규제·인허가", "items": [] },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가",
+      "items": [
+        {
+          "title": "FDA, Cercare Medical '온콜로지 버추얼 엑스퍼트' 뇌종양 분할 AI 510(k) 승인",
+          "summary": "덴마크 신경영상 AI 기업 Cercare Medical이 표준 뇌 MRI에서 뇌종양을 반자동 분할(segmentation)하는 AI 소프트웨어 'Oncology Virtual Expert'의 미국 FDA 510(k) 승인을 획득했다(6월 25일 발표). 100명 환자 대상 임상검증에서 Dice 계수 0.82의 분할 정확도를 보였으며, 클라우드 없이 온프레미스로 작동해 미국 의료기관의 HIPAA 준수 요건을 충족한다. 치매가 아닌 신경종양 영역이지만, 뇌 MRI 기반 신경영상 AI SaMD의 경쟁·규제 동향으로 주목된다.",
+          "source": "AuntMinnie",
+          "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15828636/cercare-medical-cercare-medical-gets-fda-clearance-for-brain-tumor-segmentation-ai",
+          "tags": ["FDA", "510(k)", "뇌MRI", "신경영상AI", "SaMD", "경쟁사"],
+          "importance": "medium"
+        }
+      ]
+    },
     { "id": "market", "title": "시장·투자", "items": [] },
     { "id": "competitors", "title": "경쟁사 동향", "items": [] },
     { "id": "media", "title": "주요 언론", "items": [] }
