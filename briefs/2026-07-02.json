@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at": "2026-07-02T08:30:00+09:00",
+  "generated_at": "2026-07-02T14:04:08+09:00",
   "headline": "대규모 뇌 MRI에 머신러닝을 적용해 좌우 반구의 전역적 구조 비대칭 변화를 노화·알츠하이머병·파킨슨병별로 지도화한 국제 연구가 Science Advances에 발표돼, 구조 MRI 기반 비대칭 지표가 뇌 노화·신경퇴행 위험 평가의 새 접근이 될 가능성이 제시됐다.",
   "sections": [
     {
@@ -21,6 +21,38 @@
           "source": "Neurology (PubMed)",
           "url": "https://pubmed.ncbi.nlm.nih.gov/42385111/",
           "tags": ["알츠하이머", "루이소체치매", "동반병리", "신경심리검사", "바이오마커", "인지궤적"],
+          "importance": "medium"
+        },
+        {
+          "title": "혈액 원형RNA(circRNA)로 알츠하이머 조기 진단…진단 정확도 AUC 0.945로 혈장 pTau217 능가 (Nature Medicine)",
+          "summary": "연구팀이 알츠하이머병 환자·정상인 등 1,221명의 혈액을 분석해 AD와 연관된 34개 원형RNA(circRNA)를 발굴하고, 이를 기반으로 한 진단 모델이 AUC 0.945로 혈장 pTau217 단독(AUC 0.877)을 능가함을 Nature Medicine(7월 1일 온라인)에 발표했다. circRNA와 pTau217을 결합한 모델은 AUC 0.977까지 상승했고, 증상 진행 예측에서도 circRNA 모델(HR=2.92)이 pTau217(HR=1.81)보다 우수했으며 Knight-ADRC(551명)와 A4 전임상 코호트(1,767명)에서 검증됐다. 혈액 검사가 뇌 영상·PET 확진을 보완·대체할 잠재력을 보인 연구로, 뇌 MRI 기반 진단 SW를 개발하는 BeauBrain의 진단 경쟁 지형과 직결된다.",
+          "source": "Nature Medicine (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42387213/",
+          "tags": ["혈액바이오마커", "circRNA", "조기진단", "pTau217", "알츠하이머", "NatureMedicine"],
+          "importance": "high"
+        },
+        {
+          "title": "치매 PET 추적자 18F-THK5351, 타우 아닌 'MAO-B 반응성 성상교세포증'을 영상화 규명 (Experimental & Molecular Medicine)",
+          "summary": "국내외 연구팀이 효소활성 억제 분석·분자도킹·자가방사선촬영·형질전환 동물모델·인간 PET을 아우르는 다중 검증으로, PET 추적자 18F-THK5351의 결합 신호가 기존에 알려진 타우 병리가 아니라 MAO-B 활성 기반의 반응성 성상교세포증(reactive astrogliosis)을 주로 반영함을 규명해 Experimental & Molecular Medicine(7월 1일 온라인)에 발표했다. 방사선자가촬영에서 MAO-B 관련 신호가 지배적이었고 타우 응집 기여는 작았으며, 한 환자에서 MAO-B 억제제(셀레길린) 투여 시 신호가 감소했다가 중단 후 재출현했다. 뇌 PET 영상 판독의 해석 근거에 직접 영향을 주는 영상 바이오마커 연구다.",
+          "source": "Experimental & Molecular Medicine (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42386905/",
+          "tags": ["PET영상", "타우추적자", "성상교세포증", "MAO-B", "뇌영상", "영상바이오마커"],
+          "importance": "high"
+        },
+        {
+          "title": "조현병과 알츠하이머의 공유 유전 구조 규명…16p11.2 영역·생애주기 뇌 취약성 지목 (Molecular Psychiatry)",
+          "summary": "연구팀이 조현병과 알츠하이머병·관련 치매의 GWAS 데이터(합산 31.9만여 명)를 분석해 두 질환에 공통된 39개 유전체 영역과 15개 우선 유전자를 확인하고 Molecular Psychiatry(7월 1일 온라인)에 발표했다. 16p11.2 영역이 피질 구조 차이와 연관됐고(β=-0.062, P=7.5×10⁻¹⁵), 시냅스 신호·축삭 성장 경로가 공유 기전으로 지목됐다. 조현병 유전 소인이 AD 위험 증가와 완만한 방향성 연관을 보여, 신경정신질환 간 뇌 취약성의 유전적 접점을 제시했다.",
+          "source": "Molecular Psychiatry (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42387103/",
+          "tags": ["유전체", "조현병", "16p11.2", "위험인자", "시냅스"],
+          "importance": "medium"
+        },
+        {
+          "title": "타우 관련 백질 변성이 인지 저하를 매개…확산 MRI fixel 분석으로 규명 (Neurobiology of Disease)",
+          "summary": "연구팀이 ADNI 코호트 285명(정상 141명, 아밀로이드 양성 정상 58명, 경도인지장애 49명, 치매 37명)의 확산 MRI fixel 지표와 타우 PET을 결합 분석해 Neurobiology of Disease(7월 1일 온라인)에 발표했다. 측두·섬·두정 피질에 인접한 피질하 백질의 변성이 국소 타우 침착과 인지 저하 사이 관계를 부분 매개(전체 효과의 6.3~19.7%)함을 확인했다. 확산 MRI 기반 백질 미세구조 지표가 타우 병리의 인지 영향 경로를 포착하는 영상 지표가 될 수 있음을 시사한 뇌영상 연구다.",
+          "source": "Neurobiology of Disease (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42386101/",
+          "tags": ["확산MRI", "백질변성", "타우PET", "ADNI", "뇌영상", "fixel분석"],
           "importance": "medium"
         }
       ]
@@ -46,6 +78,14 @@
           "source": "디멘시아뉴스",
           "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11082",
           "tags": ["혈관성치매", "우드로윌슨", "대중인식", "질병사", "교양"]
+        },
+        {
+          "title": "VC 후원 스텔스 바이오텍 QuantumCell, AlzeCure의 알츠하이머 후보 ACD856 라이선스 도입…최대 22억 달러 규모 딜 (Fierce Biotech)",
+          "summary": "덴마크 신경정신 신약개발 스타트업 QuantumCell이 스웨덴 AlzeCure Pharma로부터 NeuroRestore 플랫폼의 리드 후보물질 ACD856을 선급금 1,200만 달러, 개발·상업화 마일스톤 최대 22억 달러 규모로 라이선스 도입했다고 7월 1일 보도됐다. ACD856은 트로포미오신 수용체 키나제(Trk)의 양성 알로스테릭 조절제로 신경영양인자 신호를 자극해 인지 개선과 우울증 치료를 겨냥하며 2상 진입을 앞두고 있다. QuantumCell은 Forbion·Lundbeckfond Invest·Novo Holdings·First Spark Ventures 등이 투자한 AI·양자 기반 신약개발 기업으로, 알츠하이머 치료제 파이프라인에 대한 투자 열기를 보여준다.",
+          "source": "Fierce Biotech",
+          "url": "https://www.fiercebiotech.com/biotech/backed-top-tier-vcs-stealthy-biotech-bags-alzecure-alzheimers-asset-12m-upfront",
+          "tags": ["알츠하이머신약", "라이선스딜", "ACD856", "AlzeCure", "QuantumCell", "투자"],
+          "importance": "medium"
         }
       ]
     }
