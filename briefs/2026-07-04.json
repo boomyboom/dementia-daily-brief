@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T08:06:27+09:00",
+  "headline": "영국 메모리 클리닉 실제 데이터로 검증하니 알츠하이머 MRI 부피측정 머신러닝 모델의 정확도가 내부 87.7%에서 외부 81.5%로 하락해, 뇌 MRI 기반 진단 SW의 실제 임상 일반화 과제가 재확인됐다(Clinical Neuroradiology).",
+  "sections": [
+    {
+      "id": "research",
+      "title": "학술·연구",
+      "items": [
+        {
+          "title": "실제 임상 데이터로 검증한 알츠하이머 MRI 부피측정 머신러닝 모델의 일반화 성능 (Clinical Neuroradiology)",
+          "summary": "공개 데이터셋으로 학습한 뇌 MRI 부피측정 머신러닝 모델을 영국 메모리 클리닉 실제 데이터(SLaM-BRC: 정상 255명·경도인지장애 281명·AD 711명)로 외부 검증한 연구가 Clinical Neuroradiology(6월 24일 온라인)에 발표됐다. 정상 대 AD 분류의 균형정확도는 내부 87.7%에서 외부 81.5%로 하락했고, 뇌 부피 정규화 방식·자기장 세기·진단 이질성이 일반화 성능에 큰 영향을 미쳤다. 뇌 MRI 기반 진단 SW의 실제 임상 이식성 문제를 정면으로 다룬 연구로, BeauBrain의 제품 검증·일반화 전략에 직접적 시사점이 있다.",
+          "source": "Clinical Neuroradiology (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42340466/",
+          "tags": ["MRI", "머신러닝", "외부검증", "일반화", "뇌부피측정"],
+          "importance": "high"
+        },
+        {
+          "title": "다인종·다민족 집단에서 공정하고 설명가능한 신경영상 치매 분류 머신러닝 (Nature Communications)",
+          "summary": "비히스패닉 백인 6,584명, 아프리카계 미국인 1,263명, 히스패닉 백인 713명의 MRI 데이터로 인종·민족 간 치매 분류 편향을 분석한 연구가 Nature Communications(6월 26일 온라인)에 발표됐다. 한 집단으로 학습한 모델을 다른 집단에 적용하면 성능 격차가 컸으나, 초점학습·클래스가중·클래스조건부 정렬을 결합한 소수샷 도메인 적응 기법 'RegAlign'이 과소대표 집단 간 성능 격차를 크게 줄였다. MRI 기반 치매 진단 AI의 공정성·일반화를 다룬 연구로, 뇌 MRI 기반 진단 SW를 개발하는 BeauBrain과 직접 관련된다.",
+          "source": "Nature Communications (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42362543/",
+          "tags": ["MRI", "머신러닝", "공정성", "다인종", "도메인적응"],
+          "importance": "high"
+        },
+        {
+          "title": "신경병리로 확진된 알츠하이머와 루이소체 동반 병리를 MRI로 구별하는 머신러닝 (Communications Medicine)",
+          "summary": "구조 MRI와 삼중 앙상블 CNN(다면 다수결 방식)을 이용해 AD 단독과 루이소체병 동반 AD를 구별한 연구가 Communications Medicine(6월 27일 온라인)에 게재됐다. 신경병리로 확진된 사례에서 분류 정확도 0.820, F1 0.79를 기록해 표준 임상 진단을 크게 앞섰고, 사망 시점에 가까울수록 예측 정확도가 높아졌으며 동반 병리군에서 후두엽 위축이 두드러졌다. 뇌 MRI 기반 감별진단 AI 연구로 BeauBrain과 관련성이 높다.",
+          "source": "Communications Medicine (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42365183/",
+          "tags": ["MRI", "CNN", "루이소체치매", "감별진단", "뇌위축"],
+          "importance": "high"
+        },
+        {
+          "title": "SWI와 T2*-GRE 미세출혈 계수의 항아밀로이드 치료 적격성 판정 차이 (medRxiv)",
+          "summary": "메모리 클리닉 환자 데이터로 보정한 시뮬레이션에서 미세출혈 5개 이상 시 항아밀로이드 치료 대상에서 제외하는 기준을 두 MRI 시퀀스(SWI, T2*-GRE)에 적용한 결과를 medRxiv(6월 24일)에 공개했다. 검출 민감도가 높은 SWI는 부적격 판정을 더 많이 만들어냈고, 상대검출 60% 시나리오에서 SWI 부적격 환자의 약 80%가 T2*-GRE에서는 과소검출됐다. 동일한 개수 임계값이 시퀀스 간 등가가 아님을 보여, 레켐비·키순라 등 항아밀로이드 치료 전 MRI 판독 프로토콜에 실무적 함의를 준다.",
+          "source": "medRxiv (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42396281/",
+          "tags": ["MRI", "미세출혈", "SWI", "항아밀로이드치료", "ARIA"],
+          "importance": "medium"
+        },
+        {
+          "title": "조직학으로 검증한 확산 MRI 기반 알츠하이머 신경염증·신경퇴행 지표 g-DBSI (medRxiv)",
+          "summary": "일반화 확산 기저 스펙트럼 영상(g-DBSI) 프레임워크를 개발해 아밀로이드 PET로 계층화한 Knight ADRC 참가자 112명에 적용하고 사후 뇌조직으로 검증한 연구를 medRxiv(6월 22일)에 공개했다. RIF·RAF 지표가 염증세포 밀도와 반점 주변 아밀로이드를 높은 특이도로 반영했고, 저아밀로이드군에서는 두 지표가 함께 상승한 반면 고아밀로이드군에서는 RAF가 감소해 신경염증 재편을 시사했다. 임상 적용 가능한 확산 MRI 신경염증·신경퇴행 바이오마커로 제시됐다.",
+          "source": "medRxiv (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42396312/",
+          "tags": ["MRI", "확산MRI", "신경염증", "바이오마커", "g-DBSI"],
+          "importance": "medium"
+        },
+        {
+          "title": "아프리카 코호트의 알츠하이머·신경퇴행 혈장 단백체 프로파일 (Nature Communications)",
+          "summary": "나이지리아 VALIANT·탄자니아 참가자와 캐나다 TRIAD 비교군을 대상으로 혈장 p-tau217 양성 여부에 따른 단백질 차이를 분석한 연구가 Nature Communications(7월 1일 온라인)에 발표됐다. 아프리카 코호트 간 일관된 차등 발현 패턴과 함께 성별 차이·동반질환 상관이 확인됐으며, 주로 서구 백인 중심이던 알츠하이머·관련 치매 연구의 인구 다양성 공백을 메웠다. 혈장 바이오마커의 인구집단 간 일반화 이슈를 다룬 연구다.",
+          "source": "Nature Communications (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42386726/",
+          "tags": ["혈장바이오마커", "단백체", "p-tau217", "아프리카코호트"],
+          "importance": "medium"
+        }
+      ]
+    },
+    { "id": "regulatory", "title": "규제·인허가", "items": [] },
+    { "id": "market", "title": "시장·투자", "items": [] },
+    { "id": "competitors", "title": "경쟁사 동향", "items": [] },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "\"돌봄 없이는 민주주의도 없다\"…석학 조안 트론토 첫 방한 강연",
+          "summary": "돌봄 민주주의(care democracy) 이론으로 알려진 미네소타대 명예교수 조안 트론토가 7월 2일 국회의원회관 심포지엄에서 처음으로 방한 강연을 했다고 디멘시아뉴스가 7월 3일 전했다. 그는 저출생·고령화·돌봄인력 부족을 단순 복지 문제가 아니라 사회 전체가 책임을 분담해야 할 정치적 과제로 재정의해야 한다고 강조했다. 치매 등 돌봄 부담이 커지는 초고령사회에서 돌봄의 사회적 재분배 필요성을 제기한 발언으로 주목된다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11085",
+          "tags": ["돌봄", "정책", "고령사회", "돌봄민주주의"],
+          "importance": "medium"
+        },
+        {
+          "title": "암 환자는 치매가 적다?…'암-알츠하이머 역설' 왜 생기나",
+          "summary": "암 병력이 있는 사람은 알츠하이머병 발병 위험이 25~35% 낮고, 알츠하이머 환자는 암 발병 위험이 약 절반 수준이라는 역상관 관계를 다룬 기획 기사를 디멘시아뉴스가 7월 3일 게재했다. 이 역설은 혈관성 치매·헌팅턴병 등 다른 신경퇴행질환에서는 관찰되지 않고 알츠하이머병에 특이적이며, 세포 증식과 신경세포 사멸에서 상반되게 작용하는 종양억제단백질 p53이 기전으로 지목된다. 암세포가 분비하는 시스타틴C가 미세아교세포 면역을 활성화해 알츠하이머 병리를 완화할 가능성 등 공유 경로 연구가 진행 중이다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11086",
+          "tags": ["알츠하이머", "암", "기초연구", "p53"]
+        }
+      ]
+    }
+  ]
+}
