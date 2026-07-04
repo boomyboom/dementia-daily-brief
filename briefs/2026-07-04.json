@@ -54,6 +54,30 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42386726/",
           "tags": ["혈장바이오마커", "단백체", "p-tau217", "아프리카코호트"],
           "importance": "medium"
+        },
+        {
+          "title": "신경퇴행성질환 AI 활용 지형 체계적 문헌고찰…뇌영상이 가장 지배적 입력, 재현성 검증은 35% 그쳐 (Communications Medicine)",
+          "summary": "4,685건을 스크리닝해 1,186개 연구를 분석한 체계적 문헌고찰이 Communications Medicine(7월 3일 온라인)에 발표됐다. 신경퇴행성질환 AI 모델에서 뇌영상이 가장 지배적인 입력 모달리티였으나, 재현성을 입증한 연구는 35%에 그쳤고 외부검증에서 지리·인구학적으로 다양한 데이터셋을 사용한 경우는 드물어 임상 적용성의 한계가 지적됐다. 뇌 MRI 기반 진단 SW를 개발하는 BeauBrain의 검증·일반화 전략에 시사점이 큰 연구다.",
+          "source": "Communications Medicine (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42399403/",
+          "tags": ["AI", "뇌영상", "신경퇴행성질환", "체계적문헌고찰", "재현성"],
+          "importance": "high"
+        },
+        {
+          "title": "Transformer 인코더-CNN 결합 및 텍스처 특징 기반 MRI 알츠하이머병 검출 (Psychiatry Research: Neuroimaging)",
+          "summary": "수정 Transformer 인코더와 CNN을 결합하고 ImpMRELBP·PHOG 텍스처 특징과 데이터 증강·수정 가우시안 필터링을 적용한 하이브리드 딥러닝 모델을 Psychiatry Research: Neuroimaging(6월 27일 온라인)에 제안했다. MRI에서 알츠하이머병 판별 정확도 96%를 달성했다고 보고했으며(표본수·데이터셋 세부는 초록에 미기재), 뇌 MRI 기반 AD 진단 AI 아키텍처 연구로 BeauBrain과 관련된다.",
+          "source": "Psychiatry Research: Neuroimaging (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42398294/",
+          "tags": ["MRI", "딥러닝", "Transformer", "CNN", "알츠하이머"],
+          "importance": "high"
+        },
+        {
+          "title": "만성 통증과 APOE-ε4의 상호작용이 알츠하이머 병리 악화를 예측 (ADNI 종단연구, Alzheimer's Research & Therapy)",
+          "summary": "ADNI 참가자 1,493명(평균 72.4세, 여성 48%)을 분석한 종단연구가 Alzheimer's Research & Therapy(7월 3일 온라인)에 발표됐다. 만성 통증(30%)과 APOE-ε4 보인자(45%)가 동반된 집단에서 설전부(precuneus) 피질 위축(β=-0.09, p<.001)과 일화기억 감퇴(β=-0.08, p<.001)가 가장 두드러졌고, 단독 요인만으로는 예측되지 않았다. 기저 아밀로이드 음성자에서도 효과가 지속돼 예방 전략 고려가 필요하다고 결론지었다.",
+          "source": "Alzheimer's Research & Therapy (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42399965/",
+          "tags": ["ADNI", "만성통증", "APOE", "설전부위축", "바이오마커"],
+          "importance": "medium"
         }
       ]
     },
