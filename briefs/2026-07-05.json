@@ -1,0 +1,62 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T08:10:00+09:00",
+  "headline": "다기관 3D-FLAIR 뇌 MRI에서 두개골옆 경막(parasagittal dura)을 자동분할하는 딥러닝 모델 'mcPSD-Net'이 NeuroImage에 발표돼(Dice 0.76), 경막 림프계·뇌척수액 배출과 신경퇴행의 연관 연구에 활용될 뇌 MRI AI 정량분석 도구가 제시됐다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "학술·연구",
+      "items": [
+        {
+          "title": "다기관 3D-FLAIR MRI에서 두개골옆 경막(parasagittal dura) 자동분할 딥러닝 모델 개발 (NeuroImage)",
+          "summary": "연구진이 3D-FLAIR 뇌영상에서 두개골옆 경막을 자동분할하는 딥러닝 모델 'mcPSD-Net'을 개발해 NeuroImage(7월 3일 온라인)에 발표했다. ADNI와 자체 데이터 총 55건으로 학습하고 독립 25건에서 검증한 결과 Dice 계수 0.76, 정밀도 0.84, 재현율 0.73을 기록했으며, 경막 부피가 연령 증가에 따라 유의하게 커지고 남성에서 더 큰 것으로 나타났다. 경막 림프계 및 뇌척수액 배출과 신경퇴행성 질환의 연관성 연구에 활용될 수 있는 뇌 MRI 자동 정량분석 도구로, 뇌 MRI 기반 진단 SW를 개발하는 BeauBrain과 관련성이 높다.",
+          "source": "NeuroImage (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42398843/",
+          "tags": ["뇌MRI", "딥러닝", "자동분할", "3D-FLAIR", "ADNI", "경막림프계"],
+          "importance": "high"
+        },
+        {
+          "title": "ADNI 기반 다중모달 머신러닝으로 뇌 미세출혈 위험 계층화 (MCH-Guard, medRxiv)",
+          "summary": "ADNI 813명 데이터를 활용해 뇌 미세출혈(cerebral microhemorrhage) 발생·진행 위험을 예측하는 다중모달 머신러닝 프레임워크 'MCH-Guard'를 제안한 프리프린트가 medRxiv(6월 22일)에 공개됐다. 기저 미세출혈 검출 종합 모델은 AUC 0.86, 임상정보만 사용한 최소모델은 AUC 0.82, 발생 시점까지의 종단 예측은 R²=0.68을 보였으며, 미세출혈 상태가 변동하는 '일시적 혈관 불안정 표현형'도 확인했다. 항아밀로이드 치료의 ARIA 위험 평가 등과 연결되는 뇌 MRI 기반 위험예측 연구로 BeauBrain과 관련된다.",
+          "source": "medRxiv (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42396347/",
+          "tags": ["뇌MRI", "미세출혈", "머신러닝", "ADNI", "위험예측", "다중모달"],
+          "importance": "high"
+        },
+        {
+          "title": "BCG 면역요법이 CNS 면역을 재프로그래밍하고 알츠하이머 바이오마커를 변화시킨다: 2건의 공개 임상시험 (Communications Medicine)",
+          "summary": "55세 이상 성인 23명(AD 병리 없음 12명, AD 병리 동반 11명)에게 BCG를 1개월 간격 2회 피내 접종하고 1년간 추적한 2건의 공개 임상시험 결과가 Communications Medicine(7월 2일 온라인)에 발표됐다. BCG는 뇌척수액에서 지속적인 '훈련된 면역' 반응을 유도했으며, AD 병리가 없는 참가자에서는 12개월간 뇌척수액 아밀로이드-β가 감소하고 혈중 수치는 증가하는 구획 특이적 효과가 관찰됐고 심각한 안전성 신호는 없었다.",
+          "source": "Communications Medicine (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42393277/",
+          "tags": ["알츠하이머", "면역요법", "BCG", "아밀로이드", "바이오마커", "임상시험"],
+          "importance": "medium"
+        },
+        {
+          "title": "신경퇴행성 질환·진행형 다발성경화증에서 CSF1R 양성 미세아교세포의 영역별 분포 지도 (Journal of Neuroinflammation)",
+          "summary": "RNAscope로 6개 뇌영역에서 CSF1R mRNA 양성 미세아교세포를 정량한 연구가 Journal of Neuroinflammation(7월 4일 온라인)에 게재됐다. 신경퇴행성 질환(조기·후기 알츠하이머, 진행성핵상마비, FTLD-TDP)에서는 영역 특이적 증가를, 진행형 다발성경화증에서는 백질에서만 증가를 보였고, CSF1R과 시냅스 마커 SV2A가 양의 상관(예: PSP ρ≈0.66)을 나타내 향후 CSF1R-PET 영상 해석의 조직학적 근거를 제공한다.",
+          "source": "Journal of Neuroinflammation (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42399983/",
+          "tags": ["미세아교세포", "CSF1R", "PET", "신경염증", "알츠하이머", "신경퇴행"],
+          "importance": "medium"
+        }
+      ]
+    },
+    { "id": "regulatory", "title": "규제·인허가", "items": [] },
+    { "id": "market", "title": "시장·투자", "items": [] },
+    { "id": "competitors", "title": "경쟁사 동향", "items": [] },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "서울성모병원, 알츠하이머병 항체치료 200례 달성…MRI·아밀로이드 PET 기반 다학제 정밀진단 체계 구축",
+          "summary": "가톨릭대 서울성모병원이 2026년 5월 기준 항아밀로이드 단일클론항체 치료 200례를 달성했다고 밝혔다(헬스경향 7월 1일 보도, 7월 4일 갱신). 신경과·정신건강의학과가 각각 독립 처방 주체로 참여하고 영상의학과·핵의학과·진단검사의학과가 결합한 다학제 체계로, 고해상도 MRI와 아밀로이드 PET을 활용해 진단부터 ARIA 안전성 모니터링·장기 추적까지 수행한다. 혈액 바이오마커와 APOE 등 유전인자를 활용한 치료효과·안전성 예측(질병 진행 예측) 연구도 병행 중이어서, 항아밀로이드 치료 확대에 따른 뇌영상 기반 정밀진단 수요를 보여준다.",
+          "source": "헬스경향",
+          "url": "https://www.k-health.com/news/articleView.html?idxno=93535",
+          "tags": ["알츠하이머", "항아밀로이드항체치료", "MRI", "아밀로이드PET", "다학제정밀진단", "ARIA"],
+          "importance": "medium"
+        }
+      ]
+    }
+  ]
+}
