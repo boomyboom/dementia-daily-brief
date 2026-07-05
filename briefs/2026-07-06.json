@@ -1,0 +1,49 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T09:00:00+09:00",
+  "headline": "전 생애(0~100세) 22,911명 다기관 뇌영상을 통합한 연합학습 기반모델 'FedFound'가 npj Digital Medicine에 발표돼, 신경발달·신경정신·신경퇴행 9개 진단 과제에 활용 가능한 뇌 MRI AI 기반모델이 제시됐다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "학술·연구",
+      "items": [
+        {
+          "title": "'FedFound': 전 생애 뇌 형태학적 커넥톰 분석을 위한 연합 기반모델(foundation model)",
+          "summary": "방사선 전문의의 교육·수련 경로에서 영감을 받은 최초의 연합학습 기반모델로, 0~100세 22,911명의 다기관 뇌영상 데이터를 통합했다. 자기지도 사전학습과 질환별 연합 미세조정을 결합해 신경발달·신경정신·신경퇴행 질환 9개 진단 과제에서 우수한 성능과 해석 가능성을 보였다.",
+          "source": "npj Digital Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42373765/",
+          "tags": ["뇌 MRI", "기반모델", "연합학습", "AI 진단"],
+          "importance": "high"
+        },
+        {
+          "title": "경량 하이브리드 신경망 'HDFT-MViT', 뇌 MRI 기반 알츠하이머 분류에서 98% 이상 정확도 달성",
+          "summary": "MobileNetV2 역잔차 블록과 트랜스포머 모듈, 주파수 영역 동적 필터를 결합한 경량 하이브리드 프레임워크로, 파라미터가 346만 개에 불과하다. ADNI-1 3분류에서 98.85±0.27%, ADNI-2 4분류에서 98.07±0.54%의 정확도를 기록해 국소 특징과 전역 의미 정보의 균형을 달성했다.",
+          "source": "Frontiers in Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42394922/",
+          "tags": ["뇌 MRI", "AI 진단", "딥러닝", "알츠하이머"],
+          "importance": "high"
+        },
+        {
+          "title": "APOE 유전형이 주관적 인지저하에서 혈장 바이오마커의 아밀로이드 예측력을 변화시킨다 (한국 연구)",
+          "summary": "주관적 인지저하자를 대상으로 APOE 유전형별 혈장 바이오마커의 아밀로이드 침착 예측 성능을 분석했다. ε4 보인자(n=20)에서는 NfL(AUC 0.909), GFAP(0.904), p-tau181(0.828)이, 비보인자(n=84)에서는 p-tau181/Aβ42 비율(0.872)이 가장 예측력이 높아, 혈액검사 해석에 유전 프로파일을 반영해야 함을 시사했다.",
+          "source": "Journal of Korean Medical Science",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42381527/",
+          "tags": ["혈액 바이오마커", "APOE", "아밀로이드", "혈액검사"],
+          "importance": "medium"
+        },
+        {
+          "title": "FAQ/MMSE 비율 기반 이중 컷오프, 항아밀로이드 치료 대상자 선별 정확도 AUC 0.97~0.98",
+          "summary": "ADNI 1,533명(훈련 1,022명·검증 511명)을 대상으로 초기 인지장애(CDR 0.5~1)와 진행된 단계(CDR 2~3)를 구분하는 선별 도구를 개발했다. FAQ/MMSE 비율(컷오프 0.67·1.44)과 FAQ 단독(컷오프 12·27)이 모두 AUC 0.97~0.98을 기록했으며, 각각 참가자의 80%·70%를 고신뢰 구간으로 분류해 항아밀로이드 치료 임상 선별 활용 가능성을 보였다.",
+          "source": "Journal of Neurology, Neurosurgery & Psychiatry",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42392863/",
+          "tags": ["항아밀로이드 치료", "환자 선별", "임상 진단"],
+          "importance": "medium"
+        }
+      ]
+    },
+    { "id": "regulatory", "title": "규제·인허가", "items": [] },
+    { "id": "market", "title": "시장·투자", "items": [] },
+    { "id": "competitors", "title": "경쟁사 동향", "items": [] },
+    { "id": "media", "title": "주요 언론", "items": [] }
+  ]
+}
