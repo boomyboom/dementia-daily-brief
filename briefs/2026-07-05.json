@@ -38,11 +38,56 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42399983/",
           "tags": ["미세아교세포", "CSF1R", "PET", "신경염증", "알츠하이머", "신경퇴행"],
           "importance": "medium"
+        },
+        {
+          "title": "복잡한 아키텍처를 넘어서: 뇌 MRI 기반 알츠하이머병 분류를 위한 간소화된 CNN 파이프라인 (Neuroradiology)",
+          "summary": "ADNI(MRI 21,324장)와 OASIS(6,400장) 데이터셋에서 전이학습을 적용한 경량 CNN으로 알츠하이머·경도인지장애·정상 3군을 분류해 ADNI 99.67%, OASIS 99.06%의 정확도를 달성한 연구가 Neuroradiology(7월 4일 온라인)에 발표됐다. 복잡한 대형 모델 대신 효율성을 우선한 접근으로 진단 시간·비용 절감을 제안했다(공개 벤치마크 기반 수치로 실제 임상 일반화는 별도 검증 필요). 뇌 MRI 기반 자동 분류 파이프라인을 개발하는 BeauBrain과 직접 관련된다.",
+          "source": "Neuroradiology (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42400646/",
+          "tags": ["MRI", "딥러닝", "CNN", "알츠하이머분류", "ADNI"],
+          "importance": "high"
+        },
+        {
+          "title": "뇌 위축·백질고신호·인지의 결합 궤적으로 정량화한 '뇌 유지력(brain maintenance)' 지표 (Nature Communications)",
+          "summary": "DELCODE 코호트의 인지정상 고령자 543명을 4년간 매년 추적해 뇌 위축·백질고신호(WMH)·인지 변화를 함께 모델링한 도메인 일반 '뇌 유지력 지표'를 제시한 연구가 Nature Communications(7월 4일 온라인)에 발표됐다. 내측측두엽-뇌실 비율과 WMH 변화가 인지 변화를 가산적으로 예측했고, 생물학적 노화 가속이 뇌 유지력 저하와 연관됐다. MRI 기반 위축·WMH 정량화와 종단적 위험 예측을 다뤄 BeauBrain과 관련된다.",
+          "source": "Nature Communications (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42401584/",
+          "tags": ["뇌위축", "백질고신호", "종단연구", "인지저하", "바이오마커"],
+          "importance": "medium"
+        },
+        {
+          "title": "젊은 건강 성인의 뇌 타우 침착 오픈 데이터셋 공개 ([18F]MK6240 PET, Scientific Data)",
+          "summary": "평균 34세 젊은 건강 성인 33명(여성 12명)을 대상으로 타우 PET과 구조 MRI를 함께 획득한 공개 데이터셋이 Scientific Data(7월 4일 온라인)에 공개됐다. 9명은 1년 이상 후 추적 영상을 받아 종단 분석이 가능하며, 조기발병 알츠하이머·뇌전증 등에서 젊은 층 타우 병리가 늘어나는 상황에서 질병 발현 이전의 비교 기준 데이터를 제공한다.",
+          "source": "Scientific Data (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42401601/",
+          "tags": ["타우PET", "MK6240", "공개데이터셋", "젊은성인", "바이오마커"],
+          "importance": "medium"
         }
       ]
     },
     { "id": "regulatory", "title": "규제·인허가", "items": [] },
-    { "id": "market", "title": "시장·투자", "items": [] },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "ALZAI Health, 미국 센타우리 헬스와 AI 알츠하이머 위험군 선별 상용화 제휴 체결",
+          "summary": "ALZAI Health(TSXV: ALZI)가 7월 2일 미국 헬스케어 IT 기업 Centauri Health Solutions와 전략적 협력 계약을 체결해, 조기·미진단 알츠하이머 고위험군을 선별하는 AI 위험층화 솔루션을 Medicare Advantage 및 가치기반의료(VBC) 시장에 공동 판매한다고 밝혔다. 센타우리는 약 6천만 명 가입자 네트워크와 대규모 상호운용성 인프라를 보유하고 있으며, 미국 내 알츠하이머 환자는 700만 명 이상으로 추산된다. 진단 전 단계의 '위험군 조기 발굴' 수요가 상업화되는 흐름으로, 뇌 MRI 기반 정밀 진단 SW를 개발하는 BeauBrain의 조기 선별→정밀 진단 파이프라인과 맥을 같이한다.",
+          "source": "Newsfile (ALZAI Health 보도자료)",
+          "url": "https://www.newsfilecorp.com/release/303723/Alzai-Health-Corp.-Signs-Strategic-U.S.-Commercialization-Agreement-with-Centauri-Health-Solutions-to-Advance-AIDriven-Alzheimers-Risk-Identification",
+          "tags": ["제휴", "AI진단", "미국", "가치기반의료", "조기선별"],
+          "importance": "medium"
+        },
+        {
+          "title": "혈액 기반 알츠하이머 진단 바이오마커 시장, 2033년 5.3억 달러 전망 (CAGR 17.4%)",
+          "summary": "Grand View Research가 7월 3일 발표한 보고서에 따르면 혈액 기반 알츠하이머 진단 바이오마커 시장은 2025년 1억 6,920만 달러에서 2033년 5억 2,990만 달러로 성장할 전망이다(2026~2033년 연평균 17.4%). 2025년 기준 북미가 43.0% 점유율로 시장을 주도했고 아시아태평양이 가장 빠른 성장세를 보일 것으로 예상된다. 혈액검사가 알츠하이머 진단 접근성을 넓히며 진단 수요 전반을 끌어올리는 흐름은, 뇌 MRI 정량분석을 통한 정밀 진단·병기 확인 수요 증가로 이어져 BeauBrain에 우호적이다.",
+          "source": "Grand View Research",
+          "url": "https://express-press-release.net/news/2026/07/03/1761573",
+          "tags": ["시장전망", "혈액바이오마커", "진단시장", "북미"],
+          "importance": "medium"
+        }
+      ]
+    },
     { "id": "competitors", "title": "경쟁사 동향", "items": [] },
     {
       "id": "media",
