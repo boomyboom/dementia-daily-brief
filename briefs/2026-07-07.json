@@ -46,6 +46,38 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42402536/",
           "tags": ["뇌아밀로이드혈관병증", "미세출혈", "ARIA 관련", "체계적고찰"],
           "importance": "medium"
+        },
+        {
+          "title": "멀티모달 알츠하이머 진단 AI에 대한 적대적 공격 분석…MRI 경로 'modality collapse' 규명",
+          "summary": "3D 구조 MRI와 신경심리 변수를 결합한 알츠하이머 진단 모델(CogniNetMM)에 FGSM·DeepFool 적대적 공격을 가해 취약성을 분석한 연구다. 학습 과정에서 MRI 경로가 점진적으로 억제되는 'modality collapse' 현상을 발견했고, 배치 크기 확대와 층화 샘플링으로 완화 가능함을 확인했다. 결합형 멀티모달 공격이 단일 모달 공격보다 더 자주 성공해, 두 모달리티의 비선형 결합이 개별 모달로는 도달할 수 없는 취약 영역을 만든다는 점을 규명했다. 뇌 MRI 기반 AI 진단 모델의 견고성 이슈로 BeauBrain과 직접 관련된다.",
+          "source": "Biomedical Physics & Engineering Express",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42409055/",
+          "tags": ["뇌MRI", "AI 진단모델", "적대적공격", "멀티모달", "견고성"],
+          "importance": "high"
+        },
+        {
+          "title": "해마 비대칭성, 아밀로이드 음성군에서 기억저하·치매 진행 위험 선택적 포착 (ADNI)",
+          "summary": "치매가 없는 1,142명(여성 546명, 평균 72.5세)을 10년간 추적해 해마 부피·좌우 비대칭성과 인지저하의 연관을 분석했다. 해마 총부피는 아밀로이드·타우와 무관하게 전 인지 영역의 기저 저하 및 빠른 진행과 연관됐고, 아밀로이드 음성군에서는 해마 비대칭성이 기억저하·치매로의 임상 진행과 선택적으로 연관됐다(SD당 위험비 1.31, 95% CI 1.03–1.65). 부피와 비대칭성이 서로 다른 신경퇴행 측면을 반영함을 시사하며, 뇌 MRI 정량분석 기반 위험예측에 관련된다.",
+          "source": "Journal of Prevention of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42407430/",
+          "tags": ["뇌MRI", "해마", "비대칭성", "ADNI", "바이오마커"],
+          "importance": "high"
+        },
+        {
+          "title": "뇌 DTI 임상연구에서 gradient nonlinearity 보정의 영향 검증 (Vanderbilt)",
+          "summary": "Vanderbilt Memory & Aging Project의 948개 영상 세션으로 확산텐서영상(DTI)에서 gradient nonlinearity 보정이 미세구조 지표에 미치는 영향을 검증했다. 보정 시 FA 1%, MD 3.3%, 주 고유벡터 방향 5도 수준의 측정 가능한 차이가 발생했으며, 이 미세 효과는 약 1,000명을 초과하는 대규모 다기관 연구에서 통계적으로 유의해질 수 있다고 결론지었다. MCI-정상군 비교 등 신경퇴행 영상 정량 파이프라인 표준화에 시사점을 준다.",
+          "source": "PLoS One",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42406807/",
+          "tags": ["뇌MRI", "DTI", "정량분석", "표준화", "방법론"],
+          "importance": "medium"
+        },
+        {
+          "title": "알츠하이머 신경영상 바이오마커의 '이중 다양성 위기' 관점 논문 (GeroScience)",
+          "summary": "신경영상 바이오마커 기준이 서구·젊은·건강한·대학소속(WYHU) 표본으로 개발돼 이질적 임상 집단에 일괄 적용되는 문제와, 그룹 평균 분석이 개인 간 신경생물학적 차이를 은폐하는 문제를 함께 지적한 관점 논문이다. 유사 증상 환자군에서 생물학적 성별이 진단 범주보다 약 30배 큰 대사 변이를 설명한다는 점을 근거로 임계값 기반 시험 등록 기준의 타당성에 의문을 제기하며, 인구·개인 신경생물학적 다양성을 설계의 핵심 요소로 삼아야 한다고 주장한다.",
+          "source": "GeroScience",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42410180/",
+          "tags": ["신경영상바이오마커", "다양성", "임상시험설계", "관점"],
+          "importance": "medium"
         }
       ]
     },
@@ -61,6 +93,14 @@
           "url": "https://www.hankyung.com/article/2026070102231",
           "tags": ["치매치료제", "레켐비", "진단수요", "기술수출"],
           "importance": "high"
+        },
+        {
+          "title": "Grey Matters Health, 미국 첫 뇌 전용 PET 스캐너 도입…아밀로이드 영상 수요 겨냥",
+          "summary": "뇌영상 진단기업 Grey Matters Health가 플로리다주 데이비의 플래그십 'NovaScan' 클리닉을 위해 미국 최초의 뇌 전용 PET 스캐너(FDA 승인 CareMiBrain, 기존 대비 방사선 노출 25% 감소)를 도입했다고 7월 6일 밝혔다. 레켐비·키순라 모두 처방 전 아밀로이드 양성 PET 확인이 필수여서, 회사는 뇌 특화 PET 시장을 '수십억 달러 규모 기회'로 규정했다. 앞서 총 125만 달러 규모 사모 유치를 진행 중이며, 항아밀로이드 치료 확대가 뇌영상 진단 수요를 견인하는 흐름을 보여준다.",
+          "source": "Grey Matters Health (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/07/06/3322306/0/en/Grey-Matters-Takes-Delivery-of-the-First-Brain-Dedicated-PET-Scanning-System-for-its-Flagship-NovaScan-Neuroimaging-Clinic-in-Florida.html",
+          "tags": ["아밀로이드PET", "뇌영상", "레켐비", "키순라", "진단수요"],
+          "importance": "medium"
         }
       ]
     },
@@ -74,6 +114,14 @@
           "source": "더바이오",
           "url": "https://www.thebionews.net/news/articleView.html?idxno=25974",
           "tags": ["뷰노", "의료AI", "수출", "딥브레인"],
+          "importance": "medium"
+        },
+        {
+          "title": "제이엘케이, 조달청 혁신제품 기술개발사업 선정…AI 뇌졸중 공공의료 플랫폼 개발",
+          "summary": "제이엘케이(JLK)가 조달청 '2026년 공공혁신수요기반 혁신제품 기술개발사업(시범구매연계형)' 수행기업으로 7월 7일 선정됐다. 2028년 6월 30일까지 약 10억원의 정부 R&D 자금이 투입되며, 응급 뇌졸중 환자의 골든타임 확보와 지역 의료격차 해소를 목표로 한다. 기존 뇌졸중 모바일 플랫폼 'FASTRO' 운영 경험을 바탕으로 의료영상 공유·AI 분석결과 제공·협진·환자 이송 의사결정 지원을 통합한 차세대 플랫폼을 개발할 계획이다.",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260707000085",
+          "tags": ["제이엘케이", "JLK", "조달청", "뇌졸중", "AI플랫폼"],
           "importance": "medium"
         }
       ]
@@ -103,6 +151,14 @@
           "source": "전국인력신문",
           "url": "https://www.kjob.news/news/502119",
           "tags": ["치매 돌봄", "요양정책", "주야간보호", "국가책임제"]
+        },
+        {
+          "title": "국내 65세 이상 치매환자 10년새 58.6% 급증…2026년 100만 명 돌파 전망",
+          "summary": "65세 이상 치매환자가 2016년 60만2,633명에서 2025년 95만5,585명으로 10년간 58.6% 증가했으며, 2026년 100만 명을 넘어설 전망이다. 유병률 자체는 8.89%→9.09%로 안정적이어서 환자 급증은 개별 연령 위험 상승이 아닌 인구 고령화에 기인한다. 여성(9.55%)이 남성(8.52%)보다 높고 전남(10.17%)이 최고였으며, 경기·서울·부산 3개 지역이 전체 환자의 46.1%를 차지했다. 진단 수요의 구조적 확대를 보여준다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11089",
+          "tags": ["치매환자수", "유병률", "고령화", "진단수요"],
+          "importance": "medium"
         }
       ]
     }
