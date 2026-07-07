@@ -1,0 +1,70 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T09:00:00+09:00",
+  "headline": "아밀로이드 PET로 확진된 초기 알츠하이머 환자 255명에서 자동 뇌 용적측정 소프트웨어 4종(AQUA·DeepBrain·A-finder·FreeSurfer)의 인지영역 예측력을 비교한 연구가 BMC Medical Imaging에 발표돼, 소프트웨어별로 강점 영역이 다르고 단순 우열로 해석해선 안 된다는 결과가 제시됐다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "학술·연구",
+      "items": [
+        {
+          "title": "조기 알츠하이머 인지기능 예측: MRI 뇌 용적측정 소프트웨어 4종 비교 (AQUA·DeepBrain·A-finder·FreeSurfer)",
+          "summary": "아밀로이드 PET로 확진된 초기 알츠하이머 환자 255명을 대상으로 자동 뇌 용적측정 소프트웨어 4종(뉴로핏 AQUA, 뷰노 DeepBrain, A-finder, FreeSurfer)의 인지영역 예측 성능을 비교했다. FreeSurfer가 전반적 인지선별(r=0.56)과 언어(r=0.38)에서, AQUA는 주의력(r=0.40), DeepBrain은 기억력(r=0.38)에서 가장 우수했으나 전반적으로 영역별로 완만한 상관에 그쳤고, 저자들은 소프트웨어 간 차이를 우열로 해석해서는 안 된다고 지적했다. 국내외 뇌 MRI 용적측정 SW를 직접 비교한 연구로, 뇌 MRI 기반 진단 SW를 개발하는 BeauBrain과 직접 관련된다.",
+          "source": "BMC Medical Imaging",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42410536/",
+          "tags": ["뇌MRI", "뇌용적측정", "AI소프트웨어", "아밀로이드PET", "인지기능"],
+          "importance": "high"
+        },
+        {
+          "title": "알츠하이머 연속체에서 글림프계 기능 저하와 백질고신호·혈장 아밀로이드 부담의 연관성",
+          "summary": "정상 대조군, 주관적 인지저하, 경도인지장애, 알츠하이머 치매 환자 216명을 대상으로 뇌 MRI의 DTI-ALPS 지표로 글림프계 기능을 평가했다. 글림프계 지표는 AD군에서 유의하게 감소했고(P<0.01), 혈장 Aβ42/40 비와 양의 상관(r=0.16, P=0.038), 뇌실주변부 백질고신호 용적과 음의 상관(r=-0.32, P<0.001)을 보여 글림프 청소 장애가 아밀로이드 병리 및 소혈관질환 부담과 관련됨을 시사했다. 뇌 MRI 기반 정량지표와 혈액 바이오마커를 연계한 연구로 BeauBrain과 관련된다.",
+          "source": "Psychological Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42411051/",
+          "tags": ["뇌MRI", "글림프계", "DTI-ALPS", "백질고신호", "혈장아밀로이드"],
+          "importance": "high"
+        },
+        {
+          "title": "혈장 단백체 기반 기억상실형 경도인지장애(aMCI) 조기진단 패널 개발",
+          "summary": "STAR 코호트 참가자 84명의 혈장에서 질량분석으로 4,000개 이상의 저농도 단백질을 분석해 12개 단백질 진단 패널을 구축했다. 이 패널은 훈련셋 AUC 0.992, 검증셋 AUC 0.933을 기록했고 진단 정확도 93.9%로 기존 Simoa 방식(24.4%)을 크게 능가했다. 다만 표본 크기가 작아 추가 검증이 필요하다.",
+          "source": "Journal of Proteome Research",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42413022/",
+          "tags": ["혈액바이오마커", "단백체", "경도인지장애", "조기진단"],
+          "importance": "medium"
+        },
+        {
+          "title": "자동 화학발광 면역측정 혈장 p-tau181의 알츠하이머 진단정확도: 체계적 문헌고찰·메타분석",
+          "summary": "19개 연구, 참가자 4,266명을 분석해 자동화 면역측정 플랫폼 혈장 p-tau181의 AD 진단 성능을 평가했다. CSF Aβ42/40 기준 시 민감도 0.81·특이도 0.77·AUC 0.84, 임상진단 기준 시 민감도 0.92·특이도 0.78이었다. 다만 19개 중 18개 연구가 Lumipulse 플랫폼을 사용해 타 플랫폼으로의 일반화에는 한계가 있다.",
+          "source": "Current Alzheimer Research",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42411229/",
+          "tags": ["혈액바이오마커", "p-tau181", "메타분석", "진단정확도"],
+          "importance": "medium"
+        },
+        {
+          "title": "뇌졸중 후 인지결과 맥락에서의 치매 혈액 바이오마커: 체계적 문헌고찰",
+          "summary": "18개 연구를 검토해 NfL, GFAP, 아밀로이드베타, 타우, PlGF 등 혈액 바이오마커의 뇌졸중 후 인지저하 예측력을 분석했다. 4개 연구(n=2,020)의 메타분석에서 급성기 NfL 상승은 1~6개월 후 인지저하와 연관(Z=-0.518)됐으며, NfL과 GFAP가 가장 일관된 연관성을 보인 반면 아밀로이드·타우는 근거가 혼재했다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42410677/",
+          "tags": ["혈액바이오마커", "NfL", "GFAP", "뇌졸중후치매", "메타분석"],
+          "importance": "medium"
+        }
+      ]
+    },
+    { "id": "regulatory", "title": "규제·인허가", "items": [] },
+    { "id": "market", "title": "시장·투자", "items": [] },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "뉴로핏, AAIC 2026서 '뉴로핏 아쿠아 AD 플러스' 공개…치료 전주기 지원·글로벌 파트너십 확대",
+          "summary": "뉴로핏이 7월 12~15일 영국 런던에서 열리는 알츠하이머협회 국제학술대회(AAIC 2026)에서 신제품 '뉴로핏 아쿠아 AD 플러스(AQUA AD Plus)'를 공개한다고 7월 7일 밝혔다. 이 솔루션은 MRI와 PET 영상을 정량 분석해 알츠하이머 치료제 투약 전 처방 적격성 판단, 투약 중 부작용(ARIA) 모니터링, 투약 후 효과 분석까지 치료 전 주기를 지원하며, 기존 '뉴로핏 아쿠아'와 'PET 정량분석 뉴로핏 스케일 펫'도 함께 전시한다. 회사는 이번 학회를 계기로 글로벌 빅파마·CRO와의 신경영상 바이오마커 분석 및 이미징 코어랩(ICL) 사업 파트너십 확대를 추진한다. 뇌 MRI 기반 치매 진단 SW의 직접 경쟁사 동향으로 BeauBrain과 밀접하다.",
+          "source": "더바이오",
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=26167",
+          "tags": ["뉴로핏", "AAIC 2026", "아쿠아 AD 플러스", "MRI/PET 정량분석", "ARIA 모니터링", "ICL 파트너십"],
+          "importance": "high"
+        }
+      ]
+    },
+    { "id": "media", "title": "주요 언론", "items": [] }
+  ]
+}
