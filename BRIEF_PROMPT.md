@@ -26,7 +26,7 @@
 7. `briefs/manifest.json`의 dates 배열에 오늘 날짜가 없으면 추가한다(이미 있으면 그대로 둔다).
 8. 오늘 새로 추가한 모든 항목의 원문 URL을 `briefs/seen_urls.json` 배열에 추가한다(중복 없이). 이 파일은 다음 실행의 하드 차단 목록이 된다.
 9. `python3 -m json.tool`로 수정한 JSON 파일들(오늘 브리핑·manifest·seen_urls)의 유효성을 검증한다.
-10. `git push origin main`으로 푸시한다. 커밋 메시지는 신규 모드면 `brief: YYYY-MM-DD 데일리 브리프 추가`, 갱신 모드면 `brief: YYYY-MM-DD 갱신 (추가 N건)`으로 한다. index.html 등 사이트 코드는 수정하지 않는다.
+10. 커밋 후 **GitHub와 GitLab 양쪽에 푸시**한다: `git push origin main` 그리고 `git push gitlab main`. (한쪽이 실패해도 다른 쪽은 시도한다.) 커밋 메시지는 신규 모드면 `brief: YYYY-MM-DD 데일리 브리프 추가`, 갱신 모드면 `brief: YYYY-MM-DD 갱신 (추가 N건)`으로 한다. index.html 등 사이트 코드는 수정하지 않는다.
 
 ## 성공 기준
 - briefs/오늘날짜.json이 유효한 JSON으로 생성·푸시됨
