@@ -1,0 +1,13 @@
+# GitLab Pages 배포 — index.html 과 briefs/ 를 public/ 으로 복사해 서빙
+pages:
+  stage: deploy
+  image: alpine:latest
+  script:
+    - mkdir -p public
+    - cp index.html public/
+    - cp -r briefs public/
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
