@@ -46,10 +46,47 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42410677/",
           "tags": ["혈액바이오마커", "NfL", "GFAP", "뇌졸중후치매", "메타분석"],
           "importance": "medium"
+        },
+        {
+          "title": "알츠하이머 스펙트럼 전반의 글림프계(DTI-ALPS)·동적 기능적 연결성 손상과 인지장애",
+          "summary": "AD 스펙트럼 환자 188명과 정상 대조군 77명의 뇌 MRI 확산텐서영상 기반 DTI-ALPS 지수와 동적 기능적 연결성을 분석했다. 주관적 인지저하(SCD) 단계부터 좌반구 DTI-ALPS 지수가 감소했고 MCI·AD 치매에서는 양측이 감소했으며, 네트워크 위상 변화가 아니라 동적 기능적 연결성 손상이 DTI-ALPS 저하와 인지장애 사이를 매개하는 것으로 나타났다. 뇌 MRI 정량지표로 조기 단계를 포착하는 연구로 BeauBrain과 직접 관련된다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42412039/",
+          "tags": ["뇌MRI", "DTI-ALPS", "글림프계", "기능적연결성", "경도인지장애"],
+          "importance": "high"
+        },
+        {
+          "title": "노화·알츠하이머병에서 변연계 백질 미세구조의 유전적 구조 규명 (GWAS)",
+          "summary": "7개 코호트에서 조화한 고령자 2,614명(평균 73.7세, 26% 인지장애)의 확산 MRI를 분석해 변연계 백질 미세구조의 유전율이 26~60%임을 확인하고, GWAS 메타분석으로 CDH19·RORA·FAM107B 등 6개 유전자 좌위를 식별했다. 해당 유전자들은 인지기능·알츠하이머 병리와 연관됐으며 인슐린·면역 생물학 및 심혈관 형질과의 유전적 중첩을 시사했다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42410730/",
+          "tags": ["뇌MRI", "확산MRI", "백질미세구조", "유전체", "GWAS"],
+          "importance": "medium"
+        },
+        {
+          "title": "혈액 바이오마커에 인지검사 병행 시 알츠하이머 초기 기능저하 예측력 향상",
+          "summary": "마이애미대 연구진이 치매가 없는 인지장애 고령자 159명(54~98세)을 약 41.5개월 추적해 혈장 p-tau217·NfL·GFAP 등 혈액 바이오마커에 LASSI-L 인지검사를 결합했다. 인지검사는 바이오마커 단독 대비 기능 저하 속도 예측에서 22.8%의 추가 설명력을 제공해, 생물학적 표지자만으로는 임상 증상 발현 예측이 부족함을 보였다.",
+          "source": "Journal of Alzheimer's Disease (마이애미대)",
+          "url": "https://news.med.miami.edu/blood-biomarkers-cognitive-testing-alzheimers-prediction/",
+          "tags": ["혈액바이오마커", "p-tau217", "인지검사", "예후예측"],
+          "importance": "medium"
         }
       ]
     },
-    { "id": "regulatory", "title": "규제·인허가", "items": [] },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가",
+      "items": [
+        {
+          "title": "벡크만쿨터, 혈장 p-Tau217 검사 'Access p-Tau217' CE(IVDR) 인증 획득",
+          "summary": "벡크만쿨터 다이애그노스틱스가 7월 7일 인지저하 환자의 아밀로이드 병리 평가를 위한 혈장 검사 'Access p-Tau217'의 IVDR CE 마크를 획득했다고 발표했다. 동시에 뇌유래 인산화 타우를 표적하는 고특이도 연구용 검사 'Access BD-pTau217'도 공개했으며, 두 검사 모두 DxI 9000 분석기에서 구동된다. 혈액 기반 알츠하이머 진단 시장의 규제 진입이 확대되고 있다.",
+          "source": "Beckman Coulter / BioSpace",
+          "url": "https://www.biospace.com/press-releases/beckman-coulter-diagnostics-expands-alzheimers-portfolio-with-ce-marked-p-tau217-blood-test-and-new-high-specificity-research-assay",
+          "tags": ["벡크만쿨터", "p-Tau217", "혈액검사", "CE인증", "IVDR"],
+          "importance": "medium"
+        }
+      ]
+    },
     { "id": "market", "title": "시장·투자", "items": [] },
     {
       "id": "competitors",
@@ -62,6 +99,22 @@
           "url": "https://www.thebionews.net/news/articleView.html?idxno=26167",
           "tags": ["뉴로핏", "AAIC 2026", "아쿠아 AD 플러스", "MRI/PET 정량분석", "ARIA 모니터링", "ICL 파트너십"],
           "importance": "high"
+        },
+        {
+          "title": "로슈, AAIC 2026서 알츠하이머 제약·진단 통합 포트폴리오 신규 데이터 18건 발표 예고",
+          "summary": "로슈가 7월 12~15일 런던 AAIC 2026에서 총 18건의 구두·포스터 발표를 진행한다고 7월 7일 밝혔다. CE 마크를 획득한 혈액검사 'Elecsys pTau217'을 1·2차 진료의 rule-in/rule-out 진단 도구로 내세우며, 다양한 환자군·진료 세팅별 pTau217·pTau181 성능 데이터와 치료제 후보 트론티네맙 관련 발표를 공개한다. 아밀로이드 PET·뇌영상 기반 진단과 경쟁하는 혈액바이오마커 진영의 확장 동향이다.",
+          "source": "Roche / GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/07/07/3322841/0/en/Roche-presents-new-data-in-Alzheimer-s-disease-from-across-its-integrated-pharmaceutical-and-diagnostics-portfolio-at-AAIC.html",
+          "tags": ["Roche", "Elecsys", "pTau217", "AAIC 2026", "혈액바이오마커"],
+          "importance": "medium"
+        },
+        {
+          "title": "퀀테릭스, AAIC 2026서 다중분석물 혈장 위험점수·pTau217 head-to-head 비교 발표 예고",
+          "summary": "퀀테릭스가 7월 12~15일 런던 AAIC 2026에서 pTau217 단일 지표를 넘어서는 다중분석물(multi-analyte) 혈장 위험점수 연구를 포함해 4건의 포스터를 발표한다. 다양한 지역사회 코호트에서 pTau217·pTau217/Aβ42·다중분석물 검사를 비교한 head-to-head 연구가 포함되며, 조기 진단 정밀도를 높이려는 혈액바이오마커 진영의 경쟁이 가속되고 있다.",
+          "source": "Quanterix",
+          "url": "https://www.quanterix.com/events-conferences/aaic-2026-alzheimers-association-international-conference/",
+          "tags": ["Quanterix", "혈액바이오마커", "AAIC 2026", "pTau217", "다중분석물"],
+          "importance": "medium"
         }
       ]
     },
