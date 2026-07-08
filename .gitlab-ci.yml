@@ -11,3 +11,14 @@ pages:
       - public
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+# 브리핑이 갱신되어 main에 push될 때마다 Slack으로 요약 발송
+# Webhook URL은 GitLab 프로젝트 Settings > CI/CD > Variables 에 SLACK_WEBHOOK(masked)로 등록
+notify_slack:
+  stage: deploy
+  image: python:3-alpine
+  script:
+    - LATEST=$(python3 -c "import json;print(sorted(json.load(open('briefs/manifest.json'))['dates'])[-1])")
+    - python3 slack_notify.py "$LATEST"
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH && $SLACK_WEBHOOK
