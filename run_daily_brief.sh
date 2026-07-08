@@ -15,8 +15,19 @@ echo "===== $(date '+%Y-%m-%d %H:%M:%S %Z') 시작 =====" >> "$LOG"
 
 PROMPT="$(cat "$REPO/BRIEF_PROMPT.md")"
 
+BEFORE_REV="$(git rev-parse HEAD 2>/dev/null)"
+
 claude -p "$PROMPT" \
   --allowedTools "Task,Bash,WebSearch,WebFetch,Read,Write,Edit,Glob,Grep" \
   >> "$LOG" 2>&1
+
+# 이번 실행으로 새 커밋이 생겼으면(=브리핑이 새로 생성·갱신됨) Slack에 요약 발송
+AFTER_REV="$(git rev-parse HEAD 2>/dev/null)"
+if [ "$BEFORE_REV" != "$AFTER_REV" ]; then
+  echo "----- 변경 감지, Slack 발송 시도 -----" >> "$LOG"
+  python3 "$REPO/slack_notify.py" >> "$LOG" 2>&1
+else
+  echo "----- 변경 없음, Slack 발송 생략 -----" >> "$LOG"
+fi
 
 echo "===== $(date '+%Y-%m-%d %H:%M:%S %Z') 종료 (exit=$?) =====" >> "$LOG"
