@@ -1,0 +1,142 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T09:00:00+09:00",
+  "headline": "확산 MRI 기반 백질 무결성 지표(PSMD)가 아밀로이드 상태와 독립·가산적으로 알츠하이머 임상진행을 예측한다는 연구가 두 코호트(DDI·ADNI)에서 검증돼, 뇌 MRI 정량지표를 예후예측에 결합할 근거가 제시됐다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "학술·연구",
+      "items": [
+        {
+          "title": "골격화 평균확산도 최대폭(PSMD): 알츠하이머 임상진행의 독립적 예후 MRI 지표",
+          "summary": "확산 MRI 기반 백질 무결성 지표 PSMD의 임상진행 예측력을 발견코호트(DDI, 생존분석 166명)와 검증코호트(ADNI, 178명)에서 평가했다. 아밀로이드 양성이면서 PSMD가 높은 군은 낮은 군 대비 임상진행 위험이 유의하게 증가했고, PSMD는 기억력보다 실행기능·처리속도와 더 강하게 연관됐다. 회백질 위축과 백질 손상이 독립적·가산적으로 작용해, PSMD를 아밀로이드 상태와 결합하면 진행 예측이 향상됨을 시사했다. 뇌 MRI 정량지표 기반 예후예측으로 BeauBrain과 직접 관련된다.",
+          "source": "Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42422229/",
+          "tags": ["뇌MRI", "확산MRI", "PSMD", "백질무결성", "예후예측", "아밀로이드"],
+          "importance": "high"
+        },
+        {
+          "title": "뇌 나이(brain age) 지표가 혈장 p-tau217과 인지기능을 잇는 매개 표현형임을 규명",
+          "summary": "지역사회 거주 고령자 518명(60세 이상 71명 매개분석)의 T1 MRI를 딥러닝 모델(BrainStructureAges)로 처리해 6개 뇌 나이 그래디언트를 도출하고, 혈장 p-tau217과 MoCA 인지점수 사이의 매개효과를 분석했다. 우측 전두측두두정 노화 경로를 통한 특이적 간접효과만 유의했으며(β=-0.111, 95% CI [-0.313, -0.010], p=0.031), 전체·직접효과는 유의하지 않았다. MRI 기반 뇌 나이가 혈액 바이오마커와 인지를 잇는 중간 표현형임을 시사한다.",
+          "source": "npj Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42422561/",
+          "tags": ["뇌MRI", "뇌나이", "딥러닝", "p-tau217", "인지기능", "매개분석"],
+          "importance": "high"
+        },
+        {
+          "title": "FDG PET/CT Z-점수와 MMSE 결합 의사결정나무로 경도인지장애와 알츠하이머 감별",
+          "summary": "실제 임상 코호트 124명(훈련 100명, 검증 24명)에서 18F-FDG PET/CT 대사 Z-점수, 뇌 위축 측정값, 인지검사(MMSE)를 머신러닝으로 분석해 해석 가능한 의사결정나무 분류기를 구축했다. 임상진단 알츠하이머와 경도인지장애 감별에서 정확도 95.8%, 민감도 100%, 특이도 92.9%, AUC 0.964(95% CI 0.894–1.000)를 기록했다. 다만 표본이 작아 추가 검증이 필요하다.",
+          "source": "Annals of Nuclear Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42423959/",
+          "tags": ["FDG PET", "정량영상", "머신러닝", "의사결정나무", "경도인지장애", "감별진단"],
+          "importance": "high"
+        },
+        {
+          "title": "변연계우세형 vs 전형적 알츠하이머의 임상·영상·면역조직학적 차이 체계적 문헌고찰",
+          "summary": "21편·환자 11,315명(변연계우세형[LP] AD 1,178명, 전형적 AD 4,159명)을 검토했다. 전형적 AD는 해마·두정·전두측두 위축과 두정·후대상피질 타우 PET SUVR 상승을 보인 반면, LP형은 더 낮은 해마 부피와 더 높은 대사율, 편도·해마·측두엽 백질에서 낮은 R2 이완율(MRI relaxometry), 피질 대비 높은 해마 타우 부담과 TDP-43 봉입체 증가를 보였다. 저자들은 영상 소견만으로는 두 표현형의 구분·동일질환 여부를 확정하기 어렵다고 결론지었다.",
+          "source": "Brain and Behavior",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42422911/",
+          "tags": ["뇌MRI", "타우PET", "변연계우세형AD", "감별진단", "체계적고찰"],
+          "importance": "medium"
+        },
+        {
+          "title": "알츠하이머 바이오마커와 조력사망: '진단이 시한부가 될 때' (JAMA Viewpoint)",
+          "summary": "하버드 의대·매스 제너럴 브리검 연구진이 혈액 기반 알츠하이머 바이오마커 검사의 확산이 임종기 의사결정에 초래하는 새로운 윤리적·임상적 쟁점을 다룬 관점 논문이다. 조기 검출 역량 향상과 의사조력사망 논의 사이의 긴장을 짚으며, 환자가 조력사망을 언급할 때 임상의가 취해야 할 소통 전략을 제시했다. 조기 진단 확산에 따른 사회·윤리적 함의를 보여준다.",
+          "source": "JAMA",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42424076/",
+          "tags": ["혈액바이오마커", "조기진단", "의료윤리", "조력사망", "관점"],
+          "importance": "medium"
+        }
+      ]
+    },
+    { "id": "regulatory", "title": "규제·인허가", "items": [] },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "앰프리온, 데카슬론캐피탈로부터 성장자금 유치…신경퇴행질환 진단 검사 역량 확대",
+          "summary": "종자증폭(seed-amplification) 기반 신경퇴행질환 진단 기업 앰프리온(Amprion)이 7월 8일 데카슬론캐피탈파트너스로부터 비희석형(non-dilutive) 성장자금을 유치했다고 밝혔다. 자금은 파킨슨병·루이소체치매·루이소체 병리 동반 알츠하이머병 등의 진단 검사 역량 확대에 투입되며, 회사의 SAAmplify-aSYN은 시누클레인병증 진단을 보조하는 종자증폭 분석법이라고 강조했다. 병리 기반 신경퇴행질환 진단 수요 확대를 보여준다.",
+          "source": "Amprion / PR Newswire",
+          "url": "http://www.prnewswire.com/news-releases/amprion-to-expand-diagnostic-testing-for-neurodegenerative-disorders-with-investment-from-decathlon-capital-partners-302818783.html",
+          "tags": ["앰프리온", "신경퇴행질환진단", "투자유치", "루이소체치매", "종자증폭"],
+          "importance": "medium"
+        },
+        {
+          "title": "퓨쳐켐, 인도에 알츠하이머 진단 방사성의약품 '알자뷰' 독점 공급 계약",
+          "summary": "퓨쳐켐이 7월 7일 인도 방사성의약품 기업 Shreeji Imaging and Diagnostic Centre와 알츠하이머 진단용 방사성의약품 '알자뷰(F-18 플로르베타핀)'의 인도 전역 독점 제조·유통 계약을 체결했다. 계약 기간은 15년이며 이후 자동 연장되고, 퓨쳐켐은 카세트·시약키트·전구체 등 소모품 키트를 독점 공급하고 인도 순매출의 2% 로열티를 받는다. 고령화로 치매 진단·치료 수요가 커지는 인도 시장에 아밀로이드 PET 진단 인프라가 확대되는 흐름이다.",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260707000776",
+          "tags": ["퓨쳐켐", "알자뷰", "아밀로이드PET", "인도", "진단수요"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "일라이릴리, AAIC 2026서 혈장 p-tau217 검사가 아밀로이드 PET에 필적하는 성능 데이터 발표 예고 (초록 16건)",
+          "summary": "일라이릴리가 7월 9일, 7월 12~15일 런던 AAIC 2026에서 진단·치료·질병생물학·환자중심 성과를 아우르는 초록 16건을 발표한다고 밝혔다. 핵심 진단 데이터로 인지기능이 정상인 사람에서 혈장 p-tau217 검사가 알츠하이머 병리 확인(rule-in)에서 아밀로이드 PET에 필적하는 성능을 보였다는 결과를 공개하며, 향후 특수 영상검사를 대체할 확장 가능한 대안이 될 수 있다고 제시했다. 다만 현재 정상 인지군에서는 승인되지 않은 용도임을 명시했다. 아밀로이드 PET·뇌영상 진단과 경쟁하는 혈액바이오마커 진영의 확장을 보여준다.",
+          "source": "Eli Lilly / PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/lilly-to-present-alzheimers-disease-diagnostic-and-therapeutic-research-at-aaic-2026-including-new-data-on-p-tau217-blood-tests-and-amyloid-targeting-treatment-302821844.html",
+          "tags": ["일라이릴리", "p-tau217", "아밀로이드PET", "AAIC 2026", "혈액바이오마커", "키순라"],
+          "importance": "medium"
+        },
+        {
+          "title": "IGC파마, AAIC 2026서 알츠하이머 AI 포트폴리오 공개…데이터 통합시간 90% 단축 '에이전틱 AI' 플랫폼(AHA) 베타 발표",
+          "summary": "IGC파마가 7월 9일, 7월 12~15일 런던 AAIC 2026에서 알츠하이머 AI 포트폴리오를 7건의 학술발표로 공개한다고 밝혔다. 핵심은 특허출원 중인 멀티에이전트 아키텍처 'AHA(Agentic Harmonization Assistant)' 베타로, 100개 변수 대표 워크플로우에서 데이터 통합 시간을 수작업 28시간에서 검증 포함 2.5시간으로 약 90% 단축했다고 주장했다. 음성 기반 인지저하 바이오마커, EHR 기반 환자 식별도 함께 발표하며, AHA 아키텍처를 MRI·PET·CT 영상과 유전체·단백체 등으로 확장할 계획이라 밝혀 뇌영상 AI 진단 진영에도 시사점이 있다.",
+          "source": "IGC Pharma / BioSpace",
+          "url": "https://www.biospace.com/press-releases/igc-pharma-to-showcase-ai-portfolio-at-aaic-2026-including-aha-platform-that-reduced-alzheimers-data-harmonization-time-by-90-in-representative-workflow",
+          "tags": ["IGC파마", "에이전틱AI", "AAIC 2026", "데이터통합", "신규플레이어", "MRI/PET확장"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "GSK, 알렉터와의 신경과학 제휴 종료…라토지네맙·니비스네바트 임상 실패로 면역-신경학 베팅 무산",
+          "summary": "GSK가 7월 6일 알렉터(Alector)에 서면 통지하며 2021년 체결한 신경과학 공동개발 제휴를 종료했다(효력 발생 2027년 1월 2일). 전두측두엽치매 대상 라토지네맙(AL001)이 2025년 10월 3상에서 인지·기능 저하 지연에 실패하고, 초기 알츠하이머 대상 니비스네바트(AL101)도 4월 무용성 분석으로 2상이 중단된 데 따른 결정이다. 애초 선불 7억 달러(2023년 약 5.72억 달러로 조정)·마일스톤 최대 15억 달러 규모였으며, 알렉터 주가는 5년간 약 95% 하락했다.",
+          "source": "Endpoints News / BioPharma Dive",
+          "url": "https://endpoints.news/gsk-walks-away-from-alector-pact-as-immuno-neurology-bet-fizzles/",
+          "tags": ["GSK", "알렉터", "라토지네맙", "니비스네바트", "제휴종료", "신약실패"],
+          "importance": "medium"
+        },
+        {
+          "title": "하버드·보스턴대 NFL 19,824명 26년 추적…은퇴 후 신경퇴행성 사망 위험 일반인의 약 4배",
+          "summary": "미식축구 선수 19,824명을 26년간 추적한 연구에서 은퇴 선수의 신경퇴행성 질환 사망 위험이 일반인 대비 약 4배 높은 것으로 나타났다. 사망 1,994건 중 8.9%가 신경퇴행성 질환(치매 106건, 루게릭병 33건, 파킨슨 39건)이었고, 스피드 포지션(1.67배)·5시즌 이상(1.86배)·60세 미만(12.43배)에서 위험이 더 높았다. 반복적 강한 머리 충격 노출이 뚜렷한 신경퇴행 위험을 만든다는 점을 강조했다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11098",
+          "tags": ["미식축구", "반복충격", "신경퇴행", "치매위험", "코호트연구"],
+          "importance": "medium"
+        },
+        {
+          "title": "\"자도 피곤한 이유\"…40대 이후 치매 위험 높이는 수면의 질 저하·수면무호흡",
+          "summary": "40대 이후 깊은 수면 감소는 자연스러운 노화지만, 지속되는 수면의 질 저하와 수면무호흡은 단순 피로를 넘어 심혈관질환·인지저하·치매 위험과 연결된다고 전문가들은 지적했다. 깊은 수면 중 뇌척수액이 아밀로이드베타 등 대사 노폐물을 청소하는 글림프계 기능이 강조됐으며, 심한 코골이·호흡 정지·주간 졸림이 있으면 객관적 수면 평가를 받아야 하고 치매 예방은 40~50대 중년부터 시작해야 한다고 조언했다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11094",
+          "tags": ["수면", "수면무호흡", "글림프계", "치매예방", "중년"]
+        },
+        {
+          "title": "치매안심재산관리 시범사업 신청 한 달 새 120%↑…'치매머니' 국가 관리 새 안전망 부상",
+          "summary": "국민연금공단이 공공신탁 기반으로 고위험 치매 노인의 재산을 관리하는 '치매안심재산관리서비스' 시범사업(4월 22일 시작) 신청이 5월 34건에서 6월 75건으로 120.6% 급증해 7월 3일까지 118건이 접수됐고, 문의는 545명·1,271건에 달했다. 현재 4건의 재산관리 계약이 체결됐으며, 정부는 2년 점검을 거쳐 2028년 본사업으로 전환할 계획이다. 경제적 학대 우려가 있던 독거 치매노인이 공공후견인과 함께 재정지원 계획을 세운 사례가 소개됐다.",
+          "source": "메디컬데일리",
+          "url": "https://www.medicaldaily.co.kr/post/20864",
+          "tags": ["치매국가책임제", "재산관리", "공공신탁", "후견", "돌봄정책"],
+          "importance": "medium"
+        },
+        {
+          "title": "드웨인 존슨('더 록'), 영화 '프리 버드'서 치매 진단 스턴트맨 연기",
+          "summary": "배우 드웨인 존슨이 라스베이거스 베테랑 오토바이 스턴트맨이 치매 진단을 숨긴 채 마지막 대점프를 준비하는 내용의 영화 '프리 버드(Free Byrd)'에 주연·제작으로 참여한다. '싱 싱'의 그레그 콰이더 감독이 연출하고 벤 애플렉·맷 데이먼의 아티스츠 에퀴티가 공동 제작한다. '더 파더', '스틸 앨리스' 등과 함께 치매를 단순 비극이 아닌 인간 존엄과 관계의 문제로 다루는 헐리우드의 서사 변화를 보여주는 사례로 소개됐다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11095",
+          "tags": ["치매인식", "대중문화", "영화", "드웨인존슨"]
+        }
+      ]
+    }
+  ]
+}
