@@ -42,9 +42,9 @@ def main():
     with open(brief_path) as f:
         brief = json.load(f)
 
-    lines = [f":brain: *치매·AD 데일리 브리프* — {date}"]
+    lines = [f":brain: *<{SITE_URL}|치매·AD 데일리 브리프 — {date}>*"]
     if brief.get("headline"):
-        lines.append(f"*{brief['headline']}*")
+        lines.append(f"_{brief['headline']}_")
     lines.append("")
 
     for sec in brief.get("sections", []):
@@ -62,7 +62,7 @@ def main():
                 lines.append(f"• {title}{mark}")
         lines.append("")
 
-    lines.append(f"<{SITE_URL}|전체 브리핑 보기>")
+    lines.append(f"👉 *<{SITE_URL}|데일리 브리프 사이트에서 전체 보기>*")
     payload = {"text": "\n".join(lines).strip(), "unfurl_links": False}
 
     req = urllib.request.Request(
