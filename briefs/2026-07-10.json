@@ -46,6 +46,37 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42424076/",
           "tags": ["혈액바이오마커", "조기진단", "의료윤리", "조력사망", "관점"],
           "importance": "medium"
+        },
+        {
+          "title": "맥락막총(choroid plexus) 용적·신호강도, 인지저하·치매 발병 위험과 연관 — UK Biobank 45,306명 MRI 분석",
+          "summary": "UK Biobank 참가자 45,306명의 뇌 MRI를 전향적으로 분석한 결과, 맥락막총 용적이 클수록 전체 원인 치매 발병 위험이 증가하고 맥락막총 신호강도가 높을수록 위험이 감소하는 것으로 나타났다. 이 연관성의 약 43%는 해마 용적 감소와 백질 이상 증가가 매개했다. 저자들은 맥락막총 영상 지표가 뇌 구조적 노화와 치매 위험을 평가하는 새로운 MRI 바이오마커가 될 수 있다고 제시했다. 대규모 코호트에서 검증된 구조영상 지표로 뇌 MRI 기반 진단과 직접 관련된다.",
+          "source": "Molecular Psychiatry",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42426212/",
+          "tags": ["뇌MRI", "맥락막총", "구조영상바이오마커", "UK Biobank", "치매위험예측"],
+          "importance": "high"
+        },
+        {
+          "title": "동적광산란(DLS) 분광법 측정값, 아밀로이드 PET Centiloid 척도와 유의한 상관",
+          "summary": "환자 15명을 대상으로 비침습적 동적광산란(DLS) 분광법 측정값과 아밀로이드 PET Centiloid 값을 비교한 결과 유의한 상관관계가 확인됐다. DLS는 비침습적·정량적·저비용이며 즉시 결과를 얻을 수 있어 기존 아밀로이드 PET 영상의 실용적 대안 가능성을 제시했다. 다만 표본이 15명으로 매우 작아 대규모 검증이 필요하다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42417046/",
+          "tags": ["아밀로이드", "PET", "Centiloid", "비침습정량화"],
+          "importance": "medium"
+        },
+        {
+          "title": "망막 아밀로이드 영상과 아밀로이드 PET의 종단 관계 — A4 임상 분석",
+          "summary": "커큐민 기반 망막 아밀로이드 반점 수(RSC)가 PET상 아밀로이드 축적 변화를 추적할 수 있는지 A4(전임상 AD)·LEARN(대조군) 코호트에서 종단 비교했다. RSC는 시간에 따라 군 간 유의한 차이가 없었고 항아밀로이드 치료로도 변하지 않아, 아밀로이드 양성자를 식별했던 기존 횡단 결과와 대조를 보였다. 저자들은 망막 영상을 진단 바이오마커로 활용하려면 표준화 프로토콜과 대규모 검증이 필요하다고 결론지었다.",
+          "source": "Alzheimer's & Dementia (Amsterdam)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42422228/",
+          "tags": ["망막영상", "아밀로이드PET", "영상바이오마커", "A4임상"],
+          "importance": "medium"
+        },
+        {
+          "title": "병리적 타우 N368 절편 표적 신규 면역치료 — 약리학적 관점 리뷰",
+          "summary": "AEP 효소가 타우를 N368 위치에서 절단해 만드는 병리적 절편이 독성 응집과 신경영양 신호 붕괴로 신경변성을 유발한다는 점에 주목한 리뷰다. CSF의 Tau N368/총타우 비율이 신피질 타우 부담·인지저하와 상관하는 유망 바이오마커로 제시됐으며, N368 표적 단클론항체가 전임상에서 타우 병리를 크게 줄이고 인지 결핍을 개선했다고 보고했다.",
+          "source": "Pharmacological Research",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42425476/",
+          "tags": ["타우", "CSF바이오마커", "면역치료", "N368"]
         }
       ]
     },
@@ -69,6 +100,14 @@
           "url": "https://www.newspim.com/news/view/20260707000776",
           "tags": ["퓨쳐켐", "알자뷰", "아밀로이드PET", "인도", "진단수요"],
           "importance": "medium"
+        },
+        {
+          "title": "인도 eNLife Research, 알츠하이머 조기검출 AI 혈액검사 개발에 6천만 루피 시드 투자 유치",
+          "summary": "인도 벵갈루루 딥테크 스타트업 eNLife Research가 7월 8일 Piper Serica VC 펀드 주도로 6crore(약 6천만 루피, 약 71만 달러) 규모 시드 투자를 유치했다. 이 회사는 혈액 바이오마커와 머신러닝을 결합해 증상 발현 최대 15년 전 알츠하이머를 검출하는 AI 혈액검사를 개발 중이며, 2~5시간 내 결과 제공으로 PET·뇌척수액 검사의 저비용·비침습 대안을 표방한다. IISc·NIMHANS 등 인도 연구기관과 협력해 인도인 특화 바이오마커 데이터셋을 구축한다.",
+          "source": "MedPath",
+          "url": "https://trial.medpath.com/news/enlife-research-raises-6-crore-seed-funding-to-develop-ai-powered-blood-test-for-early-alzheimer-s-detection",
+          "tags": ["eNLife", "혈액검사", "AI진단", "투자유치", "인도"],
+          "importance": "medium"
         }
       ]
     },
@@ -90,6 +129,22 @@
           "source": "IGC Pharma / BioSpace",
           "url": "https://www.biospace.com/press-releases/igc-pharma-to-showcase-ai-portfolio-at-aaic-2026-including-aha-platform-that-reduced-alzheimers-data-harmonization-time-by-90-in-representative-workflow",
           "tags": ["IGC파마", "에이전틱AI", "AAIC 2026", "데이터통합", "신규플레이어", "MRI/PET확장"],
+          "importance": "medium"
+        },
+        {
+          "title": "Viz.ai, Cortechs.ai와 파트너십…뇌 MRI 정량분석 'NeuroQuant'를 신경질환 케어조정 워크플로우에 통합",
+          "summary": "임상 AI 케어조정 플랫폼 Viz.ai가 7월 9일 뇌영상 정량분석 기업 Cortechs.ai와 파트너십을 발표하고, Cortechs의 정량 MRI 분석을 자사 'Viz Neuro Suite'에 통합한다고 밝혔다. 초기 적용은 다발성경화증(MS)용 NeuroQuant MS이지만, Viz.ai 최고의학책임자는 이를 알츠하이머 등 신경퇴행질환 전반으로 확대하기 위한 시작점이라고 강조했다. NeuroQuant는 치매 진단용 뇌 MRI 체적분석의 대표 솔루션으로, 뇌영상 기반 진단 분야의 경쟁·협업 지형 변화를 보여준다.",
+          "source": "Fierce Healthcare",
+          "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-expands-neurodegenerative-disease-care-new-partnership-cortechsai",
+          "tags": ["Cortechs.ai", "NeuroQuant", "뇌MRI정량분석", "Viz.ai", "파트너십"],
+          "importance": "high"
+        },
+        {
+          "title": "AC Immune, AAIC 2026서 first-in-class TDP-43 PET 추적자 등 3개 파이프라인 발표 예고",
+          "summary": "스위스 신경퇴행 바이오텍 AC Immune이 7월 7일, 7월 12~15일 런던 AAIC 2026에서 3개 프로그램을 발표한다고 밝혔다. 특히 first-in-class TDP-43 PET 영상 추적자 '[18F]ACI-19626'의 전측두엽치매(FTD)·ALS 초기 인체 영상 데이터를 7월 15일 구두 발표하며, 뇌투과성 NLRP3 억제제(ACI-19764)와 알파-시누클레인 응집 억제제 데이터도 포스터로 공개한다. 새로운 신경병리 영상 바이오마커 트레이서라는 점에서 뇌영상 진단 분야에 시사점이 있다.",
+          "source": "AC Immune / StockTitan",
+          "url": "https://www.stocktitan.net/news/ACIU/ac-immune-to-showcase-neurodegenerative-disease-pipeline-with-three-663ci5zw1j5a.html",
+          "tags": ["AC Immune", "TDP-43", "PET추적자", "AAIC 2026", "영상바이오마커"],
           "importance": "medium"
         }
       ]
@@ -135,6 +190,13 @@
           "source": "디멘시아뉴스",
           "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11095",
           "tags": ["치매인식", "대중문화", "영화", "드웨인존슨"]
+        },
+        {
+          "title": "[기획] \"운전은 멈췄는데 병원은 어떻게 가나\"…치매환자 면허 반납 이후 이동지원 공백",
+          "summary": "디멘시아뉴스가 인지저하 고령 운전자의 면허 자진반납 이후 병원 방문 등 필수 이동을 위한 지원 체계가 미비하다는 기획을 실었다(7월 10일). 경기 '똑버스', 농촌 '100원 택시' 같은 이동수단이 있으나 면허 반납·의료 권고와 연계되지 않아 의료 접근성 공백이 발생한다고 지적하며, 나이만이 아니라 실제 운전능력을 의료·작업치료 평가로 판단하고 의료기관·치매안심센터·지자체를 잇는 통합 이동지원 체계가 필요하다고 제언했다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11099",
+          "tags": ["돌봄정책", "이동지원", "면허반납", "의료접근성"]
         }
       ]
     }
