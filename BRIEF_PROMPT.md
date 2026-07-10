@@ -2,8 +2,8 @@
 
 ## 저장소
 - 로컬 경로: /Applications/BeauBrain/700_Utils/004_DAILY_BRIEF (이미 이 디렉토리에서 실행 중)
-- 원격: https://github.com/boomyboom/dementia-daily-brief (main 브랜치, gh CLI 인증됨)
-- 사이트: https://boomyboom.github.io/dementia-daily-brief/
+- 원격: https://gitlab.com/beaubrainsbpark/dementia-daily-brief (main 브랜치, 토큰 인증됨)
+- 사이트: https://beaubrainsbpark.gitlab.io/dementia-daily-brief/
 
 ## 절차
 1. `git pull`로 최신 상태를 받는다.
@@ -25,7 +25,7 @@
    - 갱신 모드: 기존 항목을 유지한 채 새 항목만 각 섹션에 덧붙인다. headline은 기존 것을 유지하되, 새로 추가된 소식이 그날 가장 중요하다면 그때만 교체한다.
 7. `python3 cleanup_old_briefs.py`를 실행한다. 이 스크립트가 30일 지난 브리핑 파일을 삭제하고, `briefs/manifest.json`(날짜 목록)과 `briefs/seen_urls.json`(중복 차단용 URL 목록)을 남은 브리핑 기준으로 자동 재생성한다. (manifest·seen_urls를 손으로 고칠 필요 없음)
 8. `python3 -m json.tool`로 오늘 브리핑·manifest.json·seen_urls.json의 유효성을 검증한다.
-9. `git add -A`로 변경(신규·삭제 포함)을 스테이징한 뒤 **GitHub와 GitLab 양쪽에 push**한다: `git push origin main` 그리고 `git push gitlab main`. (한쪽이 실패해도 다른 쪽은 시도한다.) 커밋 메시지는 신규 모드면 `brief: YYYY-MM-DD 데일리 브리프 추가`, 갱신 모드면 `brief: YYYY-MM-DD 갱신 (추가 N건)`으로 한다. index.html 등 사이트 코드는 수정하지 않는다.
+9. `git add -A`로 변경(신규·삭제 포함)을 스테이징한 뒤 **GitLab에 push**한다: `git push gitlab main`. 커밋 메시지는 신규 모드면 `brief: YYYY-MM-DD 데일리 브리프 추가`, 갱신 모드면 `brief: YYYY-MM-DD 갱신 (추가 N건)`으로 한다. index.html 등 사이트 코드는 수정하지 않는다.
 
 ## 성공 기준
 - briefs/오늘날짜.json이 유효한 JSON으로 생성·푸시됨
