@@ -1,2 +1,4 @@
 logs/
-.slack_webhook
+.slack_webhook*
+__pycache__/
+*.pyc

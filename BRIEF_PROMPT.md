@@ -23,10 +23,9 @@
 6. 검증된 항목으로 `briefs/오늘날짜.json`을 BRIEFING_GUIDE.md의 JSON 포맷대로 작성한다. 모든 항목에 실제 원문 URL 필수. 섹션에 소식이 없으면 빈 배열로 둔다.
    - 신규 모드: headline은 그날 가장 중요한 소식 한 문장으로 새로 작성한다.
    - 갱신 모드: 기존 항목을 유지한 채 새 항목만 각 섹션에 덧붙인다. headline은 기존 것을 유지하되, 새로 추가된 소식이 그날 가장 중요하다면 그때만 교체한다.
-7. `briefs/manifest.json`의 dates 배열에 오늘 날짜가 없으면 추가한다(이미 있으면 그대로 둔다).
-8. 오늘 새로 추가한 모든 항목의 원문 URL을 `briefs/seen_urls.json` 배열에 추가한다(중복 없이). 이 파일은 다음 실행의 하드 차단 목록이 된다.
-9. `python3 -m json.tool`로 수정한 JSON 파일들(오늘 브리핑·manifest·seen_urls)의 유효성을 검증한다.
-10. 커밋 후 **GitHub와 GitLab 양쪽에 푸시**한다: `git push origin main` 그리고 `git push gitlab main`. (한쪽이 실패해도 다른 쪽은 시도한다.) 커밋 메시지는 신규 모드면 `brief: YYYY-MM-DD 데일리 브리프 추가`, 갱신 모드면 `brief: YYYY-MM-DD 갱신 (추가 N건)`으로 한다. index.html 등 사이트 코드는 수정하지 않는다.
+7. `python3 cleanup_old_briefs.py`를 실행한다. 이 스크립트가 30일 지난 브리핑 파일을 삭제하고, `briefs/manifest.json`(날짜 목록)과 `briefs/seen_urls.json`(중복 차단용 URL 목록)을 남은 브리핑 기준으로 자동 재생성한다. (manifest·seen_urls를 손으로 고칠 필요 없음)
+8. `python3 -m json.tool`로 오늘 브리핑·manifest.json·seen_urls.json의 유효성을 검증한다.
+9. `git add -A`로 변경(신규·삭제 포함)을 스테이징한 뒤 **GitHub와 GitLab 양쪽에 push**한다: `git push origin main` 그리고 `git push gitlab main`. (한쪽이 실패해도 다른 쪽은 시도한다.) 커밋 메시지는 신규 모드면 `brief: YYYY-MM-DD 데일리 브리프 추가`, 갱신 모드면 `brief: YYYY-MM-DD 갱신 (추가 N건)`으로 한다. index.html 등 사이트 코드는 수정하지 않는다.
 
 ## 성공 기준
 - briefs/오늘날짜.json이 유효한 JSON으로 생성·푸시됨

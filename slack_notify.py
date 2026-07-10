@@ -27,6 +27,29 @@ def today_kst():
     return datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d")
 
 
+def skip_reason(date_str):
+    """토·일·한국 공휴일이면 (True, 사유) 반환. SLACK_FORCE=1이면 항상 발송."""
+    if os.environ.get("SLACK_FORCE") == "1":
+        return False, ""
+    try:
+        d = datetime.strptime(date_str, "%Y-%m-%d").date()
+    except ValueError:
+        return False, ""
+    if d.weekday() == 5:
+        return True, "토요일"
+    if d.weekday() == 6:
+        return True, "일요일"
+    path = os.path.join(REPO, "holidays_kr.json")
+    if os.path.exists(path):
+        try:
+            hol = json.load(open(path, encoding="utf-8"))
+        except Exception:
+            hol = {}
+        if date_str in hol:
+            return True, hol[date_str]
+    return False, ""
+
+
 def main():
     webhook = get_webhook()
     if not webhook:
@@ -34,6 +57,12 @@ def main():
         return
 
     date = sys.argv[1] if len(sys.argv) > 1 else today_kst()
+
+    skip, reason = skip_reason(date)
+    if skip:
+        print(f"[slack] {date} 은(는) {reason} — 발송 생략(브리핑은 정상 생성됨)")
+        return
+
     brief_path = os.path.join(REPO, "briefs", f"{date}.json")
     if not os.path.exists(brief_path):
         print(f"[slack] {date}.json 없음 — 발송 생략")
