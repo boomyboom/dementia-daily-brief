@@ -1,0 +1,104 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:00:00+09:00",
+  "headline": "국내 최대 경쟁사 뉴로핏이 7/12~15 런던 AAIC 2026에서 MRI·PET 정량분석 기반 알츠하이머 치료 전주기 지원 솔루션 '아쿠아 AD 플러스'를 공개하고 글로벌 빅파마·CRO 대상 이미징 코어랩(ICL) 파트너십 확대에 나섰다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "학술·연구",
+      "items": [
+        {
+          "title": "PHASE-AD: 일반 임상 구조 MRI만으로 알츠하이머 위축 아형 분류·병기 자동 설정",
+          "summary": "8,415명으로 학습하고 7개 독립 데이터셋에서 검증한 프레임워크로, 일반 임상 T1 구조 MRI에서 변연계 우세형·해마 보존형 등 위축 패턴을 자동 분류하고 병기를 설정한다. 자기장 세기와 스캐너 제조사가 달라도 견고하게 작동했으며, 종단적 인지저하 궤적을 계층화하고 준정량적 육안 MRI 평가보다 우수한 성능을 보였다. 저자들은 임상·신약 임상시험에 자동 위축 아형·병기 분류를 통합할 것을 제안했다. 일반 임상 MRI만으로 진단·병기설정을 자동화한다는 점에서 뇌 MRI 기반 진단 SW와 직접 관련된다.",
+          "source": "medRxiv (preprint)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42428079/",
+          "tags": ["구조MRI", "AI진단", "아형분류", "병기설정", "알츠하이머"],
+          "importance": "high"
+        },
+        {
+          "title": "Ricci flow 기반 해마 표면 분석으로 알츠하이머 조기 진단",
+          "summary": "MRI에서 얻은 3D 해마 표면을 Ricci flow로 2D 구면에 매핑해 특징을 추출하고, LDA·Kernel LDA와 분류기를 결합해 ADNI 데이터셋에서 평가했다. 정상-AD 이진 분류 97.28%, 정상-조기MCI 96.14%, 3분류 93.65%, 4분류 92.30%의 정확도를 기록해 기존 연구 대부분을 능가했다. 수학적 표면 모델링과 3D 뇌영상 결합이 진단 정확도를 크게 높일 수 있음을 보였다.",
+          "source": "Neuroinformatics",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42430015/",
+          "tags": ["뇌MRI", "해마", "AI진단", "조기진단", "알츠하이머"],
+          "importance": "high"
+        },
+        {
+          "title": "양자 확률 생성모델 기반 신경영상 알츠하이머 진단 프레임워크",
+          "summary": "ADNI의 5,154장 신경영상(MCI 2,590, AD 1,124, 정상 1,440)을 대상으로 GoogLeNet Inception-v3 분할, steerable 트랜스포머, 양자 확률 해밀토니안 학습, 적응형 카오스 최적화를 결합한 통합 파이프라인을 제안해 정확도 99.9%, 정밀도 99.8%를 보고했다. 다만 단일 데이터셋 기반의 방법론 논문으로 과적합·성능 과장 가능성에 유의가 필요하다.",
+          "source": "Cognitive Neurodynamics",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42428045/",
+          "tags": ["신경영상", "딥러닝", "AI진단", "ADNI", "알츠하이머"],
+          "importance": "medium"
+        },
+        {
+          "title": "기억력 저하와 유전적으로 연결된 뇌영상 지표 규명 (GWAS×UK Biobank)",
+          "summary": "GNOVA 기법으로 기억력 GWAS(비히스패닉 백인 노인 24,216명)와 UK Biobank의 3,935개 영상 표현형(중년기 유럽계 33,224명) 간 유전적 공분산을 분석했다. 내측 측두엽·전두엽의 확산 및 구조 영상 지표가 기억력과 가장 강한 유전적 공분산을 보였고 디폴트모드 네트워크 연결성도 관여했다. 중년기 뇌 영상 특성이 알츠하이머 취약 영역과 유전적으로 연결됨을 시사한다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42427161/",
+          "tags": ["뇌영상", "유전체", "UK Biobank", "기억력", "알츠하이머"],
+          "importance": "medium"
+        },
+        {
+          "title": "좌식행동 유형에 따라 다른 뇌 위축·백질고신호 연관성 (ARIC 코호트)",
+          "summary": "ARIC 코호트 1,712명을 대상으로 1987-89년 자가보고 좌식행동과 2011-13년 3T MRI를 연계 분석했다. 잦은 TV 시청은 백질고신호(WMH) 증가 및 전두·후두·AD 특징 영역 부피 감소와 연관된 반면, 인지적으로 더 요구되는 직업적 앉기는 낮은 WMH와 큰 전두·후두·두정엽 부피와 연관됐다. 신체활동을 보정한 후에도 유지돼, 앉는 행동의 인지적 성격이 뇌 구조에 다르게 작용함을 시사한다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42429220/",
+          "tags": ["뇌MRI", "백질고신호", "뇌위축", "위험인자", "치매예방"],
+          "importance": "medium"
+        }
+      ]
+    },
+    { "id": "regulatory", "title": "규제·인허가", "items": [] },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "글로벌 알츠하이머 플랫폼 재단(GAP), 타우디아와 'Bio-Hermes-002' 연구 전략적 파트너십",
+          "summary": "GAP 재단은 7월 8일 진단기업 타우디아(Taudia)가 관찰연구 플랫폼 'Bio-Hermes-002'에 합류했다고 발표했다. 이 연구는 혈액·디지털 바이오마커와 MRI·PET 영상을 함께 평가하며, 타우디아는 혈장·뇌척수액 기반 타우 바이오마커(BD pTau-217, eMTBR-tau243)를 제공한다. 바이오젠·릴리·로슈·지멘스 헬시니어스 등이 참여하는 다인종 코호트로 알츠하이머 예측·발견·진단 정확도 향상을 목표로 하며, 영상 바이오마커가 진단 검증 체계에 통합되는 흐름을 보여준다.",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/07/08/3324131/0/en/Global-Alzheimer-s-Platform-Foundation-Announces-Strategic-Partnership-with-Taudia-for-the-Transformative-Bio-Hermes-002-Study.html",
+          "tags": ["GAP재단", "Bio-Hermes-002", "바이오마커", "MRI/PET", "진단검증"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "뉴로핏, AAIC 2026서 '아쿠아 AD 플러스' 공개…이미징 CRO(ICL) 사업으로 글로벌 파트너십 확대",
+          "summary": "뉴로핏이 7월 12~15일 런던에서 열리는 알츠하이머협회 국제학술대회(AAIC 2026)에서 MRI·PET 영상을 정량 분석해 알츠하이머 치료제 처방 적격성 평가부터 ARIA 부작용 모니터링, 치료 효과 분석까지 치료 전주기를 지원하는 '뉴로핏 아쿠아 AD 플러스'를 공개한다고 7월 7일 밝혔다. 신경퇴행 영상분석 SW '아쿠아', PET 정량분석 '스케일 펫'도 함께 선보이며, 글로벌 빅파마·CRO를 겨냥한 신경영상 바이오마커 분석(이미징 코어랩) 서비스를 앞세워 파트너십 확대에 나섰다. 뇌 MRI·PET 정량화라는 BeauBrain과 동일 사업 영역의 국내 최대 경쟁사 상업화 가속 행보로 주목된다.",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607079381i",
+          "tags": ["뉴로핏", "AAIC 2026", "아쿠아 AD 플러스", "이미징코어랩", "MRI/PET", "파트너십"],
+          "importance": "high"
+        },
+        {
+          "title": "코그스테이트, FY26 순수주계약 8,900만 달러 사상 최대…전년比 116% 급증",
+          "summary": "디지털 인지평가 기업 코그스테이트(Cogstate, ASX:CGS)가 7월 7일 사업 업데이트를 통해 2026 회계연도 순수주계약(net sales contracts)이 미화 8,900만 달러로 전년(4,130만 달러) 대비 116% 급증했다고 발표했다. 4분기(6월 분기)에만 2,190만 달러를 계약했고, 계약 잔고(contracted future revenue)는 1억 1,850만 달러로 전년比 32% 증가했다. 알츠하이머 신약 임상시험 수요 확대가 인지평가 사업 성장의 배경으로, 치매 진단·평가 생태계의 성장세를 보여준다.",
+          "source": "Grafa",
+          "url": "https://grafa.com/en/news/australia/cogstate-net-sales-contracts-hit-89m-in-fy26",
+          "tags": ["코그스테이트", "디지털인지평가", "임상시험", "실적"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "\"재가 요양 투자하면 요양병원 입소 32%↓\"…제1차 지역사회 통합돌봄 포럼",
+          "summary": "7월 8일 열린 제1차 지역사회 통합돌봄 포럼에서 통합재가 서비스 시범사업(2021~2023) 참여자를 분석한 결과, 재가 요양 투자가 노인의 요양시설 입소 위험을 27%, 요양병원 입소 위험을 32% 낮춘 것으로 나타났다. 발제자는 돌봄을 단순 비용이 아닌 '장기 수익을 창출하는 국가 투자'로 봐야 한다고 강조했다. 정부는 9월 발표 예정인 제1차 지역사회 통합돌봄 기본계획에 이런 근거를 반영할 방침이다.",
+          "source": "메디컬데일리",
+          "url": "https://www.medicaldaily.co.kr/post/20911",
+          "tags": ["통합돌봄", "재가요양", "돌봄정책", "요양병원", "치매돌봄"],
+          "importance": "medium"
+        }
+      ]
+    }
+  ]
+}
