@@ -1,0 +1,89 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T09:00:00+09:00",
+  "headline": "AAIC 2026(런던) 진행 중, 뇌 MRI 정량분석 진단 근거가 잇따라 공개됐다 — 3D MRI·임상·유전정보를 결합한 해석가능 AI 'CBKAN'이 초기 알츠하이머 3분류 정확도 91.1%를 기록했고, 상용 MRI 위축분석 SW 'VSRAD'의 Z-점수가 실제 외래환자 인지기능과 유의하게 상관함이 확인됐다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "학술·연구",
+      "items": [
+        {
+          "title": "CBKAN: 3D MRI·임상·유전정보 결합 해석가능 KAN 모델로 초기 알츠하이머 3분류 정확도 91.1%",
+          "summary": "3D 뇌 MRI에서 질환특이 특징을 추출하는 EHCTNet과 콜모고로프-아놀드 네트워크(KAN)를 결합하고 임상·유전정보까지 통합한 해석가능(interpretable) 다중모달 진단 프레임워크 'CBKAN'을 제안한 연구다. ADNI 800명을 대상으로 정상(CN)·경도인지장애(MCI)·알츠하이머(AD) 3분류에서 정확도 91.1%, F1 0.910을 기록해 기존 주류 기법을 유의하게 능가했다. 블랙박스가 아니라 뇌 위축 패턴 등 '컴팩트 바이오마커'를 산출해 임상 진단추론을 모사한다는 점에서 뇌 MRI 기반 진단 SW와 직접 관련된다.",
+          "source": "Scientific Reports",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42431966/",
+          "tags": ["뇌MRI", "AI진단", "KAN", "해석가능AI", "ADNI", "알츠하이머"],
+          "importance": "high"
+        },
+        {
+          "title": "임상용 MRI 위축분석 SW 'VSRAD'의 Z-점수, 실제 외래환자 인지기능과 유의한 상관",
+          "summary": "3T MRI에서 내측 측두엽(해마·해마곁이랑) 위축을 Z-점수로 정량화하는 상용 소프트웨어 VSRAD를 치매가 없는 외래환자 100명에 실제 적용해 인지기능과의 관계를 검증했다. VSRAD Z-점수는 기억수행지표(MPI)와 유의하게 상관했고(Pearson r=-0.52, p<0.001), 정상 인지와 경도인지장애 구분에서 Z-점수 1.14 절단값이 민감도 62.9%·특이도 84.2%·정확도 73.5%를 보였다. 자동 MRI 체적분석 SW의 실제 진료 환경 유용성을 보여주는 사례로 BeauBrain 사업영역과 직접 관련된다.",
+          "source": "IBRO Neuroscience Reports",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42437010/",
+          "tags": ["뇌MRI", "VSRAD", "해마위축", "체적분석SW", "경도인지장애", "임상적용"],
+          "importance": "high"
+        },
+        {
+          "title": "타우 PET의 임상병리학적 알츠하이머 진단 예측력 정량화…아밀로이드+타우 순차검사시 PPV 향상",
+          "summary": "[18F]flortaucipir 타우 PET의 문헌기반 민감도·특이도와 연령별 타우 양성률을 이용해 임상병리학적 알츠하이머(clinicopathological AD)에 대한 양성·음성예측도를 모델링한 확률 프레임워크 연구다. 사전확률 50% 가정 시 타우 PET의 PPV는 50~55세 84%에서 85~90세 75%로, NPV는 92%에서 90%로 산출됐다. 아밀로이드+타우 PET 순차검사를 적용하면 75~80세에서 PPV가 56%→83%로 크게 향상돼, 고령층에서 이중 영상바이오마커의 진단 가치를 정량적으로 뒷받침했다.",
+          "source": "Alzheimer's Research & Therapy",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42436578/",
+          "tags": ["타우PET", "아밀로이드PET", "예측도", "감별진단", "영상바이오마커"],
+          "importance": "medium"
+        },
+        {
+          "title": "혈액 바이오마커의 AD 특이적 신경변성·인지저하 예측력은 아밀로이드 상태에 따라 달라",
+          "summary": "아시아계 SAMD 코호트 150명과 ADNI 284명 등 434명에서 혈장 p-tau217·p-tau181·NfL·GFAP 4종의 AD 신호영역(내후각·하측두·중측두·방추상회) 피질두께 감소 및 인지저하 예측 기여도를 비교했다. 아밀로이드 양성군에서는 GFAP와 p-tau217이 피질 위축·인지저하의 가장 강한 예측인자였던 반면, 아밀로이드 음성군에서는 NfL이 신경변성을 더 잘 설명했다. 저자들은 혈액 바이오마커 임상 활용 시 아밀로이드 상태에 따른 층화 접근을 제안했으며, MRI 기반 신경변성 지표와의 연계를 보여준다.",
+          "source": "Journal of Prevention of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42435662/",
+          "tags": ["혈액바이오마커", "p-tau217", "GFAP", "NfL", "피질위축", "아밀로이드층화"],
+          "importance": "medium"
+        },
+        {
+          "title": "AAIC 2026: 은퇴 프로축구 선수 뇌 MRI서 전두·대상·시상 회백질 감소…약 2% 신경변성 위축",
+          "summary": "AAIC 2026(7/12 발표)에서 은퇴 프로축구 선수 142명(30~60세)과 대조군 56명을 비교한 연구가 공개됐다. 뇌 MRI를 촬영한 대상에서 기억·주의·의사결정·정서조절에 관여하는 전두·대상·시상 등 여러 영역의 회백질 용적이 대조군보다 낮았고, 신경영상의학 전문의 판독상 약 2%의 스캔에서 신경변성을 시사하는 임상적으로 유의한 위축이 확인됐다. 선수군은 우울(31% vs 9%)·불안(42% vs 25%) 비율도 높았으며 확산 MRI·혈액 바이오마커 분석이 예정됐다. 반복적 머리충격과 뇌 구조변화를 정량 뇌영상으로 연결한 사례다.",
+          "source": "PR Newswire (Alzheimer's Association)",
+          "url": "https://www.prnewswire.com/news-releases/from-the-alzheimers-association-international-conference-2026-302823298.html",
+          "tags": ["AAIC2026", "뇌MRI", "회백질위축", "반복충격", "신경변성", "축구선수"],
+          "importance": "medium"
+        }
+      ]
+    },
+    { "id": "regulatory", "title": "규제·인허가", "items": [] },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "스플래시바이오(SplashBIO), 바이오마커 기반 임상 등록 플랫폼 독립 법인으로 출범…C2N 혈액검사 통합",
+          "summary": "임상시험 등록 전문기업 스플래시 클리니컬(Splash Clinical)이 15년간 검증한 바이오마커 기반 사전선별 플랫폼을 별도 독립 법인 '스플래시바이오'로 분사(spin-out)해 7월 7일 출범시켰다. 혈액 바이오마커 검사와 디지털 인지평가를 결합한 'Connect-Validate-Assess-Enroll' 워크플로우로 알츠하이머 임상시험의 스크리닝 실패를 줄이는 PaaS(Platform-as-a-Service) 모델이며, C2N 다이아그노스틱스의 프레시비티(PrecivityAD) 질량분석 기반 혈액검사를 사전선별에 통합했다(투자 규모·투자자는 비공개). 혈액 바이오마커가 알츠하이머 진단·임상 등록 인프라로 상업화되는 흐름을 보여준다.",
+          "source": "GlobeNewswire (SplashBIO)",
+          "url": "https://www.globenewswire.com/news-release/2026/07/07/3323426/0/en/SplashBIO-Launches-as-an-Independent-Platform-Company-for-Biomarker-Driven-Clinical-Trial-Enrollment.html",
+          "tags": ["스플래시바이오", "C2N", "혈액바이오마커", "임상등록플랫폼", "분사", "알츠하이머"],
+          "importance": "medium"
+        }
+      ]
+    },
+    { "id": "competitors", "title": "경쟁사 동향", "items": [] },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "아리바이오, AAIC 2026서 경구 치매신약 'AR1001' 3상 현황·바이오마커 공개…차세대 CNS 파이프라인도 발표",
+          "summary": "국내 아리바이오가 7월 12~15일 런던 AAIC 2026에서 경구용 알츠하이머 치료 후보 'AR1001'의 글로벌 임상 3상(POLARIS-AD) 진행 현황과 혈장 pTau-217·뇌척수액 아밀로이드 바이오마커 분석 결과를 발표한다고 밝혔다. 함께 루이소체치매 후보 'AR1005'와 경두개 음향진동자극(tVAS) 전자약 등 차세대 CNS 파이프라인 성과도 공개한다. 하반기 3상 톱라인 공개를 앞둔 국내 경구 치매신약 개발사의 글로벌 학회 행보로 주목된다.",
+          "source": "팜이데일리",
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=03030726645512224",
+          "tags": ["AAIC2026", "아리바이오", "AR1001", "경구치매신약", "임상3상", "국내기업"]
+        },
+        {
+          "title": "마인드허브 '제니콕', 가정용 디지털 인지훈련서 K-MMSE2 정상화 93.9%…국내 디지털 치매관리 성과",
+          "summary": "AI 인지재활 플랫폼 기업 마인드허브가 자사 소프트웨어 '제니콕'의 가정용 디지털 인지훈련 임상 결과를 Frontiers in Neurology(2026년 4월)에 게재했다. 하루 30분·5주(24회) 훈련 후 참가자의 93.9%가 K-MMSE2 정상 범위(27점 이상)에 도달한 반면 대조군은 0%였고, 지연치료 설계로 훈련 기간 중 개선이 발생함을 확인했다. 경도인지장애 대상 국내 디지털 치료·인지훈련 근거 축적 사례를 보여준다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11100",
+          "tags": ["K-치매", "디지털치료", "인지훈련", "경도인지장애", "마인드허브"]
+        }
+      ]
+    }
+  ]
+}
