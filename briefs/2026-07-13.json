@@ -46,6 +46,38 @@
           "url": "https://www.prnewswire.com/news-releases/from-the-alzheimers-association-international-conference-2026-302823298.html",
           "tags": ["AAIC2026", "뇌MRI", "회백질위축", "반복충격", "신경변성", "축구선수"],
           "importance": "medium"
+        },
+        {
+          "title": "JAMA: 아두카누맙 4.5년 투여 알츠하이머 환자 부검 — 아밀로이드 제거 부위서 하류 신경병리·MRI 위축 진행 감소",
+          "summary": "항아밀로이드 항체 아두카누맙을 30회(약 4.5년) 투여받은 알츠하이머 환자를 사후 부검해 생체 영상과 대조한 임상병리 연구다. 아밀로이드가 광범위하게 제거된 뇌 영역은 하류 신경병리학적 변화가 더 적었고, 종단 MRI에서 미치료 대조군보다 위축 진행이 유의하게 느렸다(β=-0.50, P<.001). 아밀로이드 제거는 뇌구 깊은 부위보다 뇌회 정상부에서 우선 일어났으며, 항아밀로이드 치료 효과와 뇌 MRI 위축 지표를 직접 연결한 고임팩트(JAMA) 근거다.",
+          "source": "JAMA",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42437499/",
+          "tags": ["아밀로이드", "항아밀로이드치료", "부검", "MRI위축", "신경병리", "아두카누맙"],
+          "importance": "high"
+        },
+        {
+          "title": "항아밀로이드 항체 ARIA(아밀로이드 관련 영상이상) 위험 네트워크 메타분석 — 22개 RCT·최대 23,120명",
+          "summary": "22건의 무작위 임상시험(최대 23,120명)을 종합한 네트워크 메타분석으로, 항아밀로이드 치료는 위약 대비 혈관성 부종(ARIA-E, OR 7.93)과 미세출혈성 이상(ARIA-H, OR 1.87)을 유의하게 증가시켰다. APOE ε4 보유자에서 ARIA-E(OR 2.28)·ARIA-H(OR 2.07) 위험이 더 높았고, 도나네맙·아두카누맙에서 부종 위험이 가장 컸다. ARIA는 뇌 MRI로 검출·등급화되므로, 항아밀로이드 치료 모니터링용 뇌영상 SW가 다뤄야 할 위험 부담을 정량화한 연구다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42434897/",
+          "tags": ["ARIA", "MRI모니터링", "항아밀로이드치료", "APOE", "메타분석"],
+          "importance": "high"
+        },
+        {
+          "title": "종단 표면기반 형태계측으로 뇌건강 지표와 연관된 구조 MRI 바이오마커 발굴",
+          "summary": "건강 성인 190명을 4년간 최대 5회 MRI 촬영해 다차원 뇌건강 지수(인지·정서·사회연결성)와 뇌 구조의 상관을 분석한 종단 표면기반 형태계측 연구다. 프랙탈 차원, 뇌회지수(gyrification index), 뇌구 깊이가 뇌건강 변화 추적을 위한 잠재적 구조 MRI 바이오마커로 확인됐고, 성별 특이적 연관(남성 좌측 하두정 프랙탈 차원, 여성 좌측 설전부 뇌구 깊이)도 나타났다. 뇌 MRI 정량분석 SW가 활용할 수 있는 신규 형태계측 특징군을 제시한다.",
+          "source": "Brain Imaging and Behavior",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42437827/",
+          "tags": ["구조MRI", "표면형태계측", "프랙탈차원", "뇌건강", "바이오마커"],
+          "importance": "medium"
+        },
+        {
+          "title": "혈장 pTau217·pTau231, 파킨슨병의 치매 진행을 5년 전에 예측 — 전향 종단 코호트",
+          "summary": "파킨슨병 환자 123명과 대조군 40명을 평균 5.1년 추적한 전향 연구로, 인지 정상 파킨슨병 환자 109명 중 35명(32.1%)이 치매로 진행했다. 기저 혈장 pTau217은 치매 진행군을 잘 구분했고(AUC 0.877), pTau217 ≥0.268 pg/mL에서 치매 위험이 5.49배, pTau231 ≥2.575 pg/mL에서 3.89배 상승했다(C-index 0.806/0.796). 혈액 타우 바이오마커의 예후 가치를 알츠하이머를 넘어 파킨슨병 치매로 확장한 근거다.",
+          "source": "npj Parkinson's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42436138/",
+          "tags": ["혈액바이오마커", "pTau217", "pTau231", "파킨슨병치매", "예측"],
+          "importance": "medium"
         }
       ]
     },
@@ -60,6 +92,14 @@
           "source": "GlobeNewswire (SplashBIO)",
           "url": "https://www.globenewswire.com/news-release/2026/07/07/3323426/0/en/SplashBIO-Launches-as-an-Independent-Platform-Company-for-Biomarker-Driven-Clinical-Trial-Enrollment.html",
           "tags": ["스플래시바이오", "C2N", "혈액바이오마커", "임상등록플랫폼", "분사", "알츠하이머"],
+          "importance": "medium"
+        },
+        {
+          "title": "베크만쿨터, 혈액 'Access p-Tau217' 검사 CE 마크 획득…다나허, AD 진단 시장 본격 진입",
+          "summary": "다나허 계열 베크만쿨터 다이애그노스틱스가 7월 7일 IVDR 기준 CE 마크를 받은 혈액 기반 p-Tau217 검사 'Access p-Tau217'과 고특이성 연구용(RUO) 'Access BD-pTau217' 어세이를 공개했다. 두 검사 모두 DxI 9000 면역분석 장비에서 구동되며 인지저하 증상 환자의 아밀로이드 병리 임상평가를 지원한다. 로슈 Elecsys·후지레비오 Lumipulse에 이어 대형 진단기업이 알츠하이머 혈액검사 시장에 가세하며 진단 경쟁 구도가 확대됐다.",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/beckman-coulter-diagnostics-expands-alzheimers-portfolio-with-ce-marked-p-tau217-blood-test-and-new-high-specificity-research-assay-302818858.html",
+          "tags": ["베크만쿨터", "다나허", "pTau217", "혈액검사", "CE마크", "AD진단시장"],
           "importance": "medium"
         }
       ]
