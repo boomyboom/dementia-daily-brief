@@ -30,6 +30,22 @@
           "url": "https://aaic.alz.org/releases-2026/brain-health-changes-soccer-football-players.asp",
           "tags": ["뇌 MRI", "위험요인"],
           "importance": "medium"
+        },
+        {
+          "title": "OGA 억제제 '세포로그나스타트' 알츠하이머 2상 실패…인지지표 놓쳤으나 MRI 뇌위축·타우 감소 (JAMA)",
+          "summary": "JAMA에 게재된 초기 증상성 알츠하이머 환자 327명 대상 2상(PROSPECT-ALZ)에서 O-GlcNAcase(OGA) 억제제 세포로그나스타트는 100주차 1차 지표 iADRS에서 위약 대비 인지저하를 늦추지 못했고, 3mg 고용량군은 오히려 약 32% 더 진행했다. 다만 MRI 전뇌 용적 손실이 43~50% 감소하고 타우 PET·혈장 p-tau217/GFAP도 줄어, 영상·바이오마커 개선이 임상적 이득으로 이어지지 않는 불일치를 남겼다.",
+          "source": "JAMA",
+          "url": "https://jamanetwork.com/journals/jama/fullarticle/2851734",
+          "tags": ["임상시험", "타우", "뇌 MRI", "혈액 바이오마커"],
+          "importance": "high"
+        },
+        {
+          "title": "네플라마피모드, 레비소체 치매(DLB)서 기저전뇌 위축 억제·기능적 연결성 개선 (AAIC 2026)",
+          "summary": "세르보메드(CervoMed)가 AAIC 2026에서 공개한 데이터에 따르면 네플라마피모드는 구조·기능 MRI에서 우측 기저전뇌 용적을 위약 대비 늘리고 기저전뇌-디폴트모드망 기능적 연결성을 개선했다. 혈장 약물농도 4ng/mL 이상 도달군(40mg TID)에서 CDR-SB·CGIC·혈장 GFAP가 개선돼, 도달률 90%가 예상되는 50mg TID 3상 용량 설정의 근거를 제시했다.",
+          "source": "CervoMed (AAIC 2026)",
+          "url": "https://www.biospace.com/press-releases/cervomed-announces-new-clinical-plasma-biomarker-and-imaging-data-at-aaic-2026-for-neflamapimod-in-the-treatment-of-dementia-with-lewy-bodies-dlb",
+          "tags": ["레비소체치매", "뇌 MRI", "임상시험"],
+          "importance": "medium"
         }
       ]
     },
@@ -60,13 +76,30 @@
           "url": "https://wowtale.net/2026/07/15/261544/",
           "tags": ["식약처", "치매 치료기기"],
           "importance": "medium"
+        },
+        {
+          "title": "英 노팅엄대 스핀오프 'Quantified Imaging', 뇌혈류(ASL) MRI 분석 SW 美 FDA 허가 획득",
+          "summary": "노팅엄대 스핀오프 퀀티파이드 이미징(Quantified Imaging)이 조영제 없이 뇌 전체 혈류를 측정하는 동맥스핀표지(ASL) 기반 MRI 분석 소프트웨어로 FDA 허가를 받았다. 베이지안 추론과 자동 품질관리 기술로 기존 제품보다 정밀하게 혈류를 정량화하며, 치매·뇌졸중 진행 및 치료반응 모니터링을 목표로 한다. 2027년 초 미국 상용 판매를 시작하고, 향후 항아밀로이드 치료제의 환자 선별 도구로 확장할 계획이다.",
+          "source": "Love Business East Midlands / University of Nottingham",
+          "url": "https://www.lovebusinesseastmidlands.com/love-business-news/2026/07/13/university-of-nottingham-spin-out-s-new-mri-software-for-monitoring-conditions-such-as-alzheimer-s-disease-receives-green-light-for-roll-out-to-the-us/",
+          "tags": ["FDA", "뇌 MRI", "ASL 뇌혈류", "SaMD"],
+          "importance": "high"
         }
       ]
     },
     {
       "id": "market",
       "title": "시장·투자",
-      "items": []
+      "items": [
+        {
+          "title": "美 앤썸, 퀀테릭스 'LucentAD Complete' 알츠하이머 혈액검사 급여 개시…약 4천만 명 대상",
+          "summary": "미국 2위 건강보험사 앤썸(Anthem)이 퀀테릭스의 5종 바이오마커 알고리즘 혈액검사 'LucentAD Complete'를 기술중립적 정책(LAB.00046)에 따라 7월 1일부터 급여 대상에 포함했다. 약 4천만 명 가입자가 대상이며, AAIC 2026서 공개된 55세 이상 520명 커뮤니티 스크리닝 연구에서 인지정상군의 약 20%가 전임상 알츠하이머 소견을 보였고 단독 p-Tau217 대비 진단 모호성을 약 3배 줄였다. 혈액검사 급여 확대는 조기 진단 수요 확산의 핵심 동력으로 평가된다.",
+          "source": "Clinical Lab Products",
+          "url": "https://clpmag.com/lab-management/company-news/anthem-cover-quanterixs-lucentad-complete-alzheimers-blood-test/",
+          "tags": ["보험급여", "혈액 바이오마커", "Quanterix"],
+          "importance": "high"
+        }
+      ]
     },
     {
       "id": "competitors",
