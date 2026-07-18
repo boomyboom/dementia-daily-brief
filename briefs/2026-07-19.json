@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:00:00+09:00",
+  "headline": "뇌 신호를 해독해 알츠하이머·외상성 뇌손상 등을 진단하는 AI 플랫폼 헤미스페릭(Hemispheric)이 5,200만 달러를 유치하며 신경질환 진단 AI 투자 열기를 이어갔다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "학술·연구",
+      "items": [
+        {
+          "title": "해마 MRI 용적에 다중임계 다유전자위험점수 결합, 인지저하 예측력 강화 (Genome Medicine)",
+          "summary": "UK Biobank 참가자 23,997명으로 개발하고 ADNI·EPAD 코호트 3,000명으로 검증한 연구로, 해마 MRI 용적에 다중임계 다유전자위험점수(PGS)와 인구통계 정보를 가우시안 프로세스 회귀로 통합했다. 유전정보를 결합한 모델은 MMSE·CDR·ADAS 등 인지지표 전반에서 미래 인지저하 예측 연관성을 유의하게 강화했다. 뇌 MRI 정량지표에 유전 위험을 통합해 조기 예측 정밀도를 높이는 접근으로, MRI 기반 진단 SW의 위험층화 활용 가능성을 보여준다.",
+          "source": "Genome Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42469913/",
+          "tags": ["해마MRI", "다유전자위험점수", "인지저하예측", "ADNI"],
+          "importance": "high"
+        },
+        {
+          "title": "MRI 혈관주위공간과 AD·혈관 바이오마커 진행의 연관성 규명 (2,229명 종단분석, Annals of Neurology)",
+          "summary": "2,229명을 대상으로 MRI로 관찰되는 기저핵 혈관주위공간(PVS-BG)이 백질고신호강도(WMH) 용적과 기저·종단 모두에서 가장 강하게 연관됐고, 아밀로이드 섭취와는 횡단적으로만 상관했으며 종단적 연관은 아밀로이드 음성군에 국한됐다. 반구정중부 혈관주위공간(PVS-CSO)은 아밀로이드·타우와 무관하고 후두엽 WMH와 상관해 뇌아밀로이드혈관병증(CAA)과의 관련이 시사됐다. 저자들은 PVS-BG가 진행성 소혈관질환 위험군 식별에 유용하나 하류 AD 바이오마커 진행과의 직접 연결 근거는 제한적이라고 결론했다.",
+          "source": "Annals of Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42469606/",
+          "tags": ["MRI바이오마커", "혈관주위공간", "소혈관질환", "아밀로이드", "WMH"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가",
+      "items": []
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "뇌 신호 해독 진단 AI 헤미스페릭(Hemispheric), 5,200만 달러 투자 유치",
+          "summary": "비침습적 뇌 활동을 해독해 진단하는 AI 플랫폼 'Descartes'를 개발하는 헤미스페릭이 5,200만 달러를 유치했다. 알츠하이머병, 외상성 뇌손상(mTBI), PTSD, 우울증, 불안, 조현병 등 신경·정신질환의 객관적 진단을 목표로 하며, '혈액검사만큼 일상적인 뇌검사'를 지향한다. 뇌영상·뇌신호 기반 신경질환 진단 AI 분야로 대규모 투자가 이어지는 흐름을 보여주는 사례다.",
+          "source": "JustAI News",
+          "url": "https://justainews.com/companies/funding-news/hemispheric-raises-52m-for-brain-decoding-ai-platform/",
+          "tags": ["투자유치", "진단AI", "뇌영상", "신경질환"],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": []
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": []
+    }
+  ]
+}
