@@ -1,12 +1,37 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T09:00:00+09:00",
+  "generated_at": "2026-07-20T14:07:57+09:00",
   "headline": "서큘러 지노믹스가 원형 RNA 기반 알츠하이머 조기진단 플랫폼 'CircPATH'를 출시하며 혈액 기반 진단 경쟁이 한층 뜨거워졌다.",
   "sections": [
     {
       "id": "research",
       "title": "학술·연구",
-      "items": []
+      "items": [
+        {
+          "title": "중년기 TV 시청 많을수록 수십 년 뒤 뇌 위축·백질변성 증가 (뇌 MRI 종단분석, Alzheimer's & Dementia)",
+          "summary": "미국 ARIC 코호트 성인 약 1,700명(등록 시 평균 53세)을 20년 추적해 중년기 TV 시청 빈도와 후년 뇌 MRI 소견의 연관성을 분석했다. TV를 '매우 자주' 본 그룹은 기억 관련 영역 부피 감소, 전두엽·후두엽 위축, 백질과활성도(WMH, 소혈관질환 지표) 증가 등 초기 알츠하이머 유사 구조 변화를 보였고, 신체활동·당뇨·BMI·흡연·음주 보정 후에도 유지됐으며 남성에서 특히 두드러졌다. 뇌 MRI 구조 지표가 생활습관 기반 치매 위험을 반영할 수 있음을 보여준다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
+          "tags": ["뇌MRI", "백질변성(WMH)", "해마·피질위축", "치매위험", "생활습관", "ARIC코호트"],
+          "importance": "high"
+        },
+        {
+          "title": "미세아교세포가 아밀로이드 관련 수면 손실 유발…제거 시 하루 2시간 수면 회복 (Alzheimer's & Dementia)",
+          "summary": "APP/PS1 마우스에서 정량 EEG, 전뇌 라이트시트 영상, 미세아교세포 제거(PLX3397 14일 투여로 뇌 면역세포 약 87% 제거)를 결합해, 플라크 자체가 아니라 미세아교세포 활성이 NREM 수면 손실을 일으킴을 규명했다. 미세아교세포 제거 시 하루 약 2시간 이상 수면이 회복됐고, 수면 교란은 플라크가 출현하는 6개월 시점에 나타난 뒤 18개월까지 더 악화되지 않는 '천장효과'를 보였다. 수면·EEG 지표가 전임상 알츠하이머의 민감한 바이오마커가 될 수 있음을 시사한다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://uknow.uky.edu/research/two-hours-sleep-restored-uk-researchers-make-alzheimer-s-breakthrough",
+          "tags": ["미세아교세포", "신경염증", "수면·EEG바이오마커", "아밀로이드", "전임상알츠하이머"],
+          "importance": "medium"
+        },
+        {
+          "title": "SORLA 단백질 과발현이 타우 병리(과인산화·시드 전파) 억제…새 치료표적 제시 (Science Advances)",
+          "summary": "Sanford Burnham Prebys 연구진이 인간 SORLA를 과발현하는 마우스를 타우 엉킴·뇌위축 모델과 교배한 결과, SORLA 과발현이 타우 과인산화와 잘못 접힌 타우가 '시드'로 작용해 응집을 유도하는 과정을 억제하고 신경퇴행을 완화했다. 타우병증에서 SORLA 상향조절이 병리적 진행을 늦출 수 있음을 보여, 이 단백질의 방어 기능을 강화하는 치료제 개발 가능성을 제시했다.",
+          "source": "Science Advances",
+          "url": "https://www.news-medical.net/news/20260717/SORLA-protein-may-protect-the-brain-from-toxic-tau-tangles.aspx",
+          "tags": ["SORLA", "타우엉킴", "과인산화", "타우시드전파", "신경퇴행", "치료표적"],
+          "importance": "medium"
+        }
+      ]
     },
     {
       "id": "regulatory",
@@ -30,7 +55,15 @@
     {
       "id": "competitors",
       "title": "경쟁사 동향",
-      "items": []
+      "items": [
+        {
+          "title": "퀀테릭스(Quanterix), 신임 CFO에 제이슨 페슬러 선임",
+          "summary": "알츠하이머 혈액검사(LucentAD) 사업을 진행 중인 퀀테릭스가 제이슨 페슬러(Jason Faessler)를 최고재무책임자(CFO) 겸 재무담당으로 선임했다(효력 7월 15일). 입사 인센티브로 4년간 균등 베스팅되는 RSU 141,820주를 부여했다고 공시했다. 혈액 바이오마커 진단 경쟁사의 재무 리더십 교체 인사다.",
+          "source": "BioSpace",
+          "url": "https://www.biospace.com/press-releases/quanterix-corporation-reports-inducement-grant-under-nasdaq-listing-rule-5635c4-july-16-2026",
+          "tags": ["인사", "퀀테릭스", "CFO", "혈액바이오마커", "LucentAD"]
+        }
+      ]
     },
     {
       "id": "media",
@@ -43,6 +76,21 @@
           "url": "https://www.ftoday.co.kr/news/articleView.html?idxno=362146",
           "tags": ["보험", "아밀로이드PET", "조기진단", "레켐비", "국내"],
           "importance": "medium"
+        },
+        {
+          "title": "피플바이오, 혈액 기반 알츠하이머 조기진단 'AlzOn'으로 시장 공략",
+          "summary": "항아밀로이드 치료제 도입으로 패러다임이 '조기 발견 후 치료'로 이동하는 가운데, 피플바이오가 세계 최초 혈액 기반 알츠하이머 조기진단 제품 'AlzOn'을 앞세워 시장 공략에 나섰다. 단순 아밀로이드 농도가 아니라 신경 손상을 유발하는 베타아밀로이드의 올리고머화를 측정하는 방식이 특징이다. 글로벌 알츠하이머 진단 시장은 2025년 92억달러에서 2033년 215억달러로 성장할 것으로 전망된다.",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260720000440",
+          "tags": ["혈액검사", "조기진단", "알츠하이머", "진단시장", "피플바이오", "국내"],
+          "importance": "medium"
+        },
+        {
+          "title": "복지부, 2026년 업무계획 발표…돌봄 확대·간병비 부담 경감, 치매안심 재산관리지원 시범사업 병행",
+          "summary": "보건복지부가 7월 16일 '생명존중 복지국가' 업무계획을 발표하며 양극화 완화·돌봄 확대·지역의료 강화 등 7대 과제를 제시했다. 요양병원 중증환자 간병비 본인부담률을 100%에서 30% 내외로 낮추고, 재택의료센터를 192개소에서 250개소로, 노인맞춤돌봄서비스 대상을 55만명에서 57만6천명으로 확대한다. 치매환자 자산 보호를 위한 치매안심 재산관리지원서비스 시범사업도 함께 추진된다.",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148956615",
+          "tags": ["복지부업무계획", "돌봄정책", "간병비", "노인돌봄", "치매안심", "국내"]
         }
       ]
     }
