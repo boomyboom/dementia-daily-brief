@@ -30,6 +30,38 @@
           "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11110",
           "tags": ["해마MRI", "경도인지장애", "내수용감각", "기억력", "뇌영상"],
           "importance": "medium"
+        },
+        {
+          "title": "[18F]FDG PET, 초기 타우 관련 신경퇴행 검출에서 MRI 위축보다 우수 (ADNI 부검 코호트 n=88)",
+          "summary": "부검으로 확인된 Braak 타우 병기와 대사·위축 변화를 비교한 결과, FDG PET 대사저하는 초기~중간 단계에서도 큰 효과 크기로 검출된 반면 MRI 회백질 위축은 진행된 단계에서만 유의했다. 저자들은 FDG PET 대사저하가 MRI로 검출 가능한 위축에 선행하며 기저 타우 병리를 더 밀접하게 반영하는 민감한 조기 신경퇴행 마커라고 결론지었다. 뇌 MRI 정량 진단이 조기 단계에서 갖는 민감도 한계와 다중모달 영상의 필요성을 시사하는 부검 검증 연구다.",
+          "source": "European Journal of Nuclear Medicine and Molecular Imaging",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42474503/",
+          "tags": ["FDG-PET", "뇌MRI", "회백질위축", "타우", "조기신경퇴행", "ADNI"],
+          "importance": "high"
+        },
+        {
+          "title": "저선량 FDG PET에서 정상선량 뇌영상 복원하는 머신러닝, 임상 판독불가율 20~50%→0%로 개선 (n=41)",
+          "summary": "치매 의심 환자 41명을 대상으로 list-mode 데이터의 5%만 사용한 저선량 영상에서 정상선량 영상을 복원하는 IQT 랜덤포레스트 모델을 평가했다. AI 예측영상은 PSNR을 약 4dB 개선하고 RMSE를 낮췄으며, 맹검 판독에서 임상적 판독불가율을 20~50%에서 0%로 줄이고 판독자 신뢰도를 높였다(단 SSIM·Z-score 정량 일치도는 개선 없음). 저선량·저비용 뇌영상의 진단 활용성을 높이는 AI 영상복원 접근이다.",
+          "source": "Physics in Medicine and Biology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42468562/",
+          "tags": ["머신러닝", "저선량PET", "FDG-PET", "영상복원", "치매", "뇌영상AI"],
+          "importance": "medium"
+        },
+        {
+          "title": "2세대 타우 추적자 [18F]MK6240 기반 다중모달 영상·네트워크 연결성 파일럿 연구 (n=84)",
+          "summary": "알츠하이머 연속선상 4개 그룹(정상 Aβ음성 26명, 정상 Aβ양성 19명, MCI Aβ양성 19명, AD Aβ양성 20명)을 대상으로 타우-PET과 기능적 연결성을 분석했다. 초기 단계에서는 보상적 네트워크 과활성(전측 MTL 연결성 증가, p<0.001)이, 후기 AD에서는 후방 네트워크의 진행성 저하(p<0.01)가 관찰되어 내측측두엽(MTL)-AT/PM 연결성이 질병 진행 바이오마커가 될 수 있음을 제시했다.",
+          "source": "Academic Radiology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42476833/",
+          "tags": ["타우PET", "MK6240", "기능적연결성", "다중모달영상", "MCI", "뇌네트워크"],
+          "importance": "medium"
+        },
+        {
+          "title": "MRI 영상지표+말초 단백체 통합 알츠하이머 기전 연구 스코핑 리뷰 (63개 연구, 비핵심병리 단백질 127종)",
+          "summary": "MRI와 혈장 프로테오믹스를 결합한 63개 연구를 분석한 스코핑 리뷰로, 회백질 부피가 가장 흔히 사용된 영상지표였고 뇌혈관 기능장애가 뒤를 이었다. MRI 지표와 연관된 비핵심병리 단백질 127종을 확인했으며(5개 이상 연구에서 반복 검증된 것은 GFAP·CRP·IL-6 3종뿐), 효과 크기는 대체로 작고 이질성이 커 방법론적 표준화가 필요하다고 지적했다. 뇌 MRI 정량지표와 혈액 바이오마커를 결합하는 연구의 현주소와 한계를 정리했다.",
+          "source": "Current Alzheimer Research",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42474022/",
+          "tags": ["뇌MRI", "회백질부피", "프로테오믹스", "GFAP", "혈액바이오마커", "스코핑리뷰"],
+          "importance": "medium"
         }
       ]
     },
