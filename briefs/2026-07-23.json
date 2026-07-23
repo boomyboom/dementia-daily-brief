@@ -1,12 +1,29 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T08:11:25+09:00",
-  "headline": "기초과학연구원(IBS)이 뇌척수액이 뇌 노폐물을 배출하는 통로인 '지주막 소창'을 처음 규명하고 비침습적 비강 유전자 전달로 노화 생쥐의 배출 기능을 회복시켜, 치매 등 퇴행성 뇌질환의 새 치료 전략 가능성을 제시했다.",
+  "generated_at": "2026-07-23T14:30:00+09:00",
+  "headline": "제이엘케이가 뇌 MRI·PET을 통합해 아밀로이드·타우·뇌위축·ARIA까지 분석하는 알츠하이머 통합 의료영상 AI 플랫폼 '트레이스젠트'를 구축하며, 뇌영상 기반 치매 진단 경쟁이 한층 격화됐다.",
   "sections": [
     {
       "id": "research",
       "title": "학술·연구",
-      "items": []
+      "items": [
+        {
+          "title": "혈장 p-tau217, 알츠하이머 치매 예측력 검증…NfL·GFAP 등 병합 시 17년 추적 AUC 0.86 (인구기반 코호트 779명, EMBO Molecular Medicine)",
+          "summary": "인구기반 고령자 코호트 779명을 최대 17년 추적한 연구로, 혈장 p-tau217은 특히 추적 초기 9년 내 알츠하이머 치매 위험과 강하게 연관되며 p-tau181보다 우수했다. p-tau217에 NfL·GFAP·인구학·유전정보·아밀로이드 미스폴딩 바이오마커를 결합하면 전체 17년 추적 기간 AD 진단 AUC가 0.86에 달했고, 장기 전임상 예측에서는 미스폴딩 바이오마커가 가장 우수했다.",
+          "source": "EMBO Molecular Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42463545/",
+          "tags": ["혈액바이오마커", "p-tau217", "GFAP", "NfL", "조기예측"],
+          "importance": "high"
+        },
+        {
+          "title": "PET/MRI·혈장 바이오마커로 규명한 글림프계 기능장애: 신경염증-타우 병리 연결고리 (ADNI 355명·WHUH 59명, EJNMMI)",
+          "summary": "ADNI 355명과 WHUH 59명을 대상으로 다중모달 PET/MRI 영상과 혈장 바이오마커를 분석해, 신경염증이 글림프계 기능장애를 매개로 타우 병리 축적으로 이어지는 경로를 제시했다. 신경염증→글림프 기능(β=-0.171, P=0.046), 글림프 기능장애→타우 부담(β=0.162, P=0.010)의 연관이 확인됐고, 매개효과의 간접효과는 ADNI에서 -0.165(95% CI -0.266~-0.105)였으며 전임상·전구기 초기 단계에서 두드러졌다.",
+          "source": "European Journal of Nuclear Medicine and Molecular Imaging",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42463967/",
+          "tags": ["PET/MRI", "글림프계", "신경염증", "타우", "다중모달영상"],
+          "importance": "medium"
+        }
+      ]
     },
     {
       "id": "regulatory",
@@ -16,12 +33,30 @@
     {
       "id": "market",
       "title": "시장·투자",
-      "items": []
+      "items": [
+        {
+          "title": "브라이토닉스이미징, 올해 매출 전년(17억원) 대비 2배 이상 목표…레켐비·키순라發 뇌 PET 정량분석 수요 급증",
+          "summary": "국내 유일 뇌 전용 PET 상용화 기업 브라이토닉스이미징의 이재성 대표가 지난해 매출 17억원 대비 올해 2배 이상 성장을 목표로 제시했다. 레켐비·키순라 등 알츠하이머 치료제 처방 확대로 투약 전 아밀로이드 축적 확인과 투약 후 감소 추적을 위한 정량 PET 분석 수요가 급증하고 있으며, 미국 CMS의 아밀로이드 PET 촬영 횟수 제한 폐지로 보험 적용도 확대됐다. 자사 AI 분석 소프트웨어 'BTXBrain'은 서울대병원·삼성서울병원 등 국내 100여 개 의료기관과 미국 NIH·UC데이비스·애리조나대 연구 플랫폼에 도입됐다.",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/finance/2026/07/16/brightonix-imaging-ceo-sees-sales-doubling-on-rising-pet",
+          "tags": ["뇌PET", "브라이토닉스이미징", "아밀로이드영상", "레켐비", "키순라", "진단수요"],
+          "importance": "high"
+        }
+      ]
     },
     {
       "id": "competitors",
       "title": "경쟁사 동향",
-      "items": []
+      "items": [
+        {
+          "title": "제이엘케이, 알츠하이머 통합 의료영상 AI 플랫폼 '트레이스젠트(TRACEGENT)' 구축…MRI·PET로 치료 전주기 지원",
+          "summary": "의료 AI 기업 제이엘케이가 뇌 MRI·PET 영상을 통합 분석하는 알츠하이머병 통합 의료영상 AI 플랫폼 '트레이스젠트(TRACEGENT)'를 구축했다고 밝혔다. 뇌 위축 정량분석, 아밀로이드베타·타우 분석, 혈관 취약성 평가(ePVS), ARIA-E·ARIA-H 모니터링, DWI 기반 급성 뇌경색 감별 기능을 하나로 통합해 항아밀로이드 치료제의 대상 선별부터 투약 중 안전성 관리, 효과 평가까지 치료 전 과정을 지원한다. 뇌졸중 AI 분석 역량을 토대로 개발했으며 국내외 인허가를 거쳐 상용화할 계획이다. 뇌 MRI 기반 치매 진단 SW와 정면으로 경쟁하는 국내 경쟁사 동향이다.",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260723000492",
+          "tags": ["제이엘케이", "JLK", "트레이스젠트", "TRACEGENT", "뇌MRI", "PET", "뇌영상AI", "ARIA", "국내"],
+          "importance": "high"
+        }
+      ]
     },
     {
       "id": "media",
