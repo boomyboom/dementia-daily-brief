@@ -1,0 +1,57 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T09:00:00+09:00",
+  "headline": "MRI 없이 아밀로이드 PET만으로 조직을 분할·정량화하는 3D 딥러닝 모델이 아밀로이드 양성 판별 AUC 0.86을 기록하며, 뇌영상 정량 진단의 MRI 의존도를 낮추려는 연구가 이어졌다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "학술·연구",
+      "items": [
+        {
+          "title": "MRI 없이 딥러닝으로 아밀로이드 PET 정량화: 아밀로이드 판정 AUC 0.86 (n=373·외부검증 625스캔, Journal of Alzheimer's Disease)",
+          "summary": "PET 영상만으로 조직을 분할하는 3D 딥러닝 모델을 개발해 MRI 없이 아밀로이드 PET SUVR을 정량화했다. 참가자 373명(훈련 318·검증 55)과 외부검증 625스캔에서 MRI 기반 측정치와 Spearman ρ≥0.98의 높은 일치를 보였고, 아밀로이드 양성 판별 AUC 0.86, 인지장애 판별 AUC 0.78을 기록했다. MRI 정합 없이도 정량 지표를 얻을 수 있음을 시사한다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42489532/",
+          "tags": ["아밀로이드PET", "딥러닝", "MRI-free", "정량화"],
+          "importance": "high"
+        },
+        {
+          "title": "확장 혈관주위공간(ePVS) 자동분할 딥러닝 도구 'DORES' 개발·비교검증 (VMAP·ADNI3, Magnetic Resonance Imaging)",
+          "summary": "뇌 소혈관질환 지표인 확장 혈관주위공간을 자동 분할하는 3D 신경망 DORES를 개발해 기존 3개 도구와 비교했다. 수동 라벨 35건과 가짜라벨(pseudo-label) 1,460세션으로 학습했고, VMAP·ADNI3 데이터에서 백질 Dice 0.61, 기저핵 Dice 0.72를 보이며 대규모 데이터에서의 정량화 실현 가능성을 제시했다.",
+          "source": "Magnetic Resonance Imaging",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42486379/",
+          "tags": ["MRI", "혈관주위공간", "자동분할", "소혈관질환"],
+          "importance": "medium"
+        },
+        {
+          "title": "APOE ε4와 2형 당뇨병이 아밀로이드·타우 신경변성을 협력적으로 가속 (아밀로이드·타우 PET, EJNMMI)",
+          "summary": "아밀로이드·타우 PET 영상 분석에서 APOE ε4 보유 당뇨 환자는 심부 피질의 광범위한 아밀로이드 침착과 후두·전두엽으로의 타우 진행을 보였다. 2형 당뇨 163명(ε4 보유 64명)과 정상 대사군 1,654명(ε4 보유 687명)을 비교했으며, 병리 부담이 클수록 인지수행이 저하됐다.",
+          "source": "European Journal of Nuclear Medicine and Molecular Imaging",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42472726/",
+          "tags": ["아밀로이드PET", "타우PET", "APOE", "당뇨병"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가",
+      "items": []
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": []
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": []
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": []
+    }
+  ]
+}
