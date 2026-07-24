@@ -10,16 +10,27 @@
 
 ## 수집 대상 (섹션별)
 
-### 1. `research` — 학술·연구
-- PubMed 및 주요 저널의 신규 논문. 특히 다음 고임팩트·전문 저널을 매일 우선 확인한다:
-  - **종합의학**: NEJM(New England Journal of Medicine), The Lancet, JAMA, Nature, Science, Cell
-  - **신경과/치매 전문**: JAMA Neurology, Lancet Neurology, Nature Medicine, Nature Aging, Neurology, Brain, Alzheimer's & Dementia, Acta Neuropathologica, Molecular Neurodegeneration, Annals of Neurology
-  - **영상의학/AI**: Radiology, Radiology: Artificial Intelligence, NeuroImage, npj Digital Medicine
-- 치매/AD 바이오마커(아밀로이드, 타우, 혈액검사), 뇌영상(MRI/PET) 분석, AI 진단 모델 관련 논문 우선
-- 주요 임상시험 결과 발표 (ClinicalTrials.gov, 학회 발표 — AAIC, CTAD, AD/PD 등)
-- arXiv/medRxiv의 의료 AI·신경영상 분석 관련 프리프린트
+### 1. `research` — 진단·영상 연구 (사업 직결)
+뇌영상·진단·바이오마커·AI 진단 관련 치매/AD 논문. BeauBrain(뇌 MRI 기반 치매 진단 SW) 사업과 직접 맞닿은 연구를 여기 담는다.
+- 뇌영상(MRI/PET) 정량분석·판독, AI 진단·분류·예후 예측 모델
+- 진단 바이오마커(아밀로이드·타우·혈액검사 p-tau217/GFAP/NfL 등), 진단정확도·검증 연구
+- 진단·영상 관련 임상시험/학회 발표 (AAIC, CTAD, AD/PD 등)
 
-### 2. `regulatory` — 규제·인허가·정책
+### 2. `research_broad` — 치매 전분야 연구
+위 진단·영상 범위 밖의 치매·알츠하이머 전반 주요 연구. 사업 직결은 아니어도 분야 흐름 파악용.
+- 치료제 기전·후보물질·임상시험 (항아밀로이드·항타우·GLP-1·기타 표적)
+- 발병기전·유전·역학·위험인자, 예방·생활습관 개입
+- 디지털·인지평가, 돌봄·정책연구, 기타 치매/AD 연구
+
+**공통 — 저널 소스 & 규칙 (섹션 1·2 모두 적용)**
+- 아래 저널에서 **치매/알츠하이머(치매·MCI·AD·신경퇴행) 관련 논문만** 발췌한다. 일반 저널의 비(非)치매 논문은 제외 = "치매 한정".
+  - 종합·AI: NEJM, **NEJM AI**, JAMA · JAMA Neurology · JAMA Network Open · **JAMA Network AI 채널(jamanetwork.com/channels/ai)**, The Lancet · Lancet Neurology, Nature, Nature Medicine, Nature Aging, **Nature Communications**, Science, **Science Advances**, **Science Translational Medicine**, Cell
+  - 치매 전문: Alzheimer's & Dementia, **Alzheimer's Research & Therapy**, Neurology, Brain, Acta Neuropathologica, Molecular Neurodegeneration, Annals of Neurology
+  - 영상·디지털: Radiology, Radiology: Artificial Intelligence, NeuroImage, npj Digital Medicine
+  - 프리프린트: arXiv / medRxiv (의료 AI·신경영상)
+- **분류 기준**: 논문이 뇌영상·진단·바이오마커·AI 진단 주제면 → `research`(진단·영상), 그 외 치매/AD 주제면 → `research_broad`(전분야). 애매하면 진단 관련성이 높은 쪽으로 넣는다.
+
+### 3. `regulatory` — 규제·인허가·정책
 - FDA: 510(k), De Novo, PMA 승인 — 특히 neurology/radiology AI 소프트웨어(SaMD)
 - 한국 식약처: 의료기기 허가, 혁신의료기기 지정
 - 보건복지부/한국보건의료연구원(NECA): **신의료기술 평가, 평가유예 신의료기술, 혁신의료기술** 고시·지정
@@ -41,12 +52,12 @@
 - **국가AI전략위원회 / 관계부처 합동** — 국가 전략·계획 발표
 - 해외: CE-MDR(EUDAMED), 일본 PMDA
 
-### 3. `market` — 시장·투자
+### 4. `market` — 시장·투자
 - 치매 진단/디지털 헬스 시장 리포트, 시장 규모 전망
 - 관련 기업 투자 유치, M&A, IPO, 파트너십
 - 치료제(레켐비/Leqembi, 키순라/Kisunla 등) 시장 확대가 진단 수요에 미치는 영향
 
-### 4. `competitors` — 경쟁사 동향
+### 5. `competitors` — 경쟁사 동향
 아래 추적 목록 기업들의 신규 발표, 제품 출시, 인허가, 논문, 투자, 인사 등:
 
 **국내 (뇌영상 AI 진단)**
@@ -76,7 +87,7 @@
 
 목록에 없어도 치매 진단 분야 신규 플레이어가 눈에 띄면 포함하고, 반복적으로 등장하면 이 목록에 추가·커밋한다.
 
-### 5. `media` — 주요 언론 보도
+### 6. `media` — 주요 언론 보도
 - Alzforum, Fierce Biotech, MedTech Dive, STAT News, Endpoints News
 - 국내: 메디게이트뉴스, 청년의사, 히트뉴스, 데일리팜, 의협신문 등 의료 전문지
 - 일반 언론의 비중 있는 치매 관련 보도 (정책, 국가책임제, 돌봄 등)
@@ -102,7 +113,7 @@
   "sections": [
     {
       "id": "research",
-      "title": "학술·연구",
+      "title": "진단·영상 연구",
       "items": [
         {
           "title": "항목 제목 (한국어)",
@@ -114,7 +125,8 @@
         }
       ]
     },
-    { "id": "regulatory", "title": "규제·인허가", "items": [] },
+    { "id": "research_broad", "title": "치매 전분야 연구", "items": [] },
+    { "id": "regulatory", "title": "규제·인허가·정책", "items": [] },
     { "id": "market", "title": "시장·투자", "items": [] },
     { "id": "competitors", "title": "경쟁사 동향", "items": [] },
     { "id": "media", "title": "주요 언론", "items": [] }
