@@ -1,11 +1,11 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T14:06:04+09:00",
+  "generated_at": "2026-07-24T14:35:00+09:00",
   "headline": "정부가 '공공의료AI 고속도로'로 전국 72개 책임의료기관의 영상판독 보조 AI를 공동활용하고 AI 의료서비스 보상체계를 마련하는 'AI 기본의료 전략'을 발표하며, 뇌영상 진단 SW의 공공의료 판로·급여화 논의에 청신호가 켜졌다.",
   "sections": [
     {
       "id": "research",
-      "title": "학술·연구",
+      "title": "진단·영상 연구",
       "items": [
         {
           "title": "MRI 없이 딥러닝으로 아밀로이드 PET 정량화: 아밀로이드 판정 AUC 0.86 (n=373·외부검증 625스캔, Journal of Alzheimer's Disease)",
@@ -21,14 +21,6 @@
           "source": "Magnetic Resonance Imaging",
           "url": "https://pubmed.ncbi.nlm.nih.gov/42486379/",
           "tags": ["MRI", "혈관주위공간", "자동분할", "소혈관질환"],
-          "importance": "medium"
-        },
-        {
-          "title": "APOE ε4와 2형 당뇨병이 아밀로이드·타우 신경변성을 협력적으로 가속 (아밀로이드·타우 PET, EJNMMI)",
-          "summary": "아밀로이드·타우 PET 영상 분석에서 APOE ε4 보유 당뇨 환자는 심부 피질의 광범위한 아밀로이드 침착과 후두·전두엽으로의 타우 진행을 보였다. 2형 당뇨 163명(ε4 보유 64명)과 정상 대사군 1,654명(ε4 보유 687명)을 비교했으며, 병리 부담이 클수록 인지수행이 저하됐다.",
-          "source": "European Journal of Nuclear Medicine and Molecular Imaging",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42472726/",
-          "tags": ["아밀로이드PET", "타우PET", "APOE", "당뇨병"],
           "importance": "medium"
         },
         {
@@ -58,8 +50,54 @@
       ]
     },
     {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "SORLA 단백질, 타우 엉킴 독성으로부터 뇌를 보호한다 (Science Advances)",
+          "summary": "미국 Sanford Burnham Prebys 연구진이 SORLA 단백질을 과발현시킨 타우병증 생쥐에서 타우 축적과 과인산화, 뇌 위축이 유의하게 줄고 시냅스가 보존됨을 확인했다. 반대로 Sorl1 유전자를 결손시키면 타우 독성이 악화돼, SORLA가 알츠하이머병과 타우 관련 치매의 새로운 치료 표적이 될 수 있음을 시사한다.",
+          "source": "Science Advances",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aed6825",
+          "tags": ["타우", "치료표적"],
+          "importance": "high"
+        },
+        {
+          "title": "배우자가 치매면 본인 치매 위험도 약 70% 높아진다 (JAMA Network Open)",
+          "summary": "대만 국민건강보험 DB(1998-2022) 약 95만 명을 분석한 대규모 코호트 연구로, 배우자가 치매인 사람은 전체 치매 위험이 여성 HR 1.74(95% CI 1.70-1.78), 남성 HR 1.69(1.64-1.73)로 유의하게 높았다. 알츠하이머병과 혈관성 치매 모두 비슷한 경향을 보여 돌봄 부담과 공유 생활환경의 영향을 시사한다.",
+          "source": "JAMA Network Open",
+          "url": "https://doi.org/10.1001/jamanetworkopen.2026.24175",
+          "tags": ["역학", "위험요인"],
+          "importance": "high"
+        },
+        {
+          "title": "APOE ε4와 2형 당뇨병이 아밀로이드·타우 신경변성을 협력적으로 가속 (아밀로이드·타우 PET, EJNMMI)",
+          "summary": "아밀로이드·타우 PET 영상 분석에서 APOE ε4 보유 당뇨 환자는 심부 피질의 광범위한 아밀로이드 침착과 후두·전두엽으로의 타우 진행을 보였다. 2형 당뇨 163명(ε4 보유 64명)과 정상 대사군 1,654명(ε4 보유 687명)을 비교했으며, 병리 부담이 클수록 인지수행이 저하됐다.",
+          "source": "European Journal of Nuclear Medicine and Molecular Imaging",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42472726/",
+          "tags": ["APOE", "당뇨병", "위험요인"],
+          "importance": "medium"
+        },
+        {
+          "title": "반복적 전신 염증이 알츠하이머 뇌의 신경혈관 조절을 악화시킨다 (Alzheimer's & Dementia)",
+          "summary": "생체 내 종단 영상으로 반복적인 전신 염증이 알츠하이머병 생쥐의 별아교세포 칼슘 반응과 기능적 충혈(신경혈관 조절)을 더욱 억제함을 처음으로 규명했다. 반복되는 염증 에피소드가 초기 알츠하이머병의 혈관 기능장애에 기여할 수 있음을 보여준다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71607",
+          "tags": ["염증", "병태생리"],
+          "importance": "medium"
+        },
+        {
+          "title": "치매 환자 입원을 줄이는 개입, 근거는 아직 불충분 (Alzheimer's & Dementia 우산형 리뷰)",
+          "summary": "25개 체계적 문헌고찰·77개 연구·약 148만 명을 종합한 우산형 리뷰 결과, 사례관리와 운동 프로그램은 입원 감소 효과가 없었고(높은 확실성), 사전돌봄계획과 다학제팀 내 임상약사 배치는 입원·재입원을 줄일 가능성이 확인됐다. 전반적으로 근거가 불충분해 고품질 무작위대조시험이 필요하다고 결론지었다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71323",
+          "tags": ["돌봄", "보건서비스"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
       "id": "regulatory",
-      "title": "규제·인허가",
+      "title": "규제·인허가·정책",
       "items": [
         {
           "title": "정부, '보건의료 AI 대전환' 담은 'AI 기본의료 전략' 발표…'공공의료AI 고속도로'로 영상판독 공동활용 (2026-07-22, 관계부처 합동)",
