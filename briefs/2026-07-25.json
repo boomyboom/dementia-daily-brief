@@ -1,12 +1,20 @@
 {
   "date": "2026-07-25",
-  "generated_at": "2026-07-25T08:05:00+09:00",
+  "generated_at": "2026-07-25T14:05:00+09:00",
   "headline": "무증상 아밀로이드 양성자의 5년 내 알츠하이머 발병률은 8%에 불과하다는 프랑스 연구가 '바이오마커만으로 진단' 기준의 과잉진단 위험을 경고하며, 임상 증상과 뇌영상을 함께 보는 진단 접근의 중요성이 부각됐다.",
   "sections": [
     {
       "id": "research",
       "title": "진단·영상 연구",
       "items": [
+        {
+          "title": "자동 뇌 MRI 용적측정 머신러닝으로 전두측두엽치매 vs 알츠하이머 감별: 외부검증 정확도 88.8%·AUC 0.929 (n=847, AJNR)",
+          "summary": "NIFD·ADNI 758명으로 학습한 XGBoost 분류기가 자동 뇌 MRI 용적, 비대칭 지수, MMSE, 연령·성별 보정치를 결합해 전두측두엽치매(FTD)를 알츠하이머병·정상과 감별했다. 내부검증에서 정확도 91.4%·민감도 87.0%·특이도 95.1%·AUC 0.954, 3차병원 외부검증 89명에서 정확도 88.8%·AUC 0.929를 기록했다. 판독자 연구에서 알고리즘 보조 시 숙련 영상의학과의는 판독시간이 유의하게 단축됐고 경험이 적은 판독자는 정확도가 향상돼, 뇌 MRI 용적 기반 치매 감별진단 SW로 BeauBrain 사업과 직결된다.",
+          "source": "American Journal of Neuroradiology (AJNR)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42498651/",
+          "tags": ["뇌MRI", "용적측정", "감별진단", "전두측두엽치매", "머신러닝", "XGBoost", "AI진단"],
+          "importance": "high"
+        },
         {
           "title": "결측·불균형 멀티모달 데이터에서도 알츠하이머 진단: 그래프-MoE 프레임워크 'UniMIX-AD', ADNI 정확도 평균 7.1%p↑ (Medical Image Analysis)",
           "summary": "실제 임상에서 흔한 영상 모달리티 결측과 데이터 불균형 문제를 해결하기 위해 그래프 기반 전문가혼합(Mixture-of-Experts) 프레임워크 UniMIX-AD를 제안했다. ADNI·OASIS-3 데이터에서 임의의 모달리티가 빠져도 진단이 가능했고, ADNI에서 평균 정확도가 7.1% 향상됐으며 희소(tail) 모달리티 조합에서는 최대 14.3%까지 개선됐다. 뇌영상 기반 AI 치매 진단의 실사용 견고성을 높이는 방법론 연구로 BeauBrain 사업과 직결된다.",
@@ -68,6 +76,30 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42492033/",
           "tags": ["임상시험", "효능지표", "표준화", "체계적문헌고찰", "치료연구"],
           "importance": "medium"
+        },
+        {
+          "title": "젊은 성인기 정신병리, 50세 이후 치매 위험 예측…일반 정신병리 요인 OR 1.25·정신증 요인 1.20 (형제자매 254만 명, Molecular Psychiatry)",
+          "summary": "스웨덴 형제자매쌍 148만 쌍(총 254만3,621명)을 분석해 젊은 성인기 정신질환·잠재 정신병리 요인과 후년 치매의 연관을 가족 교란요인 보정 후 평가했다. 모든 정신과 진단이 전치매 위험(HR 2.03~3.59)·알츠하이머 위험(HR 1.89~3.47)과 유의하게 연관됐고, 가족요인 보정 후에도 일반 정신병리 요인은 치매 OR 1.25(1.17~1.32)·AD OR 1.24, 정신증 특이요인은 치매 OR 1.20(1.07~1.36)으로 독립적 연관을 유지했다. 초기 성인기의 전반적 정신병리와 정신증 소인이 치매의 조기 위험표지가 될 수 있음을 시사한다.",
+          "source": "Molecular Psychiatry",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42498782/",
+          "tags": ["역학", "정신병리", "위험요인", "치매예측", "형제자매코호트"],
+          "importance": "medium"
+        },
+        {
+          "title": "식물 위주 케톤식+간헐적 단식, 초·중기 알츠하이머 인지 안정에 효과…6개월 MMSE +0.9 vs 대조군 -1.5 (무작위대조시험 n=60, J Nutr Health Aging)",
+          "summary": "CDR 1~2·55~85세 알츠하이머 환자 60명을 식물 위주 케톤식과 간헐적 단식을 병행한 중재군(30명)과 대조군(30명)으로 나눈 평가자 눈가림 무작위대조시험이다. 6개월 후 MMSE가 중재군은 +0.9점 상승한 반면 대조군은 -1.5점 하락했고, 인지 안정 유지 비율이 중재군 93% 대 대조군 70%로 군간 인지변화 차이가 유의했다(p<0.001). 소규모지만 식이 기반 비약물 중재의 초·중기 AD 인지 보존 가능성을 제시했다.",
+          "source": "Journal of Nutrition, Health & Aging",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42497811/",
+          "tags": ["식이중재", "케톤식", "간헐적단식", "인지보존", "무작위대조시험"],
+          "importance": "medium"
+        },
+        {
+          "title": "Src 계열 인산화효소 YES, 샤페론 DNAJB6b 인산화로 타우 응집 촉진…알츠하이머 뇌서 Y53 인산화 증가 (Journal of Biological Chemistry)",
+          "summary": "Src 계열 인산화효소 YES가 샤페론 DNAJB6b의 J-도메인 티로신53(Y53)을 인산화하면 DNAJB6b-Hsp70 결합이 강해져 타우 분해(disaggregation)가 저해되고 타우 응집이 축적됨을 규명했다. 알츠하이머 환자 뇌조직에서 DNAJB6b Y53 인산화가 증가해 있어, YES 인산화효소 상향조절이 타우 병리와 AD 위험을 높이는 기전으로 지목됐다. YES-DNAJB6b 신호가 타우 표적 치료의 새로운 개입점이 될 수 있음을 시사하는 기전 연구다.",
+          "source": "Journal of Biological Chemistry",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42497989/",
+          "tags": ["기전", "타우", "인산화효소YES", "DNAJB6b", "샤페론", "치료표적"],
+          "importance": "medium"
         }
       ]
     },
@@ -86,6 +118,14 @@
           "source": "이투데이",
           "url": "https://www.etoday.co.kr/news/view/2605700",
           "tags": ["알츠하이머", "치료제시장", "레켐비", "키순라", "타우", "ABL바이오", "아델"],
+          "importance": "medium"
+        },
+        {
+          "title": "ALZpath, 알라마 바이오사이언스와 계약 확대…독점 pTau217 항체를 임상용 알츠하이머 혈액검사(IVD)에 상용화 허용",
+          "summary": "ALZpath가 2024년 2월 연구용(RUO) 협력에서 출발한 알라마 바이오사이언스와의 전략적 계약을 임상 진단(체외진단, IVD)으로 확대했다. 이번 계약으로 알라마와 그 고객·협력사는 ALZpath의 독점 pTau217 항체를 임상용 혈액검사 개발에 활용할 수 있게 됐으며(재무 조건 미공개), 미국 임상검사·검사의학회(ADLM) 연례회의에서 발표됐다. pTau217 기반 혈액 진단의 임상 접근성 확대를 겨냥한 파트너십으로 혈액 바이오마커 진단 시장 경쟁 심화를 보여준다.",
+          "source": "Clinical Lab Products",
+          "url": "https://clpmag.com/lab-management/company-news/alzpath-alamar-expand-partnership-alzheimers-blood-tests/",
+          "tags": ["알츠하이머", "혈액검사", "pTau217", "ALZpath", "알라마바이오사이언스", "IVD", "파트너십"],
           "importance": "medium"
         }
       ]
@@ -106,6 +146,13 @@
           "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11118",
           "tags": ["아밀로이드", "무증상양성", "과잉진단", "진단기준", "바이오마커", "치매정책"],
           "importance": "high"
+        },
+        {
+          "title": "[유명인의 치매] 로빈 윌리엄스, 사후 부검서야 드러난 루이소체치매…파킨슨병 오진의 교훈 (디멘시아뉴스)",
+          "summary": "디멘시아뉴스가 '유명인의 치매' 기획으로 배우 로빈 윌리엄스(1951~2014)의 사례를 다뤘다. 2013년부터 변비·배뇨장애·떨림·환각을 동반한 극심한 불안이 산발적으로 나타났고 2014년 파킨슨병으로 진단됐으나, 사후 부검에서 뇌 전반에 광범위한 루이소체 병리가 확인돼 미만성 루이소체치매(DLB)로 밝혀졌다. 기사는 DLB가 알츠하이머와 달리 기억저하에 앞서 인지 변동·환시·파킨슨 증상을 보이고 항정신병약에 과민반응을 일으켜, 생전 정확한 감별진단이 치료계획에 결정적임을 강조했다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11116",
+          "tags": ["루이소체치매", "감별진단", "파킨슨병", "유명인의치매", "인지변동", "환시"]
         }
       ]
     }
