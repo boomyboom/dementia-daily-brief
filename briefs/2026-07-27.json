@@ -1,0 +1,87 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T09:00:00+09:00",
+  "headline": "고해상도 3T MRI에서 전반적 해마 위축보다 좌측 소구(subiculum)·CA1 같은 특정 하위영역 용적이 기억력을 더 잘 예측한다는 연구가 나오며, 뇌 MRI 용적 정량분석의 정밀도를 하위영역 단위로 끌어올릴 필요성이 부각됐다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "고해상도 3T MRI 해마 하위영역 위축이 기억력과 직결…MCI서 좌측 해마·소구·CA1·치상회 용적 감소 (CU·SCD·MCI, Alzheimer's & Dementia: DADM)",
+          "summary": "인지정상(CU)·주관적인지저하(SCD)·경도인지장애(MCI) 노인을 고해상도 T2 3T MRI로 촬영해 해마 하위영역 용적과 기억력 관계를 분석했다. MCI군은 좌측 전체 해마·소구(subiculum)·CA1·치상회 용적이 CU/SCD 대비 유의하게 감소했고, LASSO 회귀에서 전체 해마 용적을 넘어 좌측 소구·CA1 용적이 기억력을 유의하게 예측했다. 전반적 해마 위축보다 특정 하위영역 위축이 임상적 기억 차이를 더 잘 설명해, 뇌 MRI 용적 정량화를 진단에 쓰는 BeauBrain의 하위영역 단위 정밀 분석 전략과 직결된다.",
+          "source": "Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42502782/",
+          "tags": ["뇌MRI", "해마하위영역", "용적측정", "MCI", "기억력", "영상바이오마커"],
+          "importance": "high"
+        },
+        {
+          "title": "miRNA + 머신러닝으로 알츠하이머·루이소체·전두측두엽치매 감별 스크리닝: 교차검증 정확도 AD 90.6%·LBD 92.9%·FTD 100% (Int J Neural Systems)",
+          "summary": "조절이상 miRNA를 서열 특성·예측 표적유전자·KEGG 경로 특징으로 기술해 3대 치매를 감별하는 머신러닝 모델을 개발했다. 교차검증 정확도는 AD 90.6%·LBD 92.9%·FTD 100%, 독립 데이터셋에서는 AD 88.9%·LBD 77.8%·FTD 90.9%였다. 질환 간 교차검증 시 성능이 낮아져 부분적으로 질환특이적 miRNA 패턴이면서도 분자 시그니처가 겹침을 시사했다. 혈액 miRNA 기반 비침습 감별진단 가능성을 제시한 연구다.",
+          "source": "International Journal of Neural Systems",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42502242/",
+          "tags": ["miRNA", "머신러닝", "감별진단", "루이소체치매", "전두측두엽치매", "혈액바이오마커"],
+          "importance": "medium"
+        },
+        {
+          "title": "혈청 NfL, 백질 미세구조 변화와 해부학적으로 특이적 연관…임상 AD군서 좌측 대상속 축방향확산 감소 (아밀로이드양성 91명, 브라질, J Alzheimers Dis)",
+          "summary": "브라질 코호트 91명(정상 27명·아밀로이드양성 MCI/치매 64명)에서 혈액 신경퇴행 바이오마커와 확산텐서영상(DTI) 백질 지표를 함께 분석했다. 임상 AD군에서는 혈청 NfL 상승이 좌측 대상속(cingulum) 축방향확산 감소와 연관(r=-0.372, p=0.007)됐으나, 정상군에서는 우측 대상속에서 반대로 양의 연관(r=0.650·0.607)이 나타났고 GFAP은 백질 지표와 유의한 연관이 없었다. 혈액 바이오마커와 확산 MRI를 결합해 신경퇴행의 해부학적 특이성을 평가한 연구다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42487153/",
+          "tags": ["혈액바이오마커", "NfL", "DTI", "백질미세구조", "확산MRI", "GFAP"],
+          "importance": "medium"
+        },
+        {
+          "title": "지역사회 다중모달 인지장애 검출 경로 'CogScreen I' 실증: 473명 대상 혈액바이오마커+디지털검사로 3개 치매위험군 층화 (Scientific Reports)",
+          "summary": "독일 뮌헨 노인복지관 지역거주 노인 473명(평균 74.1세·여성 66%)을 대상으로 한 군집무작위 시험에서, 주관적인지저하 설문(SCD-Q) 단독, +디지털 인지검사, +혈액바이오마커(Aβ42/40·pTau181·GFAP·NfL) 3단계 검출 경로의 실행가능성을 평가했다. 완료자 441명에서 수용성·실행가능성이 높았고 다중모달 군집분석으로 저위험·중간·고위험 3개 치매위험 프로파일을 식별했다. 혈액 바이오마커 기반 단계적 조기검출 경로의 지역사회 적용 가능성을 보여준다.",
+          "source": "Scientific Reports",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42486877/",
+          "tags": ["조기검출", "혈액바이오마커", "다중모달", "지역사회검진", "위험층화"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "인공와우 이식자, 20년 코호트서 전체 치매 위험 39% 낮아 (HR 0.61, 4,106명, Alzheimer's & Dementia: DADM)",
+          "summary": "인공와우(cochlear implant) 이식자 4,106명과 미치료 난청 대조군을 비교한 20년 코호트(중앙추적 7.3년)에서 이식자의 전체 치매 위험이 39% 낮았다(HR 0.61, 95% CI 0.50-0.74). 경도인지장애(HR 0.53)와 기억력 저하(HR 0.54) 위험도 유의하게 낮아 남녀 모두에서 일관됐고, 조기 청각 개입이 치매 예방 전략이 될 수 있음을 시사했다.",
+          "source": "Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42502781/",
+          "tags": ["난청", "인공와우", "치매예방", "위험인자", "코호트"],
+          "importance": "medium"
+        },
+        {
+          "title": "메디케어 '연례 웰니스 방문'과 조기 치매 진단: MCI 진단 28% 증가, 확정 치매(ADRD) 진단 증가는 없어 (13.3만명, JAGS)",
+          "summary": "성향점수매칭한 메디케어 수급자 각 66,443명(총 132,886명)을 비교한 결과, 연례 웰니스 방문(AWV)을 받은 군에서 경도인지장애(MCI) 진단이 28% 증가했으며 방문 후 검사 시행이 그 증가의 14%를 매개했다. 다만 알츠하이머 등 치매(ADRD) 진단 증가와는 연관이 없어, 예방적 방문이 조기 인지검사로는 이어지나 확정 치매 진단 증가로는 연결되지 않는 한계를 보였다.",
+          "source": "Journal of the American Geriatrics Society",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42497446/",
+          "tags": ["정책연구", "조기진단", "경도인지장애", "메디케어", "돌봄"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": []
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": []
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": []
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": []
+    }
+  ]
+}
