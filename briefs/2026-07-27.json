@@ -38,6 +38,14 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42486877/",
           "tags": ["조기검출", "혈액바이오마커", "다중모달", "지역사회검진", "위험층화"],
           "importance": "medium"
+        },
+        {
+          "title": "공간 전사체+MRI 회백-백질 대비로 알츠하이머 국소 취약성의 유전·세포구축 상관 규명 (NeuroImage, 정상 1,447명·AD 1,447명)",
+          "summary": "공간 전사체(spatial transcriptomics)와 MRI 회백-백질 대비(gray-white matter contrast, C)를 결합해 알츠하이머병(AD)의 뇌 부위별 취약성에 대한 유전적·세포구축학적 상관을 분석했다. 정상 1,447명·AD 1,447명(NACC 2,286명, ADNI 608명 검증)에서 AD에서만 C값과 유의하게 상관되는 25개 유전자를 식별했고, 이들이 노화 취약 부위의 특정 세포유형과 연관됨을 아밀로이드·타우 PET로 검증했다. MRI 정량지표를 분자·세포 수준 병태생리와 잇는 영상유전학 연구다.",
+          "source": "NeuroImage",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42486312/",
+          "tags": ["뇌MRI", "영상유전학", "공간전사체", "PET", "알츠하이머"],
+          "importance": "medium"
         }
       ]
     },
@@ -60,6 +68,14 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42497446/",
           "tags": ["정책연구", "조기진단", "경도인지장애", "메디케어", "돌봄"],
           "importance": "medium"
+        },
+        {
+          "title": "DeepPlaque: 알츠하이머 아밀로이드베타 병리·세포 분석용 확장형 멀티모달 딥러닝 플랫폼 (EMBO Molecular Medicine)",
+          "summary": "알츠하이머병 뇌조직의 아밀로이드베타(Aβ) 플라크와 주변 세포를 대규모로 자동 정량·분석하는 확장형 멀티모달 딥러닝 플랫폼 DeepPlaque를 제시했다. 조직병리 이미지 기반으로 Aβ 병리 부담과 세포 변화를 통합 분석해 발병기전 연구·약물 검증에 활용할 수 있는 도구를 제공한다.",
+          "source": "EMBO Molecular Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42481826/",
+          "tags": ["딥러닝", "아밀로이드", "병리분석", "조직영상", "발병기전"],
+          "importance": "medium"
         }
       ]
     },
@@ -81,7 +97,16 @@
     {
       "id": "media",
       "title": "주요 언론",
-      "items": []
+      "items": [
+        {
+          "title": "[현장] 집·의료·돌봄을 하나로…미국 'Aging in Place', AI는 사람을 대신할 수 있나 (디멘시아뉴스)",
+          "summary": "미국 노스캐롤라이나대 샬럿의 오틸리아 리 교수가 미국의 'Aging in Place'와 AI 기반 통합돌봄을 주제로 강연했다. Aging in Place는 단순 재택 거주가 아니라 가족·이웃·지역사회의 관계망 연결이 전제이며, 샌프란시스코 비영리기관에서 시작해 전국으로 확산된 통합돌봄 모델 PACE를 소개했다. AI는 돌봄 접근성 확대·행정부담 경감에 기여할 수 있으나 그 혜택이 불평등하게 배분될 수 있음을 경고하며, AI가 인간관계를 대체하지 않으면서 포용성·투명성·자율성을 보장해야 한다고 강조했다. 국내 치매 국가책임제·통합돌봄 확대 논의에 시사점을 준다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11119",
+          "tags": ["치매돌봄", "통합돌봄", "AI헬스케어", "정책"],
+          "importance": "medium"
+        }
+      ]
     }
   ]
 }
