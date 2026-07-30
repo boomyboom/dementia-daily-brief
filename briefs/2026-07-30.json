@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T10:40:00+09:00",
+  "generated_at": "2026-07-30T14:11:20+09:00",
   "headline": "인지정상 노인에서 혈장 p-tau217·GFAP·NfL이 해마·편도체 등 서로 다른 뇌 구조 위축을 조기에 예측한다는 스웨덴 종단연구(Annals of Neurology, n=361)가 나오며, 혈액 바이오마커와 뇌 MRI 정량지표를 결합한 초기 치매 진단 접근의 근거가 강화됐다.",
   "sections": [
     {
@@ -14,6 +14,30 @@
           "url": "https://pubmed.ncbi.nlm.nih.gov/42515850/",
           "tags": ["혈액바이오마커", "p-tau217", "GFAP", "NfL", "MRI", "뇌위축"],
           "importance": "high"
+        },
+        {
+          "title": "뇌실주변 백질고신호(JVWMH) 지형이 알츠하이머 인지장애를 감별·예측: 공간 계층화 백질 지표가 기존 WMH 평가보다 우수 (Eur Radiol Exp, AIBL n=295·기억력클리닉 n=82)",
+          "summary": "호주 AIBL 코호트 295명과 기억력클리닉 82명 두 코호트에서 뇌실주변(juxtaventricular) 백질고신호(JVWMH) 용적이 인지장애(CI)와 정상인지(CN)를 유의하게 감별했고, 종단 AIBL 데이터에서 인지저하를 예측했으며 뇌척수액 용적과 인지의 연관을 부분매개했다. 반면 비-뇌실주변 WMH와 Fazekas 점수는 유의한 진단·예측력을 보이지 않아, 공간적으로 계층화한 백질 정량지표가 전반적 WMH 평가보다 진단·예후 가치가 높음을 보였다. 뇌 MRI 백질 정량분석을 세부 지형 단위로 정밀화하는 접근으로 BeauBrain의 MRI 정량 바이오마커 전략과 직결된다.",
+          "source": "European Radiology Experimental",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42525186/",
+          "tags": ["뇌MRI", "백질고신호", "WMH", "용적측정", "영상바이오마커", "AIBL"],
+          "importance": "high"
+        },
+        {
+          "title": "연속 아밀로이드 PET로 도나네맙 치료 후 아밀로이드 부담 급감 확인: Centiloid 평균 58점 감소, 85%가 양성→음성 전환 (Jpn J Radiol, 실사용 n=20)",
+          "summary": "도나네맙 치료 전후 연속 아밀로이드 PET을 촬영한 실사용 코호트 20명에서 Centiloid 값이 기저 52.3±23.4에서 치료 후 -5.6±16.5로 평균 58.0점 감소했고(p<0.001) 20명 전원에서 감소했다. 시각판독에서는 17/20명(85%)이 아밀로이드 양성에서 음성으로 전환됐다. 정량 아밀로이드 PET이 항아밀로이드 치료 반응을 모니터링하는 실환경 영상 도구로서 유용함을 보여, 뇌영상 정량분석 기반 치료 선별·추적 수요와 직결된다.",
+          "source": "Japanese Journal of Radiology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42507054/",
+          "tags": ["아밀로이드PET", "Centiloid", "정량영상", "도나네맙", "치료모니터링", "실사용"],
+          "importance": "medium"
+        },
+        {
+          "title": "치매 감별진단을 위한 관류영상 비교 종설: CT·MRI(ASL/DSC/DCE)·SPECT·PET의 진단적 활용과 판독 함정 (Acta Neurol Belg)",
+          "summary": "알츠하이머병(AD)·루이소체치매(DLB)·전두측두엽치매/원발진행실어(FTD/PPA)·파킨슨병치매(PDD) 감별을 위해 뇌 관류(perfusion) 영상 모달리티인 CT, MRI(ASL/DSC/DCE), SPECT, PET을 비교하고 각 기법의 진단적 유용성과 해석상의 함정을 정리한 종설이다. 관류 저하 패턴이 치매 아형별로 다르게 나타나는 점과 정량·판독 시 주의점을 종합해, MRI 기반 정량영상으로 치매를 감별하는 진단 소프트웨어 개발에 참고가치가 있다.",
+          "source": "Acta Neurologica Belgica",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42525357/",
+          "tags": ["관류영상", "ASL", "MRI", "PET", "SPECT", "감별진단", "종설"],
+          "importance": "medium"
         }
       ]
     },
@@ -59,6 +83,38 @@
           "source": "Nature Aging",
           "url": "https://doi.org/10.1038/s43587-026-01185-0",
           "tags": ["인지평가", "디지털바이오마커", "조기진단", "관점논문"]
+        },
+        {
+          "title": "알츠하이머병에서 '미토콘드리아 플라크'라는 새 병리 구조 규명: 미토파지·리소좀 기능장애가 원인 (Nature Neuroscience)",
+          "summary": "미토파지 리포터 형질전환 마우스와 사람 AD 뇌조직을 분석해, 손상 미토콘드리아가 리소좀이 분해하는 속도보다 빠르게 신경돌기에 축적되며 형성되는 '미토콘드리아 플라크(MP)'라는 기존에 알려지지 않은 병리 구조를 처음 규명했다. MP는 아밀로이드 플라크와 흔히 공존하지만 질병 초기에 독립적으로도 출현할 수 있었고 5xFAD 모델과 사람 AD 뇌에서 모두 확인돼, 미토파지 장애가 AD 병태생리의 새로운 축임을 제시한다.",
+          "source": "Nature Neuroscience",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42527552/",
+          "tags": ["병태생리", "미토콘드리아", "미토파지", "리소좀", "기초연구"],
+          "importance": "high"
+        },
+        {
+          "title": "효소 TALDO1 감소가 오탄당인산경로 붕괴·시냅스 기능장애 유발: 새 대사 치료표적 제시 (Translational Neurodegeneration)",
+          "summary": "알츠하이머병에서 transaldolase 1(TALDO1)이 유의하게 감소하며, 이 저하가 오탄당인산경로(PPP)·TCA 회로·산화적 인산화를 억제해 광범위한 포도당 대사 붕괴와 항산화 방어 고갈, 미토콘드리아 손상, 시냅스 기능장애를 초래함을 규명했다. AD 마우스 모델에서 TALDO1 발현을 회복시키자 포도당 흡수 증가, 산화스트레스 감소, 신경·인지기능 회복이 관찰돼 신경세포 대사 항상성 회복을 겨냥한 치료표적으로 제시됐다.",
+          "source": "Translational Neurodegeneration",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42527927/",
+          "tags": ["치료표적", "포도당대사", "TALDO1", "시냅스", "전임상"],
+          "importance": "medium"
+        },
+        {
+          "title": "미세아교세포 활성화 프로그램의 전사조절인자 31종 규명: CRISPR 스크리닝 (Neuron)",
+          "summary": "CRISPR 스크리닝과 단일세포 전사체 분석으로 질환 관련 미세아교세포 활성화 상태를 조절하는 31개 조절유전자를 규명했다. ZNF532·PRDM1 녹다운은 지질이 풍부한 질환연관 시그니처를 유도하면서 식균작용을 증가시켰고, DNMT1 녹다운은 광범위한 DNA 메틸화 소실과 인터페론 신호 활성화를 유발했다. 미세아교세포 활성화 이상은 알츠하이머병 등 다수 뇌질환에서 나타나므로, 이 조절 네트워크는 신경변성 치료표적 탐색에 기초 근거를 제공한다.",
+          "source": "Neuron",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42526428/",
+          "tags": ["미세아교세포", "신경염증", "발병기전", "CRISPR", "기초연구"],
+          "importance": "medium"
+        },
+        {
+          "title": "가정용 맞춤형 광(光)치료, 경도인지장애의 인지·수면 개선: 무작위 대조시험 (n=61)",
+          "summary": "경도인지장애 노인 61명(평균 69.7세, MoCA 21.4)을 대상으로 한 무작위 위약대조시험에서 능동 광치료군이 위약 대비 ADAS-Cog 기억점수 개선이 더 컸고(p=0.035), 25주째 아침 일주기 자극 노출이 증가했다(0.021 vs -0.030, p=0.025). 수면 지표에서도 수면효율 개선(p=0.042), 각성비율 감소(p=0.023), 입면 후 각성시간 단축(2.19 vs 8.23분, p=0.031)이 능동군에서 유의해, 비약물 광치료가 MCI에서 인지·수면 개선의 가능성을 시사한다.",
+          "source": "Journal of Applied Gerontology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42527889/",
+          "tags": ["예방", "비약물중재", "광치료", "경도인지장애", "무작위대조시험"],
+          "importance": "medium"
         }
       ]
     },
@@ -91,7 +147,16 @@
     {
       "id": "competitors",
       "title": "경쟁사 동향",
-      "items": []
+      "items": [
+        {
+          "title": "C2N '프리시비티AD2' 혈액검사, 英 임페리얼칼리지런던 1차의료 진단경로에 통합…BEAD-PC 연구 착수",
+          "summary": "미국 C2N Diagnostics의 알츠하이머 혈액검사 PrecivityAD2가 다보스 알츠하이머 협력체(DAC)를 통해 영국 임페리얼칼리지런던의 진단 경로에 통합됐다고 7월 29일 발표됐다. 'BEAD-PC'(1차의료 조기·정확 진단 위한 혈액바이오마커) 연구는 지난 5월부터 환자 모집을 시작해, 전문의 영상·뇌척수액 검사 대신 일반의(GP)가 1차의료 현장에서 혈액검사로 알츠하이머를 선별하는 유효성을 검증한다. 혈액바이오마커가 영상·CSF에 준하는 민감도·특이도로 1차의료 진단 게이트키퍼 역할로 확장되는 흐름은, 뇌 MRI 기반 진단을 개발하는 BeauBrain에 혈액검사와의 경합·상호보완 구도를 시사하는 경쟁사 동향이다.",
+          "source": "BioSpace",
+          "url": "https://www.biospace.com/press-releases/united-kingdom-researchers-integrate-c2ns-precivityad2-blood-test-into-the-alzheimers-disease-diagnostic-care-pathway",
+          "tags": ["C2N", "PrecivityAD2", "혈액바이오마커", "1차의료", "진단경로", "영국"],
+          "importance": "medium"
+        }
+      ]
     },
     {
       "id": "media",
@@ -103,6 +168,22 @@
           "source": "청년의사",
           "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041286",
           "tags": ["돌봄국가책임제", "간병비급여화", "요양병원", "정책"],
+          "importance": "medium"
+        },
+        {
+          "title": "건국대병원 헬스케어센터, 치매·알츠하이머 특화 검진 신설…뉴로핏 AI 뇌노화 분석·MRI 원스톱",
+          "summary": "건국대병원이 9월부터 치매·알츠하이머 특화 검진 프로그램을 새로 도입한다. 치매 특화 과정은 뇌 MRI·MRA, 혈액검사, 인지기능검사, 동맥경화도 검사로, 알츠하이머 특화 과정은 아밀로이드 뇌 PET-CT와 혈액검사 등으로 구성되며, AI로 뇌 노화 정도를 분석하는 '뉴로핏 아쿠아' 검사와 개인별 질병 위험도 예측 AI 리포트를 함께 제공한다. 신경과 외래를 따로 예약하지 않고 종합검진 일정 안에서 하루에 치매 정밀검사를 마치는 원스톱 체계로, 뇌 MRI·AI 영상분석 기반 치매 검진이 상급종합병원 건강검진 상품으로 확산되는 흐름을 보여준다.",
+          "source": "메디게이트뉴스",
+          "url": "https://www.medigatenews.com/news/3262088964",
+          "tags": ["뇌MRI", "AI영상분석", "뉴로핏", "치매검진", "건강검진", "국내"],
+          "importance": "medium"
+        },
+        {
+          "title": "\"치매에 드디어 비즈니스 모델이 생겼다\"…AAIC 2026이 남긴 경제적 메시지 (STAT, Jason Karlawish 칼럼)",
+          "summary": "펜실베이니아대 제이슨 칼라위시 교수가 AAIC 2026 참석 후 지난 9년간 치매를 둘러싼 인식이 근본적으로 바뀌었다고 진단한 STAT 기고문이다. 새로운 치료제·진단도구의 발전만큼 중요한 수확은 치매 진단·치료가 지속가능한 '경제적 모델(비즈니스 모델)'로 자리잡았다는 점이라고 강조하며, 항아밀로이드 치료제와 혈액·영상 진단 확산이 산업 생태계 형성으로 이어지는 구조 변화를 조망한다. 진단·치료 수요 확대의 거시적 배경을 짚는 분석 관점 기사다.",
+          "source": "STAT News",
+          "url": "https://www.statnews.com/2026/07/28/brain-infrastructure-dementia-business-model-aaic2026/",
+          "tags": ["AAIC2026", "치매산업", "진단시장", "관점", "칼럼"],
           "importance": "medium"
         }
       ]
