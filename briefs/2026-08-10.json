@@ -1,0 +1,322 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:00:00+09:00",
+  "headline": "미국은 MDUFA VI 합의로 510(k) 심사목표를 FY2032까지 112일로 단축하고 EU는 의료기기 내장 고위험 AI 적용을 2028년 8월로 연기하면서, 뇌영상 AI의 해외 인허가 일정표가 한 주 사이 다시 그려졌다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "fMRI '노이즈 제거' 방법에 따라 알츠하이머 뇌네트워크 지표의 방향이 뒤집힌다 — ADNI 153명·11개 파이프라인 비교",
+          "summary": "ADNI 인지정상 60명·MCI 55명·AD 38명의 안정시 fMRI를 11개 디노이징 파이프라인(혼란변수 회귀·볼륨 검열·ICA-AROMA 조합)으로 처리해 그래프 지표를 비교했다. 모듈성·국소효율의 진단군 간 차이는 파이프라인에 따라 방향까지 달라졌고, 전역신호 회귀를 포함하면 모든 지표의 크기가 크게 흔들렸다. 군집계수·경로길이·전역효율의 정상군 대 MCI/AD 차이는 파이프라인과 무관하게 유지됐으나 효과크기는 작아, 전처리 절차의 투명한 보고가 필수라고 결론지었다.",
+          "source": "Human Brain Mapping",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/hbm.70622",
+          "tags": ["fMRI", "뇌네트워크", "재현성", "ADNI"],
+          "importance": "high"
+        },
+        {
+          "title": "뇌 MRI 판독문에 LLM '쉬운 요약'을 붙이니 만족도는 3.26배, 실제 이해도는 제자리 — 무작위시험 2,727명",
+          "summary": "성인 2,727명(개입 1,326명·대조 1,401명)을 무작위 배정해 표준 뇌 MRI 판독문 6건을 원문 그대로 또는 LLM 생성 일반인용 요약과 함께 읽게 했다. 객관적 이해도는 59.4% 대 58.3%로 차이가 없었으나(OR 0.97, p=0.54) 만족도(64.9% 대 36.7%, OR 3.26)와 주관적 이해도(50.3% 대 24.0%, OR 3.17)는 크게 올랐다. 정상 판독문에서는 객관적 이해도가 오히려 76.6%에서 72.5%로 떨어져, 임상 도입 전 '체감-실제 이해 격차'를 해소해야 한다고 지적했다.",
+          "source": "medRxiv 프리프린트",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.08.05.26359773v1",
+          "tags": ["LLM", "영상판독문", "환자소통", "무작위시험"],
+          "importance": "high"
+        },
+        {
+          "title": "재학습 없이 다양한 촬영 프로토콜에 통하는 딥러닝 산소추출률(OEF) 지도 'QQ-F' — 치매 30명 포함 검증",
+          "summary": "QSM+qBOLD로 OEF 지도를 만드는 기존 딥러닝 QQ-NET은 학습에 쓴 에코시간(TE) 체계가 바뀌면 재학습이 필요해 임상 확장성이 제한됐다. QQ-F는 원신호 대신 QQ 모델 기반 특징을 입력으로 삼아, 허혈성 뇌졸중 26명 데이터로만 학습하고도 시뮬레이션에서 평균절대오차가 더 낮았다. TE가 다른 다발성경화증 24명·치매 30명 데이터에서도 QQ-NET보다 병변-정상조직 대조도가 유의하게 높아, 프로토콜 이질성에 취약한 정량 MRI 딥러닝의 일반화 문제를 다뤘다.",
+          "source": "Magnetic Resonance in Medicine",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/mrm.70524",
+          "tags": ["QSM", "정량MRI", "딥러닝", "일반화"],
+          "importance": "high"
+        },
+        {
+          "title": "기저전뇌-해마 '방향성 연결' 이상은 육안 위축이 보이기 전 나타난다 — 기억상실형 MCI 51명 대 정상 67명",
+          "summary": "다중모달 MRI와 스펙트럴 동적인과모델링(spDCM)으로 분석한 결과 기저전뇌·해마의 거시적 용적은 두 군 간 유의차가 없었으나, 유효연결성은 aMCI에서 음의 유효연결 감소로 나타났다. 내측중격/대각선띠-두정엽 회로의 조절이 진단상태와 상호작용해 기억점수를 예측했고, 마이네르트기저핵-전두두정 연결성이 기저핵 구조 보존에서 해마 용적을 거쳐 장기기억으로 이어지는 경로가 확인됐다. 위축 이전 단계를 잡아낼 기능적 지표 가능성을 시사한다.",
+          "source": "Neuroscience",
+          "url": "https://doi.org/10.1016/j.neuroscience.2026.08.008",
+          "tags": ["기저전뇌", "유효연결성", "aMCI", "조기진단"],
+          "importance": "medium"
+        },
+        {
+          "title": "혈장 p-tau와 타우 PET '양성 일치도'는 병기·마커·컷오프에 따라 갈린다 — p-tau231→181→217 순 전환 제시",
+          "summary": "Erasmus MC·암스테르담 UMC·룬드대 연구진이 혈장 p-tau217/181/231 양성과 타우 PET 양성의 일치도를 정리한 서술적 리뷰다. 일치도는 임상 병기, 사용 마커, 타우 PET 양성 정의, 동반질환·위험인자에 따라 달라지며, 시간순으로 p-tau231 양성이 p-tau181보다 선행하고 p-tau217은 더 진행된 타우 병리를 반영한다고 제시했다. 병기별 궤적 프레임워크 구축과 타우 PET 정량 조화(harmonization)를 우선 과제로 꼽았다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://journals.sagepub.com/doi/10.1177/13872877261468708",
+          "tags": ["p-tau217", "타우PET", "바이오마커", "리뷰"],
+          "importance": "medium"
+        },
+        {
+          "title": "동시계수 50% 손실된 '불완전 링' PET도 딥러닝으로 복원 — PSNR 38.2~38.6dB·SSIM 0.99 (ADNI 기반 뇌 613례)",
+          "summary": "투영영역 Attention U-Net으로 사이노그램 결손부를 예측하고 OSEM 재구성 후, U-Net 초기 추정에서 시작하는 warm-start 확산모델로 정제하는 2단계 프레임워크를 제안했다. ADNI 실측 기반 시뮬레이션 뇌 613례(정상 196·AD 217·MCI 200)에서 TOF 정보 없이 PSNR 38.18~38.59dB, SSIM 0.9904~0.9925를 기록했다. 기존 CNN 기법이 다루던 결손률의 약 두 배를 복원했다고 주장하나 실제 스캐너 데이터가 아닌 시뮬레이션 검증이라는 한계가 있다.",
+          "source": "Medical & Biological Engineering & Computing",
+          "url": "https://link.springer.com/article/10.1007/s11517-026-03641-w",
+          "tags": ["PET", "영상재구성", "딥러닝", "ADNI"],
+          "importance": "medium"
+        },
+        {
+          "title": "MEG 연결성으로 신경퇴행질환 감별하는 'REDDI': 5-폴드 평균 균형정확도 0.76, 기존 최고 대비 9% 개선",
+          "summary": "MCI·다발성경화증·파킨슨병·ALS를 뇌자도(MEG)의 공분산·상관 연결성 행렬에서 리만기하 기반으로 분류하는 앙상블 파이프라인이다. Kruskal-Wallis 효과크기로 특징을 선별해 해석가능성을 확보했고, 5-폴드 교차검증에서 평균 균형정확도 0.76(±0.05)으로 기존 최신기법 대비 9% 향상됐다. 다만 초록에 전체 표본 규모가 명시되지 않아 일반화 가능성 판단에는 제약이 있다.",
+          "source": "medRxiv 프리프린트",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.04.10.26350617v2",
+          "tags": ["MEG", "감별진단", "머신러닝", "해석가능성"],
+          "importance": "medium"
+        },
+        {
+          "title": "저학력·비문해 고령자 MCI 선별은 RUDAS가 최선이나 AUC 0.740에 그쳐 — 242명 4개 도구 비교",
+          "summary": "초등학교 이하 학력의 65세 이상 242명(평균 74.0세, MCI 100명·41.3%)에서 RUDAS·QMCI-TR·S-MMSE·DemTect를 Petersen 기준 대비 비교했다. RUDAS가 AUC 0.740(95% CI 0.666~0.798), 컷오프 23점 이하에서 민감도 83.0%·특이도 73.2%로 가장 높았고 QMCI-TR 0.666, S-MMSE 0.631이었으며 DemTect는 판별력이 없었다(AUC 0.464). 저학력 인구에서 도구 선택에 따라 오분류 위험이 크게 달라짐을 보여준다.",
+          "source": "European Geriatric Medicine",
+          "url": "https://link.springer.com/article/10.1007/s41999-026-01573-0",
+          "tags": ["MCI선별", "진단정확도", "인지검사", "저학력"],
+          "importance": "medium"
+        },
+        {
+          "title": "1형당뇨 성인의 뇌위축은 미세출혈과 겹칠 때만 인지에 영향 — MRI 163명 대 대조 48명",
+          "summary": "평균 46세 1형당뇨 163명과 매칭 대조 48명의 뇌 MRI 비교에서 전체 뇌·백질·피질·시상·측좌핵 용적 감소와 맥락막총 확대가 확인됐다(Cohen's d 0.39~0.54). 미세출혈 3개 이상군은 0~2개군 대비 국소 용적 감소가 더 컸다(d 0.54~0.92). 구조적 변화만으로는 인지와 직접 연관이 없었고 미세출혈과의 상호작용에서만 처리속도·집행기능 저하와 연관됐다(표준화 β -0.61~-0.51, pFDR 0.006~0.048).",
+          "source": "medRxiv 프리프린트",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.08.04.26359672v1",
+          "tags": ["뇌미세출혈", "뇌용적", "1형당뇨", "인지"],
+          "importance": "medium"
+        },
+        {
+          "title": "인지저하 환자의 '다중이환'을 통합 관리하는 임상의사결정지원 SW 분석 — 1만7,915명, 동반질환 1개당 인지장애 승산 1.069배",
+          "summary": "uMETHOD 케어플랜을 받은 8,997명과 NHANES 8,918명(55~84세, 평균 69.0세)을 비교했다. 인지장애가 보고된 25.91% 중 97.5%가 2개 이상 만성질환을 동반했고, 질환이 하나 늘 때마다 인지장애 승산비는 1.069(95% CI 1.061~1.077, p<0.0001)였다. 주요 군집은 혈관-대사 질환과 미량영양소 결핍이었다. 저자 전원이 해당 플랫폼 개발사 소속·주주라는 이해상충이 명시돼 있어 해석에 주의가 필요하다.",
+          "source": "Alzheimer's & Dementia: DADM",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70395",
+          "tags": ["임상의사결정지원", "다중이환", "실사용데이터"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "애브비 항아밀로이드 항체 ABBV-916 1b/2상 전문 공개 — 106명, 900mg군 24주 아밀로이드 음성 전환 85.7%·ARIA-E 19.8%",
+          "summary": "피로글루타메이트 Aβ를 표적하는 ABBV-916의 다중용량상승(A단계) 결과가 공식 논문으로 공개됐다. 106명 무작위배정에서 300mg 이상 용량부터 24주간 아밀로이드 감소가 확인됐고 900mg군은 85.7%가 아밀로이드 음성에 도달했다. 그러나 ARIA-E 19.8%·ARIA-H 17.0%로 기존 승인약과 차별점이 없어 3000mg에서 900mg까지 감량된 뒤 사업적 판단으로 개발이 중단됐다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71715",
+          "tags": ["항아밀로이드", "임상시험", "ARIA", "애브비"],
+          "importance": "medium"
+        },
+        {
+          "title": "세마글루타이드, 25개 단백질 기반 '치매 위험 시그니처' 진행을 늦췄다 — SELECT 3상 사후분석 2,970명, 5년 위험 OR 0.74",
+          "summary": "당뇨가 없는 65세 이상 과체중·비만 심혈관질환자 2,970명을 대상으로 SELECT 3상을 사후분석한 결과, 세마글루타이드 2.4mg군은 위약군 대비 104주 시점 예측 5년 치매 위험 증가폭이 2.5배 작았다(예측 발생률 26.0% 낮음, OR 0.74, 95% CI 0.65~0.85). 20년 위험 증가폭도 1.67배 작았고 고위험 분류로 넘어갈 승산은 36% 낮았다. EVOKE 3상의 임상적 실패 이후 GLP-1의 뇌 효과를 단백체 대리지표로 재조명한 결과다.",
+          "source": "Alzheimer's & Dementia: DADM",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+          "tags": ["GLP-1", "세마글루타이드", "단백체", "치매 예방"],
+          "importance": "medium"
+        },
+        {
+          "title": "심방세동 21,671명 추적: DOAC은 치매 위험 37% 낮췄지만 와파린은 31% 높였다 — 아픽사반 HR 0.56이 최선",
+          "summary": "호주 '45 and Up' 연계 코호트에서 신규 심방세동 환자 21,671명(항응고제 사용 15,352명)을 성향점수 가중·매칭해 분석했다. 항응고제 사용군의 치매 위험은 비사용군 대비 HR 0.77(95% CI 0.70~0.85)이었으나 약제별로 갈려 DOAC은 HR 0.63, 와파린은 오히려 HR 1.31이었다. 개별 약제는 아픽사반 0.56·리바록사반 0.69·다비가트란 0.75였고, 75세 이상에서 효과가 뚜렷했다(HR 0.66 대 1.01).",
+          "source": "GeroScience",
+          "url": "https://link.springer.com/article/10.1007/s11357-026-02468-5",
+          "tags": ["항응고제", "심방세동", "치매 예방", "코호트"],
+          "importance": "medium"
+        },
+        {
+          "title": "APP 중복·다운증후군 알츠하이머 발병 나이를 산발성 위험유전자가 좌우 — APOE ε2 HR 0.47·ε4 HR 1.5, 유전위험 최저-최고 간 10년 차이",
+          "summary": "APP 중복 보인자 100명과 다운증후군 957명의 임상·유전 데이터 분석에서 평균 발병연령은 각각 51±7세, 53±6세였다(p=0.0005). APOE ε2는 발병을 늦추고(HR 0.47), ε4(HR 1.5)와 APOE·21번 염색체를 제외한 AD 유전위험점수(SD당 HR 1.3)는 발병을 앞당겨, 유전위험 최저군과 최고군의 예측 중앙 발병연령이 10년 차이났다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71738",
+          "tags": ["유전", "APOE", "다운증후군", "APP"],
+          "importance": "medium"
+        },
+        {
+          "title": "폐경 전후 5년 내 호르몬대체요법 사용자는 LATE-NC 승산 30% 낮아 — ROS/MAP 부검 2,056명 재현연구",
+          "summary": "알츠하이머를 닮은 치매 원인인 LATE-NC(변연계 우세 TDP-43 뇌병증)와 호르몬대체요법(HRT)의 연관을 ROS/MAP 코호트 2,056명(여성 1,416명) 부검 데이터로 검증했다. 폐경 전후 5년 이내 HRT 사용은 LATE-NC 승산 0.70배(95% CI 0.50~0.98), 8~16년 장기 사용은 0.44배(95% CI 0.24~0.79)였다. '90+ 연구'의 보호 소견이 다른 코호트에서 재현되며 HRT의 시점과 기간이 관건임을 시사했다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71730",
+          "tags": ["LATE-NC", "TDP-43", "호르몬대체요법", "역학"],
+          "importance": "medium"
+        },
+        {
+          "title": "온라인 기억검사 'MemTrax'로 경도인지장애 선별 AUC 0.876 — 파킨슨병 MCI에서도 MMSE(0.694) 앞선 0.808",
+          "summary": "AD 원인 MCI 74명과 정상 대조 73명을 대상으로 온라인 연속재인 기억검사 MemTrax를 1차 검증한 결과, 정답률 지표의 AUC는 0.876(95% CI 0.813~0.926), 컷오프 80% 이하에서 민감도 70.3%·특이도 90.4%였다. 탐색적으로 분석한 파킨슨병 코호트(정상인지 42명·PD-MCI 33명)에서도 AUC 0.808로 MMSE(0.694)를 앞서, 확장 가능한 디지털 1차 선별 도구로서의 가능성을 제시했다.",
+          "source": "Alzheimer's Research & Therapy",
+          "url": "https://alzres.biomedcentral.com/articles/10.1186/s13195-026-02153-x",
+          "tags": ["디지털 인지평가", "MCI 선별", "검증연구"],
+          "importance": "medium"
+        },
+        {
+          "title": "고령 수술환자 마취제 비교: 세보플루란군 치매 발생 1.98% 대 프로포폴군 1.09%, HR 1.84",
+          "summary": "EHR 코드 기반으로 같은 날 세보플루란 또는 프로포폴에 노출된 고령 수술환자를 성향점수 매칭(각 군 35,363명)해 장기 치매 코드 발생을 비교했다. 세보플루란군 701건(1.98%) 대 프로포폴군 384건(1.09%)으로 HR 1.84(95% CI 1.62~2.08, p<0.001), 5년 치매·사망 복합사건도 8.55% 대 6.21%(HR 1.43)였다. 다만 저자들은 노출 오분류·잔여교란·감시편향 때문에 인과 해석이나 처방 권고는 불가하다고 명시했다.",
+          "source": "BMC Geriatrics",
+          "url": "https://link.springer.com/article/10.1186/s12877-026-08095-1",
+          "tags": ["마취", "위험인자", "코호트", "수술"],
+          "importance": "medium"
+        },
+        {
+          "title": "등쪽솔기핵(DRN) 타우 병리만으로 수면구조가 무너진다 — 세로토닌·비세로토닌 뉴런 모두 관여, 성별로 갈리는 델타파 변화",
+          "summary": "알츠하이머 전구기에 가장 먼저 병리가 나타나는 등쪽솔기핵에 타우를 국소 유도해 마우스 종단 EEG로 추적했다. DRN 전체·세로토닌 뉴런·비세로토닌 뉴런 어디에 타우를 넣어도 수면구조가 교란됐고, 세로토닌·비세로토닌 표적군에서는 수면-각성 조율까지 무너지며 델타파 파워 변화와 함께 성별 의존적 차이가 나타났다. 수면장애가 AD의 결과가 아니라 초기 병리의 직접 산물일 수 있음을 보인다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71687",
+          "tags": ["타우", "수면", "성차", "발병기전"],
+          "importance": "medium"
+        },
+        {
+          "title": "13년 추적으로 인지노화 궤적 4개 하위군 도출 — 최상위군은 보행속도·운동·인지활동·식물성 식단이 모두 우수 (TREND 696명)",
+          "summary": "치매가 없는 평균 61.9세 696명을 13년간 반복 인지검사한 TREND 코호트를 군집분석해 4개의 인지노화 궤적 하위군을 확인했다. 전체의 약 3분의 1을 차지한 최상위군은 최하위군 대비 보행속도가 유의하게 빠르고 건강관련 삶의 질이 높았으며 운동·인지자극 활동 빈도와 식물성 식품 섭취가 많았다. 신체건강·운동기능·정신신경·성격·생활습관·식이·유전/체액지표 7개 영역을 함께 프로파일링했다.",
+          "source": "GeroScience",
+          "url": "https://link.springer.com/article/10.1007/s11357-026-02455-w",
+          "tags": ["인지노화", "생활습관", "궤적분석", "코호트"],
+          "importance": "medium"
+        },
+        {
+          "title": "다운증후군에서 3중복되는 miR155, 신경줄기세포·GABA 억제뉴런 발달을 억누른다 — APP/PS1 마우스서 결손 시 해마 억제뉴런 증가",
+          "summary": "21번 염색체에서 APP와 같은 신경세포 특이적 TAD에 위치한 MIR155HG의 역할을 hiPSC 유래 신경세포·피질 오가노이드와 APP/PS1-miR155 녹아웃 마우스로 규명했다. MIR155 결손은 신경줄기세포 증식과 GABA성 억제뉴런 생성을 늘렸고 과발현은 반대 효과를 보였으며, APP/PS1 마우스에서 miR155 결손 시 해마 신경줄기세포가 확장되고 억제뉴런이 증가했다. 미세아교세포 염증 인자로만 알려졌던 miR155의 새 치료표적 가능성을 제시한다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71684",
+          "tags": ["miRNA", "다운증후군", "GABA 뉴런", "치료표적"],
+          "importance": "medium"
+        },
+        {
+          "title": "TREM2 유도 저분자 Sob-AM2, 아밀로이드 플라크는 그대로인데 기억력만 개선 — 5xFAD 마우스 12주 투여",
+          "summary": "뇌투과성 갑상선호르몬 유사체 Sob-AM2를 7개월령 5xFAD 마우스에 12주간 주 3회 피하 투여하자 뇌 TREM2 발현이 증가하고 공간기억·연합기억이 모두 개선됐으며 시냅토파이신·PSD-95 발현도 늘었다. 반면 Aβ 플라크 부담과 미세아교세포 활성 표지 Iba1에는 변화가 없었고 해마에서 포식 표지 CD68만 상승해, 인지 개선이 아밀로이드 제거와 무관한 경로임을 시사했다.",
+          "source": "bioRxiv 프리프린트",
+          "url": "https://www.biorxiv.org/content/10.64898/2026.07.31.741838v1",
+          "tags": ["TREM2", "미세아교세포", "치료후보물질", "프리프린트"],
+          "importance": "medium"
+        },
+        {
+          "title": "식이섬유·단백질 섭취가 우울·불안의 인지저하 효과를 완충 — 인지정상 553명 최장 144개월 추적",
+          "summary": "인지정상 553명(평균 70.6세)을 최대 8회, 144개월간 추적하며 기저 식이섬유·단백질 섭취의 조절효과를 분석했다. 식이섬유 섭취는 우울증상 변화와 언어영역 저하(β=-0.005, p<0.001) 및 PACC 점수 저하(β=-0.003, p=0.010)의 관계를 완화했다. 남성에서는 불안증상과 집행기능 저하(β=-0.003, p=0.018), 단백질 섭취는 우울증상과 주의력 저하(β=0.006, p=0.011)를 조절했다.",
+          "source": "Alzheimer's & Dementia: TRCI",
+          "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70292",
+          "tags": ["영양", "우울·불안", "인지저하", "예방"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "美 FDA-업계, MDUFA VI 합의문 초안 공개(8/4)…510(k) 심사목표 128일→FY2032 112일, '생성형·에이전틱 AI' 전문성 확충 명문화",
+          "summary": "FY2028~2032 의료기기 사용자수수료법(MDUFA VI) 합의문 초안이 공개됐다. 510(k) 결정 목표기간을 초기 128일에서 FY2032까지 112일로 단축하고 PMA 285일, 'Focused Follow-Up' 사전제출(Pre-Sub)은 기존 70일에서 45일로 줄인다. FDA는 생성형·에이전틱 AI와 적응형 알고리즘 등 디지털헬스 전문인력을 확충하고, FY2028까지 FDA와 해외 규제기관 2곳이 단일 기기를 동시심사하는 파일럿을 시작한다. 뇌 MRI AI SaMD의 미국 진출 일정 산정에서 Pre-Sub 45일·510(k) 112일이 새 기준선이 되며, 동시심사 파일럿은 FDA·CE 병행 인허가 비용을 낮출 기회다.",
+          "source": "Bipartisan Policy Center",
+          "url": "https://bipartisanpolicy.org/article/fdas-draft-mdufa-vi-commitment-letter-what-it-means-for-ai-and-digital-health/",
+          "tags": ["FDA", "MDUFA VI", "510(k)", "AI SaMD", "미국 인허가"],
+          "importance": "high"
+        },
+        {
+          "title": "EU AI법, 의료기기 내장 고위험 AI 적용을 2028년 8월 2일로 연기 확정…뇌영상 판독 AI는 MDR 심사와 묶여 유예 대상",
+          "summary": "8월 2일 EU AI법의 투명성 의무와 EU AI사무국 제재 권한이 발효된 데 이어, 디지털 옴니버스로 고위험 AI 적용 시점이 뒤로 밀린 것이 확정됐다. 독립형 고위험 시스템(채용·교육·신용평가)은 2027년 12월 2일, MDR·IVDR 규제 제품에 내장된 고위험 AI는 2028년 8월 2일로 연기됐다. 뇌영상 판독 AI는 MDR Class IIa 이상으로 인증기관 심사 대상이라 자동으로 고위험 AI에 해당하므로, CE-MDR 인증 준비와 AI법 대응(데이터 대표성·편향 완화·시판 후 모니터링 문서화)을 2028년 8월 목표 로드맵으로 통합할 여지가 생겼다. 유예된 것은 시점이지 요구사항 자체가 아니다.",
+          "source": "ZDNet Korea",
+          "url": "https://zdnet.co.kr/view/?no=20260803160723",
+          "tags": ["EU AI Act", "CE-MDR", "고위험 AI", "해외 인허가"],
+          "importance": "high"
+        },
+        {
+          "title": "치매관리주치의 등록기관 4곳 중 3곳은 '실적 0'…의협 분석 결과 실제 서비스 제공률 24.6%(8/10)",
+          "summary": "16개 시도 28개 지역 252개 기관이 치매관리주치의 시범사업에 참여 등록했으나 실제 환자 데이터를 제출한 곳은 62곳(24.6%)에 그쳤다. 지역 편차도 커서 충북 영동·충남 홍성은 100%인 반면 서울 노원구 22.2%, 강동구 15.4%에 머물렀다. 의협은 수가 구조 불균형(초기 평가·계획 수립이 청구액의 52%, 지속 관리는 37.2%), 복잡한 등록 절차, 10~30분 상담에 못 미치는 보상을 원인으로 지목하고 시간 기반 차등수가와 등록 간소화를 요구했다. 8/7 심평원 효과평가(지속등록률 12.4%)에 이은 공급자 측 분석으로, 치매 조기진단 수요를 만들 일차의료 채널이 제도 설계 문제로 작동하지 않고 있다는 뜻이다.",
+          "source": "청년의사",
+          "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3041624",
+          "tags": ["치매관리주치의", "수가", "일차의료", "복지부", "심평원"],
+          "importance": "high"
+        },
+        {
+          "title": "MDUFA VI 최종 타결(8/6)…'미국 우선' 수수료 구조로 해외 제조소 등록비 인상, 소기업 감면에 미국 세금신고서 요구",
+          "summary": "FDA와 업계가 MDUFA VI 협상을 타결했다. 전체 재정 규모는 MDUFA V 대비 약 900만 달러(1.5%) 증가에 그치지만, 구조적으로 해외 제조소 등록수수료를 국내보다 높게 차등화하고 소기업 수수료 감면 신청 시 미국 세금신고서를 요구한다. 최초 사전제출(Pre-Sub)에는 2,000달러 정액 수수료가 신설된다(이후 제출 시 공제). 한국 소재 제조소를 두고 FDA 진출을 준비하는 국내 의료AI 기업에는 등록·심사 수수료 부담이 구조적으로 커진다는 뜻으로, FY2028 진입 시 미국 법인 구조와 소기업 자격 요건을 미리 검토할 필요가 있다. 2027년 9월 30일까지 의회 입법이 필요하다.",
+          "source": "RAPS Regulatory Focus",
+          "url": "https://www.raps.org/resource/mdufa-vi-deal-promises-to-boost-domestic-priorities-review-consistency.html",
+          "tags": ["FDA", "MDUFA VI", "수수료", "미국 인허가", "규제전략"],
+          "importance": "medium"
+        },
+        {
+          "title": "건강보험 2026년 1분기 3조8,900억원 적자…5년 연속 흑자 기조 붕괴(8/10)",
+          "summary": "1분기 수입 22조4천억원, 지출 26조3천억원으로 3조8,900억원 적자를 기록해 5년간 이어진 흑자 기조가 깨졌다. 누적 준비금은 2025년 말 30조2천억원에서 26조3천억원으로 감소했다. 재정 여력 축소는 신의료기술·AI 영상판독 수가 신설 같은 신규 급여 확대에 직접적 제약으로 작용하므로, 뇌영상 AI의 급여 진입 논리를 '추가 지출'이 아니라 불필요 검사·중복 촬영 감소 등 지출 절감 근거로 재구성할 필요가 커졌다.",
+          "source": "청년의사",
+          "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3041631",
+          "tags": ["건강보험 재정", "급여", "심평원", "정책"],
+          "importance": "medium"
+        },
+        {
+          "title": "美 전문가들, 디지털 웰니스 기기 규제 강화 놓고 충돌(8/4)…AMA측 '차등적 근거기준' 도입 제안",
+          "summary": "JAMA에 실린 두 편의 논문을 계기로 소비자용 디지털 웰니스 기기의 규제 공백 논쟁이 재점화됐다. JAMA 편집장 Gregory Curfman은 FDA·FTC 틀이 있지만 AI가 결합되면 더 엄격한 규칙이 필요할 수 있다고 봤고, AMA의 John Whyte는 현행 방임 기조가 규제 회색지대를 만들어 소비자가 웰니스 제품을 임상적으로 검증된 것으로 오인한다며 독립 검증·명확한 라벨링·표준화된 근거 공개를 요구하는 '차등적 근거기준'을 제안했다. 인지기능·뇌건강 웰니스 앱과 의료기기 SaMD의 경계 논의로, 근거 등급 공개가 표준화될수록 정식 인허가 진단 SW의 차별화 우위가 커진다.",
+          "source": "RAPS Regulatory Focus",
+          "url": "https://www.raps.org/resource/experts-question-need-for-more-regulatory-scrutiny-of-digital-wellness-devices.html",
+          "tags": ["FDA", "디지털헬스", "웰니스 기기", "규제 논쟁"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "알렉터, 뇌전달 플랫폼(ABC) 기반 항아밀로이드 항체 'AL137'을 리드 후보로 지정…2027년 1분기 IND·4월 첫 인체투여 목표",
+          "summary": "알렉터는 8월 6일 2분기 실적에서 자사 BBB 통과 플랫폼 'Alector Brain Carrier(ABC)'에 고친화도 인간 항아밀로이드베타 항체를 결합한 AL137을 알츠하이머 리드 후보로 선정하고 2027년 1분기 IND 제출, 2027년 4월 호주 첫 인체투여를 목표로 제시했다. 6월 말 현금·투자자산은 1억 7,280만 달러이며 협업매출은 AL101 알츠하이머 프로그램 수익 감소로 790만 달러에서 330만 달러로 줄었다. 로슈 트론티네맙·바이오아크틱에 이어 알렉터까지 브레인 셔틀 항아밀로이드 경쟁에 합류하면서 투여량 증가·ARIA 모니터링이 뇌 MRI 판독 수요에 미칠 영향이 커지고 있다.",
+          "source": "Alector (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/08/06/3340733/0/en/alector-reports-second-quarter-2026-financial-results-and-provides-business-update.html",
+          "tags": ["분기실적", "브레인셔틀", "항아밀로이드", "ARIA"],
+          "importance": "medium"
+        },
+        {
+          "title": "데날리 2026년 2분기, 첫 완전분기 제품매출 360만 달러…PRV 매각 포함 유동성 11억 달러, 알츠하이머 임상 2건 가동",
+          "summary": "데날리는 8월 6일 2분기 실적에서 BBB 통과 플랫폼(TransportVehicle) 기반 첫 상업제품 AVLAYAH의 첫 완전분기 순매출 360만 달러, 3분기 가이던스 1,000만~1,200만 달러를 제시했다. 6월 말 현금성자산 약 9억 4,000만 달러에 7월 우선심사바우처(PRV) 매각대금 1억 9,500만 달러를 더해 프로포마 유동성이 11억 달러를 넘었고 순손실은 1억 2,760만 달러였다. 알츠하이머는 타우 표적 ASO 'DNL628'(2027년 상반기 바이오마커 데이터)과 아밀로이드 항체 'DNL921'(2027년 PoC) 2건이 임상에 있다.",
+          "source": "Denali Therapeutics (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/08/06/3340680/0/en/denali-therapeutics-reports-second-quarter-2026-financial-results-and-business-highlights.html",
+          "tags": ["분기실적", "브레인셔틀", "알츠하이머 치료제", "BBB"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": []
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "국내 첫 레켐비 18개월 실사용 기록 공개…원광대병원 50명 중 4명 아밀로이드 제거 확인·ARIA 1명, 중단 사유는 '비용'",
+          "summary": "원광대병원이 레켐비(레카네맙) 약 50명 투여 경험을 공개했다. 18개월 투여 후 PET에서 4명의 아밀로이드 제거가 확인됐고 ARIA는 1명(APOE ε3/ε3)에서만 발생했으며, 치료 중단 2명은 모두 비용 부담이 원인이었다. 치료를 미룬 대조 사례는 1년 6개월 만에 MMSE가 24~25점에서 11점으로 떨어져 젊은 환자일수록 조기 치료가 필요하다는 점이 강조됐다.",
+          "source": "더바이오",
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=27023",
+          "tags": ["레카네맙", "실사용데이터", "ARIA", "아밀로이드PET", "국내임상현장"],
+          "importance": "high"
+        },
+        {
+          "title": "국제알츠하이머협회, 80개국 치매 대응 준비도 지도 'AD Atlas' 공개…진단·치료·지원 경로를 국가별로 비교",
+          "summary": "Alzheimer's Disease International이 80개국의 치매 진단·치료·지원 체계 준비도를 매핑한 새 도구 'AD Atlas'를 내놨다. 기사는 전문의 대기 9개월 등 진단 경로 부재로 경도에서 중등도로 병이 진행되는 사이 돌봄자가 소진되는 현실을 사례로 들며, 국가별 치매 대응 격차를 처음으로 표준화해 비교할 수 있게 됐다고 짚었다.",
+          "source": "South China Morning Post",
+          "url": "https://www.scmp.com/lifestyle/health-wellness/article/3363243/how-well-does-your-country-approach-alzheimers-support-new-tool-reveals-all",
+          "tags": ["ADI", "AD Atlas", "국가별 준비도", "진단경로", "글로벌정책"],
+          "importance": "high"
+        },
+        {
+          "title": "신경멜라닌 MRI로 도파민 PET 전에 걸러낸다…렘수면행동장애 66명서 이상 PET군만 신경멜라닌 용적·신호 저하",
+          "summary": "삼성서울병원 신경과·영상의학과와 세종충남대병원 연구팀이 렘수면행동장애(RBD) 환자 66명과 건강대조 30명을 비교해, 도파민 PET 이상 소견군에서만 신경멜라닌 민감 MRI(NM-MRI)의 용적과 신호강도가 뚜렷이 감소했음을 확인했다. 정상 PET군은 대조군과 차이가 없어, 비용·피폭 부담이 큰 DaT-PET에 앞선 1차 선별 도구로 기존 뇌 MRI에 얹어 반복 촬영할 수 있다는 제안이다(Brain Imaging and Behavior).",
+          "source": "더바이오",
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=27045",
+          "tags": ["신경멜라닌MRI", "렘수면행동장애", "파킨슨전구기", "선별검사", "국내연구"],
+          "importance": "medium"
+        },
+        {
+          "title": "확산MRI 지표 PSMD, 다운증후군에서 38세경 변화…임상 치매보다 약 15년 앞서",
+          "summary": "PSMD(peak width of skeletonized mean diffusivity)가 산발성 알츠하이머와 다운증후군 연관 알츠하이머 모두에서 통상 MRI에 보이지 않는 초기 백질 미세손상을 잡아냈다. 인지정상 150명·산발성 AD 118명·다운증후군 성인 228명 등 496명 분석에서 다운증후군군은 평균 38세경 PSMD 변화가 나타나 임상적 치매 발현보다 약 15년 앞섰다. 개인당 단일 값으로 산출돼 계산이 쉬운 점이 보조 지표로서의 강점으로 꼽혔다.",
+          "source": "Healthcare in Europe",
+          "url": "https://healthcare-in-europe.com/en/news/alzheimers-mri-white-matter-damage.html",
+          "tags": ["PSMD", "확산MRI", "백질미세손상", "다운증후군", "조기바이오마커"],
+          "importance": "medium"
+        },
+        {
+          "title": "대만 치매 유병률·증가율, 세계 평균의 약 1.5배…혈관성·혼합형 비중이 유독 높다",
+          "summary": "대만이 초고령사회로 이례적으로 빠르게 진입하면서 치매 유병률과 증가 속도가 세계 평균의 약 1.5배에 이른다는 진단이 나왔다. 알츠하이머와 혈관성이 겹친 혼합형 비중이 크고 순수 혈관성 치매 비율도 유독 높은데, 정신과 전문의 양쭝차이는 고혈압·고혈당·고지혈의 '삼고'와 고염식·가당음료, 장시간 노동에 따른 코르티솔 상승과 해마 위축을 원인으로 지목했다.",
+          "source": "Taipei Times",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/10/2003862230",
+          "tags": ["대만", "역학", "혈관성치매", "초고령사회"],
+          "importance": "medium"
+        }
+      ]
+    }
+  ]
+}
