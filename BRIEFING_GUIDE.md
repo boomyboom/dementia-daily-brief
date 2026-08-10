@@ -26,7 +26,7 @@
 - 아래 저널에서 **치매/알츠하이머(치매·MCI·AD·신경퇴행) 관련 논문만** 발췌한다. 일반 저널의 비(非)치매 논문은 제외 = "치매 한정".
   - 종합·AI: NEJM, **NEJM AI**, JAMA · JAMA Neurology · JAMA Network Open · **JAMA Network AI 채널(jamanetwork.com/channels/ai)**, The Lancet · Lancet Neurology · **Lancet Digital Health** · **Lancet Healthy Longevity**, Nature, Nature Medicine, Nature Aging, **Nature Communications**, Science, **Science Advances**, **Science Translational Medicine**, Cell · **Neuron** · **Cell Reports Medicine** · **Cell Metabolism** · **Immunity**
   - 치매 전문: Alzheimer's & Dementia, **Alzheimer's Research & Therapy**, Neurology, Brain, Acta Neuropathologica, Molecular Neurodegeneration, Annals of Neurology
-  - 영상·디지털: Radiology, Radiology: Artificial Intelligence, NeuroImage, npj Digital Medicine
+  - 영상·디지털: Radiology, Radiology: Artificial Intelligence, **The Lancet Medical Imaging & Theranostics(thelancet.com/journals/lanmit)**, NeuroImage, npj Digital Medicine, European Journal of Nuclear Medicine and Molecular Imaging(EJNMMI)
   - 프리프린트: arXiv / medRxiv (의료 AI·신경영상)
 - **분류 기준**: 논문이 뇌영상·진단·바이오마커·AI 진단 주제면 → `research`(진단·영상), 그 외 치매/AD 주제면 → `research_broad`(전분야). 애매하면 진단 관련성이 높은 쪽으로 넣는다.
 
