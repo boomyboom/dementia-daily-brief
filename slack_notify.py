@@ -90,6 +90,20 @@ def md(date_str):
         return date_str
 
 
+def esc(s):
+    """Slack 메시지 텍스트 이스케이프. 제목에 <, >, & 가 있으면 링크 파싱이 깨진다.
+    (예: '컷오프 CL<21·CL>38 (Alz&Dem)' → <url|text> 구조 붕괴) 치환 순서 중요."""
+    return (str(s or "")
+            .replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;"))
+
+
+def esc_url(u):
+    """링크 URL에서 Slack 문법을 깨뜨리는 문자 제거."""
+    return str(u or "").strip().replace("<", "").replace(">", "").replace("|", "%7C")
+
+
 def item_key(it):
     return it.get("url") or it.get("title", "")
 
@@ -201,25 +215,25 @@ def main():
         span = f"{md(pending[0])}~{md(date)}"
         lines = [f":brain: *<{SITE_URL}|치매·AD 데일리 브리프 — {date}>* (주말·휴일 {span} 종합, {new_count}건)"]
         if brief.get("headline"):
-            lines.append(f"_{brief['headline']}_")
+            lines.append(f"_{esc(brief['headline'])}_")
         if omitted:
             lines.append(f"_주말분은 ⭐중요 항목만 실었습니다 — 그 외 {omitted}건은 사이트에서 확인_")
         lines.append("")
     else:
         lines = [f":brain: *<{SITE_URL}|치매·AD 데일리 브리프 — {date}>*"]
         if brief.get("headline"):
-            lines.append(f"_{brief['headline']}_")
+            lines.append(f"_{esc(brief['headline'])}_")
         lines.append("")
 
     for sid in order:
         items = merged[sid]["items"]
         if not items:
             continue
-        lines.append(f"*{merged[sid]['title']}* ({len(items)}건)")
+        lines.append(f"*{esc(merged[sid]['title'])}* ({len(items)}건)")
         for it in items:
             mark = " ⭐" if it.get("importance") == "high" else ""
             day = f"[{md(it['_from'])}] " if it.get("_from") else ""
-            url, t = it.get("url", ""), it.get("title", "")
+            url, t = esc_url(it.get("url", "")), esc(it.get("title", ""))
             lines.append(f"• {day}<{url}|{t}>{mark}" if url else f"• {day}{t}{mark}")
         lines.append("")
 
