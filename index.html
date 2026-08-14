@@ -40,7 +40,51 @@
     border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px;
     font-size: 14px; background: var(--card); color: var(--ink);
   }
-  main { max-width: 880px; margin: 0 auto; padding: 28px 24px 80px; }
+  .layout { max-width: 1240px; margin: 0 auto; padding: 28px 24px 80px; display: grid; grid-template-columns: 1fr; gap: 28px; }
+  @media (min-width: 1040px) { .layout { grid-template-columns: minmax(0,1fr) 300px; align-items: start; } }
+  main { min-width: 0; }
+
+  /* 키워드 랭킹 패널 */
+  aside.rank { position: sticky; top: 88px; }
+  .rank-card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  .rank-head { padding: 12px 14px 0; }
+  .rank-title { font-size: 14px; font-weight: 700; display: flex; align-items: baseline; gap: 6px; }
+  .rank-title .win { font-size: 11px; font-weight: 500; color: var(--ink-soft); }
+  .rank-tabs { display: flex; gap: 4px; margin-top: 10px; border-bottom: 1px solid var(--line); }
+  .rank-tabs button {
+    flex: 1; border: 0; background: none; padding: 8px 4px; font-size: 13px; cursor: pointer;
+    color: var(--ink-soft); border-bottom: 2px solid transparent; font-family: inherit;
+  }
+  .rank-tabs button.on { color: var(--accent); border-bottom-color: var(--accent); font-weight: 700; }
+  ol.rank-list { list-style: none; margin: 0; padding: 6px 0 10px; }
+  ol.rank-list li { display: flex; align-items: center; gap: 8px; padding: 6px 14px; cursor: pointer; }
+  ol.rank-list li:hover { background: var(--accent-soft); }
+  .rk { width: 18px; text-align: center; font-size: 13px; font-weight: 700; color: var(--ink-soft); }
+  .rk.top { color: var(--accent); }
+  .kw { flex: 1; font-size: 13.5px; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .cnt { font-size: 11px; color: var(--ink-soft); }
+  .dl { font-size: 11px; width: 30px; text-align: right; font-weight: 600; }
+  .dl.up { color: #d93838; } .dl.down { color: #2f5fde; }
+  .dl.same { color: #b9bfc9; } .dl.new { color: #b07a10; }
+
+  /* 키워드 클릭 시 관련 뉴스 */
+  .kw-panel { position: fixed; inset: 0; background: rgba(20,24,32,.42); display: none; z-index: 50; }
+  .kw-panel.on { display: block; }
+  .kw-box {
+    position: absolute; right: 0; top: 0; bottom: 0; width: min(560px, 100%);
+    background: var(--bg); overflow-y: auto; box-shadow: -8px 0 28px rgba(0,0,0,.16);
+  }
+  .kw-box header { position: sticky; top: 0; }
+  .kw-box .inner { padding: 18px 22px 60px; }
+  .kw-hd { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 16px 22px; background: var(--card); border-bottom: 1px solid var(--line); position: sticky; top: 0; }
+  .kw-hd h3 { font-size: 17px; }
+  .kw-hd .sub2 { font-size: 12px; color: var(--ink-soft); font-weight: 400; margin-left: 6px; }
+  .kw-hd button { border: 1px solid var(--line); background: var(--card); border-radius: 8px; padding: 5px 11px; cursor: pointer; font-size: 14px; color: var(--ink); }
+  .kw-item { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; margin-bottom: 10px; }
+  .kw-item .t { font-size: 14px; font-weight: 600; line-height: 1.5; }
+  .kw-item .t a { color: var(--ink); text-decoration: none; }
+  .kw-item .t a:hover { color: var(--accent); text-decoration: underline; }
+  .kw-item .m { display: flex; gap: 6px; align-items: center; margin-top: 7px; flex-wrap: wrap; }
   .headline {
     background: var(--accent-soft); border: 1px solid #d6e0f8; border-radius: 12px;
     padding: 18px 20px; margin-bottom: 28px; font-size: 16px; font-weight: 600; color: #233a78;
@@ -80,13 +124,38 @@
     </div>
   </div>
 </header>
-<main>
-  <div id="status">브리핑을 불러오는 중…</div>
-  <div id="content" style="display:none">
-    <div class="headline" id="headline"></div>
-    <div id="sections"></div>
+<div class="layout">
+  <main>
+    <div id="status">브리핑을 불러오는 중…</div>
+    <div id="content" style="display:none">
+      <div class="headline" id="headline"></div>
+      <div id="sections"></div>
+    </div>
+  </main>
+  <aside class="rank" id="rankPane" style="display:none">
+    <div class="rank-card">
+      <div class="rank-head">
+        <div class="rank-title">🔥 키워드 랭킹 <span class="win" id="rankWin"></span></div>
+        <div class="rank-tabs">
+          <button id="tabTopic" class="on">키워드</button>
+          <button id="tabCompany">기업</button>
+        </div>
+      </div>
+      <ol class="rank-list" id="rankList"></ol>
+    </div>
+  </aside>
+</div>
+
+<div class="kw-panel" id="kwPanel">
+  <div class="kw-box">
+    <div class="kw-hd">
+      <h3 id="kwTitle"></h3>
+      <button id="kwClose">✕ 닫기</button>
+    </div>
+    <div class="inner" id="kwItems"></div>
   </div>
-</main>
+</div>
+
 <footer>
   매일 오전 8시·오후 2시(KST) 자동 갱신 · AI가 수집·요약한 내용이므로 중요 의사결정 전 원문 확인 필요
 </footer>
@@ -150,6 +219,76 @@ async function render() {
 loadManifest().then(render).catch(e => {
   document.getElementById("status").textContent = "브리핑을 불러오지 못했습니다: " + e.message;
 });
+
+/* ── 키워드 랭킹 ── */
+let KW = null, kwTab = "topics";
+
+function deltaBadge(k) {
+  if (k.state === "up")   return `<span class="dl up">▲${k.delta}</span>`;
+  if (k.state === "down") return `<span class="dl down">▼${k.delta}</span>`;
+  if (k.state === "new")  return `<span class="dl new">NEW</span>`;
+  return `<span class="dl same">–</span>`;
+}
+
+function renderRank() {
+  if (!KW) return;
+  const rows = (KW[kwTab] || []).slice(0, 10);
+  document.getElementById("rankList").innerHTML = rows.map(k => `
+    <li data-kw="${esc(k.keyword)}">
+      <span class="rk ${k.rank <= 3 ? "top" : ""}">${k.rank}</span>
+      <span class="kw">${esc(k.keyword)}</span>
+      <span class="cnt">${k.count}</span>
+      ${deltaBadge(k)}
+    </li>`).join("");
+  document.querySelectorAll("#rankList li").forEach(li => {
+    li.onclick = () => openKeyword(li.dataset.kw);
+  });
+}
+
+function openKeyword(name) {
+  const k = (KW.topics || []).concat(KW.companies || []).find(x => x.keyword === name);
+  if (!k) return;
+  document.getElementById("kwTitle").innerHTML =
+    `${esc(k.keyword)}<span class="sub2">최근 ${KW.window_days}일 · ${k.count}건</span>`;
+  document.getElementById("kwItems").innerHTML = k.items.map(it => `
+    <div class="kw-item">
+      <div class="t">${it.url ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>` : esc(it.title)}</div>
+      <div class="m">
+        <span class="badge source">${esc(it.date)}</span>
+        <span class="badge tag">${esc(it.section)}</span>
+        ${it.importance === "high" ? '<span class="badge high">중요</span>' : ""}
+      </div>
+    </div>`).join("") || '<div class="empty">관련 기사가 없습니다.</div>';
+  document.getElementById("kwPanel").classList.add("on");
+}
+
+function closeKeyword() { document.getElementById("kwPanel").classList.remove("on"); }
+document.getElementById("kwClose").onclick = closeKeyword;
+document.getElementById("kwPanel").onclick = e => { if (e.target.id === "kwPanel") closeKeyword(); };
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeKeyword(); });
+
+document.getElementById("tabTopic").onclick = () => {
+  kwTab = "topics";
+  document.getElementById("tabTopic").classList.add("on");
+  document.getElementById("tabCompany").classList.remove("on");
+  renderRank();
+};
+document.getElementById("tabCompany").onclick = () => {
+  kwTab = "companies";
+  document.getElementById("tabCompany").classList.add("on");
+  document.getElementById("tabTopic").classList.remove("on");
+  renderRank();
+};
+
+fetch("briefs/keywords.json", { cache: "no-store" })
+  .then(r => r.ok ? r.json() : Promise.reject())
+  .then(d => {
+    KW = d;
+    document.getElementById("rankWin").textContent = `최근 ${d.window_days}일`;
+    document.getElementById("rankPane").style.display = "block";
+    renderRank();
+  })
+  .catch(() => { /* 키워드 파일이 아직 없으면 패널 숨김 유지 */ });
 </script>
 </body>
 </html>
