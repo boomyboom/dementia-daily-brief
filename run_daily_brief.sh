@@ -33,4 +33,11 @@ else
   echo "----- 변경 없음, 후처리 생략 -----" >> "$LOG"
 fi
 
+# 인증 만료 등 치명적 실패는 조용히 넘기지 말고 Slack으로 경고한다
+# (실패해도 브리핑 생성만 멈추고 로그에만 남아 며칠간 모르고 지나가는 것을 방지)
+if grep -q "Failed to authenticate\|OAuth session expired\|Invalid authentication" "$LOG"; then
+  echo "----- 인증 실패 감지, 경고 발송 -----" >> "$LOG"
+  python3 "$REPO/notify_failure.py" "auth" >> "$LOG" 2>&1
+fi
+
 echo "===== $(date '+%Y-%m-%d %H:%M:%S %Z') 종료 (exit=$?) =====" >> "$LOG"
