@@ -1,0 +1,179 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T09:30:00+09:00",
+  "headline": "NECA가 '전산화 서울인지상태검사'를 신의료기술로 인정(8/11)하고 식약처가 'AI 디지털의료기기 우수 관리체계 인증' 가이드라인을 제정(8/12)하며, 치매 진단 소프트웨어의 국내 제도권 진입 경로가 한 주 사이 두 갈래로 넓어졌다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "경도인지장애 진행 예측: MEG·MRI·혈액·PET 다중모달 시간가변 모델 (Science Advances)",
+          "summary": "AD 가족력을 가진 인지정상 고령자 102명(진행자 31명, 평균 추적 5.9년)을 대상으로 뇌자도(MEG), MRI, 혈장 바이오마커, 아밀로이드·타우 PET을 결합해 MCI 진행을 예측했다. 다중모달 모델이 인구학적·유전적 요인(APOE 등) 단독 모델보다 예측 정확도가 높았고 각 모달리티가 상호 보완적 정보를 담고 있음을 보였다. MEG 알파 파워 증가는 근시일 위험 상승, 신피질 아밀로이드 부담은 추적 기간에 걸쳐 위험이 점증하는 시간가변 패턴을 보였다.",
+          "source": "Science Advances",
+          "url": "https://www.science.org/doi/10.1126/sciadv.aee2305",
+          "tags": ["다중모달", "MCI 진행예측", "PET", "바이오마커"],
+          "importance": "high"
+        },
+        {
+          "title": "아밀로이드 PET의 3단계 Centiloid 분류: 중간구간(12~37 CL)도 임상적으로 유의 (Journal of Nuclear Medicine)",
+          "summary": "제네바 메모리센터에서 2016~2024년 아밀로이드 PET을 받은 512명을 후향 분석해 저(<12 CL) 39%, 중간(12~37 CL) 12%, 고(>37 CL) 48%로 분류했다. 중간군은 CSF·혈장 마커가 저군과 고군의 중간값을 보였고 저군보다 유의하게 빠른 MMSE 인지저하를 나타냈다. ROC 분석에서 인지저하 13 CL, 내측측두엽 타우 축적 14 CL, 진행성 신피질 타우 침범 51 CL이 최적 절단값으로, 기존 이분법 판독을 넘어선 3단계 해석의 근거를 제시했다.",
+          "source": "Journal of Nuclear Medicine",
+          "url": "https://jnm.snmjournals.org/content/early/2026/08/13/jnumed.126.272655",
+          "tags": ["Centiloid", "아밀로이드 PET", "정량화", "타우 PET"],
+          "importance": "high"
+        },
+        {
+          "title": "NeuroMorph: 뇌 MRI 7만 8천명 기반 통합 형태학 참조공간으로 질환 간 프로파일링 (medRxiv)",
+          "summary": "78,794명에서 얻은 T1 강조 MRI 110,591건으로 뇌 형태를 표준 참조공간에 매핑하는 AI 프레임워크를 구축했다. 스캔당 13개의 해석 가능한 형태학적 기술자와 개인별 정상편차(normative deviation) 프로파일을 산출하며 4개 질환군·19개 진단·7개 아형을 포괄한다. 질환군-진단-아형-개인의 계층 구조에서 공통·고유 시그니처를 구분해 개별 환자를 뇌질환 지형 위에 위치시킬 수 있음을 보였다.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.08.13.26359403v1",
+          "tags": ["뇌 MRI", "정상편차 모델", "AI 영상분석", "감별진단"],
+          "importance": "medium"
+        },
+        {
+          "title": "혈액 바이오마커가 드러낸 AD 진행의 단백질체 모듈 — 증상 발현 5년 전 신경 회복탄력성 신호 (medRxiv)",
+          "summary": "인지정상·MCI·AD 노인 484명에서 통상적 혈액 바이오마커(Aβ42/40, p-tau181, p-tau217, GFAP, NfL)와 6,000개 이상 단백질을 다중오믹스 선형모델링으로 연결해 AD 진행의 기능적 이질성을 분해했다. 총 11,042명 규모의 독립 검증 코호트 12개에서 재현성을 확인했다. 시냅스 소포 관련 모듈은 추정 증상 발현 최대 5년 전부터 신경 회복탄력성을 식별해, 단일 지표를 넘어선 다중 모듈 기반 혈액 진단·계층화 가능성을 제시했다.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.08.14.26360394v1",
+          "tags": ["혈액 바이오마커", "p-tau217", "단백질체", "조기진단"],
+          "importance": "medium"
+        },
+        {
+          "title": "연결발화 자동분석 AI로 원발진행실어증 아형 감별 — 이분류 정확도 81.7% (Alz&Dem: DADM)",
+          "summary": "임상적으로 감별이 어려운 비유창/실문법형(nfvPPA)과 로고페닉형(lvPPA)을 구분하기 위해 이탈리아어 사용 PPA 환자 84명의 그림설명 발화에서 운율·음운·형태통사 특징을 추출해 머신러닝 분류기를 학습시켰다. lvPPA 대 nfvPPA 이분류 81.67%, 3군 다중분류 63.86% 정확도를 달성했다. 설명가능성 분석에서 명사 비율, local jitter, 조음 속도, 총 휴지가 가장 정보량이 큰 특징으로 확인돼 객관적 언어 바이오마커 가능성을 제시했다.",
+          "source": "Alzheimer's & Dementia: DADM",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13474157/",
+          "tags": ["음성 바이오마커", "머신러닝", "PPA 감별진단", "설명가능 AI"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "능동면역 백신 ABvac40, 경도인지장애·초기 알츠하이머에서 18개월 장기 안전성·면역원성 확인 (Alzheimer's & Dementia)",
+          "summary": "뇌혈관 아밀로이드의 주성분인 Aβ40을 표적하는 능동면역치료제 ABvac40의 2상 연장연구(18개월)에 77명이 참여했다. 치료관련 이상반응은 위약+부스터군 75.0%, ABvac40군 81.1%, 중대 이상반응은 각각 5.0%와 16.2%였으며 ARIA-E나 수막뇌척수염은 한 건도 없었고 ARIA-H 1건만 보고됐다. 지연 부스터 접종 후 강한 항Aβ40 항체 반응이 유도돼 뇌척수액에서도 검출됐다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13469337/",
+          "tags": ["능동면역치료", "ABvac40", "임상 2상", "아밀로이드"],
+          "importance": "high"
+        },
+        {
+          "title": "APOE ε4를 갖고도 치매를 피한 고령자의 혈장 단백체 — 발병 지연 인과 경로 규명 (Alzheimer's & Dementia)",
+          "summary": "GNPC 혈장 단백체 자료로 인지 정상을 유지한 '보호형' ε4 보유자 456명과 알츠하이머가 발병한 ε4 보유자 1,096명을 비교한 결과 721개 단백질 측정치가 보호형 상태와 연관됐다. 기능상실 변이 부담검정과 멘델무작위화를 통합한 분석에서 LILRA5, DBI, BPNT1, PTEN, EPHA1, PCDH10이 ε4 조절 후보로 지목됐고 TREM2와 ACE도 확인됐다. 면역·시냅스·대사스트레스·수초 경로가 발병 지연에 기여할 가능성을 시사한다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13470879/",
+          "tags": ["APOE ε4", "혈장 단백체", "유전학", "질병기전"],
+          "importance": "high"
+        },
+        {
+          "title": "UNC13A 크립틱 엑손, 알츠하이머 인지저하의 특이적 동인으로 확인 (Alzheimer's Research & Therapy)",
+          "summary": "Mayo Clinic 연구팀이 알츠하이머 부검 뇌 1,672례와 UK Biobank 466,517명을 분석했다. TDP-43 결합을 약화시키는 UNC13A 크립틱 엑손 SNP(rs12973192)는 인지저하와 유의하게 연관됐으나 TDP-43 병리나 생존기간과는 무관했고, 편도체의 UNC13A 크립틱 RNA 수치가 SNP 자체보다 인지저하를 더 잘 예측했다. 또 다른 크립틱 표적인 STMN2에서는 이런 연관이 없어 UNC13A 특이적 기전임을 시사한다.",
+          "source": "Alzheimer's Research & Therapy",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13474897/",
+          "tags": ["TDP-43", "크립틱 스플라이싱", "UNC13A", "질병기전"],
+          "importance": "medium"
+        },
+        {
+          "title": "투명 OLED 안경으로 감마파 동조 — 국내 연구진, 착용형 비침습 인지중재 기기 개발 (Science Advances)",
+          "summary": "KAIST와 분당서울대병원 공동 연구팀이 광 투과율 75%, 균일도 90% 이상을 구현한 대면적 투명 OLED 기반 착용형 안경을 개발해 감마파 동조 자극을 구현했다. 시스루 시야와 주변광이 있는 실제 착용 환경에서도 감마 리듬 동조가 유도돼 후두엽-전두엽 간 뇌 연결성이 향상됐다. 불투명 OLED 대비 시각적 불편감이 뚜렷하게 줄어, 알츠하이머 초기 단계의 일상적 비침습 인지중재 기기 가능성을 제시했다.",
+          "source": "Science Advances",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13475577/",
+          "tags": ["감마파 동조", "비약물 중재", "웨어러블", "국내연구"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "NECA, '전산화 서울인지상태검사' 신의료기술 인정…2026년 제5차 신의료기술평가위원회",
+          "summary": "한국보건의료연구원(NECA)이 8월 11일 2026년 제5차 신의료기술평가위원회 최종 심의 결과 '전산화 서울인지상태검사'를 포함한 3건을 안전성·유효성이 있는 의료기술로 평가했다고 밝혔다. 이 검사는 태블릿PC로 인지영역별 기능을 평가하며 인지기능 저하가 의심되는 50~90세 환자가 대상이다. SNSB-II·CERAD-K 등 전문가 대면 신경심리검사를 전산화 도구가 대체·보완하는 첫 공식 인정 사례로, 치매 진단 소프트웨어의 신의료기술 진입 경로에 직접적인 선례가 된다.",
+          "source": "청년의사",
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041695",
+          "tags": ["신의료기술평가", "NECA", "인지기능검사", "치매진단"],
+          "importance": "high"
+        },
+        {
+          "title": "식약처, 'AI 디지털의료기기 우수 관리체계 인증 가이드라인' 제정",
+          "summary": "식약처가 8월 12일 「디지털의료제품법」에 따른 우수 관리체계 인증의 세부기준과 신청·평가 절차를 담은 가이드라인을 제정·발간했다. AI 제어조치(레드팀·임상전문가 기반 거버넌스), 안전관리(설명가능성 정보 제공), 전자적 침해행위 예방·대응(보안책임자 지정·SBOM), 품질관리 4개 영역의 세부기준을 규정했다. 인증 기업은 디지털의료기기 GMP 적합판정을 받은 것으로 간주되고 인허가 시 임상시험 평가자료 등 제출서류를 일부 면제·대체할 수 있어, 뇌 MRI 진단 SW 기업의 허가 전략에 직접 영향을 준다.",
+          "source": "라포르시안",
+          "url": "https://www.rapportian.com/news/articleView.html?idxno=239335",
+          "tags": ["식약처", "디지털의료제품법", "우수관리체계인증", "SaMD"],
+          "importance": "high"
+        },
+        {
+          "title": "美 CMS, Aidoc 'CARE Body CT Multi-Triage'에 신기술 추가지불(NTAP) 승인",
+          "summary": "미국 CMS가 8월 13일 Aidoc의 파운데이션 모델 기반 AI 분류 솔루션에 대해 2026년 10월 1일부터 적용되는 입원환자 신기술 추가지불(NTAP) 자격을 승인했다. 흉부·복부·골반 CT에서 다수의 급성 소견을 동시에 선별하는 광범위 AI 솔루션이 NTAP를 받은 첫 사례로, 3년간 메디케어 수가가 인정된다. 단일 적응증이 아닌 '광범위 AI 플랫폼'에 대한 지불 선례라는 점에서 국내 AI 영상분석 수가 논의에도 참고가 된다.",
+          "source": "PR Newswire (Aidoc)",
+          "url": "https://www.prnewswire.com/news-releases/aidocs-care-body-ct-multi-triage-receives-eligibility-for-medicare-new-technology-add-on-payment-302850312.html",
+          "tags": ["CMS", "NTAP", "AI영상분석", "수가"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "국내 의료AI 상반기 성적표…수익성 두고 희비 갈려",
+          "summary": "주요 의료AI 기업의 2026년 반기보고서가 공시되면서 실적이 엇갈렸다. 루닛은 상반기 매출 458억원으로 반기 최대치를 기록하며 영업손실을 전년 419억원에서 290억원으로 줄인 반면, 뷰노는 매출 122억원(-28%)에 영업손실 83억원, 제이엘케이는 매출 9억원(-40%)에 영업손실 67억원으로 악화됐다. 코어라인소프트는 매출 29억원으로 반기 최대, 영업손실은 55억원으로 축소됐다. 시장 평가 기준이 '기술·성장'에서 '실제 매출을 내는 수익성'으로 이동했다는 분석이다.",
+          "source": "머니투데이 더바이오",
+          "url": "https://www.mt.co.kr/thebio/2026/08/17/2026081709392442772",
+          "tags": ["의료AI", "반기실적", "DART공시", "수익성"],
+          "importance": "medium"
+        },
+        {
+          "title": "루닛, 상반기 매출 458억원 역대 최대…영업손실 31% 축소",
+          "summary": "루닛이 연결기준 상반기 매출 457.66억원으로 전년 동기 대비 23% 증가한 반기 최대 실적을 냈다고 공시했다. 영업손실은 289.6억원으로 전년 419.1억원 대비 31% 줄었고 EBITDA 손실은 약 50% 감소했다. 해외 매출이 434.3억원으로 비중 95%에 달했으며(국내 23.3억원), 회사는 2026년 EBITDA 손익분기 달성을 목표로 제시했다.",
+          "source": "더바이오",
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=27117",
+          "tags": ["루닛", "반기실적", "의료AI", "해외매출"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "뷰노, 상반기 매출 122억원 27.3% 감소…신의료기술평가에 발목",
+          "summary": "뷰노가 연결기준 상반기 매출 약 122억원으로 전년 동기 대비 27.3% 줄고 영업손실은 83억원으로 130.6% 확대됐다고 공시했다. 주력 제품인 심정지 예측 AI '딥카스'가 상반기 104억원에 그친 것은 비급여 임시 지위에서 신의료기술평가·급여 심사 절차로 넘어가면서 기존 고객 중심 영업에 묶였기 때문으로, 회사는 4분기 평가 결과를 최대 분수령으로 보고 있다. 휴대용 심전도 '하티브'는 12억원으로 35% 성장했다.",
+          "source": "더바이오",
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=27241",
+          "tags": ["뷰노", "반기실적", "신의료기술평가", "딥카스"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "치매 치료도 '부익부 빈익빈'…조기진단 시대, 한국의 과제는",
+          "summary": "대형병원에서 신경심리검사와 PET을 순차 대기하다 보면 진단 확정까지 수개월이 걸리는 현실을 짚었다. 약값 외에 아밀로이드 PET, APOE 유전자검사, 반복 MRI 모니터링 비용이 겹치면서 경제력이 사실상 치료 접근성을 좌우하는 구조가 굳어지고 있다. p-tau181 혈액검사는 연내, p-tau217은 2027년 국내 도입이 전망돼 진단 병목 완화의 관건으로 지목됐다.",
+          "source": "청년의사",
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041717",
+          "tags": ["조기진단", "의료접근성", "혈액검사", "치매정책"],
+          "importance": "high"
+        },
+        {
+          "title": "'사후 치료' 넘어 '조기 개입'…치매 치료 공식 바뀐다",
+          "summary": "도나네맙은 76주 시점에 인지저하를 22~29% 지연시켰고 타우 저부담군에서는 35~36%로 효과가 더 컸으며 아밀로이드 제거 기준 충족률은 76%였다. 용량 적정 조절 프로토콜 적용 시 ARIA-E 발생률이 24.2%에서 15.6%로, 증상성 ARIA-E는 4.8%에서 2.8%로, APOE ε4 동형접합군은 57%에서 24%로 낮아졌다. 초고속 MRI 도입으로 촬영시간이 약 20분에서 6분으로 단축되며 반복 모니터링 부담도 줄어드는 추세다.",
+          "source": "청년의사",
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041635",
+          "tags": ["도나네맙", "ARIA", "조기개입", "MRI모니터링"],
+          "importance": "medium"
+        }
+      ]
+    }
+  ]
+}
