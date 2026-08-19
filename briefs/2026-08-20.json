@@ -1,0 +1,227 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T09:00:00+09:00",
+  "headline": "구조MRI 피질두께 변화가 아밀로이드 PET 양성보다 최소 7년 앞선다 — Nature Neuroscience, 종단 MRI 4,570건·Aβ PET 1,684건 (뇌 MRI가 '최초의 영상 표지자'일 수 있다는 근거)",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "피질두께 변화는 아밀로이드 양성 전환보다 최소 7년 앞선다 — 종단 MRI 4,570건·아밀로이드 PET 1,684건 (Nature Neuroscience)",
+          "summary": "인지정상 3개 코호트의 종단 MRI 4,570건과 Aβ PET 1,684건을 결합해, 이후 아밀로이드 양성으로 전환한 사람들의 전환 이전 MRI만으로 피질두께 궤적을 비교했다. 전환군은 피질이 더 두껍고 피질 얇아짐이 오히려 적었으며, 이 차이는 전환 시점보다 최소 7년 앞선 MRI에서도 관찰됐다. 정량 Aβ 수준을 보정해도 상당 부분 남아, 'PET 아밀로이드가 최초의 영상 표지자'라는 통설과 달리 구조MRI 변화가 먼저 감지될 수 있음을 시사한다.",
+          "source": "Nature Neuroscience",
+          "url": "https://www.nature.com/articles/s41593-026-02363-4",
+          "tags": ["뇌MRI", "피질두께", "아밀로이드PET", "전임상AD"],
+          "importance": "high"
+        },
+        {
+          "title": "기억클리닉 뇌MRI 판독문에서 시각등급 자동추출 — 오픈웨이트 LLaMA 3.1, MTA 0.90/0.96·Fazekas 0.94 (European Radiology)",
+          "summary": "3차 기억클리닉의 네덜란드어 뇌MRI 판독문 947건을 대상으로 오픈웨이트 LLM(LLaMA 3.1)이 30개 변수를 구조화 추출하는 성능을 평가했다. 제로샷에서 내측측두엽위축(MTA) 좌 0.90·우 0.96, 전반적 피질위축 0.87, Fazekas 0.94(균형정확도), 미세출혈 언급 검출 0.93을 기록했으나 미세출혈 개수(0.80)·경색 개수(0.66) 같은 수치 변수는 낮았다. 영어 번역본에서도 성능이 비슷해 언어 의존성이 낮았다.",
+          "source": "European Radiology",
+          "url": "https://doi.org/10.1007/s00330-026-12821-z",
+          "tags": ["뇌MRI", "AI판독", "LLM", "시각등급"],
+          "importance": "high"
+        },
+        {
+          "title": "미세조정 없는 제로샷 멀티모달로 4년 내 AD 위험 예측 AUC 0.91 — ADNI 416명, 구조MRI+MMSE·나이·성별 (arXiv)",
+          "summary": "SigLIP 사전학습 모델을 미세조정 없이 사용해 구조MRI 임베딩과 일상진료에서 얻는 임상변수(MMSE·나이·성별)의 텍스트 임베딩을 결합, ADNI 416명(평균 72.7세)의 전임상·MCI 단계에서 4년 내 AD 진행 위험을 개인 단위로 예측했다. 단일 방문 설정에서 AUC 0.91±0.02로 CSF Aβ42 기반 모델(0.73±0.08)과 MMSE 단독(0.85±0.22)을 앞섰다. 프리프린트이며 외부 코호트 검증은 없다.",
+          "source": "arXiv (프리프린트)",
+          "url": "https://arxiv.org/abs/2608.16962",
+          "tags": ["뇌MRI", "AI진단", "예후예측", "ADNI"],
+          "importance": "high"
+        },
+        {
+          "title": "'인지정상' 1,136명을 딥클러스터링하니 생물학적 3개 아형 — 피질위축·염증 부담 높은 군은 2년 내 MCI/치매 전환 급증 (medRxiv)",
+          "summary": "전향 코호트 1,136명의 MRI 피질두께, 혈장 AD 바이오마커, 혈장 염증표지, 혈관지표를 Deep Embedded Clustering으로 통합해 인지정상 고령자를 저·중·고 신경생물학적 부담 3개 군으로 나눴다. 군 분류를 주도한 변수는 피질 얇아짐과 염증 부담이었고, 고부담군은 기억·집행기능이 유의하게 낮고 심장대사 동반질환이 많으며 2년 내 MCI·치매 전환율이 뚜렷하게 높았다. 독립 외부 표본에서 재현됐다.",
+          "source": "medRxiv (프리프린트)",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.08.18.26360683v1",
+          "tags": ["뇌MRI", "AI진단", "혈액 바이오마커", "층화"],
+          "importance": "high"
+        },
+        {
+          "title": "혈장 단백체 노화시계, 후성유전 시계가 설명 못 한 인지·바이오마커 변량 최대 23% 추가 설명 — 인지정상 153명 9년 추적 (Alz&Dem: DADM)",
+          "summary": "평균 62세 인지정상 153명의 혈액에서 단백체·후성유전 노화시계를 산출하고 약 9년 뒤 측정한 AD 혈액 바이오마커·인지검사와의 연관을 분석했다. 단백체 시계는 후성유전 시계가 설명하지 못한 변량을 최대 23%까지 추가로 설명했고, 전신·뇌 특이적 단백체 노화 가속은 낮은 인지수행과 높은 혈장 NfL과 연관됐다. 다만 당뇨 유전위험이 높은 사람에서 연관이 약해져 동반질환이 교란요인일 수 있다.",
+          "source": "Alzheimer's & Dementia: DADM",
+          "url": "https://doi.org/10.1002/dad2.70456",
+          "tags": ["혈액 바이오마커", "단백체", "노화시계"],
+          "importance": "medium"
+        },
+        {
+          "title": "다기관 혈액 바이오마커 표준화 프로토콜(DVCID) 공개 — 인종·성별에 따른 혈장 표지자 차이로 '맞춤 컷오프' 필요성 제기 (Alz&Dem: DADM)",
+          "summary": "혈관성 인지장애·치매(DVCID) 다기관 연구의 검체 수집·전처리·정량 표준운영절차(SOP)와 전·중·후 분석 단계 품질관리 체계를 공개했다. 사후 품질관리로 검사 변동성을 허용범위 내로 관리했고, 개념검증 중간분석에서 공변량 보정 후에도 일부 혈장 바이오마커가 성별·인종/민족에 따라 차이를 보였다. 저자들은 혈액 바이오마커 해석 시 민족·인종별로 조정된 컷오프가 필요할 수 있다고 지적했다.",
+          "source": "Alzheimer's & Dementia: DADM",
+          "url": "https://doi.org/10.1002/dad2.70435",
+          "tags": ["혈액 바이오마커", "표준화", "컷오프"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "MAPT 엑손10 스플라이싱을 건드려 4R 타우를 줄이는 저분자 — FTD 환자 유래 뉴런·N279K 마우스에서 인산화 타우 감소 (Science Translational Medicine)",
+          "summary": "MAPT 엑손10 배제를 유도하는 스플라이싱 조절 저분자(SMC)를 개발해, P301L(기능획득) 및 S305N(스플라이싱) 변이 FTD 환자 유래 뉴런에서 4R 타우 발현과 인산화·올리고머·불용성 타우를 줄이고 타우 관련 신경독성을 회복시켰다. 선도물질은 N279K 스플라이싱 변이를 갖는 인간 유전자 치환 마우스 뇌에서 3R/4R 비율을 교정하고 p-타우를 감소시켰다. 항체가 아닌 pre-mRNA 스플라이싱 조절을 4R 타우병증 치료전략으로 제시한 전임상 결과다.",
+          "source": "Science Translational Medicine",
+          "url": "https://doi.org/10.1126/scitranslmed.ady6759",
+          "tags": ["치료제", "타우"],
+          "importance": "medium"
+        },
+        {
+          "title": "프로그래눌린 C말단을 막아 소르틸린 결합을 차단하면 FTD 유전자치료 효과가 올라간다 — 혈중 NfL 감소는 차단형에서만 (Science Translational Medicine)",
+          "summary": "프로그래눌린(GRN) 결손 마우스에 정상 PGRN, C말단 차단형 PGRN(소르틸린 결합 감소), GFP를 각각 발현하는 유전자치료 벡터를 비교했다. 차단형은 주입부위와 원거리 영역 모두에서 더 높은 PGRN 농도를 만들고 미세아교세포증·리포푸신 축적·지질 이상을 더 잘 교정했으며, 머신러닝 기반 행동분석상 이상행동도 차단형에서만 사라졌다. 축삭손상 표지자인 혈중 NfL을 낮춘 것도 차단형뿐이어서, 임상 진행 중인 PGRN 유전자치료의 카고 설계 개선 근거를 제시한다.",
+          "source": "Science Translational Medicine",
+          "url": "https://doi.org/10.1126/scitranslmed.adr9158",
+          "tags": ["치료제", "전측두엽치매"],
+          "importance": "medium"
+        },
+        {
+          "title": "APOE 유전형이 성상교세포 '지방방울' 단백체를 다르게 재편 — APOE4에서는 리포파지가 막혀 분해 저항 (Nature Communications)",
+          "summary": "iPSC 유래 인간 성상교세포를 APOE2·APOE3·APOE4로 나눠 올레산 처리 후 지방방울의 단백체·지질체·분해 동역학을 비교했다. 유전형마다 지방방울에 붙는 단백질과 지질 조성이 달랐고, APOE2 성상교세포의 지방방울은 자가포식(리포파지)으로 효율적으로 제거된 반면 APOE4에서는 분해에 저항했다. 지방방울 청소 실패를 APOE4의 알츠하이머 위험 증가 기전 후보로 제시했다.",
+          "source": "Nature Communications",
+          "url": "https://doi.org/10.1038/s41467-026-76565-6",
+          "tags": ["유전", "발병기전"],
+          "importance": "medium"
+        },
+        {
+          "title": "심방세동 환자의 '클론성 조혈(CHIP)'이 무증상 뇌병변과 인지저하를 가속 — 1,572명 7년 추적, MoCA β -0.53 (Circulation)",
+          "summary": "심방세동 환자 1,572명(평균 72.5세)을 표적 심층 시퀀싱한 결과 22%(342명)가 CHIP 변이 보유자였고(DNMT3A 49.4%·TET2 28.3%), 기저 시점에 미세출혈 OR 1.45, 백질병변 OR 1.56으로 높았으며 비-DNMT3A 변이에서 더 강했다(각 1.79·1.80). 2년 추적에서 새 미세출혈 수와 백질병변 용적 증가가 CHIP과 연관됐고, 7년간 MoCA 점수는 비보유자보다 낮았다(β -0.53, 95% CI -1.02~-0.03). 조혈세포 클론 확장이 뇌 소혈관 손상과 인지저하의 독립적 위험요인일 수 있음을 보여준다.",
+          "source": "Circulation",
+          "url": "https://doi.org/10.1161/CIRCULATIONAHA.126.079459",
+          "tags": ["위험인자", "역학"],
+          "importance": "medium"
+        },
+        {
+          "title": "심혈관건강 점수(Life's Essential 8) 10점 낮을수록 치매 위험 1.33배 — 히스패닉 65% 도시 코호트 920명 9년 추적 (Alz&Dem: DADM)",
+          "summary": "북맨해튼연구(NOMAS)의 치매 없는 참가자 920명(평균 64세, 여성 60%, 히스패닉 65%, 평균 LE8 점수 60)을 9년 추적해 175명이 치매로 진단됐다. 나이·성별·인종·교육·보험을 보정한 Cox 모형에서 LE8 점수 10점 감소마다 치매 위험이 33% 높았다(HR 1.33, 95% CI 1.17~1.51). 미국심장협회의 8개 심혈관건강 지표가 소수인종 비중이 큰 도시 인구에서도 치매 예방 개입 표적이 될 수 있음을 시사한다.",
+          "source": "Alzheimer's & Dementia: DADM",
+          "url": "https://doi.org/10.1002/dad2.70444",
+          "tags": ["위험인자", "예방"],
+          "importance": "medium"
+        },
+        {
+          "title": "ALS·산발성 전측두엽치매·인지형질의 공유 유전구조 지도 — 공유 좌위 26개, MEF2C·UNC13A·MAPT/APOE가 핵심 (medRxiv)",
+          "summary": "GWAS 데이터로 다면발현(pleiotropy) 매핑과 공동국재화(colocalisation)를 수행해 ALS–인지형질 26개, ALS–산발성 FTD 5개, 산발성 FTD–인지 7개 공유 좌위를 확인했다. ALS–인지 축에서는 MEF2C가 가장 일관된 근거(다중 유전자 우선순위 도구 + 소뇌 eQTL 3중 공동국재화)를 보였고, ALS–sFTD 축에서는 UNC13A의 스플라이싱 매개 효과가, sFTD–인지 축에서는 MAPT/17q21.31과 APOE가 주도했다. ALS의 인지 차원이 FTD와 부분적으로 구별되는 독자적 유전구조를 갖는다는 해석이다.",
+          "source": "medRxiv (프리프린트)",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.08.17.26360494v1",
+          "tags": ["유전", "전측두엽치매"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "美 FDA, '생성형 AI 의료기기 규제' 디스커션 페이퍼 공개(8/18)…2축 위험평가·'역량평가' 기반 시판 전 심사 제안, 의견기한 10월 19일",
+          "summary": "FDA 디지털헬스최고센터(DHCoE)가 8월 18일 「Considerations for the Regulation of Generative AI-Enabled Medical Devices」 디스커션 페이퍼를 공개하고 의견을 수렴한다(도켓 FDA-2026-N-7874, 기한 2026-10-19). 위험을 2축 프레임워크로 분류하고, 시판 전 심사를 기존 '고정 알고리즘 성능검증'이 아닌 임상의 역량시험에 가까운 '역량평가'(비임상 벤치마킹 + 임상 확증)로 설계하며, 위험비례형 시판 후 모니터링과 파운데이션 모델·에이전틱 시스템까지 규제 범위로 다룬 것이 핵심이다. FDA는 정책 확정이 아닌 사전 의견수렴 단계임을 명시했다.",
+          "source": "AuntMinnie (FDA Digital Health Center of Excellence)",
+          "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15832741/fda-issues-discussion-paper-on-regulating-genai-medical-devices",
+          "tags": ["FDA", "생성형AI", "SaMD", "규제프레임워크"],
+          "importance": "high"
+        },
+        {
+          "title": "식약처 \"고정형 AI 규제론 부족\"…'피지컬 AI' 규제 3대 축 제시(8/20, KHF 2026)…AI 디지털의료기기 허가 올해 700~800건 전망",
+          "summary": "식약처 손미정 디지털의료제품지원총괄과장이 8월 19일 KHF 2026(코엑스)에서 향후 AI 의료기기 규제 방향을 발표했고 8월 20일 보도됐다. 기존 '고정형 알고리즘' 전제의 허가·심사 체계로는 다중 입출력·지속학습형 제품을 담을 수 없다고 보고 ①엣지케이스 학습 등 데이터 활용 규제 ②생성형·학습형 AI 기반 규제체계 ③자율성 증가에 따른 책임소재·신뢰성 확보를 3대 축으로 제시했으며, 제품 단위 허가에서 기업 단위 평가로 전환하는 '우수관리체계 인증 특례'의 세부 가이드라인을 준비 중이라고 밝혔다. 의료AI 연평균 성장률 41.8%, AI 적용 디지털의료기기 허가가 지난해 약 500건에서 올해 말 700~800건으로 늘 것이라는 전망도 공개됐다. BeauBrain 함의: 뇌 MRI 진단 SW의 변경관리·재학습 규제가 '제품 허가'에서 '기업 품질체계 인증'으로 이동한다는 신호이므로, 우수관리체계 인증 트랙 진입 여부를 지금 결정하면 향후 변경허가 부담을 크게 줄일 수 있다.",
+          "source": "청년의사",
+          "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041920",
+          "tags": ["식약처", "AI의료기기", "우수관리체계", "KHF2026"],
+          "importance": "high"
+        },
+        {
+          "title": "FDA 허가 AI 의료기기 1,357건 중 환자결과로 검증된 건 3건(0.2%)…영상 AI 1,059건 중 전향 임상시험 등록은 3건 (PLOS Digital Health)",
+          "summary": "MIT Critical Care 연구팀이 FDA 허가 AI 기기 1,357건을 분석해, 사망률·재입원 같은 환자중심 결과로 검증된 기기가 3건(0.2%)뿐이고 전향 임상시험이 등록된 것도 34건(2.5%)에 그쳤다고 8월 19일 보고했다. 영상의학 분야 1,059건 중 등록된 전향 시험은 3건(0.3%)이었고, 검증 연구 62%가 소규모·동질 집단이며 취약계층을 빈번히 제외했다. 연구진은 \"510(k)는 기존 제품과 실질적 동등성을 뜻할 뿐 환자에게 이롭다는 증거가 아니다\"라며 허가 전 500명 이상 전향연구·허가 후 2,000명 이상 다기관 시험의 3단계 근거 사다리를 제안했다. BeauBrain 함의: 뇌 MRI 진단 SW의 경쟁 우위가 '허가 보유'에서 '환자결과 근거 보유'로 이동할 가능성이 커, 전향적 임상 근거 확보가 급여·신의료기술 심사에서 차별점이 될 수 있다.",
+          "source": "AuntMinnie (PLOS Digital Health)",
+          "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15832887/most-fdacleared-ai-medical-devices-not-tested-on-patient-outcomes",
+          "tags": ["FDA", "510(k)", "임상근거", "영상AI"],
+          "importance": "high"
+        },
+        {
+          "title": "래디올로지파트너스 자회사 모자이크, FDA에 '영상진단 VLM도 의료기기' 시민청원 제출(8/18)",
+          "summary": "래디올로지파트너스의 기술 부문 모자이크 클리니컬 테크놀로지스가 8월 18일 진단영상 분석에 쓰이는 비전언어모델(VLM)의 규제 관할을 명확히 해달라는 시민청원을 FDA에 제출했다. 청원은 VLM이 '완제 의료기기'인지 '구성품'인지, 개발사·유통사·의료기관 각각의 책임 범위가 무엇인지를 규정해달라고 요구하며, 진단영상 분석용으로 설계·학습·판매된 VLM은 하위 사용자가 추가 미세조정을 하더라도 의료기기에 해당해야 하고 '의료행위 예외'가 개발사를 FDA 감독에서 면제해서는 안 된다고 주장했다. 근거로 대표성 없는 학습데이터로 인한 편향, 투명성 부족, 표준화된 검증·성능 모니터링 요건 부재를 들었다.",
+          "source": "AuntMinnie",
+          "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15832766/radiology-partners-unit-mosaic-petitions-fda-on-imaging-ai-regulation",
+          "tags": ["FDA", "VLM", "영상AI", "시민청원"],
+          "importance": "medium"
+        },
+        {
+          "title": "美 FDA, 'TEMPO' 디지털헬스 파일럿 2호 참여기업 선정(8/17)…허가 전 단계 SaMD를 메디케어 환자에게 공급, 실사용데이터로 검증",
+          "summary": "FDA가 8월 17일 TEMPO(Technology-Enabled Meaningful Patient Outcomes) 파일럿의 두 번째 참여기업으로 고혈압 관리 AI 소프트웨어 'HypertensionOS'(Cadence)를 선정했다. TEMPO는 CMS 혁신센터 ACCESS 모델과 연계해 통상적인 시판 전 허가 절차를 거치기 전에도 메디케어 경로로 환자에게 기기를 제공하고 실사용 근거를 수집하게 하는 구조로, 7월 덱스콤(혈당)이 1호였고 심장-신장-대사·근골격·행동건강 등 4개 질환군별 최대 10개 제조사를 받을 계획이다. BeauBrain 함의: 미국에서 AI SaMD가 '허가 후 급여 신청' 순서를 우회해 급여 경로와 근거생성을 동시에 확보하는 새 트랙이 가동됐다는 뜻이며, 신경·인지 질환군이 대상에 추가될지가 미국 진출 시나리오의 관전 포인트다.",
+          "source": "MedTech Dive",
+          "url": "https://www.medtechdive.com/news/fda-names-second-participant-in-tempo-digital-health-pilot/828027/",
+          "tags": ["FDA", "CMS", "급여경로", "SaMD", "실사용근거"],
+          "importance": "medium"
+        },
+        {
+          "title": "국가AI전략위원회 의료TF, 'AI 기본의료 전략' 실행 세부안 공개(8/19, KHF 2026)…'우리동네 의료AI' 바우처·공공 주도 'AI 네이티브 HIS'·국민건강비서 AI",
+          "summary": "국가AI전략위원회 위원인 서준범 서울아산병원 영상의학과 교수가 8월 19일 KHF 2026 세미나에서 8월 초 확정된 'AI 기본의료 전략'(3대 전략·12대 과제)의 집행 방식을 구체화했다. 기존 발표에 없던 내용으로 ①취약지 의원·보건소에 AI 솔루션을 바우처로 지급하는 '우리동네 의료AI' ②개인건강기록(PHR)을 통합하는 '국민건강비서 AI' 앱 ③파편화된 진료기록 통합을 위해 공공이 주도하는 'AI 네이티브 병원정보시스템(HIS)' 개발이 제시됐고, 데이터 주권 관점의 '소버린 의료AI'가 강조됐다. BeauBrain 함의: 공공 판로가 기관 단위 조달이 아니라 의원·보건소 바우처로 설계되면 뇌 MRI 진단 SW는 영상장비 접근성이 있는 지역 거점 중심으로 진입 전략을 다시 짜야 하고, AI 네이티브 HIS는 판독결과 연동 표준을 선점할 기회이자 상호운용성 요건이 급여 심사 근거로 요구될 가능성을 시사한다.",
+          "source": "병원신문",
+          "url": "http://www.khanews.com/news/articleView.html?idxno=249139",
+          "tags": ["국가AI전략위원회", "AI기본의료전략", "공공의료AI", "정책"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "키넥시스, 시리즈A 4,000만 유로 추가 확대해 누적 9,700만 유로 조달…노바티스 벤처펀드 주도, 알츠하이머 인지장애로 적응증 확장 추진",
+          "summary": "인지기능 개선 신약을 개발하는 네덜란드 키넥시스(Kynexis)가 8월 19일 시리즈A 연장 라운드로 4,000만 유로를 추가 조달해 시리즈A 누적 9,700만 유로(약 1억 1,000만 달러)를 확보했다고 발표했다. 신규 투자자 노바티스 벤처펀드가 주도했고 기존 투자자 Forbion·Ysios Capital·Sunstone Life Science Ventures가 참여했다. 자금은 KAT II 억제제 KYN-5356의 조현병 인지장애(CIAS) 2상 마무리와 허가용 임상 준비에 쓰이며, 회사는 알츠하이머병을 포함한 다른 인지장애로 적응증을 확장하겠다고 명시했다.",
+          "source": "Kynexis (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/08/19/3347521/0/en/kynexis-extends-series-a-to-97-million-to-advance-potential-first-in-class-investigational-medicine-for-cognitive-disorders.html",
+          "tags": ["투자", "인지장애", "시리즈A"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "제이엘케이, 일본 내 뇌영상 AI 인허가 누적 7건·현지 유통 파트너 4곳…\"인허가 확보에서 매출 연결로\" 전환 선언",
+          "summary": "제이엘케이가 일본에서 뇌영상 AI 솔루션 7종의 인허가를 확보했다고 밝히며, 8월 18일 공개한 아펙스 인터내셔널 니가타 계약을 포함해 현지 유통망을 4개 파트너 체계로 정리했다. 새로 확인된 내용은 아펙스 인터내셔널 니가타가 금융그룹 오릭스가 인수한 아펙스 홀딩스 계열사로 관동·도카이 지역 대학병원·국공립병원을 고객 기반으로 두고 있다는 점이다. 회사는 직접 판매와 현지 유통을 병행해 인허가 단계에서 매출 실현 단계로 넘어가겠다는 전략을 제시했다.",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260819000209",
+          "tags": ["제이엘케이", "해외진출", "일본"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "[Alzforum] 늙은 미세아교세포가 내보내는 단백질 sDLK1이 수초를 망가뜨리고 뉴런을 과흥분시킨다",
+          "summary": "Weill Cornell의 Li Gan 연구팀은 노화 미세아교세포가 분비형 DLK1(sDLK1)을 방출해 Notch에 결합하고 올리고덴드로사이트 성숙을 방해한다고 Neuron에 보고했다. sDLK1 노출 시 수초 단백질이 약 25% 감소하고 뉴런 칼슘 신호가 증가하며 시냅스 유전자 발현이 줄었고, 사람 뇌조직에서도 DLK1이 나이와 함께 증가했다. 아밀로이드·타우 축과 별개로 '교세포 노화 → 백질 손상 → 신경 과흥분'이라는 경로를 제시해, sDLK1 또는 수용체 차단이 새 치료 표적으로 거론된다.",
+          "source": "Alzforum",
+          "url": "https://www.alzforum.org/news/research-news/senescent-microglia-release-protein-disrupts-myelin-riles-neurons",
+          "tags": ["미세아교세포", "노화", "백질"],
+          "importance": "medium"
+        },
+        {
+          "title": "[데일리팜] \"뇌기능개선제는 왜 계속 퇴출되는가\" — 아세틸엘카르니틴·옥시라세탐·콜린알포 다음은 은행엽·니세르골린",
+          "summary": "임상재평가로 적응증을 잃은 뇌기능개선제 계보를 정리하고, 퇴출된 자리를 은행엽엑스·뇌단백가수분해물·니세르골린이 메웠으나 이들 역시 동일한 검증 대상에 올랐다고 지적한 칼럼이다. 경도인지장애·초기 치매에서는 기억력·집중력이 수면·스트레스·컨디션에 따라 흔들려 약효와 자연 변동을 구분하기 어렵다는 방법론적 한계를 핵심 원인으로 제시한다. 아밀로이드 외에 타우·신경염증·혈관·대사 기전이 얽힌 질환에서 단일 지표 기반 유효성 판정이 타당한지, '진행 지연'을 임상적 의미로 인정할 기준이 무엇인지를 규제 과제로 던진다.",
+          "source": "데일리팜",
+          "url": "https://www.dailypharm.com/user/news/341579",
+          "tags": ["임상재평가", "규제", "뇌기능개선제"],
+          "importance": "medium"
+        },
+        {
+          "title": "[디멘시아뉴스] [인터뷰] 진료실에서 '운동 처방전' 쓰는 치과의사 — 구강기능 저하는 인지 악화의 조기 신호",
+          "summary": "서울대치과병원 이정태 교수는 씹는 기능이 뇌 혈류·감각 자극을 통해 인지에 기여한다고 보고, 치과 진료와 함께 탄력밴드 근력운동 40분·유산소 30~60분을 처방하는 진료 방식을 소개했다. 구강기능 저하가 인지 악화의 조기 신호로 나타나므로 경도인지장애 단계에서 환자가 스스로 관리에 참여하도록 개입해야 하고, 중증 단계에서는 보호자 교육이 핵심이라고 강조했다. 제5차 치매관리종합계획에 구강관리가 공식 사업으로 처음 포함된 점을 제도적 전환으로 평가했다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11148",
+          "tags": ["구강건강", "예방", "인터뷰"],
+          "importance": "medium"
+        }
+      ]
+    }
+  ]
+}
