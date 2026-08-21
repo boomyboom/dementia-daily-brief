@@ -37,8 +37,10 @@
    - 갱신 모드: 기존 항목을 유지한 채 새 항목만 각 섹션에 덧붙인다. headline은 기존 것을 유지하되, 새로 추가된 소식이 그날 가장 중요하다면 그때만 교체한다.
 7. `python3 cleanup_old_briefs.py`를 실행한다. 이 스크립트가 30일 지난 브리핑 파일을 삭제하고, `briefs/manifest.json`(날짜 목록)과 `briefs/seen_urls.json`(중복 차단용 URL 목록)을 남은 브리핑 기준으로 자동 재생성한다. (manifest·seen_urls를 손으로 고칠 필요 없음)
    이어서 `python3 build_keywords.py`를 실행해 `briefs/keywords.json`(30일 키워드·기업 랭킹, 전일 대비 등락)을 갱신한다. 사이트 오른쪽 랭킹 패널이 이 파일을 읽는다.
-8. `python3 -m json.tool`로 오늘 브리핑·manifest.json·seen_urls.json의 유효성을 검증한다.
-9. `git add -A`로 변경(신규·삭제 포함)을 스테이징한 뒤 **GitLab과 GitHub 양쪽에 push**한다: `git push gitlab main` 그리고 `git push origin main`. (한쪽이 실패해도 다른 쪽은 시도한다.) 커밋 메시지는 신규 모드면 `brief: YYYY-MM-DD 데일리 브리프 추가`, 갱신 모드면 `brief: YYYY-MM-DD 갱신 (추가 N건)`으로 한다. index.html 등 사이트 코드는 수정하지 않는다.
+8. **링크 안전성**: 모든 `url`은 반드시 `https://`로 적는다(평문 `http://` 금지 — 브라우저·보안SW가 경고를 띄운다). 원문이 http만 제공하면 https로 접속되는지 확인하고, 안 되면 그 항목은 넣지 않는다.
+   이어서 `python3 check_links.py`를 실행해 평문HTTP·타도메인 이동·삭제된 링크를 점검한다. 문제가 나오면 살아있는 대체 출처로 교체하거나 해당 항목을 제외한다.
+9. `python3 -m json.tool`로 오늘 브리핑·manifest.json·seen_urls.json의 유효성을 검증한다.
+10. `git add -A`로 변경(신규·삭제 포함)을 스테이징한 뒤 **GitLab과 GitHub 양쪽에 push**한다: `git push gitlab main` 그리고 `git push origin main`. (한쪽이 실패해도 다른 쪽은 시도한다.) 커밋 메시지는 신규 모드면 `brief: YYYY-MM-DD 데일리 브리프 추가`, 갱신 모드면 `brief: YYYY-MM-DD 갱신 (추가 N건)`으로 한다. index.html 등 사이트 코드는 수정하지 않는다.
 
 ## 성공 기준
 - briefs/오늘날짜.json이 유효한 JSON으로 생성·푸시됨
