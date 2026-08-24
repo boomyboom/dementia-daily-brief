@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T09:45:02+09:00",
+  "headline": "Cortechs.ai의 NeuroQuant PET FDA clearance와 FDA 생성형 AI 의료기기 규제 프레임워크가 이번 주의 핵심 흐름으로 확인됐고, 최고령층 연구는 아밀로이드·혈관·신경염증을 함께 보는 영상·바이오마커 해석의 필요성을 보여줬다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "최고령층에서 GFAP·백질고신호·아밀로이드·내측측두엽 피질 두께의 연결고리 규명 — LifeAfter90 439명",
+          "summary": "90세 이상 중심의 다인종 코호트 439명을 분석한 Alzheimer's & Dementia 연구에서 혈장 GFAP가 후대뇌동맥(PCA) 영역 백질고신호(WMH) 부피와 연관됐지만 전역 아밀로이드 부담이나 일화기억과는 직접 연관되지 않았다. PCA WMH와 전역 아밀로이드 부담은 내측측두엽 피질 두께 감소와 연결됐고, 이 두께가 일화기억과 연관됐다. 알츠하이머병을 단일 병리로 해석하기보다 혈관·신경염증·신경퇴행을 함께 보는 영상·바이오마커 접근이 필요하다는 시사점이다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42630088/",
+          "date": "2026-08-22",
+          "tags": [
+            "GFAP",
+            "뇌 MRI",
+            "아밀로이드 PET",
+            "WMH",
+            "LifeAfter90"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": []
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가",
+      "items": [
+        {
+          "title": "FDA, 생성형 AI 의료기기 규제 프레임워크 의견수렴 — 사전 성능·임상확인·시판후 모니터링 제시",
+          "summary": "FDA가 생성형 AI 의료기기의 위험도 평가, 시판 전 성능·임상 확인, 시판 후 모니터링을 다루는 discussion paper를 공개하고 2026년 10월 19일까지 의견을 받는다. foundation model과 agentic AI도 별도 고려 대상으로 제시해 향후 AI 의료기기 제출자료와 변경관리·감시체계 요구가 구체화될 가능성이 있다. 뇌 MRI 진단 소프트웨어에는 사전 성능 검증과 임상적 유효성, 업데이트 이후 성능 추적을 설계 단계부터 준비해야 한다는 의미가 있다.",
+          "source": "FDA",
+          "url": "https://www.fda.gov/media/194242/download",
+          "date": "2026-08-18",
+          "tags": [
+            "FDA",
+            "생성형 AI",
+            "SaMD",
+            "의료AI 규제"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": []
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "Cortechs.ai, NeuroQuant PET FDA 510(k) clearance — 아밀로이드 PET 자동 정량·Centiloid 보고",
+          "summary": "Cortechs.ai가 8월 18일 NeuroQuant PET에 FDA 510(k) K261916 clearance를 받았다고 발표했다. NeuroQuant PET은 flutemetamol·florbetaben·florbetapir PET에서 지역별 정량값, SUVR·Centiloid와 구조화 보고서를 제공하며 PET/CT·PET/MR·PET 워크플로에 연결된다. 아밀로이드 PET 정량화가 미국 임상 진료로 확장되는 경쟁사 인허가 사례로, BeauBrain의 MRI 기반 정량 소프트웨어와 다중 바이오마커·치료 모니터링 포지셔닝을 비교해야 한다.",
+          "source": "Cortechs.ai",
+          "url": "https://www.cortechs.ai/category/cortechs-ai-news/",
+          "date": "2026-08-18",
+          "tags": [
+            "Cortechs.ai",
+            "NeuroQuant",
+            "아밀로이드 PET",
+            "Centiloid",
+            "FDA",
+            "경쟁사 인허가"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": []
+    }
+  ]
+}
