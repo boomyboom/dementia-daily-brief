@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T08:20:21+09:00",
+ "generated_at": "2026-08-30T14:17:17+09:00",
  "date": "2026-08-30",
  "prev_date": "2026-08-29",
  "window_days": 30,
@@ -7,7 +7,7 @@
   {
    "rank": 1,
    "keyword": "뇌 MRI",
-   "count": 183,
+   "count": 184,
    "prev_rank": 1,
    "delta": 0,
    "state": "same",
@@ -53,6 +53,13 @@
      "url": "https://doi.org/10.64898/2026.08.24.744255",
      "section": "진단·영상 연구",
      "importance": "medium"
+    },
+    {
+     "date": "2026-08-30",
+     "title": "조기발병 알츠하이머 MCI에서 'EOAD-시그니처' 피질위축이 치매 전환을 예측 — 1SD당 위험비 1.24, 임상중증도만 쓴 모델보다 적합도 개선 (Neurology)",
+     "url": "https://doi.org/10.1212/WNL.0000000000218519",
+     "section": "진단·영상 연구",
+     "importance": "high"
     },
     {
      "date": "2026-08-30",
@@ -179,20 +186,13 @@
      "url": "https://doi.org/10.1088/2057-1976/ae995e",
      "section": "진단·영상 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-08-27",
-     "title": "환자 한 명마다 'MRI가 몇 %, PET이 몇 %' 기여했는지 계산하는 MCS — ADNI-3 327명 3분류 AUC 0.881, PET 기여도 CN 0.412→MCI 0.489→AD 0.671 (arXiv)",
-     "url": "https://arxiv.org/abs/2608.24931",
-     "section": "진단·영상 연구",
-     "importance": "high"
     }
    ]
   },
   {
    "rank": 2,
    "keyword": "아밀로이드",
-   "count": 178,
+   "count": 179,
    "prev_rank": 2,
    "delta": 0,
    "state": "same",
@@ -229,6 +229,13 @@
      "date": "2026-08-30",
      "title": "신데칸-4는 아밀로이드를 '쌓기도 줄이기도' 한다 — 헤파란황산 의존 응집 촉진과 비의존 Aβ 생산 감소의 이중 기능 (bioRxiv)",
      "url": "https://doi.org/10.64898/2026.08.21.743990",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-30",
+     "title": "아밀로이드 양성 이후 시간이 1SD 늘 때마다 '묶음 운행'이 월 4.21회 증가 — 인지정상 고령운전자 240명 자연주행 데이터 (JAGS)",
+     "url": "https://doi.org/10.1111/jgs.70665",
      "section": "치매 전분야 연구",
      "importance": "medium"
     },
@@ -364,24 +371,31 @@
      "url": "https://doi.org/10.1080/17582024.2026.2723524",
      "section": "치매 전분야 연구",
      "importance": "high"
-    },
-    {
-     "date": "2026-08-27",
-     "title": "[Alzforum] 아밀로이드 없는 '미토콘드리아 플라크'라는 새 병리 — 최대 1만3,000μm², 사람 뇌에서도 확인",
-     "url": "https://www.alzforum.org/news/research-news/meet-mitochondrial-plaque-new-alzheimers-pathology",
-     "section": "주요 언론",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 3,
    "keyword": "혈액 바이오마커",
-   "count": 118,
+   "count": 120,
    "prev_rank": 3,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-08-30",
+     "title": "혈액검사·문진만으로 MCI를 거르는 해석가능 ML — XGBoost 훈련 AUC 0.839·검증 0.747, 상위 예측인자는 학력·나이·직접빌리루빈 (Frontiers in Public Health)",
+     "url": "https://doi.org/10.3389/fpubh.2026.1854956",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-30",
+     "title": "말초혈액 단핵구 RNA-seq로 MCI '진행군'을 가르는 후보 유전자 5개 — CDHR5·HIF1A는 정상→비진행→진행 순으로 발현 증가 (Frontiers in Aging Neuroscience)",
+     "url": "https://doi.org/10.3389/fnagi.2026.1901264",
+     "section": "진단·영상 연구",
+     "importance": null
+    },
     {
      "date": "2026-08-29",
      "title": "혈장 IGF-1이 낮을수록 해마·편도·두정·전두엽이 작았지만 뇌혈관질환 지표와는 무관했다 — 기억클리닉 228명 (Biomolecules)",
@@ -542,37 +556,37 @@
      "url": "https://hitconsultant.net/2026/08/24/roche-receives-fda-clearance-elecsys-ptau217-alzheimers-blood-test/",
      "section": "경쟁사 동향",
      "importance": "high"
-    },
-    {
-     "date": "2026-08-24",
-     "title": "혈액 p-tau 아형 head-to-head 메타분석: p-tau217이 p-tau181보다 전 영역 우월(모두 p<0.05), 단 인지정상·SCD의 아밀로이드 판정에서는 성능 저하 (Eur Arch Psychiatry Clin Neurosci)",
-     "url": "https://doi.org/10.1007/s00406-026-02353-4",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-24",
-     "title": "서울 첫 지자체 '치매 위험도 혈액검사' 무료 지원 — 송파구, 만 64세 200명 대상 2단계 선별",
-     "url": "https://biz.heraldcorp.com/article/10846065",
-     "section": "주요 언론",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 4,
    "keyword": "급여·수가",
-   "count": 117,
+   "count": 119,
    "prev_rank": 4,
    "delta": 0,
    "state": "same",
    "items": [
     {
      "date": "2026-08-30",
+     "title": "망막 OCTA 미세혈관 지표는 공변량 보정 후 MCI 판별력이 AUC 0.60 미만으로 떨어졌다 — 비증식 당뇨망막병증 50명·86안 (Current Eye Research)",
+     "url": "https://doi.org/10.1080/02713683.2026.2717821",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-30",
      "title": "단백체 위험점수는 알츠하이머 유전위험의 73%를 흡수하지만 파킨슨병은 19%뿐 — UK Biobank 9,434~9,820명 (medRxiv)",
      "url": "https://doi.org/10.64898/2026.08.24.26361271",
      "section": "치매 전분야 연구",
      "importance": "medium"
+    },
+    {
+     "date": "2026-08-30",
+     "title": "\"우리 나이엔 검진해도 소용없다\" — 치매검진을 가로막는 '자기연령주의' 주제 도출, 싱가포르 고령자 44명 포커스그룹 (The Gerontologist)",
+     "url": "https://doi.org/10.1093/geront/gnag210",
+     "section": "치매 전분야 연구",
+     "importance": null
     },
     {
      "date": "2026-08-30",
@@ -726,20 +740,6 @@
      "title": "복지부, 제2차 지역사회 통합돌봄 포럼 개최(8/26)…노인·장애인·정신질환자 '대상자 범위 확대' 논의 착수",
      "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1491679",
      "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-27",
-     "title": "알자멘드뉴로, 올트렌딩과 2,500만 달러 전환우선주 약정…9,839만주 재매각 등록으로 대규모 희석 예고",
-     "url": "https://www.sec.gov/Archives/edgar/data/1677077/000121465926010726/p820265s1.htm",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-27",
-     "title": "[히트뉴스] 지투지바이오 '월 1회' 도네페질 장기지속형 주사 GB-5001, 1상서 안전성·내약성 확인",
-     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78681",
-     "section": "주요 언론",
      "importance": "medium"
     }
    ]
@@ -932,11 +932,18 @@
   {
    "rank": 6,
    "keyword": "위험인자",
-   "count": 89,
+   "count": 90,
    "prev_rank": 6,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-08-30",
+     "title": "수정가능 위험요인 10개를 합산한 부담이 클수록 WMH·경색·해마위축이 함께 늘었다 — NACC 3만8,414명, 매개경로는 해마위축이 가장 컸다 (GeroScience)",
+     "url": "https://doi.org/10.1007/s11357-026-02473-8",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
     {
      "date": "2026-08-30",
      "title": "[하이닥] 성인 난청, 인지장애 위험 34%·치매 43%·알츠하이머 66% 높였다 — 메타분석 9건 재분석한 엄브렐라 리뷰",
@@ -1104,20 +1111,13 @@
      "url": "https://doi.org/10.1093/gerona/glag208",
      "section": "치매 전분야 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-08-25",
-     "title": "아메리카 원주민 치매, 중년 우울증 인구기여분율 60%로 압도적 최대 — 교육 19%·사회적 고립 13%·고혈압 11%",
-     "url": "https://doi.org/10.1002/alz.71626",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 7,
    "keyword": "APOE",
-   "count": 82,
+   "count": 83,
    "prev_rank": 9,
    "delta": 2,
    "state": "up",
@@ -1133,6 +1133,13 @@
      "date": "2026-08-30",
      "title": "단백체 위험점수는 알츠하이머 유전위험의 73%를 흡수하지만 파킨슨병은 19%뿐 — UK Biobank 9,434~9,820명 (medRxiv)",
      "url": "https://doi.org/10.64898/2026.08.24.26361271",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-30",
+     "title": "APOE ε4는 혈중 대사지표 네트워크와 사실상 무관했다 — 한국 KLOSCAD 2,454명, 유전형 간 네트워크 구조 차이 없음(p=0.45) (Journal of Alzheimer's Disease)",
+     "url": "https://doi.org/10.1177/13872877261476718",
      "section": "치매 전분야 연구",
      "importance": "medium"
     },
@@ -1289,24 +1296,24 @@
      "url": "https://doi.org/10.1002/dad2.70438",
      "section": "치매 전분야 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-08-25",
-     "title": "퀘스트 다이애그노스틱스, 로슈 pTau217 검사 4분기 전국 출시…자체 다중 바이오마커 패널은 8월 말 출시, 판정불가율 10%",
-     "url": "https://www.prnewswire.com/news-releases/quest-diagnostics-to-offer-fda-cleared-roche-ptau217-blood-test-to-assess-alzheimers-disease-pathology-302858247.html",
-     "section": "시장·투자",
-     "importance": "high"
     }
    ]
   },
   {
    "rank": 8,
    "keyword": "역학",
-   "count": 80,
+   "count": 81,
    "prev_rank": 7,
    "delta": 1,
    "state": "down",
    "items": [
+    {
+     "date": "2026-08-30",
+     "title": "인지장애가 새로 생긴 사람의 30.8%만 청구자료에 치매 진단이 남았다 — REGARDS 8,368명 2006~2021년 연계분석 (Alzheimer Disease & Associated Disorders)",
+     "url": "https://doi.org/10.1097/wad.0000000000000743",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
     {
      "date": "2026-08-29",
      "title": "파킨슨병·파킨슨증 1,104명 최장 30년 추적 — 치매 누적발생률 5년 30.3%·10년 48.6%·20년 69.3% (Brain Communications)",
@@ -1474,24 +1481,24 @@
      "url": "https://doi.org/10.1002/alz.71759",
      "section": "치매 전분야 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-08-25",
-     "title": "아메리카 원주민 치매, 중년 우울증 인구기여분율 60%로 압도적 최대 — 교육 19%·사회적 고립 13%·고혈압 11%",
-     "url": "https://doi.org/10.1002/alz.71626",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 9,
    "keyword": "MRI",
-   "count": 79,
+   "count": 80,
    "prev_rank": 8,
    "delta": 1,
    "state": "down",
    "items": [
+    {
+     "date": "2026-08-30",
+     "title": "수정가능 위험요인 10개를 합산한 부담이 클수록 WMH·경색·해마위축이 함께 늘었다 — NACC 3만8,414명, 매개경로는 해마위축이 가장 컸다 (GeroScience)",
+     "url": "https://doi.org/10.1007/s11357-026-02473-8",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
     {
      "date": "2026-08-29",
      "title": "관류(CBF)와 뇌혈관반응성(CVR) MRI를 합치면 MCI 판별 AUC 0.816~0.830 — 단일지표 대비 ΔAUC 0.020~0.062, 85명 (JMRI)",
@@ -1659,13 +1666,6 @@
      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=939218",
      "section": "주요 언론",
      "importance": "high"
-    },
-    {
-     "date": "2026-08-18",
-     "title": "日 후생노동성, '레켐비·키순라' 투여 전 APOE 유전자검사 고려 권고",
-     "url": "https://www.hkn24.com/news/articleView.html?idxno=350740",
-     "section": "주요 언론",
-     "importance": "medium"
     }
    ]
   },
@@ -1856,11 +1856,196 @@
   },
   {
    "rank": 11,
+   "keyword": "예방",
+   "count": 74,
+   "prev_rank": 13,
+   "delta": 2,
+   "state": "up",
+   "items": [
+    {
+     "date": "2026-08-30",
+     "title": "APOE ε4는 혈중 대사지표 네트워크와 사실상 무관했다 — 한국 KLOSCAD 2,454명, 유전형 간 네트워크 구조 차이 없음(p=0.45) (Journal of Alzheimer's Disease)",
+     "url": "https://doi.org/10.1177/13872877261476718",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-30",
+     "title": "활동의 '가짓수'가 1개 늘 때마다 15년 치매 위험 6% 감소(HR 0.94), 활동 '빈도'는 무관 — 고령자 482명 15년 추적 (J Gerontol B)",
+     "url": "https://doi.org/10.1093/geronb/gbag177",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-30",
+     "title": "\"우리 나이엔 검진해도 소용없다\" — 치매검진을 가로막는 '자기연령주의' 주제 도출, 싱가포르 고령자 44명 포커스그룹 (The Gerontologist)",
+     "url": "https://doi.org/10.1093/geront/gnag210",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-08-30",
+     "title": "[코메디닷컴] 근력운동 습관 있는 고령자, 치매 위험 74% 낮았다 — 일본 65세 이상 5,074명 최대 4년 추적",
+     "url": "https://kormedi.com/2852261/",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-28",
+     "title": "라틴아메리카판 FINGER 시험 성공 — 11개국 1,065명 2년, 구조화 생활습관군이 유연군보다 전반인지 개선 55% 더 컸다 (Alzheimer's & Dementia)",
+     "url": "https://doi.org/10.1002/alz.71793",
+     "section": "치매 전분야 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-08-28",
+     "title": "당뇨 환자에서 심혈관건강(Life's Essential 8)이 좋으면 MCI 위험 18% 낮지만 전체 치매는 차이 없었다 — UK Biobank 41,374명·All of Us 9,766명 (Diabetes Care)",
+     "url": "https://doi.org/10.2337/dc25-3126",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-28",
+     "title": "[Medical Xpress] 다인종 다유전자위험점수(PRS) 개선판 공개 — 동아시아·흑인·히스패닉에서 예측력 향상, 해마 부피·p-tau와도 연관",
+     "url": "https://medicalxpress.com/news/2026-08-accurate-alzheimer-disease-nonwhite-patients.html",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-27",
+     "title": "혈뇌장벽을 통과하는 항고혈압제가 치매 위험 16% 낮췄다 — 고혈압 66,610명 12년 추적, ARB HR 0.89·베타차단제 HR 0.76 (Scientific Reports)",
+     "url": "https://www.nature.com/articles/s41598-026-68950-4",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-27",
+     "title": "혈액검사 없이 1차의료 기록만으로 치매 예방시험 대상자 10.7~46.2배 농축 — 영국·프랑스 65세 이상 76,427명 (Communications Medicine)",
+     "url": "https://www.nature.com/articles/s43856-026-01850-w",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-27",
+     "title": "호르몬대체요법과 치매 위험, '반응하는 집단'이 따로 있다 — UK Biobank 폐경 후 여성 183,450명 13.3년 추적, 치매 3,948건 (Alzheimer's & Dementia)",
+     "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71679",
+     "section": "치매 전분야 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-08-27",
+     "title": "[코메디닷컴] 폐경 후 에스트로겐 단독요법 여성, 부검서 중증 알츠하이머 병리 35% 적었다 — 2,959명 뇌기증 코호트",
+     "url": "https://kormedi.com/2847579/",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-26",
+     "title": "독감·폐렴구균 백신과 치매 위험 — 18개 관찰연구 스코핑리뷰가 던진 '용량-반응' 쟁점",
+     "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11156",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-25",
+     "title": "비만·2형당뇨 환자의 대사·비만수술, 치매 위험 40% 낮췄다 — 성향점수매칭 전국 등록자료 9년 추적, SHR 0.60",
+     "url": "https://doi.org/10.1002/alz.71802",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-25",
+     "title": "MIND 식단 점수 높을수록 뇌 세동맥경화 지표 낮았다 — 713명 MRI 분석, 식단–인지 연관의 8.5%를 세동맥경화가 매개",
+     "url": "https://doi.org/10.1002/alz.71772",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-25",
+     "title": "[디멘시아뉴스] 당뇨가 없어도 중년기 인슐린 저항성이 높으면 인지기능이 낮다 — 전두엽 백질변성 보정 후에도 관련성 유지",
+     "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11154",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-25",
+     "title": "[디멘시아뉴스] 치매 환자 자녀, 식단 중요성 공감 76.3%지만 실제 실천은 40.7% — 전문 영양상담 받으면 변화 26.6배",
+     "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11153",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-21",
+     "title": "신체활동은 '어디서 하느냐'가 갈랐다 — 74개 연구 422만 7,297명 메타분석: 여가 활동 치매위험 RR 0.76인데 직업성 활동은 RR 1.20으로 오히려 증가",
+     "url": "https://doi.org/10.1016/S2468-2667(26)00142-8",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-21",
+     "title": "만성 탈수가 치매 위험 신호 — ARIC 13,535명·이스라엘 395,802명에서 혈청 나트륨 141 mmol/L부터 위험 상승, 상단에선 1.5~3배",
+     "url": "https://doi.org/10.1002/alz.71725",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-21",
+     "title": "중국 인구단위 치매예방 정책 5종 모두 '비용절감' — 저나트륨 대체소금이 최대, QALY 194만년·평생 650~700억 달러 절감",
+     "url": "https://doi.org/10.1002/alz.71762",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-08-21",
+     "title": "혈액·AI 기반 뇌질환 위험예측 기업 브레디스헬스케어, 제주도와 3년간 10억원 투자·10명 이상 신규 채용 협약 체결",
+     "url": "https://www.medicaldaily.co.kr/post/22316",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-20",
+     "title": "심혈관건강 점수(Life's Essential 8) 10점 낮을수록 치매 위험 1.33배 — 히스패닉 65% 도시 코호트 920명 9년 추적 (Alz&Dem: DADM)",
+     "url": "https://doi.org/10.1002/dad2.70444",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-20",
+     "title": "취미 활동, 정상→경도인지저하 전환 위험 20~40% 낮추고 '인지건강 기대수명' 6.5~9.8년 연장 — 31개국 4개 코호트 12만3,802명 (European Journal of Ageing)",
+     "url": "https://doi.org/10.1007/s10433-026-00935-8",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-20",
+     "title": "[디멘시아뉴스] [인터뷰] 진료실에서 '운동 처방전' 쓰는 치과의사 — 구강기능 저하는 인지 악화의 조기 신호",
+     "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11148",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-20",
+     "title": "[Medical Xpress] 수면장애 동반 경도인지장애에서 고용량 비타민D(5,000IU 이상) 복용군 MoCA 13% 높아 — 다만 54명 관찰연구",
+     "url": "https://medicalxpress.com/news/2026-08-high-dose-vitamin-d-cognition.html",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-08-19",
+     "title": "치주 상태 나쁠수록 치매 위험 1.72배 — 일본 히사야마 60세 이상 1,396명 10년 추적, 치매 267건",
+     "url": "https://doi.org/10.1111/jcpe.70185",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    }
+   ]
+  },
+  {
+   "rank": 12,
    "keyword": "FDA",
    "count": 74,
    "prev_rank": 11,
-   "delta": 0,
-   "state": "same",
+   "delta": 1,
+   "state": "down",
    "items": [
     {
      "date": "2026-08-29",
@@ -2040,12 +2225,12 @@
    ]
   },
   {
-   "rank": 12,
+   "rank": 13,
    "keyword": "임상시험",
    "count": 71,
    "prev_rank": 12,
-   "delta": 0,
-   "state": "same",
+   "delta": 1,
+   "state": "down",
    "items": [
     {
      "date": "2026-08-28",
@@ -2219,191 +2404,6 @@
      "date": "2026-08-20",
      "title": "영국, 치매 임상시험 전용 '준비된 코호트' 만든다 — 65~75세 1만명 목표 Dementia Trials Accelerator 설계 공개 (medRxiv)",
      "url": "https://www.medrxiv.org/content/10.64898/2026.08.14.26359869v1",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    }
-   ]
-  },
-  {
-   "rank": 13,
-   "keyword": "예방",
-   "count": 71,
-   "prev_rank": 13,
-   "delta": 0,
-   "state": "same",
-   "items": [
-    {
-     "date": "2026-08-30",
-     "title": "[코메디닷컴] 근력운동 습관 있는 고령자, 치매 위험 74% 낮았다 — 일본 65세 이상 5,074명 최대 4년 추적",
-     "url": "https://kormedi.com/2852261/",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "라틴아메리카판 FINGER 시험 성공 — 11개국 1,065명 2년, 구조화 생활습관군이 유연군보다 전반인지 개선 55% 더 컸다 (Alzheimer's & Dementia)",
-     "url": "https://doi.org/10.1002/alz.71793",
-     "section": "치매 전분야 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "당뇨 환자에서 심혈관건강(Life's Essential 8)이 좋으면 MCI 위험 18% 낮지만 전체 치매는 차이 없었다 — UK Biobank 41,374명·All of Us 9,766명 (Diabetes Care)",
-     "url": "https://doi.org/10.2337/dc25-3126",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-28",
-     "title": "[Medical Xpress] 다인종 다유전자위험점수(PRS) 개선판 공개 — 동아시아·흑인·히스패닉에서 예측력 향상, 해마 부피·p-tau와도 연관",
-     "url": "https://medicalxpress.com/news/2026-08-accurate-alzheimer-disease-nonwhite-patients.html",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-27",
-     "title": "혈뇌장벽을 통과하는 항고혈압제가 치매 위험 16% 낮췄다 — 고혈압 66,610명 12년 추적, ARB HR 0.89·베타차단제 HR 0.76 (Scientific Reports)",
-     "url": "https://www.nature.com/articles/s41598-026-68950-4",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-27",
-     "title": "혈액검사 없이 1차의료 기록만으로 치매 예방시험 대상자 10.7~46.2배 농축 — 영국·프랑스 65세 이상 76,427명 (Communications Medicine)",
-     "url": "https://www.nature.com/articles/s43856-026-01850-w",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-27",
-     "title": "호르몬대체요법과 치매 위험, '반응하는 집단'이 따로 있다 — UK Biobank 폐경 후 여성 183,450명 13.3년 추적, 치매 3,948건 (Alzheimer's & Dementia)",
-     "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.71679",
-     "section": "치매 전분야 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-08-27",
-     "title": "[코메디닷컴] 폐경 후 에스트로겐 단독요법 여성, 부검서 중증 알츠하이머 병리 35% 적었다 — 2,959명 뇌기증 코호트",
-     "url": "https://kormedi.com/2847579/",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-26",
-     "title": "독감·폐렴구균 백신과 치매 위험 — 18개 관찰연구 스코핑리뷰가 던진 '용량-반응' 쟁점",
-     "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11156",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-25",
-     "title": "비만·2형당뇨 환자의 대사·비만수술, 치매 위험 40% 낮췄다 — 성향점수매칭 전국 등록자료 9년 추적, SHR 0.60",
-     "url": "https://doi.org/10.1002/alz.71802",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-25",
-     "title": "MIND 식단 점수 높을수록 뇌 세동맥경화 지표 낮았다 — 713명 MRI 분석, 식단–인지 연관의 8.5%를 세동맥경화가 매개",
-     "url": "https://doi.org/10.1002/alz.71772",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-25",
-     "title": "[디멘시아뉴스] 당뇨가 없어도 중년기 인슐린 저항성이 높으면 인지기능이 낮다 — 전두엽 백질변성 보정 후에도 관련성 유지",
-     "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11154",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-25",
-     "title": "[디멘시아뉴스] 치매 환자 자녀, 식단 중요성 공감 76.3%지만 실제 실천은 40.7% — 전문 영양상담 받으면 변화 26.6배",
-     "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11153",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-21",
-     "title": "신체활동은 '어디서 하느냐'가 갈랐다 — 74개 연구 422만 7,297명 메타분석: 여가 활동 치매위험 RR 0.76인데 직업성 활동은 RR 1.20으로 오히려 증가",
-     "url": "https://doi.org/10.1016/S2468-2667(26)00142-8",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-21",
-     "title": "만성 탈수가 치매 위험 신호 — ARIC 13,535명·이스라엘 395,802명에서 혈청 나트륨 141 mmol/L부터 위험 상승, 상단에선 1.5~3배",
-     "url": "https://doi.org/10.1002/alz.71725",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-21",
-     "title": "중국 인구단위 치매예방 정책 5종 모두 '비용절감' — 저나트륨 대체소금이 최대, QALY 194만년·평생 650~700억 달러 절감",
-     "url": "https://doi.org/10.1002/alz.71762",
-     "section": "치매 전분야 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-08-21",
-     "title": "혈액·AI 기반 뇌질환 위험예측 기업 브레디스헬스케어, 제주도와 3년간 10억원 투자·10명 이상 신규 채용 협약 체결",
-     "url": "https://www.medicaldaily.co.kr/post/22316",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-20",
-     "title": "심혈관건강 점수(Life's Essential 8) 10점 낮을수록 치매 위험 1.33배 — 히스패닉 65% 도시 코호트 920명 9년 추적 (Alz&Dem: DADM)",
-     "url": "https://doi.org/10.1002/dad2.70444",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-20",
-     "title": "취미 활동, 정상→경도인지저하 전환 위험 20~40% 낮추고 '인지건강 기대수명' 6.5~9.8년 연장 — 31개국 4개 코호트 12만3,802명 (European Journal of Ageing)",
-     "url": "https://doi.org/10.1007/s10433-026-00935-8",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-20",
-     "title": "[디멘시아뉴스] [인터뷰] 진료실에서 '운동 처방전' 쓰는 치과의사 — 구강기능 저하는 인지 악화의 조기 신호",
-     "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11148",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-20",
-     "title": "[Medical Xpress] 수면장애 동반 경도인지장애에서 고용량 비타민D(5,000IU 이상) 복용군 MoCA 13% 높아 — 다만 54명 관찰연구",
-     "url": "https://medicalxpress.com/news/2026-08-high-dose-vitamin-d-cognition.html",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-19",
-     "title": "치주 상태 나쁠수록 치매 위험 1.72배 — 일본 히사야마 60세 이상 1,396명 10년 추적, 치매 267건",
-     "url": "https://doi.org/10.1111/jcpe.70185",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-19",
-     "title": "중년 신체활동 상위 1/3 여성, 30년 뒤 주관적 인지호소 위험 20% 낮아 — NYU 여성건강연구 4,397명",
-     "url": "https://doi.org/10.1093/geront/gnag200",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-18",
-     "title": "식약처, 'AI 디지털의료기기 우수 관리체계 인증 가이드라인' 제정",
-     "url": "https://www.rapportian.com/news/articleView.html?idxno=239335",
-     "section": "규제·인허가·정책",
-     "importance": "high"
-    },
-    {
-     "date": "2026-08-15",
-     "title": "지질강하제 프로부콜, 스타틴 대비 치매 위험 51% 낮아 — 일본 5만2,532명 코호트",
-     "url": "https://doi.org/10.21203/rs.3.rs-10311061/v1",
      "section": "치매 전분야 연구",
      "importance": "medium"
     }
@@ -3337,11 +3337,18 @@
   {
    "rank": 19,
    "keyword": "조기진단",
-   "count": 40,
+   "count": 41,
    "prev_rank": 19,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-08-30",
+     "title": "복지부, 2025년도 본인부담상한액 초과금 3조760억원 환급 확정(8/30)…226만명 중 65세 이상이 지급액의 67% 차지",
+     "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&list_no=1491727&act=view",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    },
     {
      "date": "2026-08-29",
      "title": "식약처 우선심사 '환자경험자료' 체크리스트 공개 — PRO·환자 인터뷰·환자 동영상까지 4개 범주, 의료기기에도 적용되는 보조자료",
@@ -3508,13 +3515,6 @@
      "title": "에자이, 인도에 레켐비 출시…바이알당 최대 2만1,682루피, 인도 첫 알츠하이머 질병조절치료제(60세 이상 치매환자 880만명 시장)",
      "url": "https://medicaldialogues.in/news/industry/pharma/eisai-launches-leqembi-in-india-after-cdsco-approval-for-early-alzheimers-disease-176602",
      "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-08-09",
-     "title": "파이헬스케어, 美 조지아주립대 TReNDS 센터와 안저사진 기반 치매 조기진단 AI 공동개발 착수…목표 AUC 0.93",
-     "url": "https://www.gokorea.kr/news/articleView.html?idxno=873628",
-     "section": "경쟁사 동향",
      "importance": "medium"
     }
    ]
