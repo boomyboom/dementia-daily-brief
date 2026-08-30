@@ -1,0 +1,186 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T08:18:49+09:00",
+  "headline": "FDA가 8월 승인한 2세대 타우 PET 추적자 MK6240이 682명 직접비교에서 기존 Tauvid보다 100명당 23명을 더 검출하며 참여자 3분의 1의 병기를 바꿔놨고, 같은 주 공개된 다기관 치매 원인감별 AI 'COME'은 7개 코호트 macro-AUC 85.62%로 기존 최고기법을 4.29p 앞섰다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "다기관 이질성을 '메타지식'으로 흡수한 치매 원인감별 AI 'COME' — 7개 코호트 macro-AUC 85.62%, 최고 기존기법 대비 +4.29p (IEEE TMI)",
+          "summary": "촬영 장비·기관 식별자·모달리티 가용성 같은 메타정보를 이질성 인식 임베딩으로 트랜스포머에 주입해 다기관 데이터를 통합 학습하는 COME 프레임워크를 제안했다. 독립 7개 코호트에서 in-domain 매크로평균 AUC 85.62%로 최강 베이스라인보다 4.29포인트 높았고, 교차기관·교차시퀀스 out-of-domain 평가에서도 우위를 유지했다. 모델 예측이 아밀로이드·타우 바이오마커 및 임상중증도와 정렬됨을 추가 검증했다.",
+          "source": "IEEE Transactions on Medical Imaging",
+          "url": "https://doi.org/10.1109/tmi.2026.3727981",
+          "tags": ["AI진단", "다기관검증", "원인감별", "MRI"],
+          "importance": "high"
+        },
+        {
+          "title": "CSF p-tau205, AD 병기설정의 마지막 단계 지표 — BioFINDER 2,069검체, p-tau205 양성 단계 치매 진행 HR 6.40 (Molecular Psychiatry)",
+          "summary": "BioFINDER-2(n=1,364)·BioFINDER-1(n=705) 총 2,069검체에서 자체 개발 면역측정법으로 CSF p-tau205를 측정했다. Aβ 양성군에서 기저 p-tau205는 아밀로이드 PET(R²=0.28), 타우 PET(내측측두 R²=0.35), 피질위축(R²=0.15), MMSE(R²=0.15)와 상관했고 이후 아밀로이드(R²=0.44)·타우(R²=0.33) 축적을 예측했다. Aβ42/40·p-tau217·p-tau205를 결합한 CSF 병기모델에서 최종 p-tau205 양성 단계가 치매 진행 위험과 가장 강하게 연관됐다(HR 6.40, 95% CI 4.28-9.59).",
+          "source": "Molecular Psychiatry",
+          "url": "https://doi.org/10.1038/s41380-026-03838-3",
+          "tags": ["CSF바이오마커", "p-tau205", "병기설정", "타우PET"],
+          "importance": "high"
+        },
+        {
+          "title": "WMH는 '위치'가 아니라 '병변 단위 진화양상'으로 3개 아형 — MRI 3,224건·403명, 위축 연관 아형이 40.6% (Neurology)",
+          "summary": "인지정상·MCI·알츠하이머병·파킨슨병 403명의 MRI 3,224건(기저·2년 추적)에서 WMH 병변 2,107개의 종단 변화를 비지도 군집화해 3개 아형을 도출했다. L1(48.1%)은 안정적이고 위축과 무관, L2(11.3%)는 체중증가와 연관된 불안정 아형(OR 1.33, 95% CI 1.22-1.45), L3(40.6%)은 뇌위축과 연관된 불안정 아형(β=-0.11, 95% CI -0.16~-0.05)이었으며 한 사람 안에 여러 아형이 공존했다. 전역 WMH 부피만으로는 놓치는 이질성을 시사한다.",
+          "source": "Neurology",
+          "url": "https://doi.org/10.1212/wnl.0000000000218472",
+          "tags": ["WMH", "정량MRI", "종단연구", "뇌위축"],
+          "importance": "high"
+        },
+        {
+          "title": "부분 라벨 데이터로 WMH·뇌경색병변 동시 분할 모델 만들기 — MRI 2,052볼륨 6개 전략 비교, 의사라벨링이 최적 (Artificial Intelligence in Medicine)",
+          "summary": "FLAIR에서 시각적으로 혼동되는 백질고신호(WMH)와 허혈성 뇌경색병변(ISL)을 함께 분할하는 모델을, 둘 중 하나만 라벨링된 데이터로 학습시키는 6가지 전략을 체계 비교했다. 공개·비공개 데이터를 합쳐 2,052 MRI 볼륨(WMH 라벨 1,341건, ISL 라벨 1,152건)을 구축했고, 의사라벨링(pseudolabelling)이 가장 효과적이었으며 해당 모델은 일관된 WMH 분할과 FLAIR 양성 ISL 대부분 검출을 보였다.",
+          "source": "Artificial Intelligence in Medicine",
+          "url": "https://doi.org/10.1016/j.artmed.2026.103507",
+          "tags": ["딥러닝분할", "WMH", "소혈관질환", "FLAIR"],
+          "importance": "high"
+        },
+        {
+          "title": "타우 PET은 '양(load)'보다 '퍼진 범위(extent)'가 대사저하를 더 잘 설명 — ADNI 150명·비전형 AD 44명 (EBioMedicine)",
+          "summary": "아밀로이드 양성 ADNI 참가자 150명과 McGill 비전형 AD 44명에서 타우 PET([18F]AV1451/MK6240)의 국소 SUVR(부하)와 이상 복셀 비율(공간적 확산범위, SEOT)을 FDG-PET 대사저하 예측력으로 비교했다. 전피질 SEOT가 AD 메타-ROI의 FDG 신호 저하를 가장 잘 예측했고 AD형 대사저하 분류 정확도도 더 높았으며, 복셀 단위 분석에서는 SEOT와 부하가 서로 보완적인 공간 정보를 담고 있었다.",
+          "source": "EBioMedicine",
+          "url": "https://doi.org/10.1016/j.ebiom.2026.106460",
+          "tags": ["타우PET", "FDG-PET", "정량지표", "ADNI"],
+          "importance": "medium"
+        },
+        {
+          "title": "혈장 AD 6종 마커 자동 화학발광 면역측정 패널 분석검증 — 검사내 CV 3% 미만·검사간 5% 미만, 6종 모두 AUC 0.7 초과 (Clinica Chimica Acta)",
+          "summary": "Aβ1-40·Aβ1-42·p-tau181·p-tau217·GFAP·NfL 6종을 동시 정량하는 완전자동 화학발광 면역측정(CLIA) 플랫폼을 CLSI 지침에 따라 분석검증했다. 검사내 CV 3% 미만, 검사간 CV 5% 미만, 상대바이어스 ±10% 이내, 직선성 R² 0.99 초과, 서브피코그램 수준 검출감도를 확보했다. 베이징 톈탄병원 87검체(AD/기타치매/MCI)에서 AD군은 p-tau181·p-tau217 상승과 Aβ42/40 저하를 보였고 6종 모두 AUC 0.7을 넘었으나, GFAP·NfL은 AD와 기타치매를 구분하지 못했고 표본수가 적은 예비연구다.",
+          "source": "Clinica Chimica Acta",
+          "url": "https://doi.org/10.1016/j.cca.2026.121300",
+          "tags": ["혈액바이오마커", "분석검증", "p-tau217", "체외진단"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "APOE 빼고 만든 다인종 알츠하이머 다유전자위험점수(PRS) — 유럽계·아프리카계·히스패닉계에서 SD당 오즈비 1.14~1.52, 검증 코호트 1.21~1.65 (Nature Genetics)",
+          "summary": "기존 AD 다유전자위험점수(PRS)는 인종이 바뀌면 성능이 무너진다는 한계를 겨냥해, 유럽계·아프리카계 미국인·카리브 히스패닉·동아시아 GWAS 요약통계로 APOE 비의존 다인종 PRS를 새로 구축했다. 대규모 독립 데이터셋에서 PRS 표준편차 1 증가당 AD 오즈비 1.14~1.52, 별도 복제 코호트에서 1.21~1.65로 재현됐다. 이 점수는 기억·집행기능·언어 저하, 부검 AD 병리 부담 증가, 해마 용적 감소, CSF Aβ42 저하 및 총타우·인산화타우 상승과도 연관됐고 특히 p-tau 연관성은 여성에서 더 강했다.",
+          "source": "Nature Genetics",
+          "url": "https://doi.org/10.1038/s41588-026-02722-8",
+          "tags": ["유전", "위험예측", "다인종", "PRS"],
+          "importance": "high"
+        },
+        {
+          "title": "신경세포가 내보내는 SPP1이 미세아교세포를 '보호 모드'로 바꾼다 — 녹내장·시신경손상 모델에서 자가포식·잔해제거 촉진, AD 뇌에서는 신경세포 생존과 상관 (Science Advances)",
+          "summary": "신경세포 유래 분비단백 SPP1(osteopontin)이 손상·신경퇴행 상황에서 미세아교세포를 항염증·항상성 상태로 재프로그래밍하는 신호임을 규명했다. 마우스 녹내장·시신경손상 모델에서 신경세포 SPP1은 미세아교세포 자가포식과 잔해 제거를 늘려 신경세포 생존과 시각기능을 지켰고, 사람·영장류 녹내장 망막에서도 SPP1 양성 세포가 더 잘 버텼다. 알츠하이머 뇌에서는 신경세포 SPP1 수준이 신경세포 생존과 상관관계를 보인 반면 Aβ 플라크 주변 미세아교세포는 자가포식이 망가져 있었고, 인간 iPSC 공배양에서 SPP1 투여는 미세아교세포의 Aβ 제거를 촉진해 신경퇴행을 막았다.",
+          "source": "Science Advances",
+          "url": "https://doi.org/10.1126/sciadv.aee4940",
+          "tags": ["발병기전", "미세아교세포", "신경면역", "치료표적"],
+          "importance": "high"
+        },
+        {
+          "title": "스핑고지질 대사가 무너지면 엔도리소좀 막이 '굳어' 터지고 타우 씨앗이 새어 나온다 — 불포화지방산 보충으로 타우 시딩·독성 완화 (eLife)",
+          "summary": "예쁜꼬마선충과 사람 세포 모델에서 스핑고지질 대사 유전자를 침묵시키자 엔도리소좀 소포의 막 유동성이 떨어지고(FRAP·C-Laurdan 영상 확인) 파열이 늘었다. 응집된 타우가 엔도리소좀에 쌓이면 막 경직·손상이 더 심해지고 시딩성 타우 응집이 촉진돼, 타우 씨앗이 엔도리소좀을 탈출하는 경로가 제시됐다. 불포화지방산을 보충하자 막 유동성이 회복되면서 세포 모델에서 엔도리소좀 파열과 타우 시딩이 억제되고 선충에서 타우 연관 신경독성도 완화됐다.",
+          "source": "eLife",
+          "url": "https://doi.org/10.7554/elife.106865",
+          "tags": ["발병기전", "타우", "지질대사", "치료표적"],
+          "importance": "medium"
+        },
+        {
+          "title": "급성관상동맥증후군 고령환자 25,176명 — 관상동맥 재관류술은 치매 위험을 높이지 않았다(sHR 1.05), 중앙 4.8년 추적 중 9.0%가 치매 (JACC: Advances)",
+          "summary": "카이저 KP-Brain-Heart 연구가 2010~2020년 ACS로 입원한 65세 이상 25,176명(PCI 8,043명·CABG 797명·비재관류 16,336명)과 안정형 관상동맥질환 비재관류군 154,299명을 성향점수매칭·경쟁위험 Cox로 비교했다. 중앙 4.8년 추적에서 ACS 환자의 9.0%가 치매를 진단받았으나, 재관류군의 치매 위험은 비재관류군 대비 sHR 1.05(95% CI 0.95~1.17)로 유의하지 않았고 PCI와 CABG 간 차이도 없었다. 시술 자체의 신경독성보다 누적된 혈관·전신 위험요인이 치매 위험의 주된 동인임을 시사한다.",
+          "source": "JACC: Advances",
+          "url": "https://doi.org/10.1016/j.jacadv.2026.103192",
+          "tags": ["역학", "혈관위험인자", "코호트", "심장-뇌"],
+          "importance": "medium"
+        },
+        {
+          "title": "수면의 질과 인지·치매를 잇는 고리에서 말초염증이 설명하는 몫은 10% 미만 — UK Biobank 25만 9,817명·ADNI 1,107명 매개분석 (Brain, Behavior, and Immunity)",
+          "summary": "치매가 없는 UK Biobank 참가자 259,817명(평균 58세, 평균 추적 10.29년)과 ADNI 1,107명(평균 74세, 4.17년)에서 수면의 질, 말초 염증지표(림프구·호중구·NLR·CRP), 인지·치매 발생의 인과매개 관계를 검증했다. 두 코호트 모두에서 나쁜 수면은 네 가지 염증지표 상승 및 인지기능 저하와 연관됐고, UK Biobank에서는 치매 발생 위험 증가와도 연관됐다(ADNI에서는 p=0.33로 비유의). 다만 유동성지능·숫자기억·전체치매·알츠하이머에 대한 매개비율이 10% 미만에 그쳐, 수면-인지 연결의 대부분은 말초염증 외 다른 기전임을 시사한다.",
+          "source": "Brain, Behavior, and Immunity",
+          "url": "https://doi.org/10.1016/j.bbi.2026.106978",
+          "tags": ["위험인자", "수면", "염증", "코호트"],
+          "importance": "medium"
+        },
+        {
+          "title": "크레아틴이 치매에 좋다는 근거, 8,317건 검색해도 RCT는 0건 — 사람 대상은 20명 파일럿 하나(20g/일 8주, 뇌 총크레아틴 11% 증가)뿐 (Ageing Research Reviews)",
+          "summary": "PubMed·Embase·Scopus·CENTRAL에서 8,317건을 선별했지만 적격 연구는 시험관 1건·동물 4건·사람 파일럿 1건(2편 출판)으로 총 6건에 그쳤고, 무작위대조시험은 단 한 건도 없었다. 사람 파일럿(n=20)은 고용량 20g/일 8주 투여로 뇌 총크레아틴이 11% 증가하고 유동성 인지가 개선됐다고 보고했으나, 설계·집단·중재가 제각각이라 인과 추론은 불가능하다. 전임상에서는 신경보호 신호가 우세했지만 한 설치류 연구는 공간기억 악화를 보고했고 성별에 따라 이득·해가 갈리는 경향이 사람 시험에서도 평행하게 나타나, 성별층화 RCT가 필요하다는 결론이다.",
+          "source": "Ageing Research Reviews",
+          "url": "https://doi.org/10.1016/j.arr.2026.103317",
+          "tags": ["예방", "보충제", "스코핑리뷰", "근거공백"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "식약처, 「의료기기 시판 후 조사에 관한 규정」 개정 고시 확정(제2026-63호, 8/31 고시·즉시 시행) — 8월 6일 행정예고안이 원안대로 확정",
+          "summary": "식약처가 8월 31일 「의료기기 시판 후 조사에 관한 규정」 일부개정고시(제2026-63호)를 고시하고 같은 날 시행했다. 8월 6일 행정예고(공고 제2026-393호)됐던 안이 확정된 것으로, 2026년 7월 1일 시행된 의료기기법 시행규칙 개정으로 희소의료기기 등의 시판 후 조사 면제 근거가 생긴 데 따라 제9조에 면제 대상·절차를 명확히 해 민원 신청의 예측 가능성을 높이는 것이 골자다. BeauBrain 함의: 뇌 MRI 진단 SaMD도 신개발 트랙에서는 시판 후 조사 대상이 될 수 있어, 면제 요건이 고시 문언으로 확정된 만큼 허가 후 조사 부담과 일정·비용을 사전에 산정할 수 있게 됐다.",
+          "source": "식품의약품안전처 제개정고시",
+          "url": "https://www.mfds.go.kr/brd/m_207/view.do?seq=15192",
+          "tags": ["식약처", "시판후조사", "고시", "의료기기"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": []
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "신테틱MR(콤비노스틱스 모회사) 2Q26 실적 — cNeuro 매출 63% 증가, ARIA 모니터링용 'cMRI ARIA' 英·스위스 인허가·美 FDA 심사 중",
+          "summary": "뇌 MRI 정량분석 기업 SyntheticMR(콤비노스틱스 cNeuro 보유)이 8월 25일 2026년 2분기 보고서를 공시했다. 그룹 매출은 14.0백만 SEK(+13%), 영업손실은 -6.5백만 SEK로 축소됐고, cNeuro 매출이 4.0백만 SEK로 63% 급증(ARR 11.7백만 SEK)했다. 분기 중 알츠하이머 항아밀로이드 치료제 ARIA 모니터링용 'cMRI ARIA'가 영국·스위스 인허가를 획득했고 미국 FDA 심사는 진행 중이며, 아시아 매출은 인도·OEM 호조로 1.6→5.9백만 SEK로 급증했다.",
+          "source": "SyntheticMR AB (Cision)",
+          "url": "https://mb.cision.com/Main/11663/4385698/4231416.pdf",
+          "tags": ["SyntheticMR", "Combinostics", "ARIA"],
+          "importance": "high"
+        },
+        {
+          "title": "이미징 바이오메트릭스, 美 중서부 대형 대학병원과 뇌 정량영상 SW 'IB Clinic' 연간 구독계약",
+          "summary": "런던증시 상장사 Imaging Biometrics(LSE:IBAI)가 8월 28일 미국 자회사를 통해 중서부 주요 학술의료센터와 'IB Clinic' 연간 구독계약을 체결했다고 공시했다. IB Clinic은 뇌 관류영상에서 혈류를 정량 맵으로 자동 산출해 종양과 치료 효과를 감별하며, 서로 다른 장비로 촬영한 추적검사와도 직접 비교가 가능하다. 해당 기관은 이 프로토콜로 환자당 조영제 용량을 절반으로 줄일 수 있으며, 매출은 2027년부터 12개월 전액 반영된다.",
+          "source": "Investegate (RNS)",
+          "url": "https://www.investegate.co.uk/announcement/rns/imaging-biometrics-ltd--ibai/us-academic-medical-centre-adopts-ib-clinic/9744393",
+          "tags": ["Imaging Biometrics", "IQ-AI", "뇌영상정량화"],
+          "importance": "medium"
+        },
+        {
+          "title": "美 BEACON-Neuro.AI, 이놀리틱스와 상용화 파트너십 — 뇌부종 예측 AI 'BEACONPredict' De Novo 추진",
+          "summary": "워싱턴대 세인트루이스 스핀오프 BEACON-Neuro.AI가 의료기기 SW·규제 전문사 Innolitics와 파트너십을 체결했다고 8월 28일 발표했다. BEACONPredict는 급성 허혈성 뇌졸중 후 24시간 내 악성 뇌부종 발생 위험을 조영증강 없는 CT와 임상데이터로 예측하는 임상의사결정지원 SW로, 첫 심사 주기에 FDA 혁신의료기기(Breakthrough Device) 지정과 TAP 파일럿 편입을 받았고 현재 De Novo 경로를 밟고 있다. 회사는 50만 달러 프리시드에 이어 270만 달러 시드를 조달 중이다.",
+          "source": "디지털헬스타임스",
+          "url": "https://www.dhtimes.co.kr/news/articleView.html?idxno=880",
+          "tags": ["BEACON-Neuro.AI", "Innolitics", "De Novo"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "[Being Patient] 새 타우 PET 추적자 MK6240, Tauvid보다 100명당 23명을 더 잡아냈다 — 참여자 3분의 1 이상이 병기가 바뀌었다",
+          "summary": "8월 14일 FDA 승인을 받은 2세대 타우 추적자 MK6240을 기존 Tauvid와 미국·유럽 682명에서 직접 비교한 결과가 새로 보도됐다. MK6240은 100명당 23명의 알츠하이머를 추가로 검출했고, 참여자의 3분의 1 이상이 어느 추적자를 쓰느냐에 따라 다른 질병 병기로 분류됐다. 개발자 Neil Vasdev는 \"사진은 같은데 렌즈가 더 선명해진 것\"이라며 초기 변화 검출 이점을 강조했으나, 75세 이상 약 30%가 아밀로이드 병리를 갖고 있고 그중 10%만 치매로 진행한다는 점에서 과잉진단 논쟁도 함께 제기됐다.",
+          "source": "Being Patient",
+          "url": "https://beingpatient.com/new-tau-pet-imaging-alzheimers-tangles/",
+          "tags": ["타우PET", "영상바이오마커", "병기분류", "과잉진단"],
+          "importance": "high"
+        },
+        {
+          "title": "[의학신문] 도네페질 '월 1회 주사' 국내 개발 경쟁 구도 — GB-5001 정상상태 혈중농도 20.32 ng/mL로 아리셉트 5mg(22.65)에 근접, IVL3003은 4주 유지",
+          "summary": "국내 CNS 장기지속형 주사제(LAI) 경쟁 구도를 정리한 기획 보도다. 지투지바이오 GB-5001은 월 1회 반복투여 1상에서 평균 정상상태 혈중농도(Cav,ss) 20.32 ng/mL로 경구 아리셉트 5mg의 22.65 ng/mL에 근접했고, 인벤티지랩·종근당의 IVL3003은 투여 후 4주까지 안정적 혈중농도와 경구제 수준의 아세틸콜린에스터라제 억제를 유지한 것으로 비교됐다. 펩트론은 파킨슨병용 장기지속형 엑세나타이드 PT320을 개발 중으로, 인지저하 환자의 복약순응도 문제를 겨냥한 복수 국내사의 경쟁 구도가 형성됐다는 분석이다.",
+          "source": "의학신문",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3011049",
+          "tags": ["도네페질", "장기지속형주사", "국내제약", "복약순응도"],
+          "importance": "medium"
+        }
+      ]
+    }
+  ]
+}
