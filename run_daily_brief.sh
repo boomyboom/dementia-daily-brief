@@ -4,6 +4,10 @@
 
 export PATH="/Users/sbpark/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 
+# 병렬 리서치 서브에이전트가 기본 600초 제한에 걸려 강제 종료되면(2026-09-02 14시 사례)
+# 커밋이 안 되고 Slack 발송까지 통째로 건너뛴다. 실행 간격이 6시간이므로 넉넉히 40분까지 허용.
+export CLAUDE_CODE_PRINT_BG_WAIT_CEILING_MS=2400000
+
 REPO="/Applications/BeauBrain/700_Utils/004_DAILY_BRIEF"
 cd "$REPO" || exit 1
 
@@ -38,6 +42,9 @@ fi
 if grep -q "Failed to authenticate\|OAuth session expired\|Invalid authentication" "$LOG"; then
   echo "----- 인증 실패 감지, 경고 발송 -----" >> "$LOG"
   python3 "$REPO/notify_failure.py" "auth" >> "$LOG" 2>&1
+elif [ "$BEFORE_REV" = "$AFTER_REV" ] && grep -q "Background tasks still running" "$LOG"; then
+  echo "----- 시간초과 강제종료 감지, 경고 발송 -----" >> "$LOG"
+  python3 "$REPO/notify_failure.py" "timeout" >> "$LOG" 2>&1
 fi
 
 echo "===== $(date '+%Y-%m-%d %H:%M:%S %Z') 종료 (exit=$?) =====" >> "$LOG"
