@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T08:27:09+09:00",
+ "generated_at": "2026-09-03T12:50:58+09:00",
  "date": "2026-09-03",
  "prev_date": "2026-09-02",
  "window_days": 30,
@@ -4560,11 +4560,35 @@
   },
   {
    "rank": 12,
+   "keyword": "휴런",
+   "count": 2,
+   "prev_rank": 13,
+   "delta": 1,
+   "state": "up",
+   "items": [
+    {
+     "date": "2026-09-03",
+     "title": "휴런, 코스닥 IPO 기술성평가 A·A 통과…키움증권 주관, 연내 예비심사 청구",
+     "url": "https://www.sedaily.com/article/20085849",
+     "section": "경쟁사 동향",
+     "importance": "high"
+    },
+    {
+     "date": "2026-08-04",
+     "title": "복지부·보산진, 'AX-Sprint' 디지털의료기기 6개 컨소시엄 확정…뇌질환 분야에 제이엘케이(22개 병원)·휴런(3개 병원) 선정",
+     "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1491517",
+     "section": "규제·인허가·정책",
+     "importance": "high"
+    }
+   ]
+  },
+  {
+   "rank": 13,
    "keyword": "Cortechs.ai",
    "count": 2,
    "prev_rank": 12,
-   "delta": 0,
-   "state": "same",
+   "delta": 1,
+   "state": "down",
    "items": [
     {
      "date": "2026-08-19",
@@ -4578,23 +4602,6 @@
      "title": "Cortechs.ai, 뇌 MRI 정량분석 전 제품군 EU MDR CE 인증 확대(8/4)…ARIA 모니터링용 'NeuroQuant ARIA' 포함, 유럽 상용화 개시",
      "url": "https://www.cortechs.ai/cortechs-ai-expands-european-ce-marking-across-ai-imaging-platform-accelerating-global-growth/",
      "section": "경쟁사 동향",
-     "importance": "high"
-    }
-   ]
-  },
-  {
-   "rank": 13,
-   "keyword": "휴런",
-   "count": 1,
-   "prev_rank": 13,
-   "delta": 0,
-   "state": "same",
-   "items": [
-    {
-     "date": "2026-08-04",
-     "title": "복지부·보산진, 'AX-Sprint' 디지털의료기기 6개 컨소시엄 확정…뇌질환 분야에 제이엘케이(22개 병원)·휴런(3개 병원) 선정",
-     "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1491517",
-     "section": "규제·인허가·정책",
      "importance": "high"
     }
    ]
