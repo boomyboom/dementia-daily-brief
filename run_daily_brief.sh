@@ -17,6 +17,17 @@ LOG="$REPO/logs/$TODAY.log"
 
 echo "===== $(date '+%Y-%m-%d %H:%M:%S %Z') 시작 =====" >> "$LOG"
 
+# 특정 회차 건너뛰기(.skip_runs). 맥을 꺼두는 날 등에 사용.
+# 형식: "YYYY-MM-DD morning" | "YYYY-MM-DD afternoon" | "YYYY-MM-DD all"  (한 줄에 하나)
+# 오전=12시 이전. launchd가 놓친 작업을 뒤늦게 따라잡아 실행하는 경우도 함께 막는다.
+SKIP_FILE="$REPO/.skip_runs"
+if [ "$(date +%H)" -lt 12 ]; then SLOT="morning"; else SLOT="afternoon"; fi
+if [ -f "$SKIP_FILE" ] && grep -qE "^[[:space:]]*$TODAY[[:space:]]+(all|$SLOT)[[:space:]]*$" "$SKIP_FILE"; then
+  echo "----- $TODAY $SLOT 회차는 건너뛰기로 지정됨 — 종료 -----" >> "$LOG"
+  echo "===== $(date '+%Y-%m-%d %H:%M:%S %Z') 종료 (건너뜀) =====" >> "$LOG"
+  exit 0
+fi
+
 PROMPT="$(cat "$REPO/BRIEF_PROMPT.md")"
 
 BEFORE_REV="$(git rev-parse HEAD 2>/dev/null)"
