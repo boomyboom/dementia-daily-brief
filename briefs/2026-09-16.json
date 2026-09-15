@@ -1,0 +1,323 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T09:00:00+09:00",
+  "headline": "MICSI가 구조 MRI로 PET 화질을 높이고 Centiloid·CenTauR를 자동 산출하는 'MICSI-PET'으로 FDA 510(k)를 획득하며 뇌영상 정량 경쟁이 MR·PET 결합 축으로 넘어갔고, 같은 주 Brain에는 구조 MRI 없이 FDG-PET만으로 52개 영역을 분할하는 딥러닝(평균 Dice 0.84·SUVR ICC 0.96)이 실렸다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "구조 MRI 없이 FDG-PET을 52개 해부영역으로 자동분할하는 딥러닝 — 1,099명·1,628스캔, 평균 Dice 0.84·SUVR ICC 0.96 (Brain)",
+          "summary": "T1 MRI를 정답으로 학습한 딥러닝이 뇌 [18F]FDG-PET만으로 52개 관심영역을 분할했다. 내부 테스트셋에서 영역별 Dice 0.729~0.923(전체 평균 0.84±0.06), 뇌교 기준 SUVRmean의 일치도는 ICC 0.96±0.02였고 기존 아틀라스 기반 분할을 유의하게 앞섰다(p<0.05). 코호트는 정상 537명·MCI 538명·주관적 기억저하 70명·AD 330명·FTLD 95명·루이체치매 58명이며 외부검증 108스캔에서도 성능이 재현됐다.",
+          "source": "Brain",
+          "url": "https://doi.org/10.1093/brain/awag314",
+          "tags": [
+            "FDG-PET",
+            "딥러닝 분할",
+            "정량분석",
+            "SUVR"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "실사용 레카네맙 97명 중 11명 ARIA — 기저 CSF Aβ42가 낮을수록 발생, AUC 0.806 (J Alzheimers Dis)",
+          "summary": "레카네맙 치료를 받은 초기 AD 97명 중 11명에서 ARIA가 발생했고, ARIA군의 기저 뇌척수액 Aβ42는 483.2±108.6 pg/mL로 비발생군 667.4±185.4 pg/mL보다 낮았다(p<0.001). ROC 분석의 AUC는 0.806(95% CI 0.670~0.919)이었고 Aβ40도 낮았으나 Aβ42/Aβ40 비와 타우 지표는 유의한 차이가 없었다. 내부 도출 컷오프여서 외부검증이 필요하다고 저자들은 명시했다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://doi.org/10.1177/13872877261488874",
+          "tags": [
+            "ARIA",
+            "레카네맙",
+            "CSF 바이오마커",
+            "안전성 영상"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "망막 OCT-A 혈관밀도 감소가 1년 뒤 백질고신호 증가·인지저하와 동행 — 경증 뇌졸중 189명 종단추적 (Neurology)",
+          "summary": "열공성 또는 경증 피질 뇌졸중 환자 189명(1년 추적 154명)을 OCT-A·뇌 MRI·MoCA로 반복 평가했다. 망막 혈관밀도의 종단 감소는 백질고신호 증가와 연관됐고(표재층 β -0.045[-0.067~-0.023], 심부층 -0.050[-0.074~-0.026]), 심부층 혈관밀도 감소는 1년간 MoCA 저하와 함께 나타났다. 기저 혈관밀도가 낮을수록 1년 뒤 MoCA가 나빴다(심부층 0.242[0.162~0.322]).",
+          "source": "Neurology",
+          "url": "https://doi.org/10.1212/WNL.0000000000218502",
+          "tags": [
+            "OCT-A",
+            "뇌소혈관질환",
+            "종단연구",
+            "망막 바이오마커"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "진단과 최대 10년 발병예측을 한 모델로 — NACC 학습 '가변 예측지평' CDS, 동일방문 AUC 0.959·120개월 0.851 (J Med Syst)",
+          "summary": "NACC Uniform Data Set에서 영국 2차진료 워크플로에 맞는 입력 20개(기저시점부터의 개월수를 나타내는 HORIZON 변수 포함)로 단일 머신러닝 모델을 학습했다. 동일방문 분류는 민감도 0.951·특이도 0.810·AUC 0.959였고, 24~120개월 미래예측 AUC는 0.906~0.851이었다. Cox 모형 대비 5개 예측지평 중 4개에서 G-mean이 높았으나 외부검증·재보정·전향 평가가 선행돼야 한다고 저자들은 밝혔다.",
+          "source": "Journal of Medical Systems",
+          "url": "https://doi.org/10.1007/s10916-026-02458-2",
+          "tags": [
+            "AI 진단",
+            "위험예측",
+            "NACC"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "관류 SPECT로 본 AD와 루이체치매의 갈림길 — AD는 후대상피질·해마 저관류, DLB는 후두엽 저관류 (173명+대조 44명)",
+          "summary": "아밀로이드 양성 AD 57명, 추정 DLB 72명, 정상대조 44명이 123I-IMP SPECT와 ACE-III를 받았다. AD는 후대상피질·설전부·측두두정엽 관류 저하를, DLB는 후두정·후두 피질 저관류에 후대상피질은 상대적 보존을 보였다. 직접비교에서 AD의 후대상피질·해마 저관류와 DLB의 후두엽 저관류가 감별점이었다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://doi.org/10.1177/13872877261482134",
+          "tags": [
+            "관류 SPECT",
+            "감별진단",
+            "루이체치매",
+            "영상 바이오마커"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "주 1회 8분 원격 기억검사를 1년간 — 계산모형 기반 SGMA 점수로 aMCI 판별 최대 87% (PLOS Digital Health)",
+          "summary": "기억성 MCI 24명과 대응 정상 27명 등 51명이 최대 1년간 감독 없는 주 1회 8분 온라인 기억검사를 수행했고, 기억 응고·망각 모형에 적합시켜 개인별 지표(SGMA 점수)를 산출했다. 검사 간 평균 상관 r=0.70으로 신뢰도가 확보됐고 학습효과는 회당 0.2% 증가에 그쳤으며 MCI 판별 정확도는 최대 87%였다. 표본 51명으로 작아 확증적 진단정확도로 보긴 이르다.",
+          "source": "PLOS Digital Health",
+          "url": "https://doi.org/10.1371/journal.pdig.0001686",
+          "tags": [
+            "디지털 인지평가",
+            "MCI 선별",
+            "원격 모니터링"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "APOE 보유상태로 층화하니 숨어 있던 알츠하이머 유전자 9개가 드러났다 — DDHD1은 ε4 보인자에서만 보호효과 (Nature Genetics)",
+          "summary": "APOE ε4·ε2 보유 여부로 층화한 GWAS에서 비층화 분석에는 보이지 않던 HP1BP3, SLC50A1, PTPRC, NPAS3, DDHD1, CHST9, SMYD2, PRAMEF1, GFRA1 등 9개 신규 유전좌위가 AD 위험 신호로 나타났다. 특히 DDHD1은 ε4 보인자에서만 보호 효과를 보였고 발현양적형질좌위(eQTL)로도 확인됐다. 저자들은 ε4 보인자에서 항아밀로이드 치료 효과가 낮고 ARIA 위험이 높은 현상을 이해하는 데, 또 임상시험 등록 전략에 쓰일 수 있다고 제시했다.",
+          "source": "Nature Genetics",
+          "url": "https://doi.org/10.1038/s41588-026-02713-9",
+          "tags": [
+            "유전",
+            "APOE",
+            "GWAS"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "디지털기기 제공·교육은 고령자 인지를 실제로 올렸다 — 실험연구 14편 메타분석 g=0.11 (Psychology and Aging)",
+          "summary": "관찰연구에서 반복 보고된 '디지털기기 사용-인지저하 감소' 연관의 인과성을 보려고 60세 이상 실험연구만 모아 메타분석했다. 14편(효과크기 산출 12편)의 무선효과 모형에서 디지털기기 제공 또는 교육은 대조군 대비 유의한 인지 이득을 보였으나 효과크기는 작았다(Hedges' g=0.11, 95% CI 0.03~0.19). 이질성이 커 예측구간이 음수 영역까지 걸쳐 근거는 아직 예비적이라고 저자들은 못박았다.",
+          "source": "Psychology and Aging",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42734971/",
+          "tags": [
+            "예방",
+            "디지털",
+            "메타분석"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "실로시빈 1회 투여로 AD 모델 랫드의 공간기억은 회복됐지만 전두-해마 동조화는 그대로였다 (Neuroscience Research)",
+          "summary": "ICV-STZ로 알츠하이머 유사 병리를 유도한 랫드에 실로시빈 2.5 mg/kg을 단회 투여했다. STZ군의 Y-미로 자발교대·Barnes 미로 학습 손상(p<0.01)이 대조군 수준으로 정상화됐고 강제수영 부동시간도 유의하게 줄었다(p<0.001). 그러나 안정상태 국소장전위의 스펙트럼 파워·코히어런스는 대부분 세션에서 군간 차이가 없어(p>0.08) 행동 회복이 전두-해마 동조화 복원을 통한 것은 아님을 시사했다.",
+          "source": "Neuroscience Research",
+          "url": "https://doi.org/10.1016/j.neures.2026.105117",
+          "tags": [
+            "치료제",
+            "전임상",
+            "실로시빈"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "\"아밀로이드 제거가 되느냐\"는 끝난 논쟁 — 이제 이익/위험 마진을 넓히는 법으로 (CNS Drugs)",
+          "summary": "레카네맙·도나네맙이 통계적으로 견고하고 임상적으로 의미 있는(다만 완만한) 진행 지연을 입증하면서 아밀로이드 제거가 생물학적으로 무의미하다는 주장은 설득력을 잃었다고 정리한 리뷰다. 다만 이익 대 위험 마진이 좁고 실제 진료 구현이 운영적으로 부담스러워 약효보다 환자 선별·감시에 성패가 달렸다고 지적한다. 저자들은 순임상가치 개선의 대부분이 더 이르고 정밀한 선별, APOE 유전형·기저 MRI 기반 위험 층화, 혈관위험인자 관리에서 나온다고 제안했다.",
+          "source": "CNS Drugs",
+          "url": "https://doi.org/10.1007/s40263-026-01333-5",
+          "tags": [
+            "항아밀로이드",
+            "레카네맙",
+            "도나네맙",
+            "ARIA"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "행동이 무너지기 전에 해마 CA1의 '맥락 코딩'이 먼저 깨진다 — 5xFAD 마우스 2광자 영상 (Advanced Science)",
+          "summary": "머리 고정 공간교대 과제와 생체 내 2광자 영상으로 5xFAD 마우스의 해마 CA1 표상을 추적했다. 7~9개월령은 과제 학습에 결손을 보인 반면 2~4개월령은 행동이 정상이었는데, 이 조기 단계에서 전반적 공간부호화는 온전했으나 과제 연관 장소세포 표상과 궤적 의존적 맥락 표상이 집단·단일세포 수준에서 약화됐다. 기저전뇌 콜린성 뉴런을 화학유전학적으로 활성화하자 공간정보량이 증가했다.",
+          "source": "Advanced Science",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42717515/",
+          "tags": [
+            "발병기전",
+            "전임상",
+            "해마"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "뇌의 체성 모자이시즘을 발달·노화·신경퇴행을 잇는 하나의 틀로 (Nature Reviews Neurology)",
+          "summary": "접합 이후 발생하는 체성 변이가 뇌 영역·세포유형·개별 뉴런 단위로 불균등하게 분포하며 국소 효과가 네트워크 수준 기능이상으로 증폭될 수 있다는 근거를 종합한 리뷰다. 초기 배아기 변이는 광범위한 영역 클론과 중증 표현형을, 후기 사건은 제한적 효과를 낳으며, 노화에 따른 DNA 손상 누적이 '개인 고유' 변이를 만든다고 정리했다. 벌크·오류교정·단일세포 시퀀싱의 장단점과 임상 번역의 한계도 함께 다룬다.",
+          "source": "Nature Reviews Neurology",
+          "url": "https://doi.org/10.1038/s41582-026-01268-x",
+          "tags": [
+            "발병기전",
+            "유전",
+            "리뷰"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "복지부, 「노인정책영향평가 방법 및 절차 등에 관한 고시」 제정안 행정예고(9/15~10/5) — 노인 관련 정책 신설·변경 시 사전 영향평가 의무화",
+          "summary": "중앙행정기관과 지방정부가 노인 관련 정책을 새로 수립하거나 변경해 시행할 때 '노인의 삶 및 인권보호, 사회참여 활성화, 세대·집단 간 형평성'을 기준으로 영향평가를 실시하도록 하는 고시 제정안이 9월 15일부터 10월 5일까지 행정예고됐다. 복지부는 연내에 평가 대상 정책·기준·방법의 세부사항을 각 기관에 안내할 예정이다. 치매 검진 도입·수가 신설 등 진단 관련 신규 정책이 앞으로 이 평가 절차를 한 단계 더 거치게 돼 조기진단 정책의 도입 타임라인이 다소 길어질 수 있다.",
+          "source": "보건복지부",
+          "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1491976",
+          "tags": [
+            "복지부",
+            "고시",
+            "행정예고",
+            "초고령사회"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "종근당 1차 약가재평가 대상 생산액 6,475억원(전체의 52.9%) — 글리아티린 단일 품목이 1,353억원으로 20.9% 집중",
+          "summary": "콜린알포세레이트는 2025년 9월 비치매 적응증 본인부담 80% 선별급여 전환에 이어 1차 약가 재평가까지 겹쳤다. 종근당의 2025년 의약품 생산실적 1조2,249억원 중 1차 재평가 대상 연결 생산액은 6,475억원(52.9%)이고 종근당글리아티린연질캡슐 한 품목이 1,353억원으로 20.9%를 차지한다. 2025년 콜린알포세레이트 원료 매입액은 570억원(주요 원재료 매입액의 25.2%)이며 kg당 단가는 2023년 37만3,390원에서 2025년 44만2,534원으로 2년간 18.5% 올랐다.",
+          "source": "메디코파마",
+          "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=69533",
+          "tags": [
+            "약가정책",
+            "콜린알포세레이트",
+            "치매치료제"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "인지기능 회복 의료기기 리이머지(ReEmerge), 3,700만 달러 시리즈A로 스텔스 탈출 — USVP·산테 공동 주도",
+          "summary": "코넬대 니컬러스 시프 교수의 중심시상(central thalamus) 연구를 독점 라이선스한 리이머지가 초과청약된 3,700만 달러 시리즈A를 마감하고 스텔스를 벗었다. U.S. Venture Partners와 Santé가 공동 주도했고 Oxford Science Enterprises·415 Capital·IAG Capital Partners·The Vertical Group·Dendrion Ventures가 참여했다. 자금은 만성 중등도~중증 외상성뇌손상 환자 최대 40명 대상 첫 임상에 투입된다.",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/reemerge-inc-exits-stealth-with-oversubscribed-37m-series-a-to-challenge-the-limitations-of-chronic-cognitive-impairment-caused-by-brain-injuries-302878952.html",
+          "tags": [
+            "투자유치",
+            "시리즈A",
+            "인지장애"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[단독] 국민연금 치매안심재산관리 시범사업, 전담인력 29명에 이탈 8건 — 세전 월 300만원·단기계약이 병목",
+          "summary": "신청이 4월 6건에서 7월 184건으로 늘고 누적 문의가 7월 초 1,271건에 달했지만 정식 신탁계약은 4건에 그친 가운데, 운영 인력은 전주 본부 5명·지역본부 24명 등 29명뿐인 것으로 나타났다. 3월 채용 이후 임용 포기·중도 이탈이 8건 발생했고 세전 월 300만원·3~12개월 단기계약이라는 처우가 원인으로 지목된다. 2028년 본사업 전환을 앞두고 치매 공공신탁 확대의 병목이 인력 구조에 있다는 지적이다.",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260913500541",
+          "tags": [
+            "치매신탁",
+            "국민연금",
+            "돌봄시장"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "MICSI, MR 유도 PET 화질개선+아밀로이드·타우 자동정량 'MICSI-PET' FDA 510(k) 획득 — Centiloid·CenTauR 동시 산출",
+          "summary": "NYU Langone 스핀오프 Microstructure Imaging(MICSI)이 신경계 PET 소프트웨어 MICSI-PET의 FDA 510(k) 인가를 9월 15일 발표했다. 구조 MRI로 PET 노이즈 제거·초해상도를 수행해 정량 정보를 유지한 채 화질을 높이고, 아밀로이드 PET은 Centiloid·타우 PET은 CenTauR를 자동 산출하며 영역별 SUVr와 정상대조군 대비 z-score까지 제공한다. NYU Langone·MSKCC 다기관 검증을 위해 NCI Phase II SBIR 227만5,000달러 수주를 예상한다고 밝혔으며, 뉴로핏 SCALE PET·Cortechs.ai NeuroQuant PET과 정면으로 겹치는 지표 구성이다.",
+          "source": "BioSpace",
+          "url": "https://www.biospace.com/press-releases/microstructure-imaging-receives-fda-clearance-for-micsi-pet-bringing-mr-guided-enhancement-and-automated-quantification-to-neurological-pet",
+          "tags": [
+            "MICSI",
+            "FDA 510(k)",
+            "Centiloid"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "Oxford Brain Diagnostics, Viz.ai 前 COO 최지은을 신임 CEO로 — 확산 MRI 미세구조 지표 CDM 상업화 가속",
+          "summary": "확산 MRI 기반 피질 미세구조 정량화 기술 CDM(Cortical Disarray Measurement)을 보유한 영국 Oxford Brain Diagnostics가 9월 15일 최지은 신임 CEO 선임을 발표했다. 최 CEO는 Viz.ai COO로 플랫폼을 병원 2,000곳까지 확장한 이력과 Certara 최고전략·마케팅책임자 경력을 갖췄고, 창업자 Steven Chance는 CSO로 이동한다. 회사는 FDA 혁신의료기기 지정과 CDM Insights의 510(k) 인가, 40편 이상의 동료심사 논문, 제약사 5곳과의 협력을 확보한 상태로 일반 MRI를 정량 바이오마커로 바꾸는 접근이라 뉴로핏 AQUA·icometrix icobrain과 경쟁축이 겹친다.",
+          "source": "BioSpace",
+          "url": "https://www.biospace.com/press-releases/oxford-brain-diagnostics-appoints-healthcare-ai-executive-jieun-choe-as-chief-executive-officer-and-board-director",
+          "tags": [
+            "Oxford Brain Diagnostics",
+            "확산MRI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "제이엘케이, 6월 이후 국책과제 5건·총사업비 263억8,000만원 확보 — 한림대춘천성심병원 54억 'BrainSaver' 신규 공개",
+          "summary": "제이엘케이가 9월 15일 올해 6월부터 최근까지 선정된 주요 국책과제 5건의 총사업비가 약 263억8,000만원이라고 밝혔다. 이미 공개된 156억원 규모 한국형 ARPA-H 과제(한양대 산학협력단 주관, 2030년까지) 외에 한국보건산업진흥원 지역의료혁신연구개발사업 54억원 과제가 새로 공개됐고, 한림대학교춘천성심병원 주관으로 영상 AI·원격협진·환자이송 모니터링을 결합한 'BrainSaver' 플랫폼을 개발·실증한다. 나머지는 조달청 공공혁신 과제와 범부처 의료기기 과제다.",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260915000385",
+          "tags": [
+            "제이엘케이",
+            "국책과제"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "[디멘시아뉴스] 뇌 노폐물 '청소' 지표 DTI-ALPS가 흔들린다 — 영상의학 석학 4인 Nature Communications 좌담",
+          "summary": "판 오스흐(라이덴대)·로라 루이스(MIT)·게이르 링스타드(오슬로대)·베사 키비니에미(오울루대) 4인이 Nature Communications 좌담에서 뇌 청소(brain clearance) 연구를 점검했다. 비침습 MRI 지표로 널리 쓰이는 DTI-ALPS에 대해 '추적자가 실제로 측정한다고 주장하는 영역에 도달하지 않는다'는 한계를 지적했고, 글림프 경로만이 아니라 자가포식·혈뇌장벽 수송까지 함께 봐야 한다고 정리했다. 림프흐름 증진 수술·웨어러블 뇌 모니터링·집속초음파가 후보로 거론됐으나 근거는 아직 제한적이라고 못 박았다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11187",
+          "tags": [
+            "영상바이오마커",
+            "글림프",
+            "MRI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[The Guardian] 알츠하이머 혈액검사를 소셜미디어가 무증상자에게 판다 — 게시물 188건·팔로워 합계 1억1,400만명 분석",
+          "summary": "시드니대 공중보건대학원 제나 스미스 연구진이 페이스북·인스타그램·틱톡에서 합계 1억1,400만 팔로워 규모 계정의 알츠하이머·치매 혈액검사 언급 게시물 188건을 분석해 Journal of the American Geriatrics Society에 실었다. 약 3분의 1이 무증상자에게 검사를 권했고, 명시적 금전 이해관계가 있는 계정은 그럴 확률이 3배 이상 높았으며 의사 게시물도 약 10%를 차지했다. 호주에서 검사비는 경로에 따라 365~600호주달러이고 메디케어 급여 대상이 아니다.",
+          "source": "The Guardian",
+          "url": "https://www.aol.co.uk/articles/researchers-warn-social-media-driving-123043000.html",
+          "tags": [
+            "혈액바이오마커",
+            "조기진단",
+            "규제·윤리"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[AI타임스] 첨단AI 디지털의료제품 레드팀 챌린지 — 국내외 LLM 12종을 시드 질문 807개로 공격 검증",
+          "summary": "9월 3~4일 서울 노보텔앰배서더 동대문에서 ETRI·분당서울대병원·STA테스팅컨설팅·KTR 공동주최로 열렸다. 업스테이지 솔라, OpenAI GPT, 구글 제미나이, 앤트로픽 클로드, 의료특화 MedGemma 등 12종이 대상이었고 MedRTC-TAX-v2.0 8개 대분류·시드 질문 807개를 MODEL·MULTIMODAL·AGENTIC·MCP 등 6개 모드로 공격했다. 사람 심사위원 3인과 LLM-as-a-Judge 2인 중 3표 이상이면 공격 성공으로 판정했고, 총상금 2,000만원 중 대상은 삼성SDS 팀이 받았다.",
+          "source": "AI타임스",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215217",
+          "tags": [
+            "의료AI",
+            "LLM",
+            "안전성검증"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[파이낸셜뉴스] 5년간 재신고 실종 14만8,592건 중 치매환자가 3만318건 — \"경찰 수색만으로는 반복실종을 못 막는다\"",
+          "summary": "2022년부터 2026년 7월까지 경찰에 접수된 재신고 실종(발견 뒤 다시 실종 신고된 사례)이 14만8,592건으로, 이 중 치매환자 3만318건, 지적·자폐성 장애인 2만2,557건, 18세 미만 아동 5만2,843건, 가출 성인 4만2,874건이었다. 경찰은 재신고까지 걸린 기간이나 처리 결과를 시스템·개인정보 제약 탓에 별도 추출하지 못한다고 밝혔다. 전문가들은 시행령·시행규칙 개정으로 통계를 정교화하고 복지·의료 체계와 연동한 고위험군 원스톱 관리 체계를 세워야 한다고 제안했다.",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202609151818050736",
+          "tags": [
+            "돌봄",
+            "정책",
+            "실종안전"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ]
+}
