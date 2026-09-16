@@ -6,3 +6,6 @@ __pycache__/
 *.pyc
 .slack_alert/
 .skip_runs
+.teams_webhook*
+.teams_sent/
+.teams_alert/

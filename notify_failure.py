@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""자동 실행 실패를 Slack으로 경고한다.
+"""자동 실행 실패를 Microsoft Teams로 경고한다.
 
 인증 만료처럼 브리핑 생성이 통째로 멈추는 실패는 로그에만 남아 며칠간 눈치채지 못하기 쉽다.
-같은 사유로 하루 여러 번 알림이 쌓이지 않도록 .slack_alert/{사유}-{날짜} 로 1일 1회만 발송한다.
+같은 사유로 하루 여러 번 알림이 쌓이지 않도록 .teams_alert/{사유}-{날짜} 로 1일 1회만 발송한다.
 사용: python3 notify_failure.py auth
 """
 import os
@@ -29,10 +29,10 @@ MESSAGES = {
 
 
 def webhook():
-    u = os.environ.get("SLACK_WEBHOOK", "").strip()
+    u = os.environ.get("TEAMS_WEBHOOK", "").strip()
     if u:
         return u
-    p = os.path.join(REPO, ".slack_webhook")
+    p = os.path.join(REPO, ".teams_webhook")
     return open(p).read().strip() if os.path.exists(p) else ""
 
 
@@ -44,7 +44,7 @@ def main():
         return
 
     today = datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d")
-    d = os.path.join(REPO, ".slack_alert")
+    d = os.path.join(REPO, ".teams_alert")
     os.makedirs(d, exist_ok=True)
     stamp = os.path.join(d, f"{reason}-{today}")
     if os.path.exists(stamp):
@@ -52,9 +52,21 @@ def main():
         return
 
     text = MESSAGES.get(reason, f":warning: 데일리 브리프 자동 실행 실패 ({reason})")
+    card = {
+        "type": "message",
+        "attachments": [{
+            "contentType": "application/vnd.microsoft.card.adaptive",
+            "content": {
+                "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+                "type": "AdaptiveCard", "version": "1.4",
+                "body": [{"type": "TextBlock", "text": text, "wrap": True,
+                          "color": "Attention", "weight": "Bolder"}],
+            },
+        }],
+    }
     req = urllib.request.Request(
         hook,
-        data=json.dumps({"text": text}).encode("utf-8"),
+        data=json.dumps(card).encode("utf-8"),
         headers={"Content-Type": "application/json"},
     )
     try:

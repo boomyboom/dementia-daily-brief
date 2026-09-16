@@ -40,8 +40,8 @@ claude -p "$PROMPT" \
 AFTER_REV="$(git rev-parse HEAD 2>/dev/null)"
 if [ "$BEFORE_REV" != "$AFTER_REV" ]; then
   echo "----- 변경 감지 -----" >> "$LOG"
-  # (1) Slack 요약 발송 (평일만 — 스킵 로직은 스크립트 내부)
-  python3 "$REPO/slack_notify.py" >> "$LOG" 2>&1
+  # (1) Teams 요약 발송 (평일만 — 스킵 로직은 스크립트 내부)
+  python3 "$REPO/teams_notify.py" >> "$LOG" 2>&1
   # (2) Obsidian vault에 연구논문 적재 (주말·공휴일 포함 매일)
   python3 "$REPO/brief_to_obsidian.py" >> "$LOG" 2>&1
 else
