@@ -84,6 +84,10 @@ def build_card(date, brief, sections, new_count, is_update, pending, omitted):
             mark = " ⭐" if it.get("importance") == "high" else ""
             day = f"[{md(it['_from'])}] " if it.get("_from") else ""
             t, u = it.get("title", ""), it.get("url", "")
+            # 제목 끝에 저널·매체명이 없으면 덧붙인다 (2026-10-06 수동 조립 때 누락됐던 관례를 코드로 고정)
+            src = (it.get("source") or "").strip()
+            if src and not t.rstrip().endswith(")"):
+                t = f"{t} ({src})"
             lines.append(f"- {day}[{t}]({u}){mark}" if u else f"- {day}{t}{mark}")
         body.append({"type": "TextBlock", "text": "\n".join(lines), "wrap": True, "spacing": "Small"})
 

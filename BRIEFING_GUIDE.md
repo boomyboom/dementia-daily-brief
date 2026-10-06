@@ -126,7 +126,7 @@
       "title": "진단·영상 연구",
       "items": [
         {
-          "title": "항목 제목 (한국어)",
+          "title": "항목 제목 (한국어) — 끝에 반드시 '(저널명)' 또는 '(매체명)'을 붙인다. 예: '... MCI→AD 전환 예측 (Neurology)', 프리프린트는 '(medRxiv 프리프린트)'",
           "summary": "2~3문장 요약.",
           "source": "Nature Medicine",
           "url": "https://...",
