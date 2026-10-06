@@ -20,6 +20,12 @@ MESSAGES = {
         "```\nclaude\n```\n"
         "→ `/login` 입력 → 브라우저 로그인 → `/exit` → `claude -p \"ok\"` 로 확인"
     ),
+    "hook": (
+        ":no_entry: *데일리 브리프 실행 차단 — Claude Code 훅 오류*\n"
+        "~/.claude/settings.json에 등록된 훅 스크립트가 없거나 실패해 프롬프트가 차단됐습니다. "
+        "브리핑이 생성되지 않습니다.\n"
+        "확인: `grep -A3 hooks ~/.claude/settings.json` → 존재하지 않는 경로를 가리키는 훅을 제거하세요."
+    ),
     "timeout": (
         ":hourglass: *데일리 브리프 실행 시간초과 — 이번 회차 건너뜀*\n"
         "리서치가 제한 시간 안에 끝나지 않아 강제 종료됐고, 브리핑 갱신과 알림이 생략됐습니다.\n"

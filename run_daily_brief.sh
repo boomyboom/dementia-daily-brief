@@ -56,6 +56,10 @@ if grep -q "Failed to authenticate\|OAuth session expired\|Invalid authenticatio
 elif [ "$BEFORE_REV" = "$AFTER_REV" ] && grep -q "Background tasks still running" "$LOG"; then
   echo "----- 시간초과 강제종료 감지, 경고 발송 -----" >> "$LOG"
   python3 "$REPO/notify_failure.py" "timeout" >> "$LOG" 2>&1
+elif grep -q "blocked by hook" "$LOG"; then
+  # 2026-10-06: 삭제된 005_VIRTUAL_OFFICE/hook.py를 가리키는 훅이 프롬프트를 차단해 4일간 조용히 실패
+  echo "----- 훅 차단 감지, 경고 발송 -----" >> "$LOG"
+  python3 "$REPO/notify_failure.py" "hook" >> "$LOG" 2>&1
 fi
 
 echo "===== $(date '+%Y-%m-%d %H:%M:%S %Z') 종료 (exit=$?) =====" >> "$LOG"
