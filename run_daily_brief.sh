@@ -31,6 +31,9 @@ fi
 PROMPT="$(cat "$REPO/BRIEF_PROMPT.md")"
 
 BEFORE_REV="$(git rev-parse HEAD 2>/dev/null)"
+# 실패 감지는 "이번 실행분" 로그만 본다. 로그는 하루 한 파일이라 전체를 grep하면
+# 아침 회차의 옛 오류를 오후 회차가 다시 잡아 오탐 경고를 보낸다(2026-10-06 14:19 사례).
+LOG_START_LINE="$(wc -l < "$LOG")"
 
 claude -p "$PROMPT" \
   --allowedTools "Task,Bash,WebSearch,WebFetch,Read,Write,Edit,Glob,Grep" \
@@ -48,15 +51,16 @@ else
   echo "----- 변경 없음, 후처리 생략 -----" >> "$LOG"
 fi
 
-# 인증 만료 등 치명적 실패는 조용히 넘기지 말고 Slack으로 경고한다
+# 인증 만료 등 치명적 실패는 조용히 넘기지 말고 Teams로 경고한다
 # (실패해도 브리핑 생성만 멈추고 로그에만 남아 며칠간 모르고 지나가는 것을 방지)
-if grep -q "Failed to authenticate\|OAuth session expired\|Invalid authentication" "$LOG"; then
+RUN_LOG="$(tail -n +"$((LOG_START_LINE + 1))" "$LOG")"
+if printf '%s\n' "$RUN_LOG" | grep -q "Failed to authenticate\|OAuth session expired\|Invalid authentication"; then
   echo "----- 인증 실패 감지, 경고 발송 -----" >> "$LOG"
   python3 "$REPO/notify_failure.py" "auth" >> "$LOG" 2>&1
-elif [ "$BEFORE_REV" = "$AFTER_REV" ] && grep -q "Background tasks still running" "$LOG"; then
+elif [ "$BEFORE_REV" = "$AFTER_REV" ] && printf '%s\n' "$RUN_LOG" | grep -q "Background tasks still running"; then
   echo "----- 시간초과 강제종료 감지, 경고 발송 -----" >> "$LOG"
   python3 "$REPO/notify_failure.py" "timeout" >> "$LOG" 2>&1
-elif grep -q "blocked by hook" "$LOG"; then
+elif printf '%s\n' "$RUN_LOG" | grep -q "blocked by hook"; then
   # 2026-10-06: 삭제된 005_VIRTUAL_OFFICE/hook.py를 가리키는 훅이 프롬프트를 차단해 4일간 조용히 실패
   echo "----- 훅 차단 감지, 경고 발송 -----" >> "$LOG"
   python3 "$REPO/notify_failure.py" "hook" >> "$LOG" 2>&1
