@@ -1,17 +1,38 @@
 {
- "generated_at": "2026-10-09T14:19:01+09:00",
- "date": "2026-10-09",
- "prev_date": "2026-10-08",
+ "generated_at": "2026-10-10T08:20:34+09:00",
+ "date": "2026-10-10",
+ "prev_date": "2026-10-09",
  "window_days": 30,
  "topics": [
   {
    "rank": 1,
    "keyword": "아밀로이드",
-   "count": 168,
+   "count": 165,
    "prev_rank": 1,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-10-10",
+     "title": "APOE ε4 동형접합·여성에서 해마위축 가속 — 일본 Tohoku Medical Megabank MRI 9,453명(종단 5,774명, 평균 4.7년) (Neuroradiology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42853241/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "APOE-ε4의 내측측두엽 타우 효과는 아밀로이드로 설명되지만 여성 효과는 남는다 — 부검 코호트 2,550명 (Acta Neuropathologica)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42853420/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "신경세포 GPCR(gtr-1) 억제가 신경펩타이드 신호를 바꿔 원격 조직의 단백질항상성을 조절 — 아밀로이드β 독성 완화 기전 규명 (Science Advances)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42853952/",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
     {
      "date": "2026-10-09",
      "title": "전임상 AD에서 인지 네트워크(전두두정·DMN)의 아밀로이드 부담이 비인지 네트워크보다 높고 Aβ+에서 격차 확대 — 인지정상 157명 florbetapir PET 네트워크 SUVR (Journal of Alzheimer's Disease)",
@@ -165,38 +186,52 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42837647/",
      "section": "진단·영상 연구",
      "importance": "high"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "기억클리닉 747명 SWI에서 뇌미세출혈 28.6% — 판독 프로토콜 정비 후 판독자간 κ 0.71→0.82, 아밀로이드 양성 인지장애군 11.2%가 항아밀로이드 치료 기준 초과 (Alzheimer's & Dementia: DADM)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42824080/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "세포유형별 다유전자위험점수(cbPRS)가 AD 진행을 예측 — APOE 중심 축과 APOE 비의존 축 2개, 진행 HR 1.25~2.02, ADNI·프레이밍햄 코호트 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42836738/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "클러스터린(CLU)은 플라크 주변 성상세포에 농축되고 시냅스에도 위치한다 — 분비형·세포내형을 구분하는 단클론항체 개발, 큰 플라크일수록 신호 증가 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42836734/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 2,
    "keyword": "뇌 MRI",
-   "count": 152,
+   "count": 150,
    "prev_rank": 2,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-10-10",
+     "title": "딥러닝 DeMorph, 노화와 AD 병리 변형을 분리해 종단 뇌위축 MRI를 예측 — ADNI·OASIS-3·AIBL 등 4개 데이터셋 검증 (IEEE Journal of Biomedical and Health Informatics)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42853744/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "APOE ε4 동형접합·여성에서 해마위축 가속 — 일본 Tohoku Medical Megabank MRI 9,453명(종단 5,774명, 평균 4.7년) (Neuroradiology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42853241/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "청반(LC) MRI 신호 저하가 혈장 pTau217 양성 오즈 53% 증가와 연관 — 비치매 고령자 163명 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.07.26364896v1",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "뇌혈관반응성(CVR)이 gBOLD-CSF 결합 약화를 매개 — ADNI 337명에서 아밀로이드·타우 PET과 연관 (Journal of Magnetic Resonance Imaging)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42852594/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "뇌소혈관질환 백질고신호 다중모달 MRI 지표와 인지 — 15편·5,752명 체계적 문헌고찰, 진단정확도 AUC 0.80~0.89 (Brain Imaging and Behavior)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42848092/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
     {
      "date": "2026-10-09",
      "title": "국가 규모 뇌 MRI 저장소에 동일인 중복 등록 — 9만5,129건에서 정확중복 1,316군·근접중복 1,275군 적발, AI 성능 부풀림 위험 (arXiv 프리프린트)",
@@ -336,52 +371,45 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42837090/",
      "section": "진단·영상 연구",
      "importance": "high"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "iRBD 21명 다중 PET-MRI 공분산 패턴 — 내측 후두두정피질 병리+선조체 FDOPA 조합이 루이소체치매 전환을 예측, 하위분포 HR 38.68 (Journal of Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42821126/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "초기 bvFTD 146명 외부검증 — 우측 상전두회 부피 감소가 집행·전반 인지를 거쳐 기능장애로 이어지는 경로 확인, 무감동→성실성 경로와 병존 (Journal of Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42834227/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "PM2.5·PM10 장기 노출이 회백질 소실과 WMH 진행을 가속 — 중장년·노년 4,276명 반복 뇌 MRI 종단 분석 (Environmental Pollution)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42838330/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "과기정통부, AI 의료기기 '고영향 AI' 확인요청 3건 모두 '비해당' — 뇌출혈 판독 우선순위 AI(3등급)도 제외, 식약처 허가 2등급 이상 AI 의료기기 538건 중 0건(10/6 국감자료)",
-     "url": "https://www.newsthevoice.com/news/articleView.html?idxno=47369",
-     "section": "규제·인허가·정책",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "[국감 현장] 식약처는 3등급, 과기정통부는 '고영향 AI 아님' — 뇌출혈 판독 AI 두고 부처 판단 엇갈려, 배경훈 부총리 \"제도개선반 운영 중\" (미디어오늘 10/6)",
-     "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337552",
-     "section": "규제·인허가·정책",
-     "importance": "high"
     }
    ]
   },
   {
    "rank": 3,
    "keyword": "급여·수가",
-   "count": 144,
+   "count": 140,
    "prev_rank": 3,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-10-10",
+     "title": "거주지역 사회경제적 박탈지수가 인지저하·생체 아밀로이드 축적과 연관 — 아밀로이드 PET 1,110명 (npj Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42851329/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "이탈리아, 질병조절치료제 시대 대비 알츠하이머 진료체계 합의안 — 9개 영역 55개 항목 전건 합의, 허브-스포크 지역 네트워크 모델 (Neurological Sciences)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42850455/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "히스패닉·라티노 성인 5,976명 7년 추적 — 낮은 문화적응도는 낮은 인지수행과 연관되나 인지저하 속도·MCI 유병률과는 무관 (Journal of Alzheimer's Disease)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42847276/",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-10-10",
+     "title": "[김현우의 돌보다] 국정감사 참고인으로 선 노인복지·사회복지 단체장 — 인력기준 미달 시 수가 감산, 이직하면 '5호봉 상한' (여성경제신문)",
+     "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259489",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
     {
      "date": "2026-10-09",
      "title": "[심층] AI 의료기기 누적 허가 549건인데 병원 도입률 19.3%·급여 49건(8.9%) — 가명정보 제공 협의~반출 평균 310일, 공공기관이 AI 기업에 준 데이터는 4년간 17건 vs 연구기관 8,355건 (한국데이터경제신문)",
@@ -528,45 +556,31 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42813272/",
      "section": "진단·영상 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-10-02",
-     "title": "WHO 일일 기준 초과일수가 많을수록 인지 저하 가속 — 단, NO2만 해당하고 PM2.5·PM10은 무관 (ELSA 12,235명, medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.09.23.26363787v1",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-02",
-     "title": "치매 가족돌봄자 심리교육 중재, 돌봄부담 중간 크기로 감소 — RCT 12편 메타분석 Hedges' g=-0.45 (Journal of Applied Gerontology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42811273/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-02",
-     "title": "NECA, 2027년도 의료기술 재평가 대상 수요조사 공고 — 10월 6일~30일 접수, 산업계도 제안 가능",
-     "url": "https://www.neca.re.kr/lay1/bbs/S1T12C49/A/12/view.do?article_seq=17541",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-02",
-     "title": "복지부 고시 제2026-197호 — 「임상연구의 요양급여 적용에 관한 기준」 개정, 급여 신청 제한 기산점 명확화·정보통신망 통보 근거 마련(9월 29일 시행)",
-     "url": "https://www.mohw.go.kr/board.es?mid=a10409020000&bid=0026&act=view&list_no=1492084",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 4,
    "keyword": "혈액 바이오마커",
-   "count": 114,
+   "count": 113,
    "prev_rank": 4,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-10-10",
+     "title": "청반(LC) MRI 신호 저하가 혈장 pTau217 양성 오즈 53% 증가와 연관 — 비치매 고령자 163명 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.07.26364896v1",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "이탈리아, 질병조절치료제 시대 대비 알츠하이머 진료체계 합의안 — 9개 영역 55개 항목 전건 합의, 허브-스포크 지역 네트워크 모델 (Neurological Sciences)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42850455/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
     {
      "date": "2026-10-09",
      "title": "치매 고위험 고령자 혈장 대사체로 '허약(frailty)' 포착 — 10개 대사체 군집 중 6개가 허약지수와 연관 (medRxiv 프리프린트)",
@@ -727,31 +741,31 @@
      "url": "https://www.medrxiv.org/content/10.64898/2026.09.28.26363900v1",
      "section": "진단·영상 연구",
      "importance": "high"
-    },
-    {
-     "date": "2026-10-02",
-     "title": "미세아교세포 유래 세포외소포 내용물을 AD 조기진단 바이오마커로 보는 리뷰 — 현행 A/T/N은 비교적 늦은 단계를 반영한다는 문제 제기 (Translational Neurodegeneration)",
-     "url": "https://doi.org/10.1186/s40035-026-00587-9",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-02",
-     "title": "퀀터릭스 임원 기고 \"아·태 치매 병목은 치료가 아니라 트리아지\" — 서울 메모리클리닉 2,726명 중 레카네맙 적정사용 충족 9.1%",
-     "url": "https://www.biospectrumasia.com/opinion/25/28438/asia-pacifics-alzheimers-bottleneck-is-triage-not-treatment.html",
-     "section": "경쟁사 동향",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 5,
    "keyword": "위험인자",
-   "count": 94,
+   "count": 95,
    "prev_rank": 5,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-10-10",
+     "title": "벤조디아제핀과 치매 위험, 보정 후 위험비 1.43→1.15로 축소 — 중증치매 진행 위험은 증가 없음(HR 0.98), 국민건강보험 13만2,805쌍 코호트 (Journal of Alzheimer's Disease)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42853249/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "배출원별 초미세먼지와 치매 위험 — 교통 유래 PM2.5 사분위범위 증가당 HR 1.12, 고노출·고유전위험 동시 보유 시 위험 236~352% 증가 (European Archives of Psychiatry and Clinical Neuroscience)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42853264/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
     {
      "date": "2026-10-09",
      "title": "뇌아밀로이드혈관병의 APOE4 공급원은 '혈관 연관 섬유아세포' — 선택적 제거로 CAA·미세출혈 감소, 경계부 대식세포 약 50% 감소 (bioRxiv 프리프린트)",
@@ -912,20 +926,6 @@
      "url": "https://www.monews.co.kr/news/articleView.html?idxno=414183",
      "section": "주요 언론",
      "importance": "medium"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "폐활량검사로 정의한 기류제한이 치매 위험과 연관 — 국민건강영양조사·건보청구 연계 15,854명, 정상 폐기능 aHR 0.62",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42803723/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "입면곤란의 인지 영향은 나이에 따라 방향이 뒤집힌다 — 3개 코호트 16,884명, 50세 5년 회상변화 -0.12 SD",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.09.25.26363056v1",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
     }
    ]
   },
@@ -937,6 +937,13 @@
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-10-10",
+     "title": "영상 AI가 판독 회신시간을 줄였지만 뇌 용적측정 MRI만 예외 — 스위스 20개 센터 2만909건, 외상 X선 5분→3분(26%↓)·무릎 MRI 18%↓인데 뇌 용적 MRI는 9.2%↑ (AuntMinnie)",
+     "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15836861/ai-leads-to-lower-turnaround-times-for-highvolume-imaging",
+     "section": "주요 언론",
+     "importance": "high"
+    },
     {
      "date": "2026-10-09",
      "title": "지역별 뇌연령 서명이 10년 사망률을 전체 뇌연령보다 잘 예측 — 1,240명 추적, 3개 영역 모델 C-index 0.81 vs 0.79, 가속 뇌노화 표현형의 인지저하 HR 1.558 (Cell Reports Medicine)",
@@ -1104,24 +1111,209 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42814823/",
      "section": "진단·영상 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "美 텍사스 영상센터 DICOT, VoxNeuro와 제휴 — 구조 영상(MRI·CT)에 EEG/ERP 기반 '인지기능 신경영상' 결합",
-     "url": "https://www.auntminnie.com/clinical-news/mri/news/15836014/dicot-voxneuro-partner-on-brain-function-imaging-for-trauma-patients",
-     "section": "경쟁사 동향",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 7,
-   "keyword": "역학",
+   "keyword": "APOE",
    "count": 81,
-   "prev_rank": 7,
-   "delta": 0,
-   "state": "same",
+   "prev_rank": 8,
+   "delta": 1,
+   "state": "up",
    "items": [
+    {
+     "date": "2026-10-10",
+     "title": "APOE ε4 동형접합·여성에서 해마위축 가속 — 일본 Tohoku Medical Megabank MRI 9,453명(종단 5,774명, 평균 4.7년) (Neuroradiology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42853241/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "청반(LC) MRI 신호 저하가 혈장 pTau217 양성 오즈 53% 증가와 연관 — 비치매 고령자 163명 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.07.26364896v1",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "APOE-ε4의 내측측두엽 타우 효과는 아밀로이드로 설명되지만 여성 효과는 남는다 — 부검 코호트 2,550명 (Acta Neuropathologica)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42853420/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "거주지역 사회경제적 박탈지수가 인지저하·생체 아밀로이드 축적과 연관 — 아밀로이드 PET 1,110명 (npj Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42851329/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-09",
+     "title": "뇌아밀로이드혈관병의 APOE4 공급원은 '혈관 연관 섬유아세포' — 선택적 제거로 CAA·미세출혈 감소, 경계부 대식세포 약 50% 감소 (bioRxiv 프리프린트)",
+     "url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756327v1",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-09",
+     "title": "면역조절 목적의 조작 세균이 타우병증 마우스에선 신경변성을 '악화' — APOE4 배경 타우 마우스에 6개월령부터 5주 간격 투여 (bioRxiv 프리프린트)",
+     "url": "https://www.biorxiv.org/content/10.64898/2026.09.28.755025v1",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-09",
+     "title": "원격 음성 음향분석으로 인지정상 성인의 APOE-ε4 보유 판별 — 80명, 자발발화가 균형정확도 0.84·특이도 0.95로 최우수 (JMIR Formative Research)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42849896/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-09",
+     "title": "[브레인미디어] 성균관대·하버드, 저강도 초음파로 뇌 오가노이드 엑소좀 분비를 늘려 APOE 유전형을 표지 없이 구분 — 검출 신호 2.3배, 아밀로이드β 엑소좀 신호 약 9배 증폭 (Science Advances)",
+     "url": "https://www.brainmedia.co.kr/NEW/25673",
+     "section": "주요 언론",
+     "importance": null
+    },
+    {
+     "date": "2026-10-08",
+     "title": "항아밀로이드 항체 3상 21건·12,610명 메타분석 — ARIA-E 5.4%·ARIA-H 10.27%, APOE4 동형접합 ARIA-E OR 5.12·중증 영상 ARIA-E OR 6.31 (Neurological Sciences)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42825842/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "진행 AD 부검 84례·최대 23개 영역 Aβ 플라크를 CNN으로 6유형 분류(재현율 81.5%·정밀도 82.4%) — 유핵 플라크만 내후각 타우와 양의 상관, 여성은 미만성·ApoE4는 치밀 미만성 플라크 (Acta Neuropathologica)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42841982/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "PM2.5는 혈장 Aβ42/40 비율 저하(β -0.002), 미세입자 망간 Mn2.5는 p-tau181 상승(β 0.387)과 연관 — 인지정상 고령자 340명, APOE ε4 보인자에서 더 강함 (Environmental Pollution)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42843548/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "세포유형별 다유전자위험점수(cbPRS)가 AD 진행을 예측 — APOE 중심 축과 APOE 비의존 축 2개, 진행 HR 1.25~2.02, ADNI·프레이밍햄 코호트 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42836738/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-06",
+     "title": "유전 예측 전사체 시그니처 + 실세계 데이터로 알츠하이머 약물 재창출: 아스피린이 일관된 후보로 부상 (Alzheimer's Research & Therapy)",
+     "url": "https://doi.org/10.1186/s13195-026-02215-0",
+     "section": "치매 전분야 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-06",
+     "title": "CR1+ 희소돌기아교세포의 다중오믹스 규명: AD 유전 위험이 작동하는 세포와 말초 바이오마커 (Alzheimer's Research & Therapy)",
+     "url": "https://doi.org/10.1186/s13195-026-02201-6",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-02",
+     "title": "인지정상 고령자에서도 APOE4 보유자는 체지방이 낮다 — 203명 DXA 분석, 제지방량은 차이 없음 (Journal of Alzheimer's Disease)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42816923/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "APOE와 혈뇌장벽 체액 바이오마커 메타분석 — ε4 연관은 불명확, ε2에서만 Q-Alb 상승(g=0.29)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.09.27.26364123v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "펩타이드 아미드화 효소(PAM) 활성이 낮으면 알츠하이머 발생 2.30배 — 스웨덴 말뫼 코호트 4,543명",
+     "url": "https://doi.org/10.1186/s13195-026-02173-7",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "UK 바이오뱅크 49만9,992명 엑스포좀 전범위 분석 — 193개 노출 중 76개가 치매와 연관, 노출위험점수 최상위군 HR 2.97",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42811779/",
+     "section": "치매 전분야 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "APOE ε4 보유자가 더 빨리 악화되지는 않았다 — 솔라네주맙 EXPEDITION 1 위약군 343명 재분석",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.09.27.26364131v1",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "美 큐어알츠하이머펀드, '카디널 패밀리 스칼라' 7명에 2년간 640만 달러 — 1인당 연 약 46만 달러",
+     "url": "https://www.globenewswire.com/news-release/2026/09/30/3371795/0/en/cure-alzheimer-s-fund-awards-6-4-million-to-cardinal-family-scholars-advancing-alzheimer-s-research.html",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "인지정상 4,380명 아밀로이드 PET — APOE ε44는 아밀로이드 양성 오즈 14.15배, 타우는 ε4에서 내후각피질·편도체에 국소 집중 (Alzheimer's & Dementia: DADM)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42807347/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "집에서 스스로 하는 음절반복(DDK) 말소리 지표로 AD 위험 선별 — 주관적 인지저하 AUC 0.700·APOE ε4 0.715 (GeroScience)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42799937/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "히스패닉 1만3,025명 APOE 영역 전장유전체 분석 — ε4는 무의미했고 신규 클러스터3이 인지저하 오즈 1.47배 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42805940/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "뉴암스테르담파마, 무증상 '전임상 AD' 400명 2b상 SPINOZA 첫 투여 — 1차평가변수는 52주 혈장 p-tau217",
+     "url": "https://www.globenewswire.com/news-release/2026/09/29/3370754/0/en/newamsterdam-pharma-doses-first-participant-in-phase-2b-spinoza-trial-evaluating-obicetrapib-in-preclinical-alzheimer-s-disease.html",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-29",
+     "title": "첫 뇌 MRI 시점을 가른 건 APOE ε4가 아니라 인구·사회·기관 요인 — NACC 20,867명",
+     "url": "https://arxiv.org/abs/2609.33293",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "keyword": "역학",
+   "count": 79,
+   "prev_rank": 7,
+   "delta": 1,
+   "state": "down",
+   "items": [
+    {
+     "date": "2026-10-10",
+     "title": "히스패닉·라티노 성인 5,976명 7년 추적 — 낮은 문화적응도는 낮은 인지수행과 연관되나 인지저하 속도·MCI 유병률과는 무관 (Journal of Alzheimer's Disease)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42847276/",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
     {
      "date": "2026-10-09",
      "title": "누출 통제 멀티모달 AD 진단·진행예측 — ADNI·OASIS-2·MIRIAD 2,649명 17,317회 방문, 내부 진단 AUROC 0.935인데 외부검증 0.763 (arXiv 프리프린트)",
@@ -1289,205 +1481,13 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42809481/",
      "section": "치매 전분야 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "[디멘시아뉴스] 美 20~54세 뇌졸중 발생률 30년 새 83%↑ — 55세 이상은 감소, 혈관성 인지장애로 부담 이동",
-     "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11203",
-     "section": "주요 언론",
-     "importance": "medium"
-    }
-   ]
-  },
-  {
-   "rank": 8,
-   "keyword": "APOE",
-   "count": 80,
-   "prev_rank": 8,
-   "delta": 0,
-   "state": "same",
-   "items": [
-    {
-     "date": "2026-10-09",
-     "title": "뇌아밀로이드혈관병의 APOE4 공급원은 '혈관 연관 섬유아세포' — 선택적 제거로 CAA·미세출혈 감소, 경계부 대식세포 약 50% 감소 (bioRxiv 프리프린트)",
-     "url": "https://www.biorxiv.org/content/10.64898/2026.10.02.756327v1",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-09",
-     "title": "면역조절 목적의 조작 세균이 타우병증 마우스에선 신경변성을 '악화' — APOE4 배경 타우 마우스에 6개월령부터 5주 간격 투여 (bioRxiv 프리프린트)",
-     "url": "https://www.biorxiv.org/content/10.64898/2026.09.28.755025v1",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-09",
-     "title": "원격 음성 음향분석으로 인지정상 성인의 APOE-ε4 보유 판별 — 80명, 자발발화가 균형정확도 0.84·특이도 0.95로 최우수 (JMIR Formative Research)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42849896/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-09",
-     "title": "[브레인미디어] 성균관대·하버드, 저강도 초음파로 뇌 오가노이드 엑소좀 분비를 늘려 APOE 유전형을 표지 없이 구분 — 검출 신호 2.3배, 아밀로이드β 엑소좀 신호 약 9배 증폭 (Science Advances)",
-     "url": "https://www.brainmedia.co.kr/NEW/25673",
-     "section": "주요 언론",
-     "importance": null
-    },
-    {
-     "date": "2026-10-08",
-     "title": "항아밀로이드 항체 3상 21건·12,610명 메타분석 — ARIA-E 5.4%·ARIA-H 10.27%, APOE4 동형접합 ARIA-E OR 5.12·중증 영상 ARIA-E OR 6.31 (Neurological Sciences)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42825842/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-08",
-     "title": "진행 AD 부검 84례·최대 23개 영역 Aβ 플라크를 CNN으로 6유형 분류(재현율 81.5%·정밀도 82.4%) — 유핵 플라크만 내후각 타우와 양의 상관, 여성은 미만성·ApoE4는 치밀 미만성 플라크 (Acta Neuropathologica)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42841982/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-08",
-     "title": "PM2.5는 혈장 Aβ42/40 비율 저하(β -0.002), 미세입자 망간 Mn2.5는 p-tau181 상승(β 0.387)과 연관 — 인지정상 고령자 340명, APOE ε4 보인자에서 더 강함 (Environmental Pollution)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42843548/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "세포유형별 다유전자위험점수(cbPRS)가 AD 진행을 예측 — APOE 중심 축과 APOE 비의존 축 2개, 진행 HR 1.25~2.02, ADNI·프레이밍햄 코호트 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42836738/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-06",
-     "title": "유전 예측 전사체 시그니처 + 실세계 데이터로 알츠하이머 약물 재창출: 아스피린이 일관된 후보로 부상 (Alzheimer's Research & Therapy)",
-     "url": "https://doi.org/10.1186/s13195-026-02215-0",
-     "section": "치매 전분야 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-06",
-     "title": "CR1+ 희소돌기아교세포의 다중오믹스 규명: AD 유전 위험이 작동하는 세포와 말초 바이오마커 (Alzheimer's Research & Therapy)",
-     "url": "https://doi.org/10.1186/s13195-026-02201-6",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-02",
-     "title": "인지정상 고령자에서도 APOE4 보유자는 체지방이 낮다 — 203명 DXA 분석, 제지방량은 차이 없음 (Journal of Alzheimer's Disease)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42816923/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "APOE와 혈뇌장벽 체액 바이오마커 메타분석 — ε4 연관은 불명확, ε2에서만 Q-Alb 상승(g=0.29)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.09.27.26364123v1",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "펩타이드 아미드화 효소(PAM) 활성이 낮으면 알츠하이머 발생 2.30배 — 스웨덴 말뫼 코호트 4,543명",
-     "url": "https://doi.org/10.1186/s13195-026-02173-7",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "UK 바이오뱅크 49만9,992명 엑스포좀 전범위 분석 — 193개 노출 중 76개가 치매와 연관, 노출위험점수 최상위군 HR 2.97",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42811779/",
-     "section": "치매 전분야 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "APOE ε4 보유자가 더 빨리 악화되지는 않았다 — 솔라네주맙 EXPEDITION 1 위약군 343명 재분석",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.09.27.26364131v1",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "美 큐어알츠하이머펀드, '카디널 패밀리 스칼라' 7명에 2년간 640만 달러 — 1인당 연 약 46만 달러",
-     "url": "https://www.globenewswire.com/news-release/2026/09/30/3371795/0/en/cure-alzheimer-s-fund-awards-6-4-million-to-cardinal-family-scholars-advancing-alzheimer-s-research.html",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "인지정상 4,380명 아밀로이드 PET — APOE ε44는 아밀로이드 양성 오즈 14.15배, 타우는 ε4에서 내후각피질·편도체에 국소 집중 (Alzheimer's & Dementia: DADM)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42807347/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "집에서 스스로 하는 음절반복(DDK) 말소리 지표로 AD 위험 선별 — 주관적 인지저하 AUC 0.700·APOE ε4 0.715 (GeroScience)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42799937/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "히스패닉 1만3,025명 APOE 영역 전장유전체 분석 — ε4는 무의미했고 신규 클러스터3이 인지저하 오즈 1.47배 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42805940/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "뉴암스테르담파마, 무증상 '전임상 AD' 400명 2b상 SPINOZA 첫 투여 — 1차평가변수는 52주 혈장 p-tau217",
-     "url": "https://www.globenewswire.com/news-release/2026/09/29/3370754/0/en/newamsterdam-pharma-doses-first-participant-in-phase-2b-spinoza-trial-evaluating-obicetrapib-in-preclinical-alzheimer-s-disease.html",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "첫 뇌 MRI 시점을 가른 건 APOE ε4가 아니라 인구·사회·기관 요인 — NACC 20,867명",
-     "url": "https://arxiv.org/abs/2609.33293",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "아두카누맙·레카네맙·도나네맙 7개 RCT 메타분석 — CDR-SB 개선 -0.41점, ARIA-E는 23.9% 대 1.9%(RR 11.65)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42803728/",
-     "section": "치매 전분야 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "All of Us 36만7,757명 APOE 다인종 PheWAS — ε4의 치매 위험과 지방간 보호효과가 조상집단별로 갈렸다",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.09.26.26364080v1",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "사회적 고립이 인지뿐 아니라 뇌척수액 아밀로이드와도 연관 — CABLE 비치매 957명, Aβ42 β=-0.14",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42803712/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-27",
-     "title": "실사용 기억장애클리닉 105명에서 혈장 GFAP과 아밀로이드·타우 지표의 연관 (Alzheimer's Research & Therapy)",
-     "url": "https://doi.org/10.1186/s13195-026-02195-1",
-     "section": "진단·영상 연구",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 9,
    "keyword": "임상시험",
-   "count": 77,
+   "count": 76,
    "prev_rank": 9,
    "delta": 0,
    "state": "same",
@@ -1672,11 +1672,18 @@
   {
    "rank": 10,
    "keyword": "p-tau217",
-   "count": 76,
+   "count": 75,
    "prev_rank": 10,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-10-10",
+     "title": "청반(LC) MRI 신호 저하가 혈장 pTau217 양성 오즈 53% 증가와 연관 — 비치매 고령자 163명 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.07.26364896v1",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
     {
      "date": "2026-10-08",
      "title": "원격 채혈용 지연원심 P100 튜브 vs EDTA, NULISA 127종 두부비교(43명) — Aβ42·GFAP·NfL·p-tau181/231은 ρ>0.8이지만 p-tau217은 ρ 0.57, 아밀로이드 PET 분류 일치도 최대 92% (medRxiv 프리프린트)",
@@ -1844,20 +1851,13 @@
      "url": "https://www.medrxiv.org/content/10.64898/2026.09.25.26363629v1",
      "section": "진단·영상 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "혈장 Aβ를 더하니 p-tau217 회색지대가 27.4%→12.3%로 축소 — 2차의료 MCI 186명",
-     "url": "https://doi.org/10.3389/fnagi.2026.1918304",
-     "section": "진단·영상 연구",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 11,
    "keyword": "FDA",
-   "count": 76,
+   "count": 73,
    "prev_rank": 11,
    "delta": 0,
    "state": "same",
@@ -2042,11 +2042,18 @@
   {
    "rank": 12,
    "keyword": "예방",
-   "count": 71,
+   "count": 72,
    "prev_rank": 12,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-10-10",
+     "title": "배출원별 초미세먼지와 치매 위험 — 교통 유래 PM2.5 사분위범위 증가당 HR 1.12, 고노출·고유전위험 동시 보유 시 위험 236~352% 증가 (European Archives of Psychiatry and Clinical Neuroscience)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42853264/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
     {
      "date": "2026-10-09",
      "title": "외로움 예방이 인지저하를 늦춘다 — HRS 34,774명 parametric g-formula 반사실 분석, 전체 인구 0.075점·외로운 집단 0.157점 감속, 효과의 17.3%는 우울 매개 (International Journal of Epidemiology)",
@@ -2214,24 +2221,209 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42804222/",
      "section": "치매 전분야 연구",
      "importance": "high"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "리튬 노출과 치매 위험 메타분석 — 코호트 4건 통합 HR 0.633으로 약 37% 낮음",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42803710/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 13,
+   "keyword": "아밀로이드 PET",
+   "count": 68,
+   "prev_rank": 14,
+   "delta": 1,
+   "state": "up",
+   "items": [
+    {
+     "date": "2026-10-10",
+     "title": "뇌혈관반응성(CVR)이 gBOLD-CSF 결합 약화를 매개 — ADNI 337명에서 아밀로이드·타우 PET과 연관 (Journal of Magnetic Resonance Imaging)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42852594/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "거주지역 사회경제적 박탈지수가 인지저하·생체 아밀로이드 축적과 연관 — 아밀로이드 PET 1,110명 (npj Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42851329/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "보호자 동석이 알츠하이머 임상진단 정확도를 높이지 못했다 — 아밀로이드 PET 대조 재향군인 168명 (Dementia and Geriatric Cognitive Disorders)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42853714/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-09",
+     "title": "레카네맙 6~8개월 실제 임상 38명의 아밀로이드 PET — Centiloid 평균 29.39 감소, 12명이 CL<24.1 도달했으나 시각판독-정량 일치도 Kappa 0.205로 불량 (Journal of Alzheimer's Disease)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42847291/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "MRI 글림프 지표(DTI-ALPS·확장 혈관주위공간) 35편 체계적 고찰 — AD에서 ALPS 지수 저하가 ePVS·인지저하·위축과 상관, ePVS 확장은 MCI→AD 전환 예측인자 (Neuroradiology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42828568/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "치매 다중모달 영상 종설 — 항아밀로이드 치료 시대에 아밀로이드 PET은 적격성 확인에 필수이나, 구조 MRI·FDG-PET·관류 SPECT 등 신경퇴행 지표가 중증도 평가에 여전히 중요 (Japanese Journal of Radiology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42828695/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "원격 채혈용 지연원심 P100 튜브 vs EDTA, NULISA 127종 두부비교(43명) — Aβ42·GFAP·NfL·p-tau181/231은 ρ>0.8이지만 p-tau217은 ρ 0.57, 아밀로이드 PET 분류 일치도 최대 92% (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.05.26364780v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "아두카누맙 3상(ENGAGE/EMERGE) 78주 아밀로이드 제거 도달군, 134주·EMBARK 재투약 기준시점까지 임상 악화 적어 — 약 2/3가 연간 CDR-SB 1점 미만 악화 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42841310/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "항아밀로이드 치료 후 아밀로이드 PET, Centiloid 정량과 시각판독이 크게 어긋났다 — 세 파이프라인 모두 <11 CL인 20건 중 13건(65%)이 판독자 전원 '양성', 101명 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.03.26364642v1",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "구조 MRI만으로 아밀로이드 PET 영상을 합성하는 VQGAN — ADNI 431명(CN 213·MCI 180·AD 38), 전두·측두·후대상/설전부에서 군 간 SUVR 차이 재현 (Molecular Imaging and Biology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42837090/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "해마 기반 PET/MRI 라디오믹스로 AD 분류 — 758명 다기관, 의사결정융합 AUC 0.848·외부 45명 0.761, 5분류는 0.797 (Medical Physics)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42834546/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "GE헬스케어, 美 PET 방사성의약품 CMO 소피 바이오사이언스 9억 4,500만 달러 현금 인수 확정 — 9월 '10억 달러 임박설'이 공식화, 15개 사이트·21기 사이클로트론 확보 (SOFIE 보도자료)",
+     "url": "https://sofie.com/2026/10/05/ge-healthcare-to-acquire-sofie-biosciences-establishing-a-final-mile-footprint-for-pet-radiopharmaceutical-supply-in-the-u-s/",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-06",
+     "title": "실제 기억클리닉에서 순차적 혈장 p-tau217 워크플로로 AD 진단 불확실성 감소 (Alzheimer's Research & Therapy)",
+     "url": "https://doi.org/10.1186/s13195-026-02218-x",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-06",
+     "title": "혈장 p-tau217과 기존 AD 바이오마커(아밀로이드 PET·CSF) 불일치와 연관된 임상 요인 (Neurology)",
+     "url": "https://doi.org/10.1212/WNL.0000000000218591",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-02",
+     "title": "혈장 p-tau217 3개 플랫폼 상호변환 도구 'Biomarker Convert' — 아밀로이드 PET 양성 판별 AUC 0.929~0.952, 스크리닝 PET 60% 이상 절감 모델링 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.09.28.26363900v1",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-02",
+     "title": "퀀터릭스 임원 기고 \"아·태 치매 병목은 치료가 아니라 트리아지\" — 서울 메모리클리닉 2,726명 중 레카네맙 적정사용 충족 9.1%",
+     "url": "https://www.biospectrumasia.com/opinion/25/28438/asia-pacifics-alzheimers-bottleneck-is-triage-not-treatment.html",
+     "section": "경쟁사 동향",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "혈장 p-tau217의 주도 병리, 39 Centiloid에서 아밀로이드→타우로 교차 — K-ROAD·ADNI·TRIAD 3개 코호트 수렴",
+     "url": "https://doi.org/10.1186/s13195-026-02210-5",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "간테네루맙 4년 투여 뇌 부검서 불용성 Aβ42·Aβ40 60~80% 감소 — 유전성 AD 8명 질량분석 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.09.22.26363432v1",
+     "section": "치매 전분야 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "인지정상 4,380명 아밀로이드 PET — APOE ε44는 아밀로이드 양성 오즈 14.15배, 타우는 ε4에서 내후각피질·편도체에 국소 집중 (Alzheimer's & Dementia: DADM)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42807347/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "실사용 기억클리닉 179명 중 도나네맙 적격은 11.7%, CSF p-tau 양성까지 요구하면 7.3% (J Alzheimers Dis)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42803707/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "후지레비오 Lumipulse 혈장 p-tau217, 실사용 744명에서 진단정확도 93%·로트간 편차 11% 이하 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42805946/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "아밀로이드 PET 양성 초기 AD 20명에 4주 저강도 집속초음파 — 중대 이상반응 0건, TMT-B 280→213초 (J Alzheimers Dis)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42808496/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "치매 관련주 동반 강세 — HLB제약 상한가(30%, 9,620원), 아밀로이드 진단 방사성의약품 퓨쳐켐 11.88%",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490760",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "\"바이오마커 검사 결과를 들은 뒤가 문제\" — NIA, 500명 PARADE 연구에 40만 달러 추가 지원",
+     "url": "https://health.ucdavis.edu/research/news/headlines/uc-davis-nursing-research-examines-the-human-impact-of-alzheimers-biomarker-testing/2026/09",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-28",
+     "title": "레카네맙 일본 실사용 코호트 — 321명 스크리닝·102명 투여, 6개월 지속률 85% 초과·ARIA 11.4%(고립 ARIA-E 0건)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42798750/",
+     "section": "치매 전분야 연구",
+     "importance": "high"
+    }
+   ]
+  },
+  {
+   "rank": 14,
    "keyword": "타우",
    "count": 67,
    "prev_rank": 13,
-   "delta": 0,
-   "state": "same",
+   "delta": 1,
+   "state": "down",
    "items": [
+    {
+     "date": "2026-10-10",
+     "title": "APOE-ε4의 내측측두엽 타우 효과는 아밀로이드로 설명되지만 여성 효과는 남는다 — 부검 코호트 2,550명 (Acta Neuropathologica)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42853420/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
     {
      "date": "2026-10-09",
      "title": "뇌척수액 단백체 566명 대규모 분석 — MMP10이 피크병을 거의 완벽하게 구분, HOMER1·DLG4는 FTLD-TDP에서 상승 (bioRxiv 프리프린트)",
@@ -2399,205 +2591,13 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42803712/",
      "section": "치매 전분야 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "[Alzforum] 살아있는 사람의 뇌를 생검했다 — 18명 중 9명에서 아밀로이드, 플라크 있는 뇌의 '신생 타우'가 2배",
-     "url": "https://www.alzforum.org/news/research-news/brain-biopsies-deliver-biochemistry-bonanza",
-     "section": "주요 언론",
-     "importance": "medium"
-    }
-   ]
-  },
-  {
-   "rank": 14,
-   "keyword": "아밀로이드 PET",
-   "count": 66,
-   "prev_rank": 14,
-   "delta": 0,
-   "state": "same",
-   "items": [
-    {
-     "date": "2026-10-09",
-     "title": "레카네맙 6~8개월 실제 임상 38명의 아밀로이드 PET — Centiloid 평균 29.39 감소, 12명이 CL<24.1 도달했으나 시각판독-정량 일치도 Kappa 0.205로 불량 (Journal of Alzheimer's Disease)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42847291/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-08",
-     "title": "MRI 글림프 지표(DTI-ALPS·확장 혈관주위공간) 35편 체계적 고찰 — AD에서 ALPS 지수 저하가 ePVS·인지저하·위축과 상관, ePVS 확장은 MCI→AD 전환 예측인자 (Neuroradiology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42828568/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-08",
-     "title": "치매 다중모달 영상 종설 — 항아밀로이드 치료 시대에 아밀로이드 PET은 적격성 확인에 필수이나, 구조 MRI·FDG-PET·관류 SPECT 등 신경퇴행 지표가 중증도 평가에 여전히 중요 (Japanese Journal of Radiology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42828695/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-08",
-     "title": "원격 채혈용 지연원심 P100 튜브 vs EDTA, NULISA 127종 두부비교(43명) — Aβ42·GFAP·NfL·p-tau181/231은 ρ>0.8이지만 p-tau217은 ρ 0.57, 아밀로이드 PET 분류 일치도 최대 92% (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.10.05.26364780v1",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-08",
-     "title": "아두카누맙 3상(ENGAGE/EMERGE) 78주 아밀로이드 제거 도달군, 134주·EMBARK 재투약 기준시점까지 임상 악화 적어 — 약 2/3가 연간 CDR-SB 1점 미만 악화 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42841310/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "항아밀로이드 치료 후 아밀로이드 PET, Centiloid 정량과 시각판독이 크게 어긋났다 — 세 파이프라인 모두 <11 CL인 20건 중 13건(65%)이 판독자 전원 '양성', 101명 (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.10.03.26364642v1",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "구조 MRI만으로 아밀로이드 PET 영상을 합성하는 VQGAN — ADNI 431명(CN 213·MCI 180·AD 38), 전두·측두·후대상/설전부에서 군 간 SUVR 차이 재현 (Molecular Imaging and Biology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42837090/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "해마 기반 PET/MRI 라디오믹스로 AD 분류 — 758명 다기관, 의사결정융합 AUC 0.848·외부 45명 0.761, 5분류는 0.797 (Medical Physics)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42834546/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "GE헬스케어, 美 PET 방사성의약품 CMO 소피 바이오사이언스 9억 4,500만 달러 현금 인수 확정 — 9월 '10억 달러 임박설'이 공식화, 15개 사이트·21기 사이클로트론 확보 (SOFIE 보도자료)",
-     "url": "https://sofie.com/2026/10/05/ge-healthcare-to-acquire-sofie-biosciences-establishing-a-final-mile-footprint-for-pet-radiopharmaceutical-supply-in-the-u-s/",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-06",
-     "title": "실제 기억클리닉에서 순차적 혈장 p-tau217 워크플로로 AD 진단 불확실성 감소 (Alzheimer's Research & Therapy)",
-     "url": "https://doi.org/10.1186/s13195-026-02218-x",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-06",
-     "title": "혈장 p-tau217과 기존 AD 바이오마커(아밀로이드 PET·CSF) 불일치와 연관된 임상 요인 (Neurology)",
-     "url": "https://doi.org/10.1212/WNL.0000000000218591",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-02",
-     "title": "혈장 p-tau217 3개 플랫폼 상호변환 도구 'Biomarker Convert' — 아밀로이드 PET 양성 판별 AUC 0.929~0.952, 스크리닝 PET 60% 이상 절감 모델링 (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.09.28.26363900v1",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-02",
-     "title": "퀀터릭스 임원 기고 \"아·태 치매 병목은 치료가 아니라 트리아지\" — 서울 메모리클리닉 2,726명 중 레카네맙 적정사용 충족 9.1%",
-     "url": "https://www.biospectrumasia.com/opinion/25/28438/asia-pacifics-alzheimers-bottleneck-is-triage-not-treatment.html",
-     "section": "경쟁사 동향",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "혈장 p-tau217의 주도 병리, 39 Centiloid에서 아밀로이드→타우로 교차 — K-ROAD·ADNI·TRIAD 3개 코호트 수렴",
-     "url": "https://doi.org/10.1186/s13195-026-02210-5",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "간테네루맙 4년 투여 뇌 부검서 불용성 Aβ42·Aβ40 60~80% 감소 — 유전성 AD 8명 질량분석 (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.09.22.26363432v1",
-     "section": "치매 전분야 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "인지정상 4,380명 아밀로이드 PET — APOE ε44는 아밀로이드 양성 오즈 14.15배, 타우는 ε4에서 내후각피질·편도체에 국소 집중 (Alzheimer's & Dementia: DADM)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42807347/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "실사용 기억클리닉 179명 중 도나네맙 적격은 11.7%, CSF p-tau 양성까지 요구하면 7.3% (J Alzheimers Dis)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42803707/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "후지레비오 Lumipulse 혈장 p-tau217, 실사용 744명에서 진단정확도 93%·로트간 편차 11% 이하 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42805946/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "아밀로이드 PET 양성 초기 AD 20명에 4주 저강도 집속초음파 — 중대 이상반응 0건, TMT-B 280→213초 (J Alzheimers Dis)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42808496/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "치매 관련주 동반 강세 — HLB제약 상한가(30%, 9,620원), 아밀로이드 진단 방사성의약품 퓨쳐켐 11.88%",
-     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490760",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "\"바이오마커 검사 결과를 들은 뒤가 문제\" — NIA, 500명 PARADE 연구에 40만 달러 추가 지원",
-     "url": "https://health.ucdavis.edu/research/news/headlines/uc-davis-nursing-research-examines-the-human-impact-of-alzheimers-biomarker-testing/2026/09",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-28",
-     "title": "레카네맙 일본 실사용 코호트 — 321명 스크리닝·102명 투여, 6개월 지속률 85% 초과·ARIA 11.4%(고립 ARIA-E 0건)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42798750/",
-     "section": "치매 전분야 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-27",
-     "title": "정량 T1 매핑(qT1), 알츠하이머 해마·피질에서 상승하며 아밀로이드 PET SUVr과 연관 — AD 33명 대 대조 22명 (European Radiology Experimental)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42766053/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-27",
-     "title": "치매 100만명 시대의 급여 공백 — 레켐비 18개월 약값 3,900만~5,070만원 전액 본인부담, 복지부는 경도인지장애 정밀진단도구 'CIST-ID' 2026~2027 개발·2028 적용",
-     "url": "https://www.themedical.kr/news/articleView.html?idxno=3478",
-     "section": "규제·인허가·정책",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-27",
-     "title": "국내 알츠하이머 진단용 방사성의약품 생산액 1년 새 52.9% 성장 — 듀켐바이오 비자밀·뉴라체크 합산 118.1억원으로 점유율 96.3%",
-     "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544621",
-     "section": "시장·투자",
-     "importance": "high"
     }
    ]
   },
   {
    "rank": 15,
    "keyword": "식약처",
-   "count": 63,
+   "count": 60,
    "prev_rank": 15,
    "delta": 0,
    "state": "same",
@@ -2782,11 +2782,32 @@
   {
    "rank": 16,
    "keyword": "정책",
-   "count": 46,
+   "count": 48,
    "prev_rank": 16,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-10-10",
+     "title": "이탈리아, 질병조절치료제 시대 대비 알츠하이머 진료체계 합의안 — 9개 영역 55개 항목 전건 합의, 허브-스포크 지역 네트워크 모델 (Neurological Sciences)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42850455/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "보건산업진흥원, 「바이오헬스 분야 규제샌드박스 국내외 정책 동향」 KHIDI 브리프 제491호 발간 (한국보건산업진흥원)",
+     "url": "https://www.khidi.or.kr/board/view?pageNum=1&rowCnt=10&no1=349&linkId=48950732&menuId=MENU01783",
+     "section": "규제·인허가·정책",
+     "importance": null
+    },
+    {
+     "date": "2026-10-10",
+     "title": "[김현우의 돌보다] 국정감사 참고인으로 선 노인복지·사회복지 단체장 — 인력기준 미달 시 수가 감산, 이직하면 '5호봉 상한' (여성경제신문)",
+     "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259489",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
     {
      "date": "2026-10-09",
      "title": "복지부 고시 제2026-208호 「노인정책영향평가 방법 및 절차 등에 관한 고시」 제정(10/6) — 노인 관련 정책 신설·변경 시 영향평가 의무화 (보건복지부)",
@@ -2940,37 +2961,201 @@
      "url": "https://www.raps.org/resource/convergence-regulators-emphasize-need-for-harmonized-approach-to-ai.html",
      "section": "규제·인허가·정책",
      "importance": "medium"
-    },
-    {
-     "date": "2026-09-24",
-     "title": "치매 공공신탁 5개월 성적표 — 문의 829명·신청 242명에 실계약은 4건",
-     "url": "https://www.mt.co.kr/politics/2026/09/21/2026092014162965053",
-     "section": "시장·투자",
-     "importance": null
-    },
-    {
-     "date": "2026-09-24",
-     "title": "[디멘시아뉴스] 일본 오무타시 통합돌봄 현장 — 20년간 주민 20% 이상 교육 참여, 배회 모의훈련 3,000명",
-     "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11200",
-     "section": "주요 언론",
-     "importance": null
-    },
-    {
-     "date": "2026-09-22",
-     "title": "[파이낸셜뉴스] 제19회 치매극복의 날 기념식 — 유공자 161명 포상, '치매가 있어도 일상을 누릴 권리' 주제",
-     "url": "https://www.fnnews.com/news/202609210923467847",
-     "section": "주요 언론",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 17,
+   "keyword": "조기진단",
+   "count": 42,
+   "prev_rank": 18,
+   "delta": 1,
+   "state": "up",
+   "items": [
+    {
+     "date": "2026-10-10",
+     "title": "청반(LC) MRI 신호 저하가 혈장 pTau217 양성 오즈 53% 증가와 연관 — 비치매 고령자 163명 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.07.26364896v1",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-09",
+     "title": "치매 고위험 고령자 혈장 대사체로 '허약(frailty)' 포착 — 10개 대사체 군집 중 6개가 허약지수와 연관 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.06.26364906v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "항아밀로이드 치료의 미국 사회적 총가치 1인당 $104,885 — 2년 조기치료 시 32%, 초기단계 효과 증강 가정 시 71% 증가, 증상 후 진단까지 평균 3.5년이 '잃어버린 가치' (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42841389/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "[Medical Xpress] 1차의료용 다중모드 인지저하 선별모델 — EHR 수동 디지털 마커+QDRS 설문+임상특성 결합, 65세 이상 321명에서 분류 정확도 인디애나 74%·플로리다 70% (Regenstrief, A&D: DADM)",
+     "url": "https://medicalxpress.com/news/2026-10-early-cognitive-impairment-primary.html",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "복지부, '복지·돌봄 AI 대전환 로드맵' 국무회의 보고(10/6) — 2027년 400가구·12개 시설 스마트 홈·시설 실증, 효과 확인 기술은 복지용구 신속등재·시설 수가·바우처로 확산",
+     "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492156",
+     "section": "규제·인허가·정책",
+     "importance": null
+    },
+    {
+     "date": "2026-10-07",
+     "title": "영국 UKRI, 치매 진단 가속 '8,000만 파운드 챌린지' 가동 — 의뢰 후 18주 내 진단율 60%→92% 목표, 뇌 MRI 촬영 20분→7분 단축·AI 임상의사결정지원 등 NHS 실증 9개 과제 (UKRI)",
+     "url": "https://www.ukri.org/news/80m-challenge-for-faster-better-dementia-diagnosis-launched/",
+     "section": "시장·투자",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "美 알츠하이머협회, 에자이·릴리를 창립 파트너로 '뇌건강·질관리 이니셔티브(BHQCI)' 출범 — 1차의료에 인지평가·혈액검사 기반 조기진단 경로 표준화",
+     "url": "https://www.alz.org/news/2026/alzheimers-association-launches-brain-health-quality-care-initiative",
+     "section": "시장·투자",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "릴리·BMS·마이크로소프트·RBC 참여 '국제 뇌건강 연합(IBC)' 출범 — 2031년까지 30개 도시 뇌졸중 30% 감축·1차의료 인지선별 50% 확대",
+     "url": "https://www.prnewswire.com/news-releases/international-brain-health-coalition-launches-to-put-proven-strategies-into-action-302898369.html",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-07",
+     "title": "[YTN] 日 도쿄 스미다구, 목소리로 치매 징후 감지하는 AI 앱 '하나시테네' 지자체 첫 도입 — 9월 말 주민 259명 등록",
+     "url": "https://www.ytn.co.kr/_ln/0104_202610061934401694",
+     "section": "주요 언론",
+     "importance": null
+    },
+    {
+     "date": "2026-10-02",
+     "title": "미세아교세포 유래 세포외소포 내용물을 AD 조기진단 바이오마커로 보는 리뷰 — 현행 A/T/N은 비교적 늦은 단계를 반영한다는 문제 제기 (Translational Neurodegeneration)",
+     "url": "https://doi.org/10.1186/s40035-026-00587-9",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "[약사공론] '증상 관리'에서 '진행 억제·조기진단'으로 — 혈액 p-tau217이 PET·CSF 영역을 잠식, 신경퇴행 치료제 시장 437억→931억 달러",
+     "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=545027",
+     "section": "주요 언론",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "[Yale News] \"알츠하이머 낙인이 진단을 늦춘다\" — FINGER 모델 창안자 키비펠토 인터뷰",
+     "url": "https://news.yale.edu/2026/09/29/why-there-so-much-stigma-surrounding-alzheimers-disease",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "[파이낸셜뉴스] 건망증과 치매 사이 '회색지대'부터 관리해야 — 65세 이상 MCI 유병률 28.42%, 7년 새 6.17%p 상승",
+     "url": "https://www.fnnews.com/news/202610010850111384",
+     "section": "주요 언론",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "[Newcastle Herald] 호주, 동네 약국에서 치매 선별검사 — 81세 약국 창업자 10만9,000호주달러 기부로 파일럿",
+     "url": "https://www.newcastleherald.com.au/story/9359234/chris-piggott-funds-new-hunter-pharmacy-dementia-checks-through-hmri/",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "치매 관련주 동반 강세 — HLB제약 상한가(30%, 9,620원), 아밀로이드 진단 방사성의약품 퓨쳐켐 11.88%",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490760",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "대구 알츠하이머병 사망률 10만명당 14.6명 — 전국 평균(7.3명)의 두 배로 시도 1위",
+     "url": "https://www.kbmaeil.com/article/20260929500224",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-29",
+     "title": "'고당사업' 환자 진료·약제비 지원 폐지 방침에 현장 반발 — 226개 시군구 중 19곳만 운영, 의사 인센티브는 환자당 1,000원",
+     "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3043112",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-29",
+     "title": "美 CDC, 알츠하이머협회에 5년 2,000만 달러 — 국가 뇌건강 이니셔티브·BOLD 치매위험감소 센터 재위탁",
+     "url": "https://www.alz.org/news/2026/cdc-grants-healthy-brain-initiative-bold-center-risk-reduction",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-29",
+     "title": "GE헬스케어, '신경과 케어 패스웨이' 전담 조직으로 알츠하이머 진단 경로 시장 공론화 — \"치매 환자 75%가 미진단\"",
+     "url": "https://www.diagnosticimaging.com/view/radiology-building-alzheimers-care-pathway-future",
+     "section": "경쟁사 동향",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-28",
+     "title": "美 NIA, 인디애나 알츠하이머병연구센터(IADRC)에 5년 2,280만 달러 재지원 — 2031년까지 '정밀의료' 중심 확대",
+     "url": "https://medicine.iu.edu/news/2026/09/iadrc-grant-renewal-2026",
+     "section": "시장·투자",
+     "importance": "high"
+    },
+    {
+     "date": "2026-09-27",
+     "title": "복지부, 제19회 치매극복의 날 기념식(9/21) — 제5차 치매관리종합계획 '이행 원년' 비전선포, 차관 \"추정 치매환자 100만명 초과\" 공식 언급",
+     "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492024",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-26",
+     "title": "美 ASAP법(알츠하이머 조기발견 메디케어 급여), 하원 세입위 40대 0 만장일치 통과 — 제정 시 2028-01-01부터 혈액검사·의료영상까지 급여",
+     "url": "https://www.discoveriesinhealthpolicy.com/2026/09/legislationwatch-asap-alzheimer-tests.html",
+     "section": "규제·인허가·정책",
+     "importance": "high"
+    },
+    {
+     "date": "2026-09-26",
+     "title": "복지부, 치매안심병원 25곳→2030년 50곳으로 확대 — 치매안심센터는 '검사 대기 단축·조기발견 연계' 기능 중심으로 재편",
+     "url": "https://www.mt.co.kr/society/2026/09/21/2026092115312414364",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-26",
+     "title": "인도 60세 이상 치매 880만명 → 2036년 1,690만명 전망 — 레켐비 출시 뒤 릴리 인도법인·포티스헬스케어가 조기진단 인프라 공백 지적",
+     "url": "https://www.siasat.com/16-9-million-indians-to-have-dementia-by-2036-say-experts-3546725/",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-25",
+     "title": "[TIME] FDA 허가 알츠하이머 혈액검사 4종 시대 — 8월 2종 추가, PrecivityAD2는 40세부터 쓸 수 있는 첫 검사",
+     "url": "https://time.com/article/2026/09/22/who-should-get-new-blood-tests-for-alzheimers-disease/",
+     "section": "주요 언론",
+     "importance": "high"
+    }
+   ]
+  },
+  {
+   "rank": 18,
    "keyword": "레켐비",
-   "count": 44,
+   "count": 41,
    "prev_rank": 17,
-   "delta": 0,
-   "state": "same",
+   "delta": 1,
+   "state": "down",
    "items": [
     {
      "date": "2026-10-09",
@@ -3150,194 +3335,9 @@
    ]
   },
   {
-   "rank": 18,
-   "keyword": "조기진단",
-   "count": 44,
-   "prev_rank": 18,
-   "delta": 0,
-   "state": "same",
-   "items": [
-    {
-     "date": "2026-10-09",
-     "title": "치매 고위험 고령자 혈장 대사체로 '허약(frailty)' 포착 — 10개 대사체 군집 중 6개가 허약지수와 연관 (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.10.06.26364906v1",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-08",
-     "title": "항아밀로이드 치료의 미국 사회적 총가치 1인당 $104,885 — 2년 조기치료 시 32%, 초기단계 효과 증강 가정 시 71% 증가, 증상 후 진단까지 평균 3.5년이 '잃어버린 가치' (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42841389/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-08",
-     "title": "[Medical Xpress] 1차의료용 다중모드 인지저하 선별모델 — EHR 수동 디지털 마커+QDRS 설문+임상특성 결합, 65세 이상 321명에서 분류 정확도 인디애나 74%·플로리다 70% (Regenstrief, A&D: DADM)",
-     "url": "https://medicalxpress.com/news/2026-10-early-cognitive-impairment-primary.html",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "복지부, '복지·돌봄 AI 대전환 로드맵' 국무회의 보고(10/6) — 2027년 400가구·12개 시설 스마트 홈·시설 실증, 효과 확인 기술은 복지용구 신속등재·시설 수가·바우처로 확산",
-     "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492156",
-     "section": "규제·인허가·정책",
-     "importance": null
-    },
-    {
-     "date": "2026-10-07",
-     "title": "영국 UKRI, 치매 진단 가속 '8,000만 파운드 챌린지' 가동 — 의뢰 후 18주 내 진단율 60%→92% 목표, 뇌 MRI 촬영 20분→7분 단축·AI 임상의사결정지원 등 NHS 실증 9개 과제 (UKRI)",
-     "url": "https://www.ukri.org/news/80m-challenge-for-faster-better-dementia-diagnosis-launched/",
-     "section": "시장·투자",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "美 알츠하이머협회, 에자이·릴리를 창립 파트너로 '뇌건강·질관리 이니셔티브(BHQCI)' 출범 — 1차의료에 인지평가·혈액검사 기반 조기진단 경로 표준화",
-     "url": "https://www.alz.org/news/2026/alzheimers-association-launches-brain-health-quality-care-initiative",
-     "section": "시장·투자",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "릴리·BMS·마이크로소프트·RBC 참여 '국제 뇌건강 연합(IBC)' 출범 — 2031년까지 30개 도시 뇌졸중 30% 감축·1차의료 인지선별 50% 확대",
-     "url": "https://www.prnewswire.com/news-releases/international-brain-health-coalition-launches-to-put-proven-strategies-into-action-302898369.html",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-07",
-     "title": "[YTN] 日 도쿄 스미다구, 목소리로 치매 징후 감지하는 AI 앱 '하나시테네' 지자체 첫 도입 — 9월 말 주민 259명 등록",
-     "url": "https://www.ytn.co.kr/_ln/0104_202610061934401694",
-     "section": "주요 언론",
-     "importance": null
-    },
-    {
-     "date": "2026-10-02",
-     "title": "미세아교세포 유래 세포외소포 내용물을 AD 조기진단 바이오마커로 보는 리뷰 — 현행 A/T/N은 비교적 늦은 단계를 반영한다는 문제 제기 (Translational Neurodegeneration)",
-     "url": "https://doi.org/10.1186/s40035-026-00587-9",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "[약사공론] '증상 관리'에서 '진행 억제·조기진단'으로 — 혈액 p-tau217이 PET·CSF 영역을 잠식, 신경퇴행 치료제 시장 437억→931억 달러",
-     "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=545027",
-     "section": "주요 언론",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "[Yale News] \"알츠하이머 낙인이 진단을 늦춘다\" — FINGER 모델 창안자 키비펠토 인터뷰",
-     "url": "https://news.yale.edu/2026/09/29/why-there-so-much-stigma-surrounding-alzheimers-disease",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "[파이낸셜뉴스] 건망증과 치매 사이 '회색지대'부터 관리해야 — 65세 이상 MCI 유병률 28.42%, 7년 새 6.17%p 상승",
-     "url": "https://www.fnnews.com/news/202610010850111384",
-     "section": "주요 언론",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-01",
-     "title": "[Newcastle Herald] 호주, 동네 약국에서 치매 선별검사 — 81세 약국 창업자 10만9,000호주달러 기부로 파일럿",
-     "url": "https://www.newcastleherald.com.au/story/9359234/chris-piggott-funds-new-hunter-pharmacy-dementia-checks-through-hmri/",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "치매 관련주 동반 강세 — HLB제약 상한가(30%, 9,620원), 아밀로이드 진단 방사성의약품 퓨쳐켐 11.88%",
-     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490760",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-30",
-     "title": "대구 알츠하이머병 사망률 10만명당 14.6명 — 전국 평균(7.3명)의 두 배로 시도 1위",
-     "url": "https://www.kbmaeil.com/article/20260929500224",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "'고당사업' 환자 진료·약제비 지원 폐지 방침에 현장 반발 — 226개 시군구 중 19곳만 운영, 의사 인센티브는 환자당 1,000원",
-     "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3043112",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "美 CDC, 알츠하이머협회에 5년 2,000만 달러 — 국가 뇌건강 이니셔티브·BOLD 치매위험감소 센터 재위탁",
-     "url": "https://www.alz.org/news/2026/cdc-grants-healthy-brain-initiative-bold-center-risk-reduction",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-29",
-     "title": "GE헬스케어, '신경과 케어 패스웨이' 전담 조직으로 알츠하이머 진단 경로 시장 공론화 — \"치매 환자 75%가 미진단\"",
-     "url": "https://www.diagnosticimaging.com/view/radiology-building-alzheimers-care-pathway-future",
-     "section": "경쟁사 동향",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-28",
-     "title": "美 NIA, 인디애나 알츠하이머병연구센터(IADRC)에 5년 2,280만 달러 재지원 — 2031년까지 '정밀의료' 중심 확대",
-     "url": "https://medicine.iu.edu/news/2026/09/iadrc-grant-renewal-2026",
-     "section": "시장·투자",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-27",
-     "title": "복지부, 제19회 치매극복의 날 기념식(9/21) — 제5차 치매관리종합계획 '이행 원년' 비전선포, 차관 \"추정 치매환자 100만명 초과\" 공식 언급",
-     "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492024",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-26",
-     "title": "美 ASAP법(알츠하이머 조기발견 메디케어 급여), 하원 세입위 40대 0 만장일치 통과 — 제정 시 2028-01-01부터 혈액검사·의료영상까지 급여",
-     "url": "https://www.discoveriesinhealthpolicy.com/2026/09/legislationwatch-asap-alzheimer-tests.html",
-     "section": "규제·인허가·정책",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-26",
-     "title": "복지부, 치매안심병원 25곳→2030년 50곳으로 확대 — 치매안심센터는 '검사 대기 단축·조기발견 연계' 기능 중심으로 재편",
-     "url": "https://www.mt.co.kr/society/2026/09/21/2026092115312414364",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-26",
-     "title": "인도 60세 이상 치매 880만명 → 2036년 1,690만명 전망 — 레켐비 출시 뒤 릴리 인도법인·포티스헬스케어가 조기진단 인프라 공백 지적",
-     "url": "https://www.siasat.com/16-9-million-indians-to-have-dementia-by-2036-say-experts-3546725/",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-25",
-     "title": "[TIME] FDA 허가 알츠하이머 혈액검사 4종 시대 — 8월 2종 추가, PrecivityAD2는 40세부터 쓸 수 있는 첫 검사",
-     "url": "https://time.com/article/2026/09/22/who-should-get-new-blood-tests-for-alzheimers-disease/",
-     "section": "주요 언론",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-24",
-     "title": "혈청 β-시누클레인이 다운증후군에서 p-tau217·NfL·GFAP보다 먼저 오른다 — 131명, 증상 발현 약 20년 전부터 상승 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42768868/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    }
-   ]
-  },
-  {
    "rank": 19,
    "keyword": "p-tau181",
-   "count": 38,
+   "count": 37,
    "prev_rank": 19,
    "delta": 0,
    "state": "same",
@@ -3521,45 +3521,73 @@
   },
   {
    "rank": 20,
-   "keyword": "PET",
-   "count": 36,
-   "prev_rank": 20,
-   "delta": 0,
-   "state": "same",
+   "keyword": "NfL",
+   "count": 37,
+   "prev_rank": null,
+   "delta": null,
+   "state": "new",
    "items": [
     {
+     "date": "2026-10-10",
+     "title": "아스텔라스 파트너 AviadoBio, FTD 유전자치료 AVB-101 1/2상 17명 데이터 — 뇌척수액 프로그래뉼린 12주차에 3·4코호트 36%·90% 증가, 치료 관련 중대이상반응 0건 (AviadoBio)",
+     "url": "https://aviadobio.com/aviadobio-presents-new-safety-and-biomarker-data/",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-10",
+     "title": "1980년대 혈압약 구아나벤즈가 소아 백질소실병 진행을 늦췄다 — 33명 중 보행 상실 21% 대 과거 대조군 44%, 절반 이상이 환각 경험 (Alzforum)",
+     "url": "https://www.alzforum.org/news/research-news/old-drug-new-tricks-guanabenz-shows-signal-white-matter-disease",
+     "section": "주요 언론",
+     "importance": null
+    },
+    {
      "date": "2026-10-09",
-     "title": "전임상 AD에서 인지 네트워크(전두두정·DMN)의 아밀로이드 부담이 비인지 네트워크보다 높고 Aβ+에서 격차 확대 — 인지정상 157명 florbetapir PET 네트워크 SUVR (Journal of Alzheimer's Disease)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42847330/",
+     "title": "혈액 NfL 표준화용 후보 표준물질 2차 상호호환성 평가 — 6개사 플랫폼 상관 ρ 0.96–0.99지만 기울기 최대 46배 차이, 450건 중 62% commutable·0.66% non-commutable (Clinical Chemistry and Laboratory Medicine)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42848368/",
      "section": "진단·영상 연구",
      "importance": "medium"
     },
     {
      "date": "2026-10-09",
-     "title": "모달리티 결손에 대응하는 AD 진단 융합모델 CoPoE — 결손 입력을 합성하지 않고 제외, ADNI 15개 관측 부분조합 평균 AUROC 최고 (arXiv 프리프린트)",
-     "url": "https://arxiv.org/abs/2610.11394",
-     "section": "진단·영상 연구",
+     "title": "인지정상 초기 PD에서 주관적 인지호소(SCC) 294명 vs 비호소 857명 — SCC군은 CSF p-tau181/Aβ42 높고 5년간 학습·지연회상·작업기억 저하가 빠름, AD·DaT 바이오마커가 궤적 조절 (Annals of Clinical and Translational Neurology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42847555/",
+     "section": "치매 전분야 연구",
      "importance": null
     },
     {
      "date": "2026-10-08",
-     "title": "사후 뇌 Aβ 병리 정량 파운데이션모델 파이프라인 'ViTamyloid' — 3개 뇌은행 WSI 1,646장, 유핵·조립형 플라크와 CAA 1형·2형 4분류 AUROC 0.989~0.997 (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.10.05.26364184v1",
+     "title": "CSF Aβ42/40·p-tau181·NfL·α-synuclein Elecsys 중앙측정 347명 EPND 코호트 — DLB는 AD 병리 동반이 흔하고 인지 악화와 연관, PD는 비정상 아님 (Alzheimer's & Dementia: DADM)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42841041/",
      "section": "진단·영상 연구",
      "importance": "medium"
     },
     {
      "date": "2026-10-08",
-     "title": "검사 비용을 고려해 순차적으로 검사를 고르는 AD 진단 에이전트 SCOPE-AD — ADNI CN/MCI/AD 3분류 Macro-F1 77.70%(평균 획득비용 $50.46), 전체 모달리티 사용 시 +1.89점에 비용은 116.7배 (arXiv 프리프린트)",
-     "url": "https://arxiv.org/abs/2610.01278",
+     "title": "원격 채혈용 지연원심 P100 튜브 vs EDTA, NULISA 127종 두부비교(43명) — Aβ42·GFAP·NfL·p-tau181/231은 ρ>0.8이지만 p-tau217은 ρ 0.57, 아밀로이드 PET 분류 일치도 최대 92% (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.05.26364780v1",
      "section": "진단·영상 연구",
      "importance": "medium"
     },
     {
-     "date": "2026-10-07",
-     "title": "iRBD 21명 다중 PET-MRI 공분산 패턴 — 내측 후두두정피질 병리+선조체 FDOPA 조합이 루이소체치매 전환을 예측, 하위분포 HR 38.68 (Journal of Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42821126/",
+     "date": "2026-10-08",
+     "title": "환자 유래 유도 미세아교세포(iMG)의 탐식능 저하와 혈장 miR-214-3p가 AD '진행 속도'를 추적 — 114명, p-tau217·GFAP·NfL과 독립적으로 빠른 인지악화 예측 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42841306/",
      "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "中 NMPA, 퀀테릭스 Simoa HD-X·SR-X 장비와 p-tau217·GFAP·p-tau181·NfL 혈액검사 키트 승인 — 이노비타(Innovita)와 2024년 중국 상업화 파트너십의 첫 결실 (Clinical Lab Products 10/7)",
+     "url": "https://clpmag.com/disease-states/dementias-alzheimer/china-nmpa-approves-quanterix-innovita-blood-neurology-tests/",
+     "section": "경쟁사 동향",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "[Medical Xpress] 다운증후군 혈청 β-시누클레인, 무증상기에 이미 1.83배→전구기 2.82배→치매기 3.67배 — p-tau217·NfL·GFAP보다 7년 이상 먼저 변화, 전구기 AD 진단 평균연령 21년 전부터 상승 (IR Sant Pau, Alzheimer's & Dementia)",
+     "url": "https://medicalxpress.com/news/2026-10-blood-marker-flag-alzheimer-syndrome.html",
+     "section": "주요 언론",
      "importance": "medium"
     },
     {
@@ -3570,137 +3598,109 @@
      "importance": "medium"
     },
     {
-     "date": "2026-10-01",
-     "title": "[약사공론] '증상 관리'에서 '진행 억제·조기진단'으로 — 혈액 p-tau217이 PET·CSF 영역을 잠식, 신경퇴행 치료제 시장 437억→931억 달러",
-     "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=545027",
-     "section": "주요 언론",
+     "date": "2026-10-06",
+     "title": "혈액 바이오마커(p-tau217·NfL) 조기 공개가 진단 확신도와 임상 관리를 바꾼다: 기억클리닉 무작위 임상시험 (JAMA Neurology)",
+     "url": "https://jamanetwork.com/journals/jamaneurology/fullarticle/10.1001/jamaneurol.2026.3497",
+     "section": "진단·영상 연구",
      "importance": "high"
     },
     {
-     "date": "2026-09-29",
-     "title": "'정확도보다 근거' — ADNI 554명 MRI+FDG-PET 융합모델 AUC 0.962, 단축학습 통제에선 0.500~0.622로 붕괴",
-     "url": "https://arxiv.org/abs/2609.34520",
+     "date": "2026-10-06",
+     "title": "실제 기억클리닉에서 순차적 혈장 p-tau217 워크플로로 AD 진단 불확실성 감소 (Alzheimer's Research & Therapy)",
+     "url": "https://doi.org/10.1186/s13195-026-02218-x",
      "section": "진단·영상 연구",
      "importance": "high"
+    },
+    {
+     "date": "2026-10-01",
+     "title": "혈장 바이오마커·디지털 인지검사 3~6개월 재검사 신뢰도 비교 — p-tau181이 최하위, 92명 반복측정",
+     "url": "https://doi.org/10.1186/s13195-026-02205-2",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "국내 조기발병 치매 410명 NOTCH2NLC GGC 반복확장 선별 — 조기발병 AD·FTD에서는 0건, 성인기 백질뇌병증 11명 중 4명(36.3%) (Alzheimer's & Dementia: DADM)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42802826/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-30",
+     "title": "FTLD 혈장 380종 프로테오믹 — NfL 단독 AUC 0.91, 다변량 CNS 시그니처 0.93 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.09.28.26364155v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
     },
     {
      "date": "2026-09-28",
-     "title": "인지증상 동반 정신과 환자의 [18F]FDG PET — 신경퇴행 패턴의 인지악화 예측 정확도 74%, 진단 변경 26%",
-     "url": "https://doi.org/10.1186/s13550-026-01518-5",
+     "title": "다운증후군 성인 57명 2년 추적 — 기준시점 혈장 p-tau217이 중앙값 초과면 임상단계 진행 위험 3.56배",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42786385/",
      "section": "진단·영상 연구",
      "importance": "medium"
     },
     {
-     "date": "2026-09-26",
-     "title": "DenseNet-EfficientNet 하이브리드 MRI 4단계 분류 정확도 97.8%·F1 98.3% — 다만 공개 증강 데이터셋 기반 (Archives of Medical Research)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42785124/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-26",
-     "title": "AQP4 발현 지도가 위축 패턴과 겹친다 — 타우·TDP-43 단백질병증에서 가장 강한 공간적 일치 (Science Advances)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42777040/",
+     "date": "2026-09-28",
+     "title": "메모리클리닉 434명 혈액바이오마커 ML — 비지도 군집으로 컷오프를 정해도 CSF A+/T+ 예측 정확도 0.85 초과",
+     "url": "https://doi.org/10.3389/fnagi.2026.1922577",
      "section": "진단·영상 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-09-26",
-     "title": "브라이토닉스이미징 'BTXBrain', 뇌 PET 정량분석 30초로 단축 — 판독 일치율 77%→84%, 확신도 74%→92%",
-     "url": "https://www.newsis.com/view/NISX20260922_0003800155",
-     "section": "경쟁사 동향",
-     "importance": "high"
     },
     {
      "date": "2026-09-25",
-     "title": "CNN 잠재공간 이웃분석으로 '판단보류(reject option)' 구현 — ADNI FDG-PET 오분류 탐지 AUC 0.843, PPMI DaTSCAN 0.884 (Journal of Imaging Informatics in Medicine)",
-     "url": "https://doi.org/10.1007/s10278-026-02318-y",
+     "title": "노인성 난청에서 글림프계 MRI 지표 저하가 인지저하를 부분 매개 — 환자 66명 대 대조 139명, DTI-ALPS·FW-WM·CPV 동시 이상 (NeuroImage)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42772709/",
      "section": "진단·영상 연구",
-     "importance": "high"
+     "importance": "medium"
     },
     {
      "date": "2026-09-25",
-     "title": "FDG-PET 특징선택+근사최근접탐색 AD 진단 — ADNI 890명 6개 과제 최대 정확도 0.943, 연산비용 약 70% 절감 (Neuroscience)",
-     "url": "https://doi.org/10.1016/j.neuroscience.2026.09.034",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-22",
-     "title": "7T MRS 마이오이노시톨, FTLD 신경염증 영상 바이오마커 후보 — 환자 54명·대조 73명, 우측 하전두회 상승 p=8.8×10⁻⁷",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.09.18.26363386v1",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-22",
-     "title": "Grey Matters Health, 뇌 전용 PET 클리닉 자금 조달 규모 CAD 110만 달러로 증액(9/16) — 2차 트랜치 50만 달러 9월 21일 마감 예정",
-     "url": "https://www.globenewswire.com/news-release/2026/09/16/3363032/0/en/grey-matters-announces-an-increase-to-its-equity-and-convertible-debenture-private-placement-to-cad-1-1-million.html",
+     "title": "BetterWay(배브슨 진단), 텍사스대 오스틴과 3년 협약 — 손끝 모세혈관 채혈로 p-tau217·NfL·IL-6 측정 추진",
+     "url": "https://www.financialcontent.com/article/accwirecq-2026-9-24-betterway-and-university-of-texas-to-collaborate-on-brain-health-capillary-biomarkers",
      "section": "경쟁사 동향",
      "importance": "medium"
     },
     {
-     "date": "2026-09-22",
-     "title": "[AuntMinnie] 살아있는 사람에게서 CTE를 진단한다 — 보스턴대 MRI·PET 연구에 전 NFL 쿼터백 합류, 투명중격강 확대 오즈비 6.7배",
-     "url": "https://www.auntminnie.com/clinical-news/mri/video/15835459/exnfl-qb-matt-hasselback-points-brain-imaging-study",
-     "section": "주요 언론",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-21",
-     "title": "MRI를 PET으로 변환하는 피질 표면 기반 확산 브리지(DB-SUiT)로 치매 진단 성능 개선",
-     "url": "https://arxiv.org/abs/2609.20147",
+     "date": "2026-09-24",
+     "title": "혈장 GFAP가 조기발병 AD를 비신경퇴행성 인지호소와 AUC 0.924로 갈랐지만 FTD 판별은 0.636에 그쳤다 — 실사용 118명 (Alzheimer's & Dementia: DADM)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42774284/",
      "section": "진단·영상 연구",
      "importance": "high"
     },
     {
-     "date": "2026-09-18",
-     "title": "PET/MRI 감쇠보정용 오픈액세스 pseudo-CT 프레임워크 — 검증 28명에서 정량오차 평균 0.5% 미만",
-     "url": "https://doi.org/10.1016/j.neuroimage.2026.122220",
+     "date": "2026-09-24",
+     "title": "인지정상자의 MCI/AD 진행을 혈장 바이오마커 ML로 예측 — 최고 정확도 71.6%, 민감도는 56%가 한계 (Neurodegener Dis Manag)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42764670/",
      "section": "진단·영상 연구",
      "importance": "medium"
     },
     {
-     "date": "2026-09-18",
-     "title": "MCI·치매 영상 바이오마커로서 대뇌 산소추출률(OEF) 근거 검토 — 10년치 qBOLD·TRUST MRI·15O PET 문헌 리뷰",
-     "url": "https://www.scielo.br/j/dn/a/VXSxc6pfQRG5GCcH4s5G68x/?lang=en",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-17",
-     "title": "혈액검사가 알츠하이머 진단 경제학을 다시 쓴다 — 1차의료 정확도 65%→93%로 전문의(94%)에 근접, 환자 75%는 여전히 미진단",
-     "url": "https://insights.citeline.com/in-vivo/innovation/a-blood-test-rewrites-the-economics-of-alzheimers-diagnosis-GHNEQI2BSJC5HPWEN6U4ADHMUA/",
-     "section": "시장·투자",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-16",
-     "title": "구조 MRI 없이 FDG-PET을 52개 해부영역으로 자동분할하는 딥러닝 — 1,099명·1,628스캔, 평균 Dice 0.84·SUVR ICC 0.96 (Brain)",
-     "url": "https://doi.org/10.1093/brain/awag314",
+     "date": "2026-09-24",
+     "title": "혈청 β-시누클레인이 다운증후군에서 p-tau217·NfL·GFAP보다 먼저 오른다 — 131명, 증상 발현 약 20년 전부터 상승 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42768868/",
      "section": "진단·영상 연구",
      "importance": "high"
     },
     {
-     "date": "2026-09-16",
-     "title": "수면장애와 아밀로이드 부담의 연관은 APOE4 보유자에서만 — 임상 전환 위험(HR 4.58)은 유전형과 무관 (J Alzheimers Dis)",
-     "url": "https://doi.org/10.1177/13872877261487625",
+     "date": "2026-09-24",
+     "title": "종합비타민·코코아 플라바놀 2년 복용해도 신경퇴행 혈액지표는 요지부동 — COSMOS 부속연구 506명, NfL·NT1-tau·올리고머 Aβ 전 항목 p>0.2 (J Alzheimers Dis)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42775737/",
      "section": "치매 전분야 연구",
      "importance": "medium"
     },
     {
-     "date": "2026-09-15",
-     "title": "뇌졸중 없는 심방세동 환자도 인지가 떨어졌고 FDG-PET 대사가 이를 매개했다 — 68명 대 68명 (Nucl Med Commun)",
-     "url": "https://doi.org/10.1097/MNM.0000000000002185",
-     "section": "진단·영상 연구",
+     "date": "2026-09-24",
+     "title": "美 펜대·마이애미대, NIH 2,600만 달러로 전두측두엽치매·ALS '발병 전 예측' 연구 착수",
+     "url": "https://www.newswise.com/articles/penn-miami-researchers-to-use-26-million-nih-grant-to-detect-als-and-frontotemporal-dementia-before-symptoms-appear",
+     "section": "시장·투자",
      "importance": "medium"
     },
     {
-     "date": "2026-09-15",
-     "title": "Fujirebio, 혈액 AD 바이오마커 2종 브라질 ANVISA 허가 — Lumipulse G pTau217 Plasma·NfL Blood, 50세 이상 인지저하자 아밀로이드 병리 확인용 (9/14)",
-     "url": "https://www.fujirebio.com/en/news-events/fujirebio-expands-access-to-bloodbased-neurology-testing-in-brazil-with-anvisa-market",
-     "section": "경쟁사 동향",
-     "importance": "high"
+     "date": "2026-09-22",
+     "title": "임상시험 코호트 AD 바이오마커 변동의 상당 부분은 '생리적 변동' — Aβ 비율 정규화가 통하는 조건을 기전으로 규명",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.09.18.26363412v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
     }
    ]
   }
@@ -3709,7 +3709,7 @@
   {
    "rank": 1,
    "keyword": "뷰노",
-   "count": 28,
+   "count": 27,
    "prev_rank": 1,
    "delta": 0,
    "state": "same",
@@ -3894,10 +3894,10 @@
   {
    "rank": 2,
    "keyword": "Fujirebio",
-   "count": 20,
-   "prev_rank": 3,
-   "delta": 1,
-   "state": "up",
+   "count": 19,
+   "prev_rank": 2,
+   "delta": 0,
+   "state": "same",
    "items": [
     {
      "date": "2026-10-09",
@@ -4031,23 +4031,16 @@
      "url": "https://www.rapportian.com/news/articleView.html?idxno=240246",
      "section": "경쟁사 동향",
      "importance": "medium"
-    },
-    {
-     "date": "2026-09-09",
-     "title": "[분석] 알츠하이머 혈액검사 시장, p-tau217이 표준 경쟁축으로 — FDA 승인 4종 속 국내사는 '비표준 마커'로 우회 중",
-     "url": "https://view.asiae.co.kr/article/2026090816400238424",
-     "section": "시장·투자",
-     "importance": "high"
     }
    ]
   },
   {
    "rank": 3,
    "keyword": "제이엘케이",
-   "count": 19,
-   "prev_rank": 2,
-   "delta": 1,
-   "state": "down",
+   "count": 18,
+   "prev_rank": 3,
+   "delta": 0,
+   "state": "same",
    "items": [
     {
      "date": "2026-10-08",
@@ -4174,20 +4167,13 @@
      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=940208",
      "section": "경쟁사 동향",
      "importance": "high"
-    },
-    {
-     "date": "2026-09-09",
-     "title": "의료AI 17개사 상반기 합산 매출 6,693억원(+17.11%)·영업손실 606억→31억으로 94.79% 축소 — 뇌영상 4사는 모두 적자",
-     "url": "https://www.medipana.com/news/articleView.html?idxno=417281",
-     "section": "경쟁사 동향",
-     "importance": "high"
     }
    ]
   },
   {
    "rank": 4,
    "keyword": "딥노이드",
-   "count": 16,
+   "count": 14,
    "prev_rank": 4,
    "delta": 0,
    "state": "same",
@@ -4289,138 +4275,16 @@
      "url": "https://www.dailypharm.com/user/news/342318",
      "section": "경쟁사 동향",
      "importance": "medium"
-    },
-    {
-     "date": "2026-09-09",
-     "title": "의료AI 17개사 상반기 합산 매출 6,693억원(+17.11%)·영업손실 606억→31억으로 94.79% 축소 — 뇌영상 4사는 모두 적자",
-     "url": "https://www.medipana.com/news/articleView.html?idxno=417281",
-     "section": "경쟁사 동향",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-09",
-     "title": "코어라인소프트, KCR 2026 B-04 부스에 뇌위축 정량분석 'AVIEW NeuroCAD' 전시 — 흉부 CT 넘어 퇴행성 뇌질환으로 확장",
-     "url": "https://www.rapportian.com/news/articleView.html?idxno=240098",
-     "section": "경쟁사 동향",
-     "importance": "high"
     }
    ]
   },
   {
    "rank": 5,
-   "keyword": "Roche",
-   "count": 14,
-   "prev_rank": 5,
-   "delta": 0,
-   "state": "same",
-   "items": [
-    {
-     "date": "2026-10-09",
-     "title": "혈액 NfL 표준화용 후보 표준물질 2차 상호호환성 평가 — 6개사 플랫폼 상관 ρ 0.96–0.99지만 기울기 최대 46배 차이, 450건 중 62% commutable·0.66% non-commutable (Clinical Chemistry and Laboratory Medicine)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42848368/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-08",
-     "title": "CSF Aβ42/40·p-tau181·NfL·α-synuclein Elecsys 중앙측정 347명 EPND 코호트 — DLB는 AD 병리 동반이 흔하고 인지 악화와 연관, PD는 비정상 아님 (Alzheimer's & Dementia: DADM)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42841041/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-25",
-     "title": "[TIME] FDA 허가 알츠하이머 혈액검사 4종 시대 — 8월 2종 추가, PrecivityAD2는 40세부터 쓸 수 있는 첫 검사",
-     "url": "https://time.com/article/2026/09/22/who-should-get-new-blood-tests-for-alzheimers-disease/",
-     "section": "주요 언론",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-24",
-     "title": "인지정상자의 MCI/AD 진행을 혈장 바이오마커 ML로 예측 — 최고 정확도 71.6%, 민감도는 56%가 한계 (Neurodegener Dis Manag)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42764670/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-24",
-     "title": "알츠하이머 조기진단에 1달러 쓰면 사회적 가치 18.21달러 — 로슈진단 의뢰 뉴질랜드 분석, NZ$565만 투입해 NZ$1억287만 창출",
-     "url": "https://www.nzdoctor.co.nz/article/undoctored/earlier-alzheimers-diagnosis-could-deliver-18-social-value-every-1-invested",
-     "section": "시장·투자",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-23",
-     "title": "글로벌 알츠하이머 바이오마커 시장 2025년 22억 달러 → 2034년 47억 달러 전망 (CAGR 약 9%)",
-     "url": "https://www.globenewswire.com/news-release/2026/09/22/3366764/0/en/global-alzheimer-s-disease-biomarker-market-poised-for-phenomenal-expansion-at-a-growth-rate-of-9-by-2034-delveinsight.html",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-17",
-     "title": "혈액검사가 알츠하이머 진단 경제학을 다시 쓴다 — 1차의료 정확도 65%→93%로 전문의(94%)에 근접, 환자 75%는 여전히 미진단",
-     "url": "https://insights.citeline.com/in-vivo/innovation/a-blood-test-rewrites-the-economics-of-alzheimers-diagnosis-GHNEQI2BSJC5HPWEN6U4ADHMUA/",
-     "section": "시장·투자",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-14",
-     "title": "Elecsys 혈장 p-tau181 룰아웃 검사 임상성능 — 1차진료 컷오프 0.722 pg/mL에서 음성예측도 97.9%, 검증 코호트 604명·787명",
-     "url": "https://doi.org/10.1002/dad2.70439",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-14",
-     "title": "루닛, KCR 2026 체험형 AI 부스에 약 1,200명 방문 — 40개국 3,800명 참가 학회에서 '직접 판독 대결' 프로그램 운영 (9/14)",
-     "url": "https://www.mt.co.kr/thebio/2026/09/14/2026091408113610243",
-     "section": "경쟁사 동향",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-13",
-     "title": "제노헬릭스, 서울바이오허브·로슈진단 '2026 스타트업 스프린트' 최종 협력기업 선정 — 9월 10일 데모데이, 참가 6개사 중 1위",
-     "url": "https://www.mt.co.kr/future/2026/09/11/2026091116105267744",
-     "section": "경쟁사 동향",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-12",
-     "title": "혈장 p-tau181 Elecsys 배제검사, 1차 진료 컷오프 0.722 pg/mL에서 아밀로이드 PET 대비 음성예측도 97.9% (Alz&Dem: DADM)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42719535/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-11",
-     "title": "지멘스 헬시니어스, 알츠하이머 혈액 바이오마커 라인업 확대 — 아텔리카 IM pTau217·BDTau 연구용 공급 (9/11)",
-     "url": "https://www.rapportian.com/news/articleView.html?idxno=240246",
-     "section": "경쟁사 동향",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-09",
-     "title": "[전망] 치매 진단·치료 인허가 로드맵 — 도나네맙 식약처 심사 중 연내 허가 유력, 레켐비 피하주사 2027년·p-tau217 혈액검사 2027년 하반기",
-     "url": "https://view.asiae.co.kr/article/2026090815550625789",
-     "section": "규제·인허가·정책",
-     "importance": "high"
-    },
-    {
-     "date": "2026-09-09",
-     "title": "[분석] 알츠하이머 혈액검사 시장, p-tau217이 표준 경쟁축으로 — FDA 승인 4종 속 국내사는 '비표준 마커'로 우회 중",
-     "url": "https://view.asiae.co.kr/article/2026090816400238424",
-     "section": "시장·투자",
-     "importance": "high"
-    }
-   ]
-  },
-  {
-   "rank": 6,
    "keyword": "뉴로핏",
    "count": 13,
    "prev_rank": 6,
-   "delta": 0,
-   "state": "same",
+   "delta": 1,
+   "state": "up",
    "items": [
     {
      "date": "2026-10-09",
@@ -4516,9 +4380,103 @@
    ]
   },
   {
+   "rank": 6,
+   "keyword": "Roche",
+   "count": 12,
+   "prev_rank": 5,
+   "delta": 1,
+   "state": "down",
+   "items": [
+    {
+     "date": "2026-10-09",
+     "title": "혈액 NfL 표준화용 후보 표준물질 2차 상호호환성 평가 — 6개사 플랫폼 상관 ρ 0.96–0.99지만 기울기 최대 46배 차이, 450건 중 62% commutable·0.66% non-commutable (Clinical Chemistry and Laboratory Medicine)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42848368/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-08",
+     "title": "CSF Aβ42/40·p-tau181·NfL·α-synuclein Elecsys 중앙측정 347명 EPND 코호트 — DLB는 AD 병리 동반이 흔하고 인지 악화와 연관, PD는 비정상 아님 (Alzheimer's & Dementia: DADM)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42841041/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-25",
+     "title": "[TIME] FDA 허가 알츠하이머 혈액검사 4종 시대 — 8월 2종 추가, PrecivityAD2는 40세부터 쓸 수 있는 첫 검사",
+     "url": "https://time.com/article/2026/09/22/who-should-get-new-blood-tests-for-alzheimers-disease/",
+     "section": "주요 언론",
+     "importance": "high"
+    },
+    {
+     "date": "2026-09-24",
+     "title": "인지정상자의 MCI/AD 진행을 혈장 바이오마커 ML로 예측 — 최고 정확도 71.6%, 민감도는 56%가 한계 (Neurodegener Dis Manag)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42764670/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-24",
+     "title": "알츠하이머 조기진단에 1달러 쓰면 사회적 가치 18.21달러 — 로슈진단 의뢰 뉴질랜드 분석, NZ$565만 투입해 NZ$1억287만 창출",
+     "url": "https://www.nzdoctor.co.nz/article/undoctored/earlier-alzheimers-diagnosis-could-deliver-18-social-value-every-1-invested",
+     "section": "시장·투자",
+     "importance": "high"
+    },
+    {
+     "date": "2026-09-23",
+     "title": "글로벌 알츠하이머 바이오마커 시장 2025년 22억 달러 → 2034년 47억 달러 전망 (CAGR 약 9%)",
+     "url": "https://www.globenewswire.com/news-release/2026/09/22/3366764/0/en/global-alzheimer-s-disease-biomarker-market-poised-for-phenomenal-expansion-at-a-growth-rate-of-9-by-2034-delveinsight.html",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-17",
+     "title": "혈액검사가 알츠하이머 진단 경제학을 다시 쓴다 — 1차의료 정확도 65%→93%로 전문의(94%)에 근접, 환자 75%는 여전히 미진단",
+     "url": "https://insights.citeline.com/in-vivo/innovation/a-blood-test-rewrites-the-economics-of-alzheimers-diagnosis-GHNEQI2BSJC5HPWEN6U4ADHMUA/",
+     "section": "시장·투자",
+     "importance": "high"
+    },
+    {
+     "date": "2026-09-14",
+     "title": "Elecsys 혈장 p-tau181 룰아웃 검사 임상성능 — 1차진료 컷오프 0.722 pg/mL에서 음성예측도 97.9%, 검증 코호트 604명·787명",
+     "url": "https://doi.org/10.1002/dad2.70439",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-09-14",
+     "title": "루닛, KCR 2026 체험형 AI 부스에 약 1,200명 방문 — 40개국 3,800명 참가 학회에서 '직접 판독 대결' 프로그램 운영 (9/14)",
+     "url": "https://www.mt.co.kr/thebio/2026/09/14/2026091408113610243",
+     "section": "경쟁사 동향",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-13",
+     "title": "제노헬릭스, 서울바이오허브·로슈진단 '2026 스타트업 스프린트' 최종 협력기업 선정 — 9월 10일 데모데이, 참가 6개사 중 1위",
+     "url": "https://www.mt.co.kr/future/2026/09/11/2026091116105267744",
+     "section": "경쟁사 동향",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-12",
+     "title": "혈장 p-tau181 Elecsys 배제검사, 1차 진료 컷오프 0.722 pg/mL에서 아밀로이드 PET 대비 음성예측도 97.9% (Alz&Dem: DADM)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42719535/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-09-11",
+     "title": "지멘스 헬시니어스, 알츠하이머 혈액 바이오마커 라인업 확대 — 아텔리카 IM pTau217·BDTau 연구용 공급 (9/11)",
+     "url": "https://www.rapportian.com/news/articleView.html?idxno=240246",
+     "section": "경쟁사 동향",
+     "importance": "medium"
+    }
+   ]
+  },
+  {
    "rank": 7,
    "keyword": "Eli Lilly",
-   "count": 10,
+   "count": 9,
    "prev_rank": 7,
    "delta": 0,
    "state": "same",
@@ -4585,13 +4543,6 @@
      "url": "https://business-review.eu/business/healthcare/eli-lilly-and-neuroaxis-partner-up-to-improve-early-alzheimers-diagnosis-in-romania-300774",
      "section": "경쟁사 동향",
      "importance": "medium"
-    },
-    {
-     "date": "2026-09-09",
-     "title": "[전망] 치매 진단·치료 인허가 로드맵 — 도나네맙 식약처 심사 중 연내 허가 유력, 레켐비 피하주사 2027년·p-tau217 혈액검사 2027년 하반기",
-     "url": "https://view.asiae.co.kr/article/2026090815550625789",
-     "section": "규제·인허가·정책",
-     "importance": "high"
     }
    ]
   },
@@ -4599,9 +4550,9 @@
    "rank": 8,
    "keyword": "C2N",
    "count": 6,
-   "prev_rank": 9,
-   "delta": 1,
-   "state": "up",
+   "prev_rank": 8,
+   "delta": 0,
+   "state": "same",
    "items": [
     {
      "date": "2026-10-02",
@@ -4649,11 +4600,63 @@
   },
   {
    "rank": 9,
+   "keyword": "Quanterix",
+   "count": 6,
+   "prev_rank": 11,
+   "delta": 2,
+   "state": "up",
+   "items": [
+    {
+     "date": "2026-10-10",
+     "title": "청반(LC) MRI 신호 저하가 혈장 pTau217 양성 오즈 53% 증가와 연관 — 비치매 고령자 163명 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.07.26364896v1",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-09",
+     "title": "혈액 NfL 표준화용 후보 표준물질 2차 상호호환성 평가 — 6개사 플랫폼 상관 ρ 0.96–0.99지만 기울기 최대 46배 차이, 450건 중 62% commutable·0.66% non-commutable (Clinical Chemistry and Laboratory Medicine)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42848368/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-06",
+     "title": "퀀테릭스 임원 기고 \"아태 알츠하이머 병목은 치료가 아닌 선별\"…서울 기억클리닉 환자 중 레카네맙 적격 9.1%",
+     "url": "https://biospectrumasia.com/opinion/25/28438/asia-pacifics-alzheimers-bottleneck-is-triage-not-treatment.html",
+     "section": "경쟁사 동향",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-02",
+     "title": "퀀터릭스 임원 기고 \"아·태 치매 병목은 치료가 아니라 트리아지\" — 서울 메모리클리닉 2,726명 중 레카네맙 적정사용 충족 9.1%",
+     "url": "https://www.biospectrumasia.com/opinion/25/28438/asia-pacifics-alzheimers-bottleneck-is-triage-not-treatment.html",
+     "section": "경쟁사 동향",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-23",
+     "title": "글로벌 알츠하이머 바이오마커 시장 2025년 22억 달러 → 2034년 47억 달러 전망 (CAGR 약 9%)",
+     "url": "https://www.globenewswire.com/news-release/2026/09/22/3366764/0/en/global-alzheimer-s-disease-biomarker-market-poised-for-phenomenal-expansion-at-a-growth-rate-of-9-by-2034-delveinsight.html",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-09-15",
+     "title": "Quanterix, Quest Diagnostics 출신 Yuri Fesko를 CMO로 선임 — LucentAD Complete 5종 바이오마커 출시·HD-X IVD 신청 앞두고 진단사업 보강 (9/14)",
+     "url": "https://www.quanterix.com/news-media-center/press-releases/quanterix-names-dr-yuri-fesko-chief-medical-officer/",
+     "section": "경쟁사 동향",
+     "importance": "medium"
+    }
+   ]
+  },
+  {
+   "rank": 10,
    "keyword": "Eisai",
    "count": 6,
-   "prev_rank": 10,
+   "prev_rank": 9,
    "delta": 1,
-   "state": "up",
+   "state": "down",
    "items": [
     {
      "date": "2026-10-07",
@@ -4700,11 +4703,11 @@
    ]
   },
   {
-   "rank": 10,
+   "rank": 11,
    "keyword": "휴런",
    "count": 6,
-   "prev_rank": 8,
-   "delta": 2,
+   "prev_rank": 10,
+   "delta": 1,
    "state": "down",
    "items": [
     {
@@ -4752,57 +4755,12 @@
    ]
   },
   {
-   "rank": 11,
-   "keyword": "Quanterix",
-   "count": 5,
-   "prev_rank": 12,
-   "delta": 1,
-   "state": "up",
-   "items": [
-    {
-     "date": "2026-10-09",
-     "title": "혈액 NfL 표준화용 후보 표준물질 2차 상호호환성 평가 — 6개사 플랫폼 상관 ρ 0.96–0.99지만 기울기 최대 46배 차이, 450건 중 62% commutable·0.66% non-commutable (Clinical Chemistry and Laboratory Medicine)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42848368/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-06",
-     "title": "퀀테릭스 임원 기고 \"아태 알츠하이머 병목은 치료가 아닌 선별\"…서울 기억클리닉 환자 중 레카네맙 적격 9.1%",
-     "url": "https://biospectrumasia.com/opinion/25/28438/asia-pacifics-alzheimers-bottleneck-is-triage-not-treatment.html",
-     "section": "경쟁사 동향",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-02",
-     "title": "퀀터릭스 임원 기고 \"아·태 치매 병목은 치료가 아니라 트리아지\" — 서울 메모리클리닉 2,726명 중 레카네맙 적정사용 충족 9.1%",
-     "url": "https://www.biospectrumasia.com/opinion/25/28438/asia-pacifics-alzheimers-bottleneck-is-triage-not-treatment.html",
-     "section": "경쟁사 동향",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-23",
-     "title": "글로벌 알츠하이머 바이오마커 시장 2025년 22억 달러 → 2034년 47억 달러 전망 (CAGR 약 9%)",
-     "url": "https://www.globenewswire.com/news-release/2026/09/22/3366764/0/en/global-alzheimer-s-disease-biomarker-market-poised-for-phenomenal-expansion-at-a-growth-rate-of-9-by-2034-delveinsight.html",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-09-15",
-     "title": "Quanterix, Quest Diagnostics 출신 Yuri Fesko를 CMO로 선임 — LucentAD Complete 5종 바이오마커 출시·HD-X IVD 신청 앞두고 진단사업 보강 (9/14)",
-     "url": "https://www.quanterix.com/news-media-center/press-releases/quanterix-names-dr-yuri-fesko-chief-medical-officer/",
-     "section": "경쟁사 동향",
-     "importance": "medium"
-    }
-   ]
-  },
-  {
    "rank": 12,
    "keyword": "Brainomix",
    "count": 4,
-   "prev_rank": 11,
-   "delta": 1,
-   "state": "down",
+   "prev_rank": 12,
+   "delta": 0,
+   "state": "same",
    "items": [
     {
      "date": "2026-10-02",
