@@ -1,0 +1,287 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T09:00:00+09:00",
+  "headline": "Annals of Neurology에 인지정상 1,896명 최대 20년 추적 연구 — 아밀로이드 '음성'의 절반인 Centiloid 0.93~20 경도 구간도 10년 뒤 인지장애 위험 1.43배로, CL>20 이분법 대신 연속 Centiloid 정량 보고의 근거가 나왔다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "아밀로이드 음성 인지정상인 절반의 'Centiloid 0.93~20' 경도 아밀로이드도 약 10년 뒤 인지장애 위험 1.43배 — 인지정상 1,896명 최대 20.3년 추적, 양성 기준 CL>20이 고위험군을 놓칠 수 있다 (Annals of Neurology)",
+          "summary": "인지정상 1,896명을 아밀로이드 PET 촬영 후 최대 20.3년 추적한 결과, 아밀로이드 양성(CL>20, 421명)의 인지장애 발생 위험은 음성 대비 HR 2.54였다. 음성자의 약 48.7%가 CL 0.93~20의 경도 부담 구간에 있었고, 이들은 최저 구간(CL<0.93)보다 약 10년 시점 위험이 HR 1.43(p=0.008) 높았다. 이분법 양성 판정보다 연속 Centiloid 값과 하위구간 보고가 예후·예방임상 선별에 쓸모 있음을 시사한다.",
+          "source": "Annals of Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42873601/",
+          "tags": [
+            "아밀로이드 PET",
+            "Centiloid",
+            "역치",
+            "예후"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "조기발병 AD 585명의 아밀로이드·타우 PET·MRI 위축 좌우 비대칭 — 비대칭은 모든 표현형에서 흔하고 타우·위축 비대칭이 반구별 증상과 연관, 종단 218명에서 아밀로이드 안정·타우 감소·MRI 용적 비대칭 증가 (Annals of Neurology)",
+          "summary": "LEADS 등 2개 코호트의 산발성 조기발병 AD 585명에서 아밀로이드 PET·타우 PET·피질 위축의 좌우 반구 비대칭 지수를 산출했다. 좌·우 비대칭 모두 임상 표현형 전반에 흔했고, 타우 PET과 MRI 용적 비대칭은 반구 특이적 인지결손·신경정신증상과 연관됐다. 종단 218명에서 아밀로이드 비대칭은 안정, 타우 비대칭은 감소, MRI 용적 비대칭은 증가해 병리 단계별 시간차가 드러났다 — 반구별 정량 출력의 임상적 의미를 뒷받침한다.",
+          "source": "Annals of Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42873606/",
+          "tags": [
+            "조기발병 AD",
+            "타우 PET",
+            "MRI 위축",
+            "비대칭"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "NODDI 확산MRI로 본 회백질 미세구조 손상이 아밀로이드·타우→기억력 저하를 매개 — 기억장애 194명 복셀 단위 분석, 미세구조에는 타우 영향이 아밀로이드보다 커 (Alzheimer's & Dementia)",
+          "summary": "기억장애가 있는 194명에서 PET 아밀로이드·타우와 NODDI로 측정한 회백질 미세구조의 관계를 복셀 단위 매개모형으로 분석했다. 회백질 미세구조에는 타우가 아밀로이드보다 큰 영향을 미쳤고, 후방 피질 미세구조 변화는 병리를 통제한 뒤에도 기억 저하와 연관되며 병리→기억 관계를 매개했다. 횡단·단일기관 설계라는 한계가 있다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42869850/",
+          "tags": [
+            "확산MRI",
+            "NODDI",
+            "타우 PET",
+            "기억"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "MRI 기반 AD·PD·정상 분류 모델, Kaggle 이미지 정확도 91.2%가 ADNI에선 59.2%로 급락 — 환자 단위 분리 시 전체 73.37%(macro AUC 0.880), 데이터셋 간 도메인 격차 경고 (arXiv 프리프린트)",
+          "summary": "EfficientNetV2와 Swin Transformer를 결합한 HybridDualPathNet은 Kaggle 이미지 단위 분할에서 98.25% 정확도를 보였지만, Kaggle+ADNI 17,859 슬라이스를 환자 단위로 나누자 73.37%(macro AUC 0.880)로 떨어졌다. 출처별로는 Kaggle 91.2%, ADNI 59.2%였다. 공개 데이터셋 단일 성능이 실제 코호트로 일반화되지 않는다는 점에서 외부검증 설계의 필요성을 보여준다.",
+          "source": "arXiv",
+          "url": "https://arxiv.org/abs/2610.17251",
+          "tags": [
+            "딥러닝",
+            "구조 MRI",
+            "일반화",
+            "프리프린트"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "경구 저분자 TREM2 작용제 VG-3927(SAR448851) 전임상·첫 인체 1상 — 1상 115명 140mg까지 내약성 양호, CSF/비결합 혈장 비 0.91로 1일 1회 투여, CSF sTREM2 용량 의존 감소 (Science Translational Medicine)",
+          "summary": "Vigil Neuroscience(사노피 인수)가 TREM2–DAP12 막관통 부위에 결합하는 경구 TREM2 작용제를 보고했다. 5xFAD;hTREM2 마우스에서 판 주변 미세아교세포를 보호적 상태로 재프로그래밍하고 Aβ 탐식을 늘렸으며, TREM2 작용 항체는 수용성 TREM2에 붙잡혀 판 주변에 작용하지 못한다는 비교 결과도 제시했다. 무작위 이중맹검 1상(NCT06343636, n=115)에서 표적 결합 지표 CSF sTREM2가 용량 의존적으로 감소했고 향후 SAR448851로 개발된다.",
+          "source": "Science Translational Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42873892/",
+          "tags": [
+            "TREM2",
+            "미세아교세포",
+            "임상1상",
+            "사노피"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "중년기 뇌전증, 조발성 치매 위험 최대 6배 — 프랑스 YOD 11,360명·스웨덴 16,433명 환자-대조 및 코호트, 10년 누적 YOD 2.20% vs 0.21%(보정 HR 6.02) (Neurology)",
+          "summary": "65세 미만 발병 조발성 치매(YOD)를 프랑스 환자-대조(11,360명/113,600명), 스웨덴 반복검증(16,433명/164,330명), 프랑스 후향 코호트로 분석했다. 프랑스에서 YOD 환자의 12.5%, 대조군의 1.2%가 이전 뇌전증 코드를 가졌고(보정 OR 3.76), 신규 뇌전증군의 10년 누적 YOD 발생률은 2.20%로 뇌전증 없는 군 0.21% 대비 보정 HR 6.02였다. 지연기간을 길게 둘수록 연관은 약해졌지만 5년 이후에도 유지됐다.",
+          "source": "Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42874008/",
+          "tags": [
+            "역학",
+            "뇌전증",
+            "조발성치매"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "교통 대기오염 노출, 인지정상 AD 고위험군 여성에서 CSF GFAP·IL-6 증가와 연관 — ALFA+ 226명 3년 추적, GFAP가 실행·주의력 악화를 일부 매개 (Alzheimer's & Dementia)",
+          "summary": "AD 위험이 높은 인지정상 중년 226명(ALFA+)에서 거주지 NO2·PM10·PM2.5 노출과 CSF 바이오마커의 3년 변화를 분석했다. 노출이 높을수록 성상세포 지표 GFAP와 염증 지표 IL-6가 주로 여성에서 증가했고, GFAP는 대기오염과 실행·주의력 악화 사이의 연관을 부분 매개했다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42872554/",
+          "tags": [
+            "대기오염",
+            "성차",
+            "GFAP",
+            "위험인자"
+          ]
+        },
+        {
+          "title": "미토콘드리아 탄산탈수효소 CA-VB 억제, AD 모델에서 뇌혈관 내피 손상과 기억 저하를 막아 — Aβ 유도 내피세포자멸사·장벽 소실 억제, 3xTg 마우스 기억 보존 (Science Advances)",
+          "summary": "템플대 연구팀이 사람 뇌미세혈관 내피세포에서 CA-VB를 약물 억제하거나 결손시키자 Aβ가 유발하는 미토콘드리아 매개 세포자멸사, 장벽 저항 소실, 염증 활성화가 억제됐다. 3xTg AD 마우스에서도 CA-V 억제제가 카스파제·내피세포 활성화를 줄이고 기억 기능을 보존했다. 세포·동물 수준 전임상 결과다.",
+          "source": "Science Advances",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42873864/",
+          "tags": [
+            "기전",
+            "뇌혈관",
+            "미토콘드리아",
+            "전임상"
+          ]
+        },
+        {
+          "title": "루이소체질환 연관 CHCHD2 T61I 변이, 카텝신 B·L을 줄여 리소좀 투과성↑·α-시누클레인 섬유 제거↓ — 노화 뇌에서 CHCHD2 감소, 루이소체질환 뇌에서 CTSB·CHCHD2 저하 (Acta Neuropathologica)",
+          "summary": "PD·루이소체질환 연관 CHCHD2 T61I 변이가 카텝신 B·L에 결합해 양을 줄이고, 리소좀 막 투과성 증가와 α-시누클레인 섬유 제거 저하를 일으켜 축삭 변성과 인지 결손을 악화시켰다. 사람 뇌에서는 나이가 들수록 CHCHD2가 줄었고 루이소체질환 환자 뇌에서 CTSB·CHCHD2 감소가 관찰됐다.",
+          "source": "Acta Neuropathologica",
+          "url": "https://doi.org/10.1007/s00401-026-03093-4",
+          "tags": [
+            "루이소체",
+            "리소좀",
+            "α-시누클레인"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "[국감] 서영석 '병·의원 CT·MRI·유방촬영기 8,720대 중 2,064대(23.7%)가 제조 15년 이상' — MRI는 20.6%가 노후, 검진기관 영상평가 '우수'는 2,577곳 중 21.7%, '성능·제조연도·품질검사 연계 관리 기준' 요구 (메디칼타임즈)",
+          "summary": "서영석 의원(복지위)이 심평원·건보공단 자료를 분석한 결과 전국 병·의원 특수의료장비 8,720대 중 23.7%가 15년 이상이었고 MRI 20.6%, CT 17.0%가 노후 장비였다. 특수의료장비는 2021년 말 7,525대에서 2026년 6월 말 8,720대로 15.9% 늘었으며, 서 의원은 장비 성능·제조연도·품질검사 결과를 연계한 관리 기준 마련을 요구했다. 노후 MRI가 섞인 실사용 환경에서 뇌 정량분석 SW의 장비 간 일관성(재현성) 근거가 인허가·현장 도입에서 더 중요해질 수 있다.",
+          "source": "메디칼타임즈",
+          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171189",
+          "tags": [
+            "국감",
+            "MRI",
+            "특수의료장비",
+            "품질관리"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "전 FDA 리뷰어 '국내 의료기기 스타트업, 무료 사전자문 Q-Sub로 임상설계 전에 FDA 서면 피드백 받아야' — 제이앤피메디 웨비나(10/14), 보완요청 시 '10일 콜' 활용도 소개 (히트뉴스)",
+          "summary": "제이앤피메디가 10월 14일 연 FDA 의료기기 규제 웨비나에서 FDA 리뷰어 출신 키스 크리스토퍼 인허가 총괄 이사는 기기 설명·사용 목적·임상연구 계획을 미리 제출해 서면 피드백을 받는 Q-Submission이 무료인데도 국내 기업의 활용도가 낮다고 지적했다. 임상 시행착오와 허가 비용·기간을 줄일 수 있다는 취지로, 보완요청을 받았을 때 FDA에 통화를 요청하는 방법도 함께 소개했다.",
+          "source": "히트뉴스",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79897",
+          "tags": [
+            "FDA",
+            "Q-Sub",
+            "510(k)",
+            "인허가전략"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "애로우헤드, 피하주사 타우 RNAi 'ARO-MAPT' 1/2a상 중간결과 — 건강인 105일째 뇌척수액 타우 평균 40%·69%·73%(최대 85%) 감소, 분기 1회 이하 투여 가능성, 초기 AD 코호트 결과는 2027년 (Arrowhead Pharmaceuticals)",
+          "summary": "애로우헤드가 10월 14일 혈뇌장벽 통과형 타우 siRNA의 건강인 1/2a상 중간결과를 발표했다. 2.1·6.4·12.8 mg/kg 피하투여 후 105일째 평균 타우 감소율은 40%·69%·73%(최대 85%)였고 중대한 이상반응·투약 중단은 없었다. 초기 알츠하이머 코호트 데이터는 2027년 예정이며 FTD·PSP 임상을 위한 규제 협의도 시작한다 — 타우 표적의 임상 효과는 아직 입증 전이다.",
+          "source": "Arrowhead Pharmaceuticals",
+          "url": "https://arrowheadpharma.com/en-us/newsroom/arrowhead-pharmaceuticals-announces-aro-mapt-interim-phase-12a",
+          "tags": [
+            "타우",
+            "RNAi",
+            "치료제 파이프라인"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "AI·SW 의료기기 전문 인증기관 Scarlet, 5,000만 달러 시리즈B — EU MDR 인증기관·영국 MHRA 지정·FDA 제3자 심사기관, 미국·아시아태평양 확장 (Tech.eu)",
+          "summary": "런던의 AI·소프트웨어 의료기기 인증기관 Scarlet이 Headline 주도로 5,000만 달러 시리즈B를 유치했다(Notion Capital 신규, Atomico·Creandum 등 기존 투자자 참여). EU MDR 인증·MHRA 지정·FDA 제3자 심사 자격을 갖추고, 통상 최초 심사 12~18개월·경미한 변경 6~8개월 걸리는 AI 의료기기 인증 기간 단축을 내세운다. 투자금은 미국·아태 확장에 쓰여, CE-MDR을 준비하는 국내 뇌영상 AI 기업의 인증 경로 선택지가 늘어날 수 있다.",
+          "source": "Tech.eu",
+          "url": "https://tech.eu/2026/10/12/scarlet-raises-50m-series-b-to-accelerate-ai-medical-device-certification/",
+          "tags": [
+            "AI 의료기기 인증",
+            "EU MDR",
+            "투자"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "로봇 미세수술 MMI, 1억2,500만 달러 시리즈D — Symani로 경부 림프 배액로를 복원하는 알츠하이머 안전성·타당성 시험 'REMIND'는 FDA 승인으로 15명까지 확대 (MedTech Dive)",
+          "summary": "MMI가 BioStar Capital 주도로 1억2,500만 달러 시리즈D를 유치했다(S3 Ventures·Angelini Ventures·비공개 전략적 투자자 참여). 로봇 미세수술 시스템 Symani로 신경퇴행성질환 환자의 경부 심부림프절 배액 경로를 복원해 뇌 노폐물 배출을 돕는 REMIND 시험을 진행 중이며, 올여름 FDA 승인으로 등록 규모가 15명으로 늘었다. 아직 안전성·타당성 단계다.",
+          "source": "MedTech Dive",
+          "url": "https://www.medtechdive.com/news/mmi-raises-125m-to-scale-up-in-robotic-microsurgery/832607/",
+          "tags": [
+            "투자",
+            "림프 배액",
+            "수술적 접근"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "제이엘케이 김동민 대표 '日 약 20개 병원 유료 구독 전환으로 일본법인 손익분기, 2028년 150곳·연 100억원' — CTP·PWI·NCCT 응급 패키지로 A1 수가 공략, 일본법인 그로스 상장 구상 (더벨)",
+          "summary": "제이엘케이는 일본 내 약 20개 병원에 솔루션을 공급해 테스트 중이며 이를 2~3년 단위 유료 구독으로 전환해 일본법인 손익분기를 달성하겠다고 밝혔다. PMDA 인허가 7개 중 JLK-CTP·PWI·NCCT를 응급시술 패키지로 묶어 영상진단관리 가산(A1) 수가 대상임을 앞세우고, 2028년 150개 병원 공급 시 연 100억원 매출을 기대한다. 장기적으로 일본법인의 일본 그로스 시장 상장 기반 마련이 목표다.",
+          "source": "더벨",
+          "url": "https://www.thebell.co.kr/front/newsview.asp?key=202610131624262320105314",
+          "tags": [
+            "제이엘케이",
+            "일본",
+            "보험수가",
+            "자본·경영"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "뷰노 314억 유상증자의 배경은 영구 CB 금리 스텝업 — 3회차 CB 12/27부터 표면금리 0→4%·이후 매년 +4%p, 4·5회차 200억원 대기, 실권주 인수단은 핵심 제품 국내 인허가 결과에 따라 계약 해제 가능 (더벨)",
+          "summary": "더벨 분석에 따르면 뷰노 유상증자의 채무상환 200억원은 3회차 영구 CB 상환용으로, 이 CB는 2026년 12월 27일부터 표면금리가 0%에서 4%로 오르고 이후 매년 4%p씩 가산돼 당장 내년 연 9억5,000만원 이상의 이자 부담이 생긴다. 4·5회차 CB 각 100억원도 같은 구조로 대기 중이다. 잔액인수계약에 핵심 제품 국내 인허가 결과에 따른 해제 조건이 붙어 딥카스 신의료기술 평가가 자금조달 변수가 됐으며, 상반기 연결 영업손실은 83억원이다.",
+          "source": "더벨",
+          "url": "https://www.thebell.co.kr/front/newsview.asp?key=202610112124040400101730",
+          "tags": [
+            "뷰노",
+            "유상증자",
+            "전환사채",
+            "자본·경영"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[신규 플레이어] 뉴큐어엠, PET 뇌 정량분석 'NCM-Brain' 개발 — 아밀로이드 PET 센티로이드·FDG PET·백질고신호병변 자동분석, 윤미진 대표 국회의장 공로장 (헬스경향)",
+          "summary": "핵의학 전문의 윤미진 대표가 이끄는 의료영상 AI·방사성의약품 스타트업 뉴큐어엠이 아밀로이드 PET 센티로이드 분석, FDG PET 분석, 백질고신호병변 자동분석을 포함한 PET 기반 뇌 정량분석 솔루션을 개발하고 있다. BeauBrain 제품군과 직접 겹치는 기능 구성이나 인허가 현황은 기사에 나오지 않는다. 기사는 윤 대표의 치매 극복 연구 공로로 국회의장 공로장 수상자 선정 소식이다.",
+          "source": "헬스경향",
+          "url": "https://www.k-health.com/news/articleView.html?idxno=101657",
+          "tags": [
+            "뉴큐어엠",
+            "센티로이드",
+            "아밀로이드 PET",
+            "신규 경쟁사"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "메디컬에이아이, 심전도 기반 심부전 진단보조 'AiTiALVSD' 미국 FDA 허가 — 해당 기능 SW로 국내 첫 허가, 기술성평가 A·A 후 상장 재추진 중인 국내 의료AI 동종사 (약업신문)",
+          "summary": "메디컬에이아이가 심전도로 좌심실 수축기능 부전(LVSD)을 감지하는 AI 'AiTiALVSD'의 미국 FDA 허가를 받았다. 미국 6개 대형병원 2만명 이상 대상 검증에 근거했으며, 2023년 상용화 이후 누적 처방 330만건 이상이다. 뇌영상 분야는 아니지만 기술특례 상장을 추진 중인 국내 의료AI 기업의 미국 진출 사례다.",
+          "source": "약업신문",
+          "url": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=333767",
+          "tags": [
+            "메디컬에이아이",
+            "FDA",
+            "의료AI IPO"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "[Alzforum] 타우 PET '타우클래리파이(florquinitau)' 승인 해설 — 내측측두엽 타우만으로 양성 판정(타우비드는 피질 침범 필요), 아밀로이드 PET은 센틸로이드 정량판독 라벨 확보, FDA 승인 AD 진단도구는 타우 PET 2·아밀로이드 PET 3·CSF 3·혈액 4종 (Alzforum)",
+          "summary": "8월 승인된 Lantheus의 타우 PET 추적자를 다룬 Alzforum 해설로, 승인 사실 이후 새로 정리된 것은 판독 기준 차이다 — 내측측두엽에 국한된 타우만으로 양성 판정이 가능해 피질 침범을 요구하는 타우비드보다 조기 단계 검출에 유리하다. 아밀로이드 PET은 지난해 센틸로이드 기반 정량판독으로 라벨이 확대된 반면 타우 PET 정량 지표는 아직 라벨에 없다는 점도 짚어, 정량 영상분석 SW의 다음 확장 영역을 시사한다.",
+          "source": "Alzforum",
+          "url": "https://www.alzforum.org/news/research-news/approval-tauklarify-widens-suite-ad-diagnostics",
+          "tags": [
+            "타우 PET",
+            "센틸로이드",
+            "판독 기준"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[브라보마이라이프] '제1차 국가인구전략 기본계획'(10/14) 치매 대목 — 본인 동의 시 금융기관이 이상금융거래를 가족에게 통지, 신탁 대상 재산 확대·병원·법무법인 신탁 업무 허용 (이투데이 브라보마이라이프)",
+          "summary": "인구전략위원회가 10월 14일 발표한 제1차 국가인구전략 기본계획에서 치매 노인 재산 보호 대책으로 새로 나온 것은, 본인 동의 시 금융기관이 이상금융거래를 탐지하면 가족에게 알리는 장치와 신탁 대상 재산 범위 확대·병원·법무법인의 신탁 업무 허용이다. 공공후견인 확대(2026년 300명→2030년 1,900명)와 치매주치의 전국 확대는 기존 계획 수치의 재확인이다.",
+          "source": "이투데이 브라보마이라이프",
+          "url": "https://bravo.etoday.co.kr/view/atc_view/20251",
+          "tags": [
+            "치매 정책",
+            "후견·신탁",
+            "국가인구전략"
+          ]
+        }
+      ]
+    }
+  ]
+}
