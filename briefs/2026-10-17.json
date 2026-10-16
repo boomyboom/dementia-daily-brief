@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T09:00:00+09:00",
+  "headline": "평가유예 신의료기술 11건(뷰노 딥카스 등), 첫 정식 심사 본위원회 10/23 개최 — 선진입 경로로 들어온 의료AI가 정식 평가를 통과할 수 있을지 처음 판가름",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "피질하 구조물 부피를 조건으로 둔 피질두께 규범차트(NormGAMLSS) — 건강인 21,351명·216개 사이트, 새 사이트는 건강인 약 20명으로 보정, ADNI에서 CDR과 별개로 MCI·치매 전환 예측 (arXiv 프리프린트)",
+          "summary": "건강인 21,351명(216개 사이트)으로 피질두께 생애 규범을 만들면서 피질하 구조물 10개의 부피를 조건으로 넣었고, 표본 밖 예측력이 평균적으로 향상됐다(편도·해마에서 가장 큼). 새 사이트에서는 건강인 약 20명으로 분포 모수 4개의 절편만 다시 맞추면 미지 사이트 6곳 중 대부분이 재학습 없이 보정됐다. ADNI에서는 전역 편차와 '구조적 해리' 지표가 CDR과 독립적으로 MCI·치매 전환을 예측했으나, 초록에 AUC 등 성능 수치는 없다.",
+          "source": "arXiv",
+          "url": "https://arxiv.org/abs/2610.21660",
+          "tags": ["뇌 MRI 정량분석", "규범모델", "다기관 보정"],
+          "importance": "high"
+        },
+        {
+          "title": "혈장 pTau217이 11년 뒤 치매를 AUC 0.773으로 예측, 위험점수 7종 추가는 소폭 개선(0.775~0.783)·NfL은 추가 이득 없음 — 노르웨이 HUNT 3,935명 (medRxiv 프리프린트)",
+          "summary": "노르웨이 HUNT 코호트 3,935명(58~91세)에서 인구학 변수와 혈장 pTau217만으로 11년 전체 치매를 AUC 0.773(95% CI 0.756~0.79)으로 예측했다. CAIDE·LIBRA 등 위험점수를 더하면 AUC가 0.775~0.783으로 소폭 올랐고, NfL은 판별력을 개선하지 못했다. 65세 미만에서는 AUC가 0.618~0.659로 낮았다.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.10.15.26365615v1",
+          "tags": ["혈액 바이오마커", "p-tau217", "예후 예측"],
+          "importance": "medium"
+        },
+        {
+          "title": "손끝 모세혈 자가채혈(Tasso+·TAPII)로 잰 Aβ42/40·NfL·GFAP는 정맥혈과 강한 상관(NfL r=0.91)이지만 pTau217은 r=0.23 — 존스홉킨스 192명 (Annals of Clinical and Translational Neurology)",
+          "summary": "요추천자를 받은 192명에서 모세혈 채혈기기 2종, 정맥혈장, CSF를 함께 채취해 Simoa로 측정했다. 모세혈 Aβ42/40·NfL·GFAP는 정맥혈장과 강하게 상관했지만 pTau217은 상관이 약했고(r=0.23), 모세혈 Aβ42/40·pTau217은 CSF와 유의한 상관이 없었다. 통증 점수는 Tasso+ 0.2/10으로 정맥 채혈(2.24/10)보다 낮아, 원격 채혈은 편의성은 높지만 pTau217 측정 신뢰도가 과제로 남았다.",
+          "source": "Annals of Clinical and Translational Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42885968/",
+          "tags": ["혈액 바이오마커", "원격 채혈"],
+          "importance": "medium"
+        },
+        {
+          "title": "FDG-PET·T1 MRI 라플라시안 재분해 융합 + U-Net 해마 분할(Dice 0.93)로 만든 상대신호대비(RSC) 지표 — MCI vs 정상 AUC 0.84, AD vs MCI 0.81, ADNI (Journal of Imaging Informatics in Medicine)",
+          "summary": "ADNI의 T1 MRI와 FDG-PET를 LRD 알고리즘으로 융합하고, U-Net으로 해마와 전두엽 백질을 분할(Dice 0.93/0.95)해 상대신호대비(RSC)를 정량 바이오마커로 계산했다. 융합영상 RSC의 분류 성능은 AD vs MCI AUC 0.81, MCI vs 정상 AUC 0.84(정확도 0.88)였다. 단일 공개 데이터 연구이고 초록에 표본 수가 제시되지 않았다.",
+          "source": "Journal of Imaging Informatics in Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42875694/",
+          "tags": ["PET-MRI 융합", "뇌영상 AI"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "노화한 해마 과립세포가 분비하는 포스포리파제 PLA2G2F가 인지 회복력을 만든다 — 결손 시 시냅스 소실·염증성 미세아교세포·지질방울 축적, 노화기 증강 시 기억저하 예방 (Nature Neuroscience)",
+          "summary": "생쥐 치상회 과립세포에서 노화 중 발현이 늘어나는 분비형 포스포리파제 Pla2g2f를 찾았고, 사람에서도 인지 회복력과 연관됐다. 결손 시 시냅스 소실·반응성 교세포증·지질방울 축적·기억저하가 심해졌고, 노화기에 증강하면 이런 변화가 예방됐다. iPSC 유래 사람 미세아교세포에서도 지질방울과 콜레스테롤 에스터를 줄였다(MGH·MIT, 동물·세포 연구).",
+          "source": "Nature Neuroscience",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42881225/",
+          "tags": ["기전", "인지 회복력", "지질대사"],
+          "importance": "medium"
+        },
+        {
+          "title": "APOE4 희소돌기아교세포의 지질방울 축적은 Wnt 신호 저하·GSK3B 과활성 탓 — 전장유전체 CRISPR 스크린, GSK3B 억제 시 오가노이드·APOE4;PS19 마우스에서 수초화 개선 (Cell Stem Cell)",
+          "summary": "iPSC 유래 희소돌기아교세포에 전장유전체 CRISPR 스크린과 ATAC-seq을 적용해, APOE4가 일으키는 지질방울 축적의 핵심 조절자로 Wnt 신호 저하와 GSK3B 과활성을 찾았다. GSK3B를 유전적·약리적으로 억제하면 지질방울이 줄고 3D 뇌 오가노이드와 APOE4;PS19 타우 마우스에서 수초화가 개선됐다(Li-Huei Tsai 연구실).",
+          "source": "Cell Stem Cell",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42880287/",
+          "tags": ["APOE4", "희소돌기아교세포", "신약표적"],
+          "importance": "medium"
+        },
+        {
+          "title": "혈장 카텝신 B(CTSB)가 높을수록 백질고신호(WMH) 부피가 작고 인지 성적이 좋아 — UK Biobank 단백체 52,560명 + 멘델무작위화 + 사후 snRNA-seq, 뇌소혈관질환 치료표적 후보 (Stroke)",
+          "summary": "4단계 단백유전체 연구에서 혈장 CTSB가 높을수록 MRI WMH 부피가 작았고(β=−0.09, n=5,260), 멘델무작위화 추정치도 5개 도구변수 세트 모두에서 같은 방향이었다. 병변 조직에서는 성상세포 중심으로 CTSB 발현이 감소(log2FC −1.70)했고, 혈장 CTSB가 높을수록 인지 수행이 좋았다(β=0.061, n=5,193).",
+          "source": "Stroke",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42885481/",
+          "tags": ["뇌소혈관질환", "멘델무작위화", "백질고신호"],
+          "importance": "medium"
+        },
+        {
+          "title": "독일 치매 진단자 표준화 사망률 2016→2021년 7.4% 증가(10만 명당 18,845→20,238명) — 65~70세 여성은 비치매 대비 사망위험 최대 11배 (Alzheimer's Research & Therapy)",
+          "summary": "독일 법정건강보험의 치매 진단 발생률·유병률과 연방통계청 사망 자료를 편미분방정식 모델로 분석했다. 치매 진단자 표준화 사망률은 10만 명당 18,845명에서 20,238명으로 7.4% 늘었고, 비치매 대비 상대 사망위험은 여성 최대 11배·남성 최대 9배로 고령일수록 줄었다.",
+          "source": "Alzheimer's Research & Therapy",
+          "url": "https://doi.org/10.1186/s13195-026-02229-8",
+          "tags": ["역학", "사망률"]
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "[후속] 평가유예 신의료기술 11건 첫 정식 심사, 10/23 신의료기술평가위원회 본위원회서 최종 판단 — 소위 1차 검토 9/18 종료, 뷰노 딥카스는 43개월간 논문 6편에도 통과 '확신' 못 해, 유효성 기준 모호성 지적 (머니투데이)",
+          "summary": "뷰노 딥카스, 에이아이트릭스 바이탈케어, 베르티스 마스토체크 등 평가유예 신의료기술 11건(고시 기준)이 NECA 안전성·유효성 심사를 받고 있으며, 유예 기술이 정식 심사대에 오른 것은 처음이다. 소위원회 1차 검토는 9/18 끝났고 10/23 본위원회에서 최종 판단이 내려진 뒤 업계에는 '11월 중순 통보'가 안내됐다. 결과에 따라 급여 절차 진입 또는 비급여 사용 종료가 갈리며, 임상적 유효성 판단 기준이 모호해 탈락 시 소송·정책 혼선 가능성도 제기됐다 — BeauBrain이 선진입 경로를 택할 때 참고할 첫 선례다.",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/10/16/2026101614472296186",
+          "tags": ["신의료기술평가", "평가유예", "의료AI"],
+          "importance": "high"
+        },
+        {
+          "title": "복지부·WHO '2026 세계 바이오 서밋'(10/21~22, 코엑스마곡) — 주제 'AI가 불러올 바이오헬스 혁신의 확산', 개회식서 'AI 헬스케어 서울 선언문' 발표 예정 (보건복지부)",
+          "summary": "정부와 WHO가 공동 주최하고 한국보건산업진흥원이 주관하며 제49차 세계병원대회와 연계해 열린다. 개회식에서 '책임 있는 혁신과 글로벌 연대를 위한 AI 헬스케어 서울 선언문'을 발표하고, EMA·OECD·WEF 등이 참석하는 New Science·New Value·New Finance 세션이 이어진다. 의료AI 규제·평가 원칙에 대한 정부의 대외 입장이 선언문에 담길 수 있어 내용 확인이 필요하다.",
+          "source": "보건복지부",
+          "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492228",
+          "tags": ["의료AI 정책", "WHO", "서울 선언문"],
+          "importance": "medium"
+        },
+        {
+          "title": "미국의사협회(AMA), 의료용 에이전틱 AI 거버넌스 프레임워크 발표 — 자율형 AI 임상 도입 시 근거·권한·감독·책임 정렬 요구 (MedTech Dive)",
+          "summary": "AMA가 자율적으로 작업을 수행하는 에이전틱 AI를 의료기관이 도입할 때 점검할 거버넌스 틀을 내놨다. 함께 인용된 미국 의료기관 리더 설문에서는 28%가 이미 배치했고 44%가 파일럿 중이었다. FDA 인허가나 영상 분야를 직접 다루지는 않는다.",
+          "source": "MedTech Dive",
+          "url": "https://www.medtechdive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833208/",
+          "tags": ["AI 거버넌스", "AMA"]
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "Niki BioSolutions 자회사 DiamiR, GAP 'Bio-Hermes-002' 혈장 샘플로 APOE 유전형 분석 — 혈액·디지털 바이오마커를 아밀로이드 PET·인지평가와 비교하는 코호트 (GlobeNewswire)",
+          "summary": "DiamiR가 미국 Global Alzheimer's Platform(GAP) 재단의 관찰연구 Bio-Hermes-002에서 이미 채취한 혈장으로, 뉴욕주 승인 혈장 기반 검사를 써서 추가 채혈 없이 APOE 유전형을 분석한다. APOE ε4는 항아밀로이드 치료의 ARIA 위험 평가에 쓰이며, 계약 금액과 분석 규모는 공개되지 않았다.",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/10/14/3380675/0/en/niki-biosolutions-partners-with-global-alzheimer-s-platform-foundation-to-deliver-plasma-based-apoe-genotyping-for-bio-hermes-002.html",
+          "tags": ["혈액 바이오마커", "파트너십", "APOE"],
+          "importance": "medium"
+        },
+        {
+          "title": "[후속] 릴리 '키썬라' 국내 허가 11월 내 전망 — 레켐비에 이은 두 번째 항아밀로이드 항체, 지난해 11월 말 허가 신청 (데일리팜)",
+          "summary": "한국릴리가 2025년 11월 말 식약처에 낸 키썬라(도나네맙) 품목허가가 11월 안에 나올 것으로 전망됐다. 앞서 나온 '이르면 10월' 관측보다 시점이 늦어진 것이다. 월 1회 투여에 아밀로이드 제거 수준에 따라 투약을 종료할 수 있어, 허가 시 아밀로이드 PET 등 진단·모니터링 수요가 함께 늘 전망이다.",
+          "source": "데일리팜",
+          "url": "https://dailypharm.com/user/news/343319",
+          "tags": ["치료제 시장", "키순라", "인허가"],
+          "importance": "medium"
+        },
+        {
+          "title": "Tiziana, 비강 투여 항CD3 항체 foralumab 초기 AD 2상 마지막 환자 투약 — 레켐비·키순라 병용도 평가, TSPO-PET 신경염증 지표, 탑라인 2027년 1분기 (BioSpace)",
+          "summary": "무작위·위약대조 2상으로 단독요법과 레켐비·키순라 병용을 함께 평가한다. 주요 지표는 TSPO-PET으로 본 미세아교세포 활성화(신경염증), 인지기능, 아밀로이드·타우 체액 바이오마커이며, 탑라인은 2027년 1분기에 발표할 예정이다.",
+          "source": "BioSpace",
+          "url": "https://www.biospace.com/press-releases/tiziana-doses-last-patient-in-phase-2-trial-of-intranasal-foralumab-for-mild-alzheimers-disease",
+          "tags": ["치료제 파이프라인", "신경염증", "PET"]
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": []
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "미프진 국감이 다시 불러낸 '레켐비 가교시험 면제' 논란 — 한국인 130명 하위분석 p=0.167로 유의성 미확보, 식약처는 2023년 이후 신약 33개 성분 중 6개만 중앙약심 거쳐 (디멘시아뉴스)",
+          "summary": "10/13 식약처 국감에서 미프진 가교시험 면제가 쟁점이 되며 레켐비 사례가 재조명됐다. Clarity AD 3상(1,795명) 중 한국인 130명의 18개월 CDR-SB 악화 억제는 25.2%로 전체(27.1%)와 비슷했으나 p값 0.16683으로 유의하지 않았는데도 국내 가교시험이 면제됐고, 식약처는 업체 보호 요청을 이유로 가교자료 공개를 거부했다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11229",
+          "tags": ["레켐비", "식약처 심사", "국감"],
+          "importance": "medium"
+        },
+        {
+          "title": "줄기세포 1회 200만엔·키썬라 18개월 약값 486만엔 — 일본으로 가는 '치매 원정 치료', 한국인 연간 2만 명 이상·2,000억원 넘게 지출 추정 (한국경제)",
+          "summary": "일본은 2014년 재생의료법으로 미승인 세포를 쓰는 자유진료가 가능해 치매 환자의 자가지방 줄기세포 원정 시술이 늘고 있으며, 국내 재생의료업계는 연간 2만 명 이상이 2,000억원 넘게 쓰는 것으로 추정한다. 국내 미출시 키썬라를 맞으러 가는 환자도 있는데 18개월 19회 기준 약값만 약 486만엔(약 4,000만원)이다. 기사는 치매 치료 목적의 임상 근거가 충분하지 않다고 지적했다.",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026101671441",
+          "tags": ["재생의료", "치료 접근성", "키순라"],
+          "importance": "medium"
+        }
+      ]
+    }
+  ]
+}
