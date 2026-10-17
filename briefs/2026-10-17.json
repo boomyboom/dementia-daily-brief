@@ -12,7 +12,11 @@
           "summary": "건강인 21,351명(216개 사이트)으로 피질두께 생애 규범을 만들면서 피질하 구조물 10개의 부피를 조건으로 넣었고, 표본 밖 예측력이 평균적으로 향상됐다(편도·해마에서 가장 큼). 새 사이트에서는 건강인 약 20명으로 분포 모수 4개의 절편만 다시 맞추면 미지 사이트 6곳 중 대부분이 재학습 없이 보정됐다. ADNI에서는 전역 편차와 '구조적 해리' 지표가 CDR과 독립적으로 MCI·치매 전환을 예측했으나, 초록에 AUC 등 성능 수치는 없다.",
           "source": "arXiv",
           "url": "https://arxiv.org/abs/2610.21660",
-          "tags": ["뇌 MRI 정량분석", "규범모델", "다기관 보정"],
+          "tags": [
+            "뇌 MRI 정량분석",
+            "규범모델",
+            "다기관 보정"
+          ],
           "importance": "high"
         },
         {
@@ -20,7 +24,11 @@
           "summary": "노르웨이 HUNT 코호트 3,935명(58~91세)에서 인구학 변수와 혈장 pTau217만으로 11년 전체 치매를 AUC 0.773(95% CI 0.756~0.79)으로 예측했다. CAIDE·LIBRA 등 위험점수를 더하면 AUC가 0.775~0.783으로 소폭 올랐고, NfL은 판별력을 개선하지 못했다. 65세 미만에서는 AUC가 0.618~0.659로 낮았다.",
           "source": "medRxiv",
           "url": "https://www.medrxiv.org/content/10.64898/2026.10.15.26365615v1",
-          "tags": ["혈액 바이오마커", "p-tau217", "예후 예측"],
+          "tags": [
+            "혈액 바이오마커",
+            "p-tau217",
+            "예후 예측"
+          ],
           "importance": "medium"
         },
         {
@@ -28,7 +36,10 @@
           "summary": "요추천자를 받은 192명에서 모세혈 채혈기기 2종, 정맥혈장, CSF를 함께 채취해 Simoa로 측정했다. 모세혈 Aβ42/40·NfL·GFAP는 정맥혈장과 강하게 상관했지만 pTau217은 상관이 약했고(r=0.23), 모세혈 Aβ42/40·pTau217은 CSF와 유의한 상관이 없었다. 통증 점수는 Tasso+ 0.2/10으로 정맥 채혈(2.24/10)보다 낮아, 원격 채혈은 편의성은 높지만 pTau217 측정 신뢰도가 과제로 남았다.",
           "source": "Annals of Clinical and Translational Neurology",
           "url": "https://pubmed.ncbi.nlm.nih.gov/42885968/",
-          "tags": ["혈액 바이오마커", "원격 채혈"],
+          "tags": [
+            "혈액 바이오마커",
+            "원격 채혈"
+          ],
           "importance": "medium"
         },
         {
@@ -36,7 +47,46 @@
           "summary": "ADNI의 T1 MRI와 FDG-PET를 LRD 알고리즘으로 융합하고, U-Net으로 해마와 전두엽 백질을 분할(Dice 0.93/0.95)해 상대신호대비(RSC)를 정량 바이오마커로 계산했다. 융합영상 RSC의 분류 성능은 AD vs MCI AUC 0.81, MCI vs 정상 AUC 0.84(정확도 0.88)였다. 단일 공개 데이터 연구이고 초록에 표본 수가 제시되지 않았다.",
           "source": "Journal of Imaging Informatics in Medicine",
           "url": "https://pubmed.ncbi.nlm.nih.gov/42875694/",
-          "tags": ["PET-MRI 융합", "뇌영상 AI"],
+          "tags": [
+            "PET-MRI 융합",
+            "뇌영상 AI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "중년(평균 59세) 혈장 p-tau181이 약 20년 뒤 기억력 저하 속도를 예측 — 중년 Aβ42/40·NfL·GFAP는 무관, 노년기엔 p-tau181·NfL·GFAP 모두 연관, ARIC 1,515명 (Neurology)",
+          "summary": "ARIC-NCS 1,515명의 중년기(1993~95)와 노년기(2011~13) 보관 혈장으로 Aβ42/40·p-tau181·NfL·GFAP를 Simoa로 측정했다. 중년 p-tau181이 1 SD 높을수록 노년기 기억력 저하가 빨랐고(β=-0.030 SD, 95% CI -0.059~-0.001), 중년의 다른 지표는 어느 인지영역과도 연관이 없었다. 노년기 측정값은 기억력과의 연관이 가장 강했다(p-tau181 β=-0.091, NfL -0.064, GFAP -0.048).",
+          "source": "Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42886876/",
+          "tags": [
+            "혈액 바이오마커",
+            "p-tau181",
+            "코호트"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "AD 환자의 우울·불안 동반 시 인지장애를 소뇌 회백질 위축과 좌측 두정-측두-후두엽 저관류(ASL)가 매개 — 105명 다중모달 MRI (International Psychogeriatrics)",
+          "summary": "AD 환자 105명을 NPI 우울·불안 동반 여부로 나눠 구조 MRI와 ASL 뇌혈류(CBF)를 비교했다. 동반군은 양측 후소뇌·우측 방추회 회백질 부피가 작고 전체 및 좌측 두정-측두-후두엽 CBF가 낮았으며, 인지장애가 더 넓고 심했다. 매개분석에서 소뇌 회백질 부피와 해당 부위 CBF를 거치는 간접효과가 유의했다(초록에 효과크기 수치 없음).",
+          "source": "International Psychogeriatrics",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42888163/",
+          "tags": [
+            "뇌 MRI",
+            "ASL 관류",
+            "신경정신증상"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "Amazon Alexa 대화 중 영상·음성·텍스트를 융합해 MCI를 비접촉 선별 — 멀티모달 정확도 0.76(AUC 0.73~0.75), 단일모달 최고 0.67 (arXiv 프리프린트)",
+          "summary": "발화·이해·회상을 보는 Alexa 대화과제 3종에서 얻은 영상·음성·텍스트 신호로 MCI와 정상노화를 구분했다. 단일모달 최고 성능은 음성(질의응답 과제) 정확도 0.67·AUC 0.73이었고, 멀티모달 융합은 과제에 관계없이 정확도 0.76(AUC 0.73~0.75)으로 안정적이었다. 초록에 표본 수는 제시되지 않았다.",
+          "source": "arXiv",
+          "url": "https://arxiv.org/abs/2610.20906",
+          "tags": [
+            "AI 진단",
+            "디지털 인지평가",
+            "MCI 선별"
+          ],
           "importance": "medium"
         }
       ]
@@ -50,7 +100,11 @@
           "summary": "생쥐 치상회 과립세포에서 노화 중 발현이 늘어나는 분비형 포스포리파제 Pla2g2f를 찾았고, 사람에서도 인지 회복력과 연관됐다. 결손 시 시냅스 소실·반응성 교세포증·지질방울 축적·기억저하가 심해졌고, 노화기에 증강하면 이런 변화가 예방됐다. iPSC 유래 사람 미세아교세포에서도 지질방울과 콜레스테롤 에스터를 줄였다(MGH·MIT, 동물·세포 연구).",
           "source": "Nature Neuroscience",
           "url": "https://pubmed.ncbi.nlm.nih.gov/42881225/",
-          "tags": ["기전", "인지 회복력", "지질대사"],
+          "tags": [
+            "기전",
+            "인지 회복력",
+            "지질대사"
+          ],
           "importance": "medium"
         },
         {
@@ -58,7 +112,11 @@
           "summary": "iPSC 유래 희소돌기아교세포에 전장유전체 CRISPR 스크린과 ATAC-seq을 적용해, APOE4가 일으키는 지질방울 축적의 핵심 조절자로 Wnt 신호 저하와 GSK3B 과활성을 찾았다. GSK3B를 유전적·약리적으로 억제하면 지질방울이 줄고 3D 뇌 오가노이드와 APOE4;PS19 타우 마우스에서 수초화가 개선됐다(Li-Huei Tsai 연구실).",
           "source": "Cell Stem Cell",
           "url": "https://pubmed.ncbi.nlm.nih.gov/42880287/",
-          "tags": ["APOE4", "희소돌기아교세포", "신약표적"],
+          "tags": [
+            "APOE4",
+            "희소돌기아교세포",
+            "신약표적"
+          ],
           "importance": "medium"
         },
         {
@@ -66,7 +124,11 @@
           "summary": "4단계 단백유전체 연구에서 혈장 CTSB가 높을수록 MRI WMH 부피가 작았고(β=−0.09, n=5,260), 멘델무작위화 추정치도 5개 도구변수 세트 모두에서 같은 방향이었다. 병변 조직에서는 성상세포 중심으로 CTSB 발현이 감소(log2FC −1.70)했고, 혈장 CTSB가 높을수록 인지 수행이 좋았다(β=0.061, n=5,193).",
           "source": "Stroke",
           "url": "https://pubmed.ncbi.nlm.nih.gov/42885481/",
-          "tags": ["뇌소혈관질환", "멘델무작위화", "백질고신호"],
+          "tags": [
+            "뇌소혈관질환",
+            "멘델무작위화",
+            "백질고신호"
+          ],
           "importance": "medium"
         },
         {
@@ -74,7 +136,45 @@
           "summary": "독일 법정건강보험의 치매 진단 발생률·유병률과 연방통계청 사망 자료를 편미분방정식 모델로 분석했다. 치매 진단자 표준화 사망률은 10만 명당 18,845명에서 20,238명으로 7.4% 늘었고, 비치매 대비 상대 사망위험은 여성 최대 11배·남성 최대 9배로 고령일수록 줄었다.",
           "source": "Alzheimer's Research & Therapy",
           "url": "https://doi.org/10.1186/s13195-026-02229-8",
-          "tags": ["역학", "사망률"]
+          "tags": [
+            "역학",
+            "사망률"
+          ]
+        },
+        {
+          "title": "14개 병원체 혈청 항체와 혈장 p-tau217·아밀로이드 PET 사이에 뚜렷한 연관 없어 — 영국 1946 출생코호트 1,356명, EBV·톡소플라스마는 PET 양성 경향만 (Neurology)",
+          "summary": "60~64세에 측정한 14개 병원체 항체로 69~71세의 혈장 p-tau217(1,356명)과 아밀로이드 PET(424명, 양성 28.3%)을 분석했다. 주 모형에서 뚜렷한 연관은 없었고, 예외로 HSV-2 혈청양성이 상위 분위 p-tau217이 낮은 것과 연관됐다(-0.07 pg/mL). EBV(OR 2.84, 95% CI 0.95~8.52)와 톡소플라스마(OR 1.69, 0.94~3.05)는 PET 양성 오즈가 높은 경향이었으나 신뢰구간이 1을 포함했다.",
+          "source": "Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42886878/",
+          "tags": [
+            "감염 가설",
+            "p-tau217",
+            "아밀로이드 PET"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "90세 이상에서도 APOE ε4는 실행기능 저하를 가속, ε2는 일화기억 저하를 늦춰 — 다인종 LifeAfter90 445명, 사망 경쟁위험 반영 (Neurology)",
+          "summary": "평균 93세 445명을 평균 3.9년 추적하며 사망을 함께 모형화했다. ε4 보유자(20%)는 실행기능 저하가 더 빨랐고(β=-0.07, 95% CI -0.12~-0.02), ε2 보유자(15%)는 언어 일화기억 저하가 더 느렸다(β=0.07, 95% CI 0.00~0.15). 두 유전형 모두 사망위험과는 뚜렷한 연관이 없었다.",
+          "source": "Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42886871/",
+          "tags": [
+            "APOE",
+            "초고령",
+            "인지저하"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "40.68 MHz 비침습 초단파 자극이 10분 만에 마우스 글림프 청소를 높이고 AD 모델 인지결손 개선 — 델타파 동기화·AQP4 극성화 의존 (Science Advances)",
+          "summary": "초단파(USW) 자극은 정상 마우스에서 10분 안에 글림프 유입·유출을 모두 늘렸고, 신경활동을 억제하거나 AQP4를 차단하면 효과가 사라졌다. 델타 진동이 혈관주위 AQP4 재배치를 유도하는 기전으로, 외상성 뇌부종 감소와 AD 마우스 인지결손 개선을 보였다(전임상 단계).",
+          "source": "Science Advances",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42886802/",
+          "tags": [
+            "글림프 시스템",
+            "뉴로모듈레이션",
+            "전임상"
+          ]
         }
       ]
     },
@@ -87,7 +187,11 @@
           "summary": "뷰노 딥카스, 에이아이트릭스 바이탈케어, 베르티스 마스토체크 등 평가유예 신의료기술 11건(고시 기준)이 NECA 안전성·유효성 심사를 받고 있으며, 유예 기술이 정식 심사대에 오른 것은 처음이다. 소위원회 1차 검토는 9/18 끝났고 10/23 본위원회에서 최종 판단이 내려진 뒤 업계에는 '11월 중순 통보'가 안내됐다. 결과에 따라 급여 절차 진입 또는 비급여 사용 종료가 갈리며, 임상적 유효성 판단 기준이 모호해 탈락 시 소송·정책 혼선 가능성도 제기됐다 — BeauBrain이 선진입 경로를 택할 때 참고할 첫 선례다.",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/thebio/2026/10/16/2026101614472296186",
-          "tags": ["신의료기술평가", "평가유예", "의료AI"],
+          "tags": [
+            "신의료기술평가",
+            "평가유예",
+            "의료AI"
+          ],
           "importance": "high"
         },
         {
@@ -95,7 +199,11 @@
           "summary": "정부와 WHO가 공동 주최하고 한국보건산업진흥원이 주관하며 제49차 세계병원대회와 연계해 열린다. 개회식에서 '책임 있는 혁신과 글로벌 연대를 위한 AI 헬스케어 서울 선언문'을 발표하고, EMA·OECD·WEF 등이 참석하는 New Science·New Value·New Finance 세션이 이어진다. 의료AI 규제·평가 원칙에 대한 정부의 대외 입장이 선언문에 담길 수 있어 내용 확인이 필요하다.",
           "source": "보건복지부",
           "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492228",
-          "tags": ["의료AI 정책", "WHO", "서울 선언문"],
+          "tags": [
+            "의료AI 정책",
+            "WHO",
+            "서울 선언문"
+          ],
           "importance": "medium"
         },
         {
@@ -103,7 +211,37 @@
           "summary": "AMA가 자율적으로 작업을 수행하는 에이전틱 AI를 의료기관이 도입할 때 점검할 거버넌스 틀을 내놨다. 함께 인용된 미국 의료기관 리더 설문에서는 28%가 이미 배치했고 44%가 파일럿 중이었다. FDA 인허가나 영상 분야를 직접 다루지는 않는다.",
           "source": "MedTech Dive",
           "url": "https://www.medtechdive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833208/",
-          "tags": ["AI 거버넌스", "AMA"]
+          "tags": [
+            "AI 거버넌스",
+            "AMA"
+          ]
+        },
+        {
+          "title": "美 메디케어 지역계약자 Palmetto GBA·Noridian, '뇌 MRI 자동 탐지·정량화' 비급여 LCD 초안 의견수렴 11/14 마감 — FDA 허가 제품으로 NeuroQuant·DeepBrain·icobrain 등 명시, CGS·NGS 이어 확산 (Korea IT Times·CMS)",
+          "summary": "Korea IT Times 의료영상 AI 수가 기획(10/17)이 짚은 Palmetto GBA의 뇌 MRI 자동 정량화 SW 비급여 LCD 초안(DL40464)은 Noridian 초안(DL40454)과 함께 CMS 데이터베이스에 올라 있으며, 의견수렴이 11/14까지다. 초안은 분석 성능이 임상 의사결정과 환자 편익으로 이어진다는 근거가 부족하다고 보고, FDA 510(k) 허가 제품으로 NeuroQuant·DeepBrain·icobrain·Siemens Morphometry 등을 열거했다. 같은 제목의 LCD는 CGS(DL40224)·NGS(DL40332)에서도 이미 진행돼, 뇌 MRI 정량 SW의 미국 진출 시 '허가≠급여'를 전제로 임상 결과 근거를 별도로 준비해야 함을 보여준다.",
+          "source": "Korea IT Times",
+          "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158234",
+          "tags": [
+            "메디케어",
+            "LCD",
+            "비급여",
+            "뇌MRI 정량",
+            "수가"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "[국감] 심평원, 저장공간 부족으로 과거 의료영상 삭제 — 2021~2024년 보유량 연 500만~1,300만 건 vs 2025년 2억3,000만 건, 표준화율 1~3%·20억 들인 데이터 실증랩 외부 AI기업 활용 0건 (메디게이트뉴스)",
+          "summary": "10/16 심평원 국감에서 권칠승 의원은 2024년 이전 의료영상이 삭제 기준 없이 지워졌다고 지적하고, 감사원 감사를 인용해 데이터 표준화율 1~3%, 3년간 20억 원을 들인 데이터 실증랩의 외부 AI 개발기업 활용 실적 0건을 제시했다. 홍승권 원장은 AI 학습용 양질의 데이터 표준화와 개방형 데이터 전환을 약속했다. 공공 영상데이터를 뇌 MRI AI 학습·검증에 쓸 수 있을지는 이 약속의 이행에 달려 있다.",
+          "source": "메디게이트뉴스",
+          "url": "https://www.medigatenews.com/news/1687364519",
+          "tags": [
+            "국정감사",
+            "심평원",
+            "의료영상 데이터",
+            "AI 학습데이터"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -116,7 +254,11 @@
           "summary": "DiamiR가 미국 Global Alzheimer's Platform(GAP) 재단의 관찰연구 Bio-Hermes-002에서 이미 채취한 혈장으로, 뉴욕주 승인 혈장 기반 검사를 써서 추가 채혈 없이 APOE 유전형을 분석한다. APOE ε4는 항아밀로이드 치료의 ARIA 위험 평가에 쓰이며, 계약 금액과 분석 규모는 공개되지 않았다.",
           "source": "GlobeNewswire",
           "url": "https://www.globenewswire.com/news-release/2026/10/14/3380675/0/en/niki-biosolutions-partners-with-global-alzheimer-s-platform-foundation-to-deliver-plasma-based-apoe-genotyping-for-bio-hermes-002.html",
-          "tags": ["혈액 바이오마커", "파트너십", "APOE"],
+          "tags": [
+            "혈액 바이오마커",
+            "파트너십",
+            "APOE"
+          ],
           "importance": "medium"
         },
         {
@@ -124,7 +266,11 @@
           "summary": "한국릴리가 2025년 11월 말 식약처에 낸 키썬라(도나네맙) 품목허가가 11월 안에 나올 것으로 전망됐다. 앞서 나온 '이르면 10월' 관측보다 시점이 늦어진 것이다. 월 1회 투여에 아밀로이드 제거 수준에 따라 투약을 종료할 수 있어, 허가 시 아밀로이드 PET 등 진단·모니터링 수요가 함께 늘 전망이다.",
           "source": "데일리팜",
           "url": "https://dailypharm.com/user/news/343319",
-          "tags": ["치료제 시장", "키순라", "인허가"],
+          "tags": [
+            "치료제 시장",
+            "키순라",
+            "인허가"
+          ],
           "importance": "medium"
         },
         {
@@ -132,7 +278,11 @@
           "summary": "무작위·위약대조 2상으로 단독요법과 레켐비·키순라 병용을 함께 평가한다. 주요 지표는 TSPO-PET으로 본 미세아교세포 활성화(신경염증), 인지기능, 아밀로이드·타우 체액 바이오마커이며, 탑라인은 2027년 1분기에 발표할 예정이다.",
           "source": "BioSpace",
           "url": "https://www.biospace.com/press-releases/tiziana-doses-last-patient-in-phase-2-trial-of-intranasal-foralumab-for-mild-alzheimers-disease",
-          "tags": ["치료제 파이프라인", "신경염증", "PET"]
+          "tags": [
+            "치료제 파이프라인",
+            "신경염증",
+            "PET"
+          ]
         }
       ]
     },
@@ -150,7 +300,11 @@
           "summary": "10/13 식약처 국감에서 미프진 가교시험 면제가 쟁점이 되며 레켐비 사례가 재조명됐다. Clarity AD 3상(1,795명) 중 한국인 130명의 18개월 CDR-SB 악화 억제는 25.2%로 전체(27.1%)와 비슷했으나 p값 0.16683으로 유의하지 않았는데도 국내 가교시험이 면제됐고, 식약처는 업체 보호 요청을 이유로 가교자료 공개를 거부했다.",
           "source": "디멘시아뉴스",
           "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11229",
-          "tags": ["레켐비", "식약처 심사", "국감"],
+          "tags": [
+            "레켐비",
+            "식약처 심사",
+            "국감"
+          ],
           "importance": "medium"
         },
         {
@@ -158,8 +312,23 @@
           "summary": "일본은 2014년 재생의료법으로 미승인 세포를 쓰는 자유진료가 가능해 치매 환자의 자가지방 줄기세포 원정 시술이 늘고 있으며, 국내 재생의료업계는 연간 2만 명 이상이 2,000억원 넘게 쓰는 것으로 추정한다. 국내 미출시 키썬라를 맞으러 가는 환자도 있는데 18개월 19회 기준 약값만 약 486만엔(약 4,000만원)이다. 기사는 치매 치료 목적의 임상 근거가 충분하지 않다고 지적했다.",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/2026101671441",
-          "tags": ["재생의료", "치료 접근성", "키순라"],
+          "tags": [
+            "재생의료",
+            "치료 접근성",
+            "키순라"
+          ],
           "importance": "medium"
+        },
+        {
+          "title": "[Medical Xpress·EANM] 유럽핵의학회(EANM'26, 빈 10/17~21) 개막 앞두고 '아밀로이드·타우 PET이 항아밀로이드 치료 대상 선별·모니터링 핵심' — LMU 뮌헨 한 곳에서만 연 500건 이상 촬영",
+          "summary": "EANM 보도자료에서 LMU 뮌헨 핵의학과 마티아스 브렌델 부교수는 자기 병원에서만 연 500건 이상의 아밀로이드·타우 PET을 시행한다며, 도나네맙 임상에서 타우가 낮은 환자의 반응이 더 좋았던 점을 들어 PET 기반 환자 선별의 역할을 강조했다. 새 데이터는 없는 학회 예고성 자료다.",
+          "source": "Medical Xpress",
+          "url": "https://medicalxpress.com/news/2026-10-brain-pet-scans-patients-alzheimer.html",
+          "tags": [
+            "아밀로이드 PET",
+            "타우 PET",
+            "학회"
+          ]
         }
       ]
     }
