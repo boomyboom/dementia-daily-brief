@@ -33,6 +33,60 @@
             "iTBS"
           ],
           "importance": "medium"
+        },
+        {
+          "title": "항아밀로이드 치료 전 MRI 내측측두엽 위축(VSRAD Z≥3)이 1년 뒤 CDR-SB 악화 +2.62 vs +0.64 예측, 미세출혈 동반 시 ARIA-H 오즈비 14.0 — 도쿄 실사용 161명(레카네맙 89·도나네맙 72) (Journal of Prevention of Alzheimer's Disease)",
+          "summary": "2024~2026년 항아밀로이드 치료를 시작한 연속 환자 161명을 후향 분석한 결과, 기저 내측측두엽 위축이 가장 심한 군(VSRAD Z≥3)은 12개월 CDR-SB가 2.62점 악화돼 나머지(0.64점)보다 컸다(보정 β=+2.18, P<.001). 반면 아밀로이드 PET 부담은 대부분 시점에서 결과와 무관했다. 기저 미세출혈이 있으면 ARIA-H 위험이 14배(6/25 vs 3/136)였다. 치료 전 MRI 위축 정량이 치료 반응 예측 지표가 될 수 있음을 보인 실사용 근거다.",
+          "source": "Journal of Prevention of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42892274/",
+          "tags": [
+            "MRI 위축",
+            "치료반응 예측",
+            "ARIA",
+            "레카네맙",
+            "도나네맙"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "Neuro-JEPA — 임상 뇌 MRI 155만 스캔(T1·T2·FLAIR)으로 사전학습한 MoE 신경영상 파운데이션 모델, 47개 과제 대부분에서 기존 모델 상회·아밀로이드 상태와 MCI→AD 진행 예측 포함 (Research Square 프리프린트)",
+          "summary": "NYU 연구진(Razavian 등)이 임상 영상검사 42만8,647건에서 나온 155만 스캔으로 잠재 예측 학습(JEPA)과 sparse MoE를 결합한 다중 대조도 뇌 MRI 모델을 학습했다. 3개 기관·12개 공개 데이터셋의 47개 하위 과제 대부분에서 기존 신경영상 파운데이션 모델을 앞섰고, 소량 데이터 조건에서 최대 15% 개선을 보였다고 보고했다. 하위 과제에 아밀로이드 상태·MCI→AD 진행 예측이 포함되나 초록에 AD 과제별 수치는 없고 동료심사 전이다.",
+          "source": "Research Square",
+          "url": "https://doi.org/10.21203/rs.3.rs-11130462/v1",
+          "tags": [
+            "뇌 MRI AI",
+            "파운데이션 모델",
+            "MCI 진행 예측",
+            "프리프린트"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "3D MRI 트랜스포머가 데이터를 늘려도 성능이 정체되는 이유는 '표현 붕괴' — 지도학습 인코더가 판별 신호 90~96%를 주성분 1개에 압축, 자기지도 DINO는 0.66 (bioRxiv 프리프린트)",
+          "summary": "USC Thompson 연구실이 ADNI 뇌 MRI 치매·MCI 대 정상 분류에서 ViT3D·MINiT·NIT 지도학습 인코더와 고정된 자기지도 DINO 인코더의 고유스펙트럼을 비교했다. 지도학습 인코더는 판별 신호의 90~96%를 단일 주성분에 몰았으나 DINO는 0.66에 그쳤고, 정체의 원인은 과제 난이도가 아니라 학습된 인코더였다. 뇌 MRI 진단 모델의 데이터 스케일링 전략과 자기지도 사전학습 선택에 시사점을 준다.",
+          "source": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759510v1",
+          "tags": [
+            "뇌 MRI AI",
+            "딥러닝",
+            "ADNI",
+            "자기지도학습",
+            "프리프린트"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "확산 MRI는 FA를 넘어 '번들 지표'·대조학습으로 — AD 예측 크라우드소싱 챌린지 'Beyond FA', 번들 기반은 연령, 딥러닝은 인지상태 예측에서 유망 (Journal of Medical Imaging)",
+          "summary": "Vanderbilt Landman 연구팀이 확산 MRI 특징 표현을 크라우드소싱하는 챌린지를 열어 참가팀 방법을 FA 기준선과 연령·성별·인지상태 분류에서 비교했다. 번들 기반 방법은 연령 분류에서, 딥러닝·컴퓨터비전 기반 방법은 인지상태 예측에서 우위를 보였고, 스캔 당일 습도·기온 민감도와 CSF Aβ42·tau 상관도 사후 평가했다. 초록에 정량 성능 수치는 없다.",
+          "source": "Journal of Medical Imaging",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42889931/",
+          "tags": [
+            "확산 MRI",
+            "DTI",
+            "챌린지",
+            "CSF 바이오마커"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -90,6 +144,32 @@
             "멘델 무작위화",
             "멀티오믹스"
           ]
+        },
+        {
+          "title": "프랑스 메모리클리닉 내원자 중 레카네맙 적격은 9.7%(연 약 1만8,200명) — 임상기준 충족 19.5%, 그중 아밀로이드 양성 73.0%, 안전성 기준 후 49.7% (Journal of Prevention of Alzheimer's Disease)",
+          "summary": "프랑스 전국 알츠하이머 데이터베이스(BNA)와 MEMENTO 코호트를 이식성 가중으로 결합해 적정사용 권고(MMSE≥22, 혈장 p-tau217→CSF→PET 아밀로이드 확인, APOE ε4 동형접합·항응고제·MRI ARIA 위험소견 제외) 기준 적격 인구를 추정했다. 내원자의 19.5%가 임상기준을 충족했고 그중 73.0%가 아밀로이드 양성, 안전성 기준까지 적용하면 49.7%가 남아 전체 9.7%였다. MRI 안전성 선별이 적격 인구를 절반으로 줄이는 핵심 관문임을 수치로 보여준다.",
+          "source": "Journal of Prevention of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42874425/",
+          "tags": [
+            "레카네맙",
+            "적격인구",
+            "프랑스",
+            "MRI 안전성"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "이탈리아 21개 학회 항아밀로이드 항체 적정사용 권고 개정판 — 델파이로 36개 진술 합의, 임상시험 수준 MRI 적격기준·위험 적응형 ARIA 모니터링·혈장→CSF→PET 단계적 바이오마커 경로 (Journal of Prevention of Alzheimer's Disease)",
+          "summary": "2025년 1차 권고 이후 이행 공백을 다루기 위해 2026년 1월 전문가 패널을 재소집해 수정 델파이로 5개 영역 36개 진술을 정리했다. 인지장애·치매센터 계층화, 병기 판정, MCI·비정형 표현형 적격성, 다학제팀, MRI 기준·ARIA 모니터링·바이오마커 경로를 다루며 대부분 강한 합의에 도달했다. 임상시험 기준의 MRI 적격기준과 위험 적응형 ARIA 모니터링을 명시했다.",
+          "source": "Journal of Prevention of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42880054/",
+          "tags": [
+            "진료권고",
+            "ARIA 모니터링",
+            "MRI",
+            "이탈리아"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -124,6 +204,19 @@
             "감별진단"
           ],
           "importance": "high"
+        },
+        {
+          "title": "국회 '바이오데이터법' 제정 토론회 — 희귀질환자 유전체·임상 데이터를 연구에 쓰기까지 국내 '최대 1년 6개월'(미국 1주·영국 2개월), 가명정보 IRB 면제와 DRB 심의 중복이 병목 (전자신문)",
+          "summary": "10월 19일 국회에서 최형두·한준호 의원, 생명연, KISTI가 연 바이오데이터 활용 촉진 법률 제정 토론회에서 남진우 한양대 교수는 국내 데이터 활용 승인에 최대 1년 6개월이 걸리며, 가명정보 IRB 면제 신청과 DRB 심의를 각각 거쳐야 하는 구조가 원인이라고 지적했다. 한국법제연구원도 IRB·DRB 기능 중복을 쟁점으로 꼽았다. 공공 바이오 빅데이터로 뇌 MRI 학습·검증 데이터를 확보할 때의 절차를 줄일 수 있는 입법 논의라 법안 발의 여부를 지켜볼 만하다.",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261019000220",
+          "tags": [
+            "바이오데이터법",
+            "가명정보",
+            "IRB·DRB",
+            "학습데이터"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -169,6 +262,31 @@
             "치매센터"
           ],
           "importance": "medium"
+        },
+        {
+          "title": "[로드 to IPO] 아리바이오, 발행주식 18.2%인 480만주 스톡옵션을 'AR1001 3상 성공' 조건으로 부여 — 행사가 3만원, 전량 행사 시 1,440억원 유입 (블로터)",
+          "summary": "아리바이오는 6월 말 기준 발행주식의 18.2%인 480만주 스톡옵션을 글로벌 3상 1차 평가지표 탑라인 성공 시에만 행사 가능하도록 부여했고, 실패하면 취소된다. 등기임원 3명이 398만6,000주(83%)를 받았으며, 행사가 3만원·전량 행사 시 1,440억원(자본총계의 1.65배)이 유입된다. 11/16 CTAD 탑라인 결과가 상장 직전 자본구조·희석과 직결된다는 점이 새로 드러났다.",
+          "source": "블로터",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=675923",
+          "tags": [
+            "아리바이오",
+            "AR1001",
+            "IPO",
+            "스톡옵션"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[후속] 애로우헤드 ARO-MAPT 중간결과에 애널리스트 반응 — 스티펠 '다른 BBB 플랫폼보다 낫다', 바이오젠 BIIB080 대비 타우 감소 우위 평가, 제퍼리스는 '직접 비교 불가' (BioSpace)",
+          "summary": "10/15 브리프에 실린 ARO-MAPT 1/2a상 중간결과(CSF 타우 최대 85% 감소)에 대해 Stifel은 바이오젠 BIIB080(1b상 8주 30~49% 감소)보다 낫다고 평가했고, Jefferies는 대상·용량이 달라 직접 비교가 어렵다고 신중론을 냈다. 혈뇌장벽 셔틀 경쟁 구도에 대한 시장 평가와 애로우헤드의 FTD·PSP 규제 경로 논의가 새로 나왔다.",
+          "source": "BioSpace",
+          "url": "https://www.biospace.com/drug-development/arrowheads-blood-brain-barrier-tech-is-arguably-better-than-others-analysts-say-after-data-drop",
+          "tags": [
+            "애로우헤드",
+            "타우",
+            "BBB 셔틀",
+            "애널리스트"
+          ]
         }
       ]
     },
@@ -186,6 +304,33 @@
             "알츠하이머 검사",
             "퀀타매트릭스",
             "건강검진"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "한국릴리·한국로슈진단, 알츠하이머 혈액 바이오마커(BBM) 검사 확산 MOU — PET·CSF 전 단계 혈액 선별 경로 구축, 키썬라 국내 허가 앞두고 진단 인프라 선점 (의협신문)",
+          "summary": "한국릴리와 한국로슈진단이 10월 15일 알츠하이머병 조기 진단을 위한 업무협약을 체결하고 19일 공개했다. 아밀로이드 PET·CSF 검사 전 단계에서 혈액검사로 정밀검사 대상을 선별하도록 국내 의료기관 검사환경 구축, 학술 심포지엄·자문회의, 국내 실사용 근거 창출을 공동 추진한다. 치료제 기업과 진단 기업이 국내 AD 진단 경로를 함께 짜는 첫 사례로, MRI 기반 진단 SW의 진료 경로 내 위치 설정에 직접 영향을 줄 수 있다.",
+          "source": "의협신문",
+          "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=166822",
+          "tags": [
+            "Roche Diagnostics",
+            "한국릴리",
+            "혈액 바이오마커",
+            "진단경로",
+            "키썬라"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "제이엘케이, '의료영상·임상 텍스트 통합 LLM 기반 임상 운영 방법' 특허 확보 — 멀티모달 LLM 플랫폼 '주메드(JOOMED)' 핵심 기술 (뉴시스)",
+          "summary": "제이엘케이가 병변 위치·부피·혈관폐색 등 영상 특징을 구조화해 입력 토큰을 줄이고, 정량 분석값과 의료 가이드라인으로 답변 범위를 제한하는 그라운딩 구조의 LLM 임상 운영 특허를 확보했다. 이 기술은 의료영상과 의무기록·검사결과를 통합 분석하는 플랫폼 '주메드'에 적용되며, 회사는 기존 뇌졸중 영상 AI와 결합해 사업을 확대할 계획이다.",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261019_0003830866",
+          "tags": [
+            "제이엘케이",
+            "멀티모달 LLM",
+            "특허",
+            "뇌영상 AI"
           ],
           "importance": "medium"
         }
@@ -230,6 +375,42 @@
             "치매보험",
             "간병보험",
             "민간시장"
+          ]
+        },
+        {
+          "title": "금융위·복지부·보험업권, 취약계층 치매환자 8만 명에 '치매배상책임보험' 무료 가입 — 20억원 투입·치매안심센터 연계, 노인 57만 명 낙상 치료비 25억원 (한겨레)",
+          "summary": "보험업권과 한국취약노인지원재단, 독거노인종합지원센터가 19일 '시니어 취약계층 통합지원' 협약을 맺고, 치매 환자가 제3자에게 입힌 손해를 배상하는 치매배상책임보험을 취약계층 치매 환자 8만 명에게 무료 제공(20억원)하기로 했다. 노인맞춤돌봄 이용자 57만 명에게는 25억원 규모 낙상 치료·회복비를 지원하며, 내년 1분기부터 2년간 시행한다.",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1283022.html",
+          "tags": [
+            "치매정책",
+            "치매배상책임보험",
+            "치매안심센터"
+          ]
+        },
+        {
+          "title": "폴란드 스우프스크 병원, EU 첫 알츠하이머 '경부 림프 배액' 미세수술 착수 — Symani 로봇·ICG 림프조영, 지원자 100여 명 중 40명 진단 (Rynek Zdrowia)",
+          "summary": "폴란드 스우프스크 지역전문병원이 생명윤리위원회 승인을 받아 10월 중 첫 알츠하이머 환자에게 경부 림프관-정맥 문합 수술을 시행한다. 초고감도 초음파·ICG 림프조영과 Symani 로봇으로 뇌의 타우·아밀로이드 배출 개선을 노리며, 지원자 100여 명 중 40명이 진단을 받고 3명이 대기 중이다. 집도의는 약물치료를 대체하지 않는 보조 치료이며 기존 사례 결과가 엇갈렸다고 밝혔다.",
+          "source": "Rynek Zdrowia",
+          "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Pierwszy-pacjent-w-Polsce-z-Alzheimerem-przejdzie-operacje-wspomagajaca-leczenie-choroby-w-Slupsku,290109,14.html",
+          "tags": [
+            "림프배액수술",
+            "Symani",
+            "폴란드",
+            "실험적 치료"
+          ]
+        },
+        {
+          "title": "[후속] 英 알츠하이머협회 여론조사 '성인 4분의 3, 효과가 크지 않아도 NHS가 신약 지원해야' — 2,068명 조사 (The Telegraph)",
+          "summary": "알츠하이머협회가 영국 성인 2,068명을 조사한 결과 4분의 3이 효과가 크지 않더라도 진행을 늦추는 신약을 NHS가 지원해야 한다고 답했다. 레카네맙·도나네맙은 2024년 영국 허가 후에도 NICE 비용효과 판단으로 NHS에서 쓰이지 못하고 있으며, 전문의 서한·'치매약 기금' 촉구에 이어 대중 여론 수치가 새로 더해졌다.",
+          "source": "The Telegraph (Yahoo News 전재)",
+          "url": "https://www.yahoo.com/news/us/articles/alzheimer-patients-betrayed-nhs-drug-190000677.html",
+          "tags": [
+            "영국",
+            "NHS",
+            "NICE",
+            "레카네맙",
+            "도나네맙"
           ]
         }
       ]
