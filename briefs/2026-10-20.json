@@ -67,6 +67,57 @@
             "윤리"
           ],
           "importance": "medium"
+        },
+        {
+          "title": "기저 뇌 MRI·APOE4만으로 환자별 미래 뇌 MRI를 생성하는 다중모달 조건부 잠재확산모델(MC-LDM) — 타우 PET·CDR은 학습에만 쓰고 추론 시 보조예측기로 대체, 영역 부피 MAE 차순위 기법 대비 18% 감소 (arXiv 프리프린트)",
+          "summary": "ADNI 852명·1,355회 방문으로 학습했으며, 학습 땐 MRI·타우 PET·CDR·APOE4를 모두 쓰지만 추론 땐 기저 MRI·APOE4·메타데이터만 입력하고 빠진 바이오마커는 보조 예측기가 추정한다. 독립 테스트셋 664회 방문에서 평균 영역 부피 MAE가 차순위 기법보다 18% 낮았고 코드도 공개됐다. 단일 MRI로 개인별 위축 궤적을 영상 형태로 제시하는 방향이라 MRI 기반 예후 SW의 차세대 기능 후보로 볼 만하다.",
+          "source": "arXiv",
+          "url": "https://arxiv.org/abs/2610.25481",
+          "tags": [
+            "뇌 MRI",
+            "생성 AI",
+            "위축 예측",
+            "ADNI"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "해마 분할로 사전학습한 3D 네트워크를 파라미터 1.45%만 미세조정해 MCI→AD 36개월 전환 예측 — AUC 0.771로 전체 미세조정(0.743)보다 높아 (arXiv 프리프린트)",
+          "summary": "층별로 Tucker 랭크를 잔차 기반으로 적응 배분하는 효율적 미세조정 기법으로, ADNI에서 36개월 내 MCI→AD 전환 예측 AUC가 시드 5개 평균 0.7706이었다. 고정비율 Tucker(0.7239)와 전체 미세조정(0.7430)을 모두 앞섰고 학습 파라미터는 약 0.618M(1.45%)에 그쳤다. 분할용 MRI 모델을 소량 데이터로 예후 과제에 재활용하는 접근이라 국내 소규모 코호트 적용성 측면에서 참고할 만하다.",
+          "source": "arXiv",
+          "url": "https://arxiv.org/abs/2610.25873",
+          "tags": [
+            "뇌 MRI",
+            "딥러닝",
+            "MCI 전환 예측",
+            "ADNI"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "A4 연구 무증상 아밀로이드 양성자 사후분석 — 새 뇌미세출혈 2개 이상이면 CDR-SB(+0.44)·CFI(+1.37) 악화, 단 PACC 등 객관적 인지점수와는 무관 (Journal of Prevention of Alzheimer's Disease)",
+          "summary": "A4 참가자를 연속 MRI·인지평가로 추적하며 기저 아밀로이드 PET 부담·APOE ε4 등을 보정한 결과, 새 미세출혈 2개 이상은 CDR-SB 악화 0.44(95% CI 0.09–0.80, P=.009), CFI 악화 1.37(0.11–2.60, P=.03)과 연관됐다. PACC·ADCS-ADL에서는 차이가 없었다. 항아밀로이드 치료 시대 MRI 미세출혈(ARIA-H) 모니터링의 임상적 의미를 뒷받침하는 근거다.",
+          "source": "Journal of Prevention of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42896306/",
+          "tags": [
+            "뇌 MRI",
+            "뇌미세출혈",
+            "ARIA",
+            "A4"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "경도행동장애(MBI)가 심할수록 백질고신호(WMH) 부피 증가 — 복셀 분석서 좌측 하종속(ILF) 클러스터 연관, ADNI 1,273명 (Alzheimer's & Dementia: DADM)",
+          "summary": "인지정상·MCI 1,273명을 일반선형모형과 복셀 단위 분석으로 본 결과, 두 군 모두에서 WMH 부피가 클수록 MBI 총점과 MBI 해당 비율이 높았다. 좌측 ILF 클러스터가 MBI 총점과 연관돼 WMH의 공간 분포가 행동증상 영상 마커가 될 수 있다고 제안했다. WMH 정량을 '부피'에서 '위치' 지표로 확장하는 근거다.",
+          "source": "Alzheimer's & Dementia: DADM",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42893064/",
+          "tags": [
+            "뇌 MRI",
+            "WMH",
+            "행동증상"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -93,6 +144,36 @@
             "기전",
             "리뷰"
           ]
+        },
+        {
+          "title": "메디케어 어드밴티지 가입 ADRD 환자, 전통 메디케어보다 재택의료 방문 25% 적어 — 흑인 47%·히스패닉 67%로 격차 확대 (Journal of the American Geriatrics Society)",
+          "summary": "2022년 지역사회 거주 ADRD 환자(전통 메디케어 49,194명, MA 47,830명) 청구자료 분석에서 MA 가입자의 재택의료 방문 IRR은 0.75, 전체 방문 0.90이었고 원격진료(1.02)는 차이가 없었다. 격차는 흑인(47%)·히스패닉(67%)·메디케이드 이중자격자(42%)에서 더 컸다.",
+          "source": "Journal of the American Geriatrics Society",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42894207/",
+          "tags": [
+            "돌봄",
+            "보험정책"
+          ]
+        },
+        {
+          "title": "일본 도호쿠 메디컬 메가뱅크 8만1천여 명 분석 — 디지털 기기 미사용 시 자가보고 치매 오즈 최대 2.97배, 스마트폰 사용자는 0.47배 (Journal of Alzheimer's Disease)",
+          "summary": "인지장애를 자가보고 진단·MMSE 27점 이하·MoCA-J 25점 이하 세 정의로 나눠 분석해 기존 위험인자를 재현하고, 세 정의 모두에서 유의한 연관요인 106개를 찾았다. 디지털 기기 미사용은 OR 최대 2.97(1.42–6.18), 스마트폰 사용은 OR 0.47(0.26–0.86)이었다. 단면연구이며 저자 전원이 Johnson & Johnson 소속이다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42895713/",
+          "tags": [
+            "역학",
+            "디지털 활용"
+          ]
+        },
+        {
+          "title": "무증상 노인 101명서 뇌 아밀로이드 높을수록 장내 Alistipes communis 증가·Eubacterium rectale 등 감소 — GABA 생합성 능력 저하 (medRxiv 프리프린트)",
+          "summary": "무증상자 101명(중앙 연령 70세)에게 뇌 Aβ 정량과 대변 메타게놈 분석을 함께 시행한 결과, 미생물 구성이 Aβ 수준에 따라 달랐다(p_perm=0.03, R² 0.014). 특정 균종 변화가 GABA·면역조절 대사 능력 저하와 연관됐다(q<0.01). 효과 크기가 작은 탐색적 결과다.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.10.15.26365677v1",
+          "tags": [
+            "장내미생물",
+            "전임상 AD"
+          ]
         }
       ]
     },
@@ -114,6 +195,30 @@
             "의견조회"
           ],
           "importance": "medium"
+        },
+        {
+          "title": "보건산업진흥원 'FDA AI 의료기기 전주기 기준 정비 대응해 한·미 변경관리계획(PCCP) 병행 설계·FDA 사전협의(Q-Sub) 활용 지원해야' — 글로벌 바이오헬스산업 동향 Vol.611 (의학신문)",
+          "summary": "진흥원은 FDA CDRH의 2027 회계연도 가이던스 아젠다(의견수렴 11/30 마감)를 분석하며 국내 변경관리 계획서와 미국 PCCP의 병행 설계 지원, 신규 플랫폼의 시판 전 근거 설계·사전협의 활용 지원, 업계 의견 제출체계 마련을 과제로 제시했다. FDA 아젠다 자체는 10/8 기게재로, 새로운 것은 국내 대응 제언이다. 뇌 MRI 분석 SW의 알고리즘 업데이트를 식약처 변경관리 계획서(6월 제정)와 FDA PCCP로 개발 초기부터 함께 설계하라는 권고로 읽을 수 있다.",
+          "source": "의학신문",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014295",
+          "tags": [
+            "FDA",
+            "PCCP",
+            "변경관리",
+            "AI 의료기기"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "복지부 제2차관, 'AI 기본의료 전략' 기반 점검차 네이버 데이터센터 '각 세종' 방문 — '보건의료 데이터 수요 대비 정부 차원 데이터센터 조성 필요성 확인' (보건복지부)",
+          "summary": "10/19 방문에는 의료인공지능데이터정책과장 등이 동행해 의료·바이오 AI용 GPU·데이터센터 인프라와 보안 관리 체계를 점검했으며, 구체적 예산·사업은 발표되지 않았다. 정부 주도 보건의료 AI 데이터센터 구상의 초기 신호로, 향후 공공 학습·실증 인프라 사업 공고를 지켜볼 만하다.",
+          "source": "보건복지부",
+          "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492263",
+          "tags": [
+            "AI 기본의료 전략",
+            "복지부",
+            "데이터센터"
+          ]
         }
       ]
     },
@@ -150,6 +255,32 @@
             "딥카스"
           ],
           "importance": "medium"
+        },
+        {
+          "title": "딥노이드, KoSAIM 2026에 초록 7편 채택 — 파운데이션 모델 기반 뇌 MRI 백질고신호(WMH) 병변 분할 연구 포함 (머니투데이)",
+          "summary": "딥노이드는 10/23~24 열리는 대한의료인공지능학회 KoSAIM 2026에서 구연 1편·포스터 6편을 발표한다. 뇌 MRI 분야에서는 파운데이션 모델로 백질고신호 병변 분할 성능을 높인 연구를 내놓으며 신경퇴행성 질환 적용 가능성을 제시했고, 구연은 판독문-흉부 영상 연결 비전언어 AI 'GLINT'다. WMH 정량은 BeauBrain 뇌 MRI 분석과 기술적으로 겹치는 영역이다.",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/10/20/2026102009071093147",
+          "tags": [
+            "딥노이드",
+            "학회",
+            "뇌 MRI",
+            "WMH"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "코어라인소프트, 흉부 CT 대동맥 자동분석 'AVIEW Aorta Metrics' 美 FDA 510(k) 획득 — 미국 허가 누적 13건 (글로벌경제신문)",
+          "summary": "코어라인소프트가 10/16 FDA 510(k)를 받은 'AVIEW Aorta Metrics'는 흉부 CT에서 대동맥을 자동 분할하고 해부학적 영역별 직경을 계측한다. 폐결절·COPD·관상동맥석회화에 이어 미국 제품군을 대동맥 정량까지 넓혀 누적 13건이 됐다. 국내 영상 AI 기업의 FDA 포트폴리오 확장 속도를 보여주는 사례다.",
+          "source": "글로벌경제신문",
+          "url": "https://www.getnews.co.kr/news/articleView.html?idxno=884007",
+          "tags": [
+            "코어라인소프트",
+            "FDA",
+            "510(k)",
+            "의료영상AI"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -169,6 +300,28 @@
             "진단 경로"
           ],
           "importance": "medium"
+        },
+        {
+          "title": "[국감] 치매신탁 판매액 96%가 하나은행 쏠림 — 2026년 1~9월 1조2,022억 원 중 1조1,536억 원, 3년째 95% 이상 (브라보마이라이프)",
+          "summary": "민병덕 의원실이 금감원에서 받은 자료에 따르면 올해 1~9월 치매신탁 판매는 3,757건·1조2,022억 원이며 하나은행이 3,510건·1조1,536억 원(96.0%)을 차지했다. 하나은행 비중은 2024·2025년에도 95.4%였고, 국민은행은 올해 97건(209억 원)으로 늘었으나 우리은행은 0건이었다. 기게재된 국민연금공단 공공신탁 계약 건과는 별개인 민간 은행 신탁 통계다.",
+          "source": "이투데이 브라보마이라이프",
+          "url": "https://bravo.etoday.co.kr/view/atc_view/20279",
+          "tags": [
+            "치매머니",
+            "치매신탁",
+            "국감"
+          ]
+        },
+        {
+          "title": "감비아, WHO 아프리카 지역 첫 국가치매계획(2027~2031) 채택 — 환자 3,800~4,000명이 2050년 약 1만3,000명으로 증가 전망 (WHO 아프리카지역사무소)",
+          "summary": "감비아는 9월 말 이해관계자 워크숍에서 첫 국가치매계획을 검증·채택했고, WHO는 이를 아프리카 지역 첫 사례로 10/19 발표했다. WHO 글로벌 행동계획 7개 영역을 4개 국가 우선과제로 묶어 인식 개선·위험 감소·조기 발견과 진단·돌봄 인력·보호자 지원 등을 담았다. 2024년 기준 WHO 아프리카 지역 47개국 중 국가치매계획 보유국은 없었다.",
+          "source": "WHO Regional Office for Africa",
+          "url": "https://www.afro.who.int/countries/the-gambia/news/gambia-adopts-first-national-dementia-plan-marking-milestone-africa",
+          "tags": [
+            "국가치매계획",
+            "WHO",
+            "해외 정책"
+          ]
         }
       ]
     }
