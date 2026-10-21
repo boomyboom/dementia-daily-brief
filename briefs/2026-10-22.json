@@ -1,0 +1,376 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T09:00:00+09:00",
+  "headline": "경쟁사 뉴로핏이 1년 새 영업인력을 23명에서 50명으로 늘리고 R&D 인력은 줄였으며, 이미징 CRO(임상시험 PET·MRI 환자 선별) 매출이 전체의 32.5%까지 커졌다. 뷰노는 추가 구조조정으로 직원을 120여 명까지 줄여 국내 뇌영상 AI 업계가 '기술에서 매출로' 무게를 옮기고 있다. 연구 쪽에서는 워싱턴대가 1,645명 다중모달 MRI·PET 데이터셋(KARI)을 공개했다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "워싱턴대 Knight ADRC, 1,645명·6,217회 촬영의 다중모달 뇌영상 데이터셋 'KARI' 공개 — 구조·기능 MRI와 아밀로이드·타우 PET, 분할·정량 처리 결과까지 제공 (Nature Communications)",
+          "summary": "워싱턴대 Knight ADRC가 42~97세 1,645명을 정상 노화부터 증상성 AD까지 종단 촬영한 6,217건의 MRI·아밀로이드/타우 PET 데이터셋(KARI)을 공개했다. 원영상과 함께 품질관리를 거친 해부학적 분할·바이오마커 정량 결과, 임상·인지·유전·바이오마커 자료가 딸려 있다. 뇌 MRI 정량 SW의 외부검증·전임상 AD 모델 학습에 바로 쓸 수 있는 대형 공개 코호트가 하나 더 생겼다.",
+          "source": "Nature Communications",
+          "url": "https://doi.org/10.1038/s41467-026-78439-3",
+          "tags": [
+            "공개 데이터셋",
+            "MRI",
+            "아밀로이드 PET",
+            "타우 PET",
+            "전임상 AD"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "인지정상인에서 혈장 p-tau217과 아밀로이드 PET(Centiloid≥20)이 엇갈릴 때 — p-tau+/PET−는 GFAP·NfL이 높고 p-tau+ 두 군 모두 임상 진행 위험 증가, 중국 CPAS 594명+ADNI 475명 (Alzheimer's & Dementia)",
+          "summary": "인지정상인 1,069명을 PET 대비 특이도 0.90 이상인 p-tau217 절단값으로 4개 군으로 나눴다. p-tau+/PET−는 GFAP·NfL이, p-tau−/PET+는 혈장 Aβ42/40 저하가 두드러졌고, ADNI 추적에서 p-tau+ 두 군은 임상 진행 위험이, PET+ 두 군은 Centiloid 증가 속도가 높았다. p-tau+/PET−군의 Centiloid 증가는 낮은 특이도 절단값에서만 보여, 혈액-PET 불일치 해석이 절단값 선택에 좌우됨을 보여준다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42902436/",
+          "tags": [
+            "p-tau217",
+            "아밀로이드 PET",
+            "Centiloid",
+            "불일치",
+            "ADNI"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "혈청 β-시누클레인(시냅스 손상 표지)이 CSF Aβ·p-tau181과 독립적으로 치매 전환(SD당 HR 1.40)·사망(HR 1.33) 예측, 측두엽·해마 부피 감소와도 연관 — 메모리클리닉 259명 (Brain)",
+          "summary": "주관적·경도 인지장애 259명을 CSF로 분류해 중앙 4.1년 추적했다. 혈청 β-시누클레인은 AD군에서만 상승했고(Cohen's d 0.69), CSF Aβ42/40·pTau181 보정 후에도 치매 전환·사망 예측력이 거의 유지됐다(감쇠 ≤13%). 다만 인지저하 속도 예측은 pTau181 보정 시 58.5% 감쇠했고, 양측 측두엽·해마·내후각피질 부피와 연관돼 MRI 위축과 짝을 이루는 혈액 시냅스 표지 후보로 제시됐다.",
+          "source": "Brain",
+          "url": "https://doi.org/10.1093/brain/awag361",
+          "tags": [
+            "혈액 바이오마커",
+            "β-synuclein",
+            "시냅스",
+            "MRI 부피",
+            "예후"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "시냅스 밀도 PET([11C]UCB-J)가 아밀로이드·타우와 인지 사이를 매개 — 하두정엽 매개비율 아밀로이드 45.3%·타우 28.9%, 해마 시냅스 밀도는 타우와 가장 강하게 연관, 72명 (Journal of Cerebral Blood Flow & Metabolism)",
+          "summary": "72명이 UCB-J PET·MRI·인지검사를 받았다. A+/T+/인지저하군은 횡측두회·하두정엽·해마 시냅스 밀도가 정상군보다 크게 낮았고(Cohen's d 1.60/1.57/1.50), 해마 시냅스 밀도는 타우와 가장 강하게 연관됐다(β=−0.473). 12개 영역 중 8곳에서 유의한 간접효과가 나와 시냅스 소실이 병리→인지저하 경로의 핵심 매개임을 시사한다.",
+          "source": "Journal of Cerebral Blood Flow & Metabolism",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42902482/",
+          "tags": [
+            "시냅스 PET",
+            "SV2A",
+            "타우",
+            "매개분석"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "메모리클리닉 3,645명·최장 30년 추적 — 혈장 p-tau217이 Aβ 병리·임상 AD 판별과 5·10년 진행 예측에서 최우수, 전체원인 치매 판별은 NfL·GFAP와 비슷 (medRxiv 프리프린트)",
+          "summary": "피츠버그대 메모리클리닉 코호트에서 p-tau181·p-tau217·GFAP·NfL의 진단·예후 성능을 비교했다. p-tau217은 Aβ 병리·임상 AD 판별과 인지저하 연관성에서 가장 우수했지만 전체원인 치매 판별에선 NfL·GFAP와 차이가 없었다. 네 마커 모두 인구학·유전 변수 위에 예후 정보를 더했다(초록에 AUC 수치는 없음).",
+          "source": "medRxiv",
+          "url": "https://doi.org/10.64898/2026.10.19.26365317",
+          "tags": [
+            "p-tau217",
+            "GFAP",
+            "NfL",
+            "메모리클리닉",
+            "프리프린트"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "타우 PET 양성 예측 ML의 코호트 간 성능 차이는 생물학이 아니라 변수 누락·병기 구성 탓 — AUC ADNI 0.851~0.860 vs OASIS3 0.933, OASIS3는 CDR-SB=0 비율 84.5~88.7% (medRxiv 프리프린트)",
+          "summary": "ADNI·OASIS3·NACC를 공통 변수(나이·APOE ε4·교육·성별·CDR-SB·FAQ)로 맞춰 재분석하자 OASIS3의 인구학 모델 부진(AUC 약 0.54)은 APOE·나이 누락에 따른 착시였고, 남은 차이는 코호트별 병기 분포 비대칭으로 설명됐다. 외부검증 성능을 해석할 때 변수 완전성과 병기 분포를 함께 보고해야 한다는 점에서 진단 SW 검증 설계에 참고가 된다.",
+          "source": "medRxiv",
+          "url": "https://doi.org/10.64898/2026.10.16.26365770",
+          "tags": [
+            "타우 PET",
+            "외부검증",
+            "코호트 이동",
+            "ADNI",
+            "OASIS3"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "LoRA로 미세조정한 비전 파운데이션 모델 4종, 뇌 MRI 분할 성능(Dice 78~81%)은 같아도 AD 분류 전이는 DINOv3만 개선되고 나머지 3종은 저하 (arXiv 프리프린트)",
+          "summary": "DINOv3·SigLIP2·MerMED-FM·BiomedCLIP을 뇌종양 분할로 LoRA 미세조정한 뒤 내부 표현과 AD 분류 전이를 분석했다. 분할 성능이 같아도 표현 변화는 백본마다 달랐고 가장 많이 바뀐 층과 인과적으로 중요한 층이 일치하지 않았으며, 초~중반 층에만 LoRA를 적용하면 분할 성능을 유지하면서 AD 분류 저하를 줄일 수 있었다.",
+          "source": "arXiv",
+          "url": "https://arxiv.org/abs/2610.28255",
+          "tags": [
+            "파운데이션 모델",
+            "LoRA",
+            "뇌 MRI",
+            "전이학습"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "p38α 억제제 네플라마피모드, 루이소체치매 2b상(159명) 주평가변수 실패 — CDR-SB 평균차 −0.02, 2a상 결과 재현 안 돼 (Alzheimer's Research & Therapy)",
+          "summary": "미·영·네덜란드 43개 기관에서 개연성 DLB 환자 159명을 네플라마피모드 40mg 하루 3회와 위약에 배정해 16주 비교했으나 CDR-SB 변화 차이가 없었다(평균차 −0.02, 95% CI −0.41~0.37). 이차 임상지표·GFAP·NfL도 차이가 없었고, 저자들은 목표보다 높았던 AD 동반병리 비율과 기대에 못 미친 혈중 약물농도를 원인으로 꼽았다.",
+          "source": "Alzheimer's Research & Therapy",
+          "url": "https://doi.org/10.1186/s13195-026-02239-6",
+          "tags": [
+            "DLB",
+            "네플라마피모드",
+            "2b상",
+            "음성결과"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "국내 아두카누맙 실사용 164명, ARIA-E 20.1% — APOE ε4 동형접합자 50.0%·비보인자 12.5%, 대부분 투여 중단 불필요 (Alzheimer's & Dementia: DADM)",
+          "summary": "한국 한 의원에서 2022~2024년 APOE 유전형에 맞춰 용량을 조절하며 아두카누맙을 투여한 CDR 0.5~2 환자를 후향 분석했다. ARIA-E는 33명(20.1%)에서 생겼고 유전형별로 12.5%·19.5%·50.0%였으며(p=0.002), ε4 동형접합·CDR 2·고혈압이 독립 위험인자였다. 항아밀로이드제 안전성 모니터링 MRI 수요와 맞닿은 국내 실사용 자료다.",
+          "source": "Alzheimer's & Dementia: DADM",
+          "url": "https://doi.org/10.1002/dad2.70473",
+          "tags": [
+            "항아밀로이드",
+            "ARIA",
+            "APOE",
+            "한국",
+            "실사용근거"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "후성유전 억제표지 H3K9me3, AD 뇌·망막에서 초기부터 증가(뇌-망막 r=0.72) — 억제제 ETP69가 AD 마우스 2종의 병리·인지·시각 개선 (Alzheimer's & Dementia)",
+          "summary": "정상인지·MCI·AD 사후 뇌와 망막에서 H3K9me3가 AD 연속선 초기부터 늘었고 같은 기증자의 뇌·망막 수치가 강하게 상관했다(r=0.72, p=0.0002). SUV39H1 등 메틸전이효소를 억제하는 ETP69 투여 시 AD 유사 병리가 줄고 시냅스가 보존되며 인지·시각 수행이 좋아져, 치료표적이자 망막 기반 지표 후보로 제시됐다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42902099/",
+          "tags": [
+            "후성유전",
+            "H3K9me3",
+            "망막",
+            "전임상"
+          ]
+        },
+        {
+          "title": "전두측두치매 환자 415명, 대조군보다 GrimAge2 후성유전 노화 가속(β=1.17) — 흡연 관련 메틸화 보정 시 약 48% 감쇠 (Annals of Neurology)",
+          "summary": "암스테르담 치매 코호트와 GIFT 코호트의 말초혈액 DNA 메틸화를 메타분석한 결과 FTD 환자는 후성유전 노화가 가속돼 있었다(β=1.17, 95% CI 0.46~1.88). 흡연 관련 메틸화를 보정하면 효과가 약 48% 줄어 유의성을 잃었고(β=0.62, p=0.053), 염증(TIMP1·CRP)·당화혈색소 관련 성분도 높았다.",
+          "source": "Annals of Neurology",
+          "url": "https://doi.org/10.1002/ana.78395",
+          "tags": [
+            "FTD",
+            "후성유전시계",
+            "흡연",
+            "위험인자"
+          ]
+        },
+        {
+          "title": "DNA 메틸화 시계 메타분석(37개 연구·46,365명) — GrimAge 가속만 치매 위험과 연관(SD당 HR 1.11), Horvath·PhenoAge·DunedinPACE는 비유의 (medRxiv 프리프린트)",
+          "summary": "관찰연구 37건과 멘델리안 무작위화 연구 7건을 종합한 결과 GrimAge 가속만 전체 치매 위험 증가와 연관됐고(HR 1.11, 95% CI 1.02~1.20), 다른 시계들은 유의하지 않았다. 멘델리안 무작위화로는 인과 근거가 제한적이어서 저자들은 후성유전 시계를 질병 바이오마커로 쓰기엔 근거가 부족하다고 결론지었다.",
+          "source": "medRxiv",
+          "url": "https://doi.org/10.64898/2026.10.21.26365867",
+          "tags": [
+            "후성유전시계",
+            "메타분석",
+            "위험인자",
+            "프리프린트"
+          ]
+        },
+        {
+          "title": "다언어 환자 치매 평가의 의사-통역사 협업 — 호주 의사 16명·통역사 24명 면담, 예약 절차·전화통역·역할 경계·시간 부족이 소통 질 저하 (Alzheimer's & Dementia: DADM)",
+          "summary": "의사들은 통역사가 발음·단어 찾기 곤란 같은 언어 단서를 짚어주고 문화 차이를 중재하는 역할을 높이 평가했다. 반면 예약 절차, 전화 통역, 불분명한 역할 경계, 사전·사후 브리핑 시간 부족이 장벽이었고 양측 모두 의사 교육 필요성을 제기했다.",
+          "source": "Alzheimer's & Dementia: DADM",
+          "url": "https://doi.org/10.1002/dad2.70515",
+          "tags": [
+            "인지평가",
+            "통역",
+            "문화공정",
+            "질적연구"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "[후속] FDA 디지털헬스센터장 '생성형 AI 초안 가이던스 수개월 내 발표, 백악관 최우선 과제' — 의견 500건+ 접수, AI 생애주기 가이던스 최종화도 우선순위 (MedTech Dive)",
+          "summary": "10/19 마감된 FDA 생성형 AI 토의문서에 500건 넘는 의견이 접수됐고, 디지털헬스센터장 Abramson은 AdvaMed 행사에서 초안 가이던스를 '곧' 내겠다며 2025년 초안인 AI 생애주기 관리 가이던스 최종화도 우선과제로 꼽았다. 같은 행사에서 CDRH는 지난 1년여 이직률 약 22%, 임상 심사관 최대 30% 이탈을 밝혀 심사 지연 가능성도 드러났다. 미국 진출을 준비하는 뇌 MRI AI SW는 생애주기(PCCP) 최종본 기준 제출 패키지와 심사 일정 여유를 함께 고려해야 한다.",
+          "source": "MedTech Dive",
+          "url": "https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/",
+          "tags": [
+            "FDA",
+            "생성형AI",
+            "가이던스",
+            "CDRH"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[국감 서면답변] 식약처 'ICH M14 반영 RWE 일반원칙 지침 12월 발간' — 다만 안전성평가 중심, 콜린알포세레이트 재평가의 유효성 판단 RWE 기준은 미제시 (메디파나뉴스)",
+          "summary": "이인영 의원이 MCI 환자 약 51만 명 RWD 연구를 근거로 콜린알포세레이트 재평가에 RWE 활용을 요구하자, 식약처는 12월 RWE 사용 일반원칙 지침 발간 계획을 밝혔지만 유효성 판단 기준은 내놓지 않았다. 식약처의 RWE 인정 범위는 향후 진단 SW의 실사용 성능근거 설계에도 참고가 된다.",
+          "source": "메디파나뉴스",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=419802",
+          "tags": [
+            "식약처",
+            "RWE",
+            "ICH M14",
+            "국감"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "복지부 고시 제2026-217호 — 2027년 1월부터 건강보험 점수당 단가 병원 83.8→84.7원·의원 95.6→96.5원 (보건복지부)",
+          "summary": "10/19 「건강보험요양급여비용의 내역」 전부개정으로 2027년 환산지수가 고시됐다. 뇌 MRI 판독·정량분석 관련 행위 수가는 상대가치점수에 이 단가를 곱해 정해지므로 2027년 수가 시뮬레이션 기준값을 갱신할 필요가 있다.",
+          "source": "보건복지부",
+          "url": "https://www.mohw.go.kr/board.es?mid=a10409020000&bid=0026&act=view&list_no=1492260",
+          "tags": [
+            "복지부",
+            "고시",
+            "환산지수",
+            "수가"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "美 ARPA-H, MGB·UCSD에 4년 최대 4,100만 달러 — 혈장 p-tau217로 선별한 무증상·경도 인지장애자 대상 AD 예방 플랫폼 시험, 5~10개 요법 동시 평가 (UC San Diego)",
+          "summary": "ARPA-H가 Mass General Brigham(Rudolph Tanzi)과 UCSD ADCS의 '바이오마커 유도 AD 예방 플랫폼 시험'에 최대 4,100만 달러를 지원한다. 다른 질환 승인약·천연물 등 5~10개 요법을 동시에 시험하며 대상 선별과 효과 판정에 혈장 p-tau217 등 혈액 바이오마커를 쓴다. 전임상 단계 대상자 선별 수요가 혈액검사 중심으로 커지는 흐름이다.",
+          "source": "UC San Diego",
+          "url": "https://today.ucsd.edu/story/uc-san-diego-joins-arpa-h-funded-initiative-to-launch-drug-testing-platform-for-alzheimers-disease",
+          "tags": [
+            "ARPA-H",
+            "예방시험",
+            "p-tau217",
+            "펀딩"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "이탈리아 Altems 보고서 'AD 환자 75%가 구조화된 진료경로 밖' — 아밀로이드 PET은 지역보건청 3곳 중 2곳만, 접근률 48~92%, CSF 검사 북부 76%·남부 49% (Il Sole 24 Ore)",
+          "summary": "Altems Advisory는 이탈리아 지역 의료체계의 AD 신약 도입 준비도를 분석해 베네토·토스카나는 상대적으로 준비됐고 캄파니아·시칠리아는 취약하다고 평가했다. 항아밀로이드제가 AIFA 심사 중인 가운데 진단 인프라 격차가 치료 접근의 병목으로 드러나, 저비용 MRI·혈액 기반 선별 도구의 수요 근거가 된다.",
+          "source": "Il Sole 24 Ore",
+          "url": "https://en.ilsole24ore.com/art/alzheimers-appropriate-treatment-for-1-in-4-patients-new-therapies-ready-in-veneto-and-tuscany-AJnFswpB",
+          "tags": [
+            "이탈리아",
+            "진단 인프라",
+            "아밀로이드 PET",
+            "항아밀로이드"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[후속] 손보사 치매·간병보험 1~7월 초회보험료 878억원(2023년 연간 380억원의 2.3배)·지급보험금 747억원 — 장기 보장 특성상 미래 손해율 부담 우려 (아이뉴스24)",
+          "summary": "치매·장기간병보험 판매 급증 속에 1~7월 지급보험금이 747억원으로 집계되며 업계에서 장기 손해율 관리 필요성이 제기됐다. 판매 증가세만 다뤘던 기존 보도와 달리 지급액·손해율 관점이 새로 나왔다.",
+          "source": "아이뉴스24",
+          "url": "https://www.inews24.com/view/2017001",
+          "tags": [
+            "치매보험",
+            "손해율",
+            "시니어 금융"
+          ]
+        },
+        {
+          "title": "액티노젠 Xanamem 2b/3상 XanaMIA 11월 탑라인 예정 — 마지막 환자 방문 9월 말 완료, 연장시험 약 160명(적격자 87% 이전), 9월 말 현금 A$1,590만 (Proactive Investors)",
+          "summary": "경도~중등도 AD 대상 Xanamem 10mg(11β-HSD1 억제제) 시험의 1차 평가변수는 CDR-SB이며 탑라인은 11월로 예정돼 CTAD 전후 결과 발표가 몰리는 흐름의 한 축이다.",
+          "source": "Proactive Investors",
+          "url": "https://www.proactiveinvestors.com/companies/news/1100266/actinogen-medical-closes-september-quarter-with-xanamia-readout-in-sight-1100266.html",
+          "tags": [
+            "파이프라인",
+            "탑라인",
+            "Actinogen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "의료AI 업계 'R&D 줄이고 영업 늘린다' — 뉴로핏 영업인력 23→50명(+117%)·R&D 87→82명, 뷰노는 7~8월 추가 구조조정으로 직원 160여→120여 명 (서울경제)",
+          "summary": "반기보고서 기준 뉴로핏의 R&D 인력은 1년 새 87명→82명으로 줄고 영업 인력은 23명→50명으로 두 배 넘게 늘었다. 뷰노는 R&D 89→84명에 영업 12명을 유지한 뒤 7~8월 비용 효율화 구조조정으로 직원을 160여 명에서 120여 명으로 줄였고, 루닛도 R&D 인력이 187→137명으로 감소했다. 뇌영상 AI 경쟁사들이 기술개발보다 병원 영업·매출화에 무게를 옮기고 있어 시장 침투 경쟁이 거세질 전망이다.",
+          "source": "서울경제",
+          "url": "https://m.sedaily.com/article/20104474",
+          "tags": [
+            "뉴로핏",
+            "뷰노",
+            "루닛",
+            "인력구조",
+            "구조조정"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "뉴로핏 이미징 CRO 매출 2024년 5억1,600만원→2025년 6억9,900만원(+35.5%), 올 상반기 4억1,100만원으로 전체 매출의 32.5% — 아리바이오 AR1001 3상 PET·MRI 환자 선별 (더바이오)",
+          "summary": "뉴로핏은 SCALE PET(아밀로이드 정량)과 AQUA(MRI 뇌위축 분석)로 아리바이오 AR1001 글로벌 3상(POLARIS-AD)의 환자 선별을 지원하며 이미징 CRO 매출을 키우고 있다. 6월 말 수주 잔고는 4억7,000만원(작년 매출의 약 18%)이고, 11/16 예정된 3상 결과가 후속 계약의 분수령이다. 치료제 임상의 영상 선별·모니터링이 뇌영상 AI 기업의 새 매출원으로 자리 잡는 사례다.",
+          "source": "더바이오",
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=29250",
+          "tags": [
+            "뉴로핏",
+            "이미징CRO",
+            "아밀로이드PET",
+            "AR1001"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "피플바이오, 2대1 주식병합 일정 세 번째 정정 — 효력발생일 8/5→11/6, 신주 상장 11/20, 사유는 '전환우선주 추가상장 관련 관계기관 협의' (DART)",
+          "summary": "알츠하이머 혈액검사 업체 피플바이오가 6/9 결정한 2대1 주식병합(액면가 500→1,000원) 일정을 8/24·9/22에 이어 10/21 다시 정정했다. 전환우선주 590,022주가 보통주 773,420주로 바뀌어 병합 후 보통주는 12,547,040주가 된다.",
+          "source": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261021900273",
+          "tags": [
+            "피플바이오",
+            "혈액바이오마커",
+            "주식병합",
+            "공시"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "유성선병원 응급실에 제이엘케이 뇌졸중 AI 'JLK-LVO' 도입 — CT 혈관조영 영상의 대혈관 폐색 의심 부위 3분 내 분석 (충청일보)",
+          "summary": "대전 유성선병원 심뇌혈관센터가 뇌 CTA에서 대혈관 폐색 의심 부위를 표시하는 JLK-LVO를 응급실에 도입했다. 제이엘케이가 뇌졸중 솔루션으로 지역 종합병원 공급을 넓히고 있는 사례로, 도입 전후 성과 데이터는 공개되지 않았다.",
+          "source": "충청일보",
+          "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2447331",
+          "tags": [
+            "제이엘케이",
+            "뇌졸중",
+            "CTA",
+            "병원도입"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "英 다중약제 플랫폼 시험 'AD-SMART' 첫 환자 투약 — 메트포르민·아토목세틴부터, 경도~중등도 AD 1,200명·30여 개 기관, 2030년 첫 평가 (BBC)",
+          "summary": "UK DRI와 Alzheimer's Research UK가 주도하고 영국 정부가 재원을 댄 다중군·다단계 플랫폼 시험으로, 당뇨약 메트포르민과 ADHD약 아토목세틴을 공동 위약군과 비교하며 효과 없는 약은 빼고 새 약을 넣는 구조다. NHS가 항아밀로이드제 급여를 거부한 영국에서 약물 재창출로 대안을 찾는 대형 공공 시험이다.",
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo",
+          "tags": [
+            "영국",
+            "플랫폼 시험",
+            "약물 재창출"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[후속] 스페인 환자단체 CEAFA, 레카네맙·도나네맙 공공급여 거부를 옴부즈만에 정식 제소 — '경제력에 따라 치료가 갈린다' (Demócrata)",
+          "summary": "10/15 서명운동에 이어 CEAFA가 약가위원회(CIPM)의 7/15 재거부를 옴부즈만에 제소하며 형평성 문제를 제기했다. 유럽 각국에서 항아밀로이드제 급여 공백이 정치·법적 쟁점으로 번지는 흐름이다.",
+          "source": "Demócrata",
+          "url": "https://www.democrata.es/en/health/ceafa-brings-to-the-ombudsman-the-lack-of-public-funds-for-treatments-against-alzheimer-s/",
+          "tags": [
+            "스페인",
+            "급여",
+            "항아밀로이드",
+            "환자단체"
+          ]
+        }
+      ]
+    }
+  ]
+}
