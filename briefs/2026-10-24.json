@@ -1,0 +1,343 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T09:00:00+09:00",
+  "headline": "서울성모병원이 경쟁사 뉴로핏의 '스케일펫'으로 아밀로이드 PET Centiloid를 약 10분 만에 산출해 판독 보조와 레켐비 치료 추적에 쓰면서 BTX-Brain·MIM-Neuro와 교차검증하는 현장이 공개됐다. 같은 날 Neurology에는 화이트홀 II 5,225명을 13년간 추적한 결과 혈액 바이오마커 단독의 치매 예측은 민감도가 41.7~59.5%에 그쳐 위험요인 모델 수준이라는 연구가 실렸다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "해마 자동분할 SW 5종(InnerEye·ASHS·FastSurfer·HippoSeg·FreeSurfer) 앙상블과 불확실성 정량 — 3종 부분앙상블이 정확도·효율 균형, 불확실성 점수로 부정확 분할 선별·움직임 아티팩트와 상관 (arXiv 프리프린트)",
+          "summary": "치매 데이터셋 2개와 뇌전증 데이터셋 1개에서 서로 다른 해마 분할 SW 5종을 앙상블로 묶어 평가했다. InnerEye·FastSurfer·HippoSeg 3종을 묶은 부분앙상블이 정확하면서 효율적이었다. 표본분산·상호정보·예측 엔트로피 기반 불확실성으로 저신뢰 사례를 표시하자 부정확 분할이 줄었고, 불확실성은 움직임 아티팩트 심각도와 유의하게 상관했다. AD 분류 성능에는 소폭 기여했다.",
+          "source": "arXiv",
+          "url": "https://arxiv.org/abs/2610.31505",
+          "tags": [
+            "해마 분할",
+            "불확실성",
+            "MRI"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "두 시점 영상의 시간차를 조건으로 거는 확률적 Siamese MAE 사전학습(STAMP) — 종단 MRI 기반 AD 진행 예측에서 기존 시계열 MAE·파운데이션 모델 상회 (IEEE Transactions on Medical Imaging)",
+          "summary": "두 입력 볼륨의 촬영 간격을 조건으로 MAE 재구성 손실을 조건부 변분추론 목적함수로 바꿔, 질병 진행의 비결정적 동역학을 학습하는 자기지도 사전학습 프레임워크다. OCT 데이터셋 2개와 MRI 데이터셋 1개로 평가했고, 후기 황반변성과 AD 진행 예측 모두에서 기존 시계열 MAE와 파운데이션 모델보다 우수했다. 초록에 구체 수치는 제시되지 않았다.",
+          "source": "IEEE Transactions on Medical Imaging",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42911836/",
+          "tags": [
+            "자기지도학습",
+            "종단 MRI",
+            "진행 예측"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "혈액 바이오마커 단독의 13년 치매 예측력은 기존 위험요인 모델 수준 — p-tau217 C-index 0.693·4종 합산 0.760, 위험요인 모델에 더하면 0.765→0.813, 화이트홀 II 5,225명 (Neurology)",
+          "summary": "2012~13년 보관 혈액으로 Aβ42/40·GFAP·NfL·p-tau217을 측정하고 중앙 12.2년 추적한 결과 516명이 치매로 진단됐다. 최하위 대비 최상위 사분위 HR은 p-tau217이 3.74로 가장 컸지만, 민감도 41.7~59.5%·PPV 16.4~23.5%로 낮았고 특이도 76.8~78.8%·NPV 92.3~94.7%는 양호했다. 저자들은 지역사회 장기 예측에서는 민감도 부족으로 혈액검사 단독 활용이 제한적이라고 결론지었다.",
+          "source": "Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42913444/",
+          "tags": [
+            "혈액 바이오마커",
+            "p-tau217",
+            "예후"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "CSF 비율 3종과 아밀로이드 PET 일치도 메타분석 — pTau/Aβ42가 AUC 0.955로 Aβ42/Aβ40(0.921)보다 높고 위양성률도 낮아, 38개 연구·7,504명 (Neurology and Therapy)",
+          "summary": "2008년~2026년 2월 문헌을 Reitsma 이변량 모형으로 통합한 결과 아밀로이드 PET 대비 전체 일치율은 pTau/Aβ42 90.4%, Aβ42/Aβ40 89.5%, tTau/Aβ42 89.2%였다. AUC는 0.955 대 0.921(p=0.018), 위양성률은 0.116 대 0.153(p=0.015)으로 pTau/Aβ42가 유의하게 우수했다. 로슈 진단 직원이 공저하고 통계분석을 로슈가 발주한 이해상충이 있다.",
+          "source": "Neurology and Therapy",
+          "url": "https://doi.org/10.1007/s40120-026-01056-1",
+          "tags": [
+            "CSF",
+            "아밀로이드 PET",
+            "진단정확도"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "AA-2024 기준 적용 시 생물학적 AD가 27.4%→49.3%로 증가 — 재분류 32명 전원 비AD→AD 방향, 이 중 임상 AD 진단은 38%뿐, 브라질 CSF 실사용 146명 (Journal of Alzheimer's Disease)",
+          "summary": "같은 CSF 결과를 AT(N) 2018 기준과 AA-2024 기준으로 각각 분류하자 21.9%가 AD로 재분류됐고 두 기준의 일치도는 κ=0.57이었다. 재분류군은 일치 AD군보다 타우가 낮고 신경퇴행 양성률도 25% 대 70%로 낮았다. 최종 임상 AD 진단 비율은 일치군 98%, 재분류군 38%로, 새 기준이 임상 진단과 괴리될 수 있음을 보여준다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42911077/",
+          "tags": [
+            "AA-2024",
+            "CSF",
+            "진단기준"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "APOE ε4는 혈장 p-tau217 상승 속도를 높이지만 GFAP엔 영향 없어 — 효과 대부분이 아밀로이드를 거치지 않는 직접 경로, p-tau217 궤적은 해마 위축과 동반, ADNI 325명 최장 10년 (Neurological Sciences)",
+          "summary": "선형혼합모형과 베이지안 결합모형 분석에서 ε4는 p-tau217 기울기를 연 β=0.0307(p=0.002) 키웠고 아밀로이드 매개분은 약 6%에 그쳤다(저자는 탐색적 결과로 명시). p-tau217 궤적은 ADAS-Cog13(ρ=+0.67)·MMSE(ρ=−0.69)·해마 부피 비율(ρ=−0.39)과 함께 움직였고 GFAP는 ε4와 무관했다.",
+          "source": "Neurological Sciences",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42909513/",
+          "tags": [
+            "p-tau217",
+            "APOE",
+            "종단 연구"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "AD·PD 공유 사전정보로 공간적응 전이학습한 구조 MRI 형태계측 분류기 — 질환별 단독 모델보다 진단 성능 통계적으로 우수, ADNI·PPMI (arXiv 프리프린트)",
+          "summary": "ADNI와 PPMI 구조 MRI에 해석 가능한 고차원 전이학습 프레임워크를 적용해 두 질환의 공통·차별 형태계측 표지를 도출했다. 공유 사전정보로 학습한 분류기가 각 질환 단독 모델보다 통계적으로 우수한 진단 성능을 보였다. 초록에 구체 수치는 없다.",
+          "source": "arXiv",
+          "url": "https://arxiv.org/abs/2610.27150",
+          "tags": [
+            "형태계측",
+            "전이학습",
+            "MRI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "혈장 pTau217 양성 인지정상 노인에서만 외로움이 CA3·내후각피질 부피 감소와 연관 — 고해상도 T2 해마 아구역 MRI(ASHS), IGNITE 601명 (GeroScience)",
+          "summary": "65~80세 인지정상 601명 중 28.9%가 아밀로이드 PET 보정 절단값(0.46 pg/mL) 기준 pTau217 양성이었다. pTau217 상태가 외로움과 CA3(β=−0.215)·내후각피질(β=−0.167) 부피의 연관을 조절했고, 전체 해마 부피와의 연관은 약했다(β=−0.077, p=0.031). 단면 연구라 인과 해석에는 한계가 있다.",
+          "source": "GeroScience",
+          "url": "https://doi.org/10.1007/s11357-026-02614-z",
+          "tags": [
+            "해마 아구역",
+            "pTau217",
+            "MRI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "의무교육 연장 개혁으로 교육 기간이 늘자 치매 발생 감소, 치매 유전위험점수와 발생의 연관도 약해져 — 회귀불연속 인과분석 (PNAS)",
+          "summary": "의무교육 연령 개혁이 만든 회귀불연속을 이용해 교육이 알츠하이머병 및 관련 치매(ADRD)에 미치는 인과효과를 병력·입원·사망 기록으로 분석했다. 교육은 치매 발생을 줄였고, 분자유전 데이터상 개혁 이후 다유전자점수와 치매 발생의 연관이 약해졌다. 저자들은 치매의 유전적 위험이 사회정책으로 완화될 수 있다고 해석했다(효과 크기는 초록에 미제시).",
+          "source": "PNAS",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42912790/",
+          "tags": [
+            "역학",
+            "교육",
+            "유전위험"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "경도 AD 저선량 전뇌 방사선치료 국내 다기관 무작위 sham 대조 2상 — 6개월 ADAS-cog 주평가변수 미달성, 12개월 3Gy군만 탐색적으로 −5.36점 (Radiotherapy and Oncology)",
+          "summary": "아밀로이드 양성 경도 AD 41명을 sham·0.24Gy·3Gy군에 1:1:1 배정해 3주간 주 2회 조사했다(mITT 36명). 6개월 ADAS-cog 변화의 sham 대비 차이는 0.24Gy −2.08점(p=0.401), 3Gy −2.92점(p=0.129)으로 유의하지 않았고, 12개월 탐색분석에서 3Gy군 −5.36점(명목 p=0.044)이었다. 치료 관련 이상반응은 없었으나 저자들도 효능·용량반응은 확립되지 않았다고 밝혔다.",
+          "source": "Radiotherapy and Oncology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42906637/",
+          "tags": [
+            "임상시험",
+            "저선량 방사선",
+            "국내 연구"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "레카네맙 실사용 연구 37편 메타분석 — ARIA 15.1%(미국 19.5% vs 아시아 9.7%)·APOE ε4 동형접합 34.1%, 인지 효과는 대조군 부재로 판단 불가 (Journal of Neurology)",
+          "summary": "2026-10-01까지 검색한 실사용 연구 37편을 통합한 결과 ARIA-E 6.5%, ARIA-H 11.5%, 증상성 ARIA 1.3%였고, 기저 미세출혈이 있으면 ARIA-H가 19.3%(없을 때 4.2%)로 높았다. 아밀로이드 PET은 6개월에 Centiloid −28.5 감소했고 중단율 12.2%·주입반응 18.5%였다. 인지 지표는 3개월 이내 MoCA를 제외하면 유의한 변화가 없었다.",
+          "source": "Journal of Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42907679/",
+          "tags": [
+            "항아밀로이드",
+            "ARIA",
+            "실사용"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "헝가리 전국 치매 환자 39만8,584명 중 항치매약 처방은 13%뿐 — 미치료군 생존 중앙값 3.1년, 도네페질+메만틴 병용군 사망위험 HR 0.581 (GeroScience)",
+          "summary": "2010~2020년 헝가리 전국 데이터베이스(NEUROHUN) 분석으로 진단 시 평균 연령은 75.2세였다. 치료군 중 24%는 메만틴 단독이었고 이 군의 생존 중앙값 3.7년은 미치료군과 비슷했는데, 저자들은 약효보다 고령·늦은 진단 때문으로 해석했다. 늦은 진단 비율이 높아 조기 진단경로가 필요하다고 결론지었다.",
+          "source": "GeroScience",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42905229/",
+          "tags": [
+            "실사용",
+            "치료제",
+            "역학"
+          ]
+        },
+        {
+          "title": "RNA 결합단백 TIA1이 타우병증에서 미세아교세포 활성화에 필요 — 미세아교세포 TIA1 결손 시 PS19 마우스의 염증 사이토카인·질병관련 미세아교세포 마커·타우 병리 감소 (Cell Reports)",
+          "summary": "Cx3cr1-Cre로 미세아교세포 TIA1을 결손시킨 마우스를 PS19 타우 모델과 교배하자 Tnf-α·Il-1β와 Clec7a·Trem2·Itgax 발현이 크게 줄고 타우 병리도 감소했다. 단백체 분석에서 TIA1은 보체 C1Q와 상호작용했다. 말초 단핵구에서 TIA1이 염증을 억제한다는 기존 보고와 반대 방향이어서 중추·말초 기능 차이를 시사한다.",
+          "source": "Cell Reports",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42911815/",
+          "tags": [
+            "기전",
+            "미세아교세포",
+            "타우"
+          ]
+        },
+        {
+          "title": "타우 MAPT A152T 위험변이 보인자는 AD·PSP 모두에서 세포유형별 전사 지문이 달라 — 산발성 환자와 한 군으로 묶으면 차이가 가려져 (Acta Neuropathologica)",
+          "summary": "A152T 보인자, 병리를 맞춘 비보인자(AD 또는 PSP), 연령대응 대조군의 사후 뇌로 단일핵 RNA 시퀀싱을 수행했다. 세포 구성은 비슷했지만 흥분성 신경세포·희소돌기아교세포·성상세포에서 A152T 특이적 전사 변화가 가장 컸다. 저자들은 인체 snRNA-seq 코호트에서 위험변이 보인자를 선별해 분석해야 한다고 제안했다.",
+          "source": "Acta Neuropathologica",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42909646/",
+          "tags": [
+            "유전",
+            "단일세포",
+            "타우병증"
+          ]
+        },
+        {
+          "title": "퓨린 대사 교란이 AD 병리와 인지저하를 잇는다 — Aβ 양성 인지장애군 혈청 요산·알란토인 고갈, 알란토인 보충 시 APP/PS1 마우스 Aβ 감소 (JCI Insight)",
+          "summary": "APP/PS1 마우스 혈청 비표적 대사체 분석에서 퓨린 대사가 가장 크게 바뀐 경로였고, 병리로 정의한 임상 코호트에서도 Aβ 양성 인지장애군의 요산·알란토인이 특이적으로 낮았다. 이 수치는 뇌 Aβ 부담·신경염증·인지점수와 연관됐고 2년 종단 자료에서 일부 퓨린 대사물 변화가 인지저하 속도를 예측했다. 알란토인 보충은 미세아교세포의 Aβ 탐식을 늘렸다.",
+          "source": "JCI Insight",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42910516/",
+          "tags": [
+            "기전",
+            "대사",
+            "후보물질"
+          ]
+        },
+        {
+          "title": "인플라마좀 단백 ASC 표적 Qβ 바이러스유사입자 백신 — 타우병증 마우스에서 인플라마좀·인산화 타우 감소, 감염 방어능은 유지 (JCI Insight)",
+          "summary": "ASC의 서로 다른 부위를 겨냥한 백신 7종 중 3종(파이린 도메인·링커·CARD)이 통풍 모델에서 IL-1β와 호중구 활성을 줄였다. 이 3종을 섞은 칵테일 백신은 타우병증 형질전환 마우스에서 인플라마좀 수준과 병적 인산화 타우를 낮췄고, 세균·바이러스 감염에 대한 숙주 면역반응은 유의하게 손상되지 않았다.",
+          "source": "JCI Insight",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42900546/",
+          "tags": [
+            "백신",
+            "신경염증",
+            "타우"
+          ]
+        },
+        {
+          "title": "미세아교세포 특이 AD 다유전자점수가 AD/aMCI와 연관(OR 1.37), 점수 높고 지중해식 식단 순응도 낮으면 반대 조합 대비 위험 1.68배 — 그리스 HELIAD 1,172명 (European Archives of Psychiatry and Clinical Neuroscience)",
+          "summary": "뇌 세포유형 6종별 AD 다유전자점수 중 전장유전체 점수(OR 1.38)와 미세아교세포 점수(OR 1.37)가 AD/aMCI 진단과 연관됐다. 탐색분석에서 미세아교세포 점수와 지중해식 식단 순응도 사이에 가산적 상호작용이 나타났고, 성상세포 점수는 인지정상군의 기억력 저하와 명목상 연관됐다. 횡단면 연구라는 한계가 있다.",
+          "source": "European Archives of Psychiatry and Clinical Neuroscience",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42911262/",
+          "tags": [
+            "유전",
+            "식단",
+            "예방"
+          ]
+        },
+        {
+          "title": "TMEM106B 위험 유전자는 C말단 조각 항상성으로 수렴 — FTLD-TDP·AD·PD·LATE에 걸친 유전학·기전·치료전략 리뷰 (Brain)",
+          "summary": "Rademakers 연구팀이 TMEM106B 위험·보호 일배체형의 기능 변이는 아직 합의되지 않았다고 정리하고, 엔도리소좀 기능·응집성 C말단 도메인·단백분해 처리·섬유 형성 근거를 통합했다. 치료전략으로 발현 조절, 기능 경로 표적, 섬유 형성 억제를 검토했다(원저가 아닌 리뷰).",
+          "source": "Brain",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42910644/",
+          "tags": [
+            "유전",
+            "TDP-43",
+            "리뷰"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "[후속] FDA 생성형 AI 의료기기 의견수렴에 AHA·AMA·ATA 등 의료계 '안전·성능 책임은 의사 아닌 개발사가' — AMA '사람의 감독이 위험을 반드시 줄이진 않는다' (MedTech Dive)",
+          "summary": "FDA 생성형 AI 의료기기 토론문서·의견요청(Docket FDA-2026-N-7874)에 병원협회·의사협회·원격의료협회 등이 의견서를 내고, 의료기관은 모델 내부를 볼 수 없으므로 출시 후 성능·유지·무결성 책임은 개발사가 져야 한다고 요구했다. ATA는 FDA의 2축 위험 프레임워크(임상 자율성×오출력 위해 심각도)를 지지하되 실사용 하위집단 검증 의무화를 제안했다. 10/22 '초안 가이던스 수개월 내' 보도의 후속으로, 진단 SW 제조사의 출시 후 성능 모니터링 책임이 커질 수 있다는 신호다.",
+          "source": "MedTech Dive",
+          "url": "https://www.medtechdive.com/news/developers-not-doctors-held-accountable-generative-ai-medical-devices-fda/833745/",
+          "tags": [
+            "FDA",
+            "생성형 AI",
+            "책임 배분"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "영국 뇌영상 분석 CRO IXICO, FY26(9월 결산) 매출 830만 파운드로 28% 증가 예상 — 상향 가이던스(800만 파운드) 초과, 수주잔고 1,600만 파운드 (IXICO)",
+          "summary": "임상시험용 신경영상 분석 기업 IXICO가 FY26 매출을 830만 파운드(전년 650만 파운드, +28%)로 예상한다고 밝혔다. 4분기 분석 수주가 빨라지며 7월 상향한 가이던스도 넘었고, 연말 수주잔고 1,600만 파운드(전년 1,380만 파운드)·현금 1,040만 파운드다. 뇌 MRI 정량분석을 치료제 임상시험 시장에서 사업화하는 모델로, 국내 뉴로핏 이미징 CRO 사업과 같은 방향이다.",
+          "source": "IXICO plc",
+          "url": "https://ixico.com/news-and-resources/news/ixico-trading-update-for-year-ending-30-september-2026",
+          "tags": [
+            "뇌영상 분석",
+            "실적",
+            "이미징 CRO"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "퀘스트 다이애그노스틱스 3분기 매출 31억 달러(+10%) — AD-Detect에 FDA 허가 로슈 Elecsys pTau217 추가, pTau217·Aβ·APOE 결합 패널 출시 (Quest Diagnostics)",
+          "summary": "미국 최대 검사기관 퀘스트의 3분기 매출은 31억 달러로 전년 대비 10.0% 늘었고 연간 매출 가이던스는 120억6,500만~121억500만 달러다. 실적 자료에서 알츠하이머 혈액검사 AD-Detect 라인업에 FDA 허가 로슈 pTau217 검사를 추가하고 pTau217·Aβ·APOE 결합 패널을 출시했다고 밝혔다. 혈액검사가 대형 검사기관 상용 메뉴로 자리잡으며 확진 단계 영상 수요로 이어지는 흐름이다.",
+          "source": "Quest Diagnostics (SEC 8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001022079/000102207926000097/dgx093020268-kex991.htm",
+          "tags": [
+            "혈액 바이오마커",
+            "실적",
+            "진단 시장"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "BMS 주도 파토스AI 2억3,700만 달러 시리즈E(기업가치 약 30억 달러) — 첫 공동개발 대상은 알츠하이머, 템퍼스 신경질환 환자 기록 50만 건을 5년간 최대 5,500만 달러에 라이선스 (SiliconANGLE)",
+          "summary": "AI 신약개발사 파토스AI가 BMS 주도로 시리즈E 2억3,700만 달러를 조달했다(아스트라제네카·NEA·제너럴애틀랜틱 참여). 파토스는 BMS와 알츠하이머부터 신경질환 임상개발에 착수하며, 템퍼스로부터 알츠하이머 등 신경질환 비식별 환자 기록 50만 건(연 10만 건, 건당 100달러)을 받는다. 템퍼스 8-K 기준 BMS 종양 데이터 계약 1억3,750만 달러를 합친 총액은 1억9,250만 달러다.",
+          "source": "SiliconANGLE",
+          "url": "https://siliconangle.com/2026/10/23/ai-drug-development-startup-pathos-ai-closes-237m-investment/",
+          "tags": [
+            "투자유치",
+            "AI 신약개발",
+            "리얼월드데이터"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[후속] 아델 IPO, 상장 직후 유통 가능 물량 36.29%(786만주) — 스톤브릿지벤처스 3개 펀드 11.46%는 보호예수 없음, 산업은행 5.73%·스틱 2.29%도 즉시 매도 가능 (탑데일리)",
+          "summary": "상장 예정 2,166만1,389주 중 상장 직후 유통 가능 물량은 786만1,700주(36.29%)로, 스톤브릿지벤처스 3개 펀드 보유분(공모 후 11.46%)은 보호예수 없이 매도할 수 있다. 산업은행도 보유분 절반인 124만1,320주(5.73%), 스틱벤처스는 49만6,560주(2.29%)를 즉시 처분할 수 있다. 기사는 오버행 소화의 관건으로 사노피 이전 ADEL-Y01 이후 ADEL-Y03·Y04의 기술이전 성과를 꼽았다.",
+          "source": "탑데일리",
+          "url": "https://www.topdaily.kr/articles/112410",
+          "tags": [
+            "IPO",
+            "아델",
+            "치매 치료제"
+          ]
+        },
+        {
+          "title": "UAE 무바달라 헬스 두바이·타왐 분자영상센터, 영국 Re:Cognition Health와 기억·뇌건강 진료 제휴 — 혈액검사·MRI·아밀로이드 PET·CSF 진단경로 후 질병조절치료 연결 (Abu Dhabi Media Office)",
+          "summary": "아부다비 미래보건정상회의에서 체결된 제휴로 1단계는 두바이 무바달라 헬스, 이어 알아인 타왐 분자영상센터에서 시행한다. 혈액검사·MRI·아밀로이드 PET·뇌척수액·유전자 검사로 진단하고 조기 알츠하이머 적격 환자에게 질병조절치료를 제공하는 경로이며, Re:Cognition Health의 첫 중동 진출이다.",
+          "source": "Abu Dhabi Media Office",
+          "url": "https://www.mediaoffice.abudhabi/en/health/mubadala-health-dubai-and-tawam-molecular-imaging-centre-partner-with-re-cognition-health-to-expand-access-to-specialist-brain-and-memory-health-services-in-uae/",
+          "tags": [
+            "파트너십",
+            "중동 시장",
+            "진단 경로"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "뉴로핏 '스케일펫' 진료 현장 — 서울성모병원 핵의학과, 아밀로이드 PET 센틸로이드를 AI로 약 10분 만에 산출해 판독 보조·레켐비 치료 전후 추적에 활용, BTX-Brain·MIM-Neuro와 교차검증 (뉴시스)",
+          "summary": "서울성모병원 핵의학과는 디지털헬스케어 의료기기 실증사업으로 뉴로핏 스케일펫을 도입해 수 시간~24시간 걸리던 정량분석을 약 10분으로 줄였고, 레켐비 투여 전후 아밀로이드 감소를 Centiloid로 추적하고 있다. 기사에 인용된 4개 기관 950명 연구에서 육안 판독에 정량정보를 더하자 판독자 간 일치도 0.746→0.826, 전문가 합의 대비 정확도 92.7%→94.1%로 올랐다. 하승균 교수는 Centiloid 11~30 경계구간은 피질 섭취 양상을 따로 판독한다고 밝혔고, 상용 SW 3종을 병행 교차검증한다는 점에서 국내 정량 PET 시장이 다자 경쟁 구도임을 보여준다.",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261023_0003838490",
+          "tags": [
+            "뉴로핏",
+            "아밀로이드 PET",
+            "Centiloid"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "[후속] 뷰노 이예하 대표, 신주인수권증서 90만1,356주 장외매도 계획 철회 — 유상증자 일정 재연기(신주배정기준일 11/16)에 따른 매매기간 변동 (DART)",
+          "summary": "뷰노 최대주주 이예하 대표가 10월 22일 특정증권등 거래계획 철회보고서를 공시했다. 철회 대상은 10월 6일 재제출한 계획으로, 신주인수권증서 90만1,356주를 주당 4,980원(예정 발행가), 총 약 44억8,875만원에 장외매도해 청약자금을 마련하는 내용이었다. 바뀐 유상증자 일정에 맞춘 계획 재제출이 예상된다.",
+          "source": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261022000280",
+          "tags": [
+            "뷰노",
+            "유상증자",
+            "공시"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": []
+    }
+  ]
+}
