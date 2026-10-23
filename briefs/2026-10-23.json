@@ -130,6 +130,75 @@
             "부피 분석"
           ],
           "importance": "medium"
+        },
+        {
+          "title": "혈장 N말단 타우 조각(NT1)이 높을수록 해마 위축이 빨라지고, 기억력 저하의 70.1%를 해마 위축이 매개 — ADNI 755명, 인지저하와의 연관은 아밀로이드가 조절 (Neurology)",
+          "summary": "MGB 연구팀이 ADNI 참여자 755명(평균 72.9세)의 혈장 NT1을 Simoa HD-X로 측정한 결과, NT1은 MCI/AD에서 높았고 기저 해마 부피 감소(B=−264.49, p=0.036)와 이후 위축 속도(B=−42.00, p=0.013)를 예측했다. NT1과 기억력 저하 사이를 해마 위축이 70.1%(95% CI 32.6~155.3%) 매개했고, 여러 인지 영역 저하와의 연관은 Aβ 상태에 따라 달랐다. 진단정확도(AUC)는 보고하지 않은 관찰연구로, 혈액 바이오마커와 MRI 해마 위축을 묶는 예후 모델 설계에 참고가 된다.",
+          "source": "Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42906069/",
+          "tags": [
+            "혈액 바이오마커",
+            "NT1 타우",
+            "해마 위축",
+            "MRI",
+            "ADNI"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "CSF α-시누클레인 SAA 양성이면 같은 아밀로이드 PET 수준에서도 혈장 p-tau217이 27.3% 높아 — 그러나 보정하면 정확도가 오히려 93.9%→92.4%로 하락 (Research Square 프리프린트)",
+          "summary": "ADNI 193명(αSynSAA 양성 33명)에서 Lumipulse 혈장 p-tau217을 비교한 결과, SAA 양성자는 같은 Centiloid에서 p-tau217이 27.3%(95% CI 4.9~54.5), 같은 CSF 비율에서 22.9% 높았지만 타우 PET 부담을 맞추면 차이가 사라졌다(12.1%, p=0.313). 상승분을 보정해 재분류하면 CSF 기준 정확도 93.9%→92.4%, 아밀로이드 PET 기준 84.6%→82.7%로 오히려 떨어져, 저자들은 루이소체 동반 병리가 있어도 p-tau217을 낮춰 해석하지 말 것을 권고했다. 동료심사 전 프리프린트다.",
+          "source": "Research Square (preprint)",
+          "url": "https://www.researchsquare.com/article/rs-11271891/v1",
+          "tags": [
+            "p-tau217",
+            "α-시누클레인 SAA",
+            "루이소체",
+            "아밀로이드 PET",
+            "프리프린트"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "뇌동맥 협착이 인지 저하로 이어지는 경로에 글림프 기능 저하(DTI-ALPS·백질 자유수)가 관여 — 지역사회 노인 346명, 협착+글림프 저하군 CDR-SB 악화 위험 HR 3.27~4.70 (CNS Neuroscience & Therapeutics)",
+          "summary": "중산대 연구팀이 지역사회 노인 346명(25.1%가 협착 1개 이상)을 MRA·확산 MRI로 평가한 결과, 협착 부담이 클수록 DTI-ALPS 지수가 낮고(β=−0.04, p=0.003) 백질 자유수가 높았다. 두 지표는 협착과 MMSE 사이 연관의 13.06~17.19%를 매개했고, 협착에 글림프 저하가 겹친 군은 협착 없는 군보다 CDR-SB 악화 위험이 HR 3.27~4.70 높았다. 단일 코호트 관찰연구다.",
+          "source": "CNS Neuroscience & Therapeutics",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42904869/",
+          "tags": [
+            "DTI-ALPS",
+            "글림프",
+            "확산 MRI",
+            "혈관성 인지장애"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "노년기 우울과 AD를 가르는 바이오마커 48편 스코핑 리뷰 — 아밀로이드만 AD와 일관 연관, 해마 위축은 AD 쪽·혈관 이상과 기능연결 변화는 우울 쪽에 더 자주 (Alzheimer's & Dementia)",
+          "summary": "WashU·Mayo 연구팀(Jack CR Jr, Petersen RC 포함)이 2010~2025년 문헌 48편을 PRISMA-ScR로 검토했다. 아밀로이드 바이오마커가 임상 AD와 가장 일관되게 연관됐고, 해마 위축 등 신경퇴행 지표는 AD와, 혈관 이상·기능연결 변화는 우울 증상과 더 자주 연관됐다. 정량 메타분석이 없는 스코핑 리뷰로, 우울 동반 환자의 MRI 기반 감별 시 해석 근거로 참고할 만하다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42904492/",
+          "tags": [
+            "노년기 우울",
+            "A/T/N",
+            "해마 위축",
+            "감별진단"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "APOE4가 치매로 이어지는 경로를 UK Biobank 영상(5만8,876명)·단백체·대사체로 분해 — 해마·좌측 시상 위축은 AD만, 백질 손상과 혈중 GFAP는 AD·혈관성 치매 공통 매개 (Research Square 프리프린트)",
+          "summary": "UK Biobank 신경영상(n=58,876)·혈장 단백체(n=51,623)·대사체(n=267,627)를 통합한 반사실적 인과매개분석에서, 양측 해마·좌측 시상 회백질 위축은 전체 치매·AD 위험만 매개했고 광범위한 백질 미세구조 손상과 혈중 GFAP는 AD·혈관성 치매 모두의 매개 인자였다. 혈장 매개 인자를 더한 모델이 임상 변수 모델보다 예측력이 높았다고 했으나 초록에 AUC 수치는 없다. 동료심사 전 프리프린트다.",
+          "source": "Research Square (preprint)",
+          "url": "https://www.researchsquare.com/article/rs-11445203/v1",
+          "tags": [
+            "APOE4",
+            "UK Biobank",
+            "GFAP",
+            "해마 위축",
+            "백질",
+            "프리프린트"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -226,6 +295,19 @@
             "영국",
             "역학"
           ]
+        },
+        {
+          "title": "중년·노년기 조절 가능한 치매 위험인자 10개는 4개 군집으로 묶여 — 네덜란드 약 25만 명, 노년기 '심리사회·신체비활동' 군집이 치매 위험 최고(HR 1.23) (Journal of Alzheimer's Disease)",
+          "summary": "2012년 네덜란드 공중보건모니터 조사 참여자(중년 121,120명·노년 125,848명)를 2023년까지 추적해 잠재계층분석으로 위험인자 군집을 도출했다. 중년·노년 모두 심혈관대사·물질사용·심리사회(노년은 신체비활동 포함)·저위험의 4개 군집이 나왔고, 노년기 치매 위험은 심리사회·신체비활동 군집 HR 1.23(95% CI 1.16–1.32), 물질사용 1.16, 심혈관대사 1.12 순이었다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://doi.org/10.1177/13872877261498431",
+          "tags": [
+            "역학",
+            "위험인자",
+            "예방",
+            "코호트"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -244,6 +326,33 @@
             "HHS",
             "FDA",
             "정책"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "정부 '바이오 분야 경쟁국 수준 규제 합리화 방안' — 가명 의료정보 연구는 IRB 심의 면제(생명윤리법 시행규칙 개정)·포괄동의 도입, 정형 의료데이터 가명처리 공통기준(26.11)·클라우드 원격분석 환경 기준(26.12) 마련 (보건복지부)",
+          "summary": "정부가 10월 23일 규제합리화위원회 회의에서 발표한 방안으로, 가명처리된 의료정보를 쓰는 연구를 생명윤리법 시행규칙 개정으로 IRB 심의 대상에서 제외하고, 연구대상자 거부권 보장을 전제로 2차 활용 포괄동의를 도입한다. 기관마다 달랐던 가명처리 기준은 정형 의료데이터 국가 공통기준(목록 방식, 보건의료데이터 활용 가이드라인 26.11 개정)으로 통일하고, 폐쇄분석실 방문 없이 클라우드로 분석하는 원격 분석환경 기준(26.12)도 제시한다 — 정부 추계로 심의기간 약 25일 단축(편익 약 170.8억원)·방문비용 약 581.5억원 절감. BeauBrain 관점에서는 다기관 뇌 MRI 학습·검증 데이터 확보의 IRB 절차가 줄어드는 조치이나, 공통기준이 현재 '정형' 데이터로 한정돼 있어 11~12월 가이드라인 개정안에 영상(DICOM)이 포함되는지 확인이 필요하다.",
+          "source": "보건복지부 보도자료(관계부처 합동)",
+          "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492314",
+          "tags": [
+            "의료데이터",
+            "가명정보",
+            "IRB",
+            "규제합리화",
+            "의료AI"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "영국 정부, EU CE 마크 의료기기를 그레이트브리튼에서 '무기한' 인정 확정 — 등록 기기 90% 이상이 CE 마크, MHRA는 SW·AI 의료기기 대응 허가체계 입법 추진 (GOV.UK)",
+          "summary": "영국 정부가 10월 21일 CE 마크 의료기기를 그레이트브리튼에서 기한 없이 인정해 별도 UKCA 승인 없이 판매할 수 있도록 확정했다(현재 등록 기기의 90% 이상이 CE 마크). MHRA는 1차 입법으로 향후 허가체계 마련 권한을 확보하고 UKCA 시판 전 요건을 현대화할 계획이며, 목적으로 SW·AI 의료기기 등 신기술 대응을 명시했다. BeauBrain 관점에서는 EU MDR CE 인증만으로 영국 시장 진입이 가능해져 유럽 인허가 전략에 영국을 묶을 수 있다.",
+          "source": "GOV.UK (DHSC·MHRA)",
+          "url": "https://www.gov.uk/government/news/government-confirms-indefinite-recognition-of-ce-marked-medical-devices",
+          "tags": [
+            "영국",
+            "MHRA",
+            "CE마크",
+            "해외인허가"
           ],
           "importance": "medium"
         }
@@ -292,13 +401,51 @@
             "타우",
             "국내 바이오"
           ]
+        },
+        {
+          "title": "중국 핑안, 알츠하이머 예방·관리 '뇌건강 서비스 관리 프로그램' 출시 — 온라인 인지평가·유전자/바이오마커 선별·제휴병원 연계·재택 레이더 모니터링에 연금·간병보험 결합, 베이징 30개 커뮤니티부터 (PR Newswire)",
+          "summary": "핑안보험그룹이 핑안굿닥터·핑안건강보험 등과 온라인 인지평가, 유전자·바이오마커 선별, 수백 곳 제휴병원 연계, 원격 디지털 재활, 24시간 비접촉 레이더 모니터링을 연금·중대질병·간병보험 상품과 묶은 프로그램을 내놨다. 베이징 30개 커뮤니티에서 먼저 시작하며 자선신탁에서 100만 위안을 출연한다. 보험사가 치매 선별·진단의 유통 채널로 들어오는 흐름이다.",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/ping-an-unveils-chinas-first-brain-health-service-management-program-focused-on-alzheimers-prevention-and-care-302916779.html",
+          "tags": [
+            "중국",
+            "보험",
+            "치매 선별"
+          ]
+        },
+        {
+          "title": "아이슬란드 Arctic Therapeutics, 초과청약으로 2,150만 달러 조달 — 경구 응집 억제제 AT-001은 유전성 시스타틴C 아밀로이드 혈관병증 2b/3상·MCI/경도 AD 2a상 (PR Newswire)",
+          "summary": "Arctic Therapeutics가 Pekron·Sanos Group·Kaldbakur·Landvættir 주도로 목표를 넘긴 2,150만 달러를 유치했다. 선도 후보 AT-001은 유전성 시스타틴C 아밀로이드 혈관병증 2b/3상, MCI·경도 알츠하이머 2a상을 진행 중이며, 자금은 AT-002·AT-003 임상 진입에 쓰고 AT-001·AT-004는 파트너링을 추진한다.",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/arctic-therapeutics-closes-oversubscribed-us21-5-million-financing-302915211.html",
+          "tags": [
+            "투자유치",
+            "AT-001",
+            "아밀로이드 혈관병증"
+          ]
         }
       ]
     },
     {
       "id": "competitors",
       "title": "경쟁사 동향",
-      "items": []
+      "items": [
+        {
+          "title": "영국 Claritas HealthTech, 스페인 뇌 PET 정량 SW 'neuroCloud' 개발사 Qubiotech 과반 지분 인수 기본합의 — 아밀로이드 트레이서 3종 Centiloid 자동 산출(MRI 불필요)·CE 인증, FDA 허가 진행 중 (GlobeNewswire)",
+          "summary": "Claritas HealthTech가 Qubiotech Health Intelligence 과반 지분 인수 기본합의서에 서명했다(지분율·금액·종결 시점 비공개). 합병 회사는 PET 화질개선·정량 SW Claritas iPET과, 승인된 아밀로이드 트레이서 3종의 Centiloid를 MRI·수동 ROI 없이 자동 산출하는 neuroCloud(CE 인증, FDA 허가 진행 중)를 묶어 종양·신경 '독립 정량 PET' 플랫폼을 표방한다. 2025년 5월 상용화 제휴가 지분 인수로 확대된 것으로, BeauBrain의 아밀로이드 PET Centiloid 정량과 직접 경쟁하는 제품이 미국 진입을 준비 중이다.",
+          "source": "GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/10/22/3386488/0/en/claritas-and-qubiotech-join-forces-to-build-an-independent-challenger-in-quantitative-pet-from-whole-body-to-brain.html",
+          "tags": [
+            "Qubiotech",
+            "Claritas",
+            "neuroCloud",
+            "Centiloid",
+            "아밀로이드 PET",
+            "M&A"
+          ],
+          "importance": "high"
+        }
+      ]
     },
     {
       "id": "media",
