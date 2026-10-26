@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T09:30:00+09:00",
+  "headline": "복지부가 대한의료인공지능학회에서 의료 AI 수가를 사용량 비례가 아닌 '기관 단위·제품별 임상지표 성과' 보상으로 설계하겠다는 구상을 밝혀, 뇌 MRI 판독보조 SW도 단기 임상지표 근거 확보가 급여 전략의 관건이 될 전망이다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "일반 확산 MRI의 백질 경로 지표(RCI)로 MCI·AD 전환을 최대 4년 전 탐지(AUC 0.831) — OASIS-3 1,706세션 개발, ADNI 609명 외부검증 (medRxiv 프리프린트)",
+          "summary": "UCSD 연구팀이 확산 MRI 연결망에서 뇌실 주변 백질 경로 316개의 일치도 점수(Route Concordance Index, RCI)와 전역 전도도를 산출했다. RCI는 안정 정상군과 전임상 AD를 교차검증 AUC 0.817로 구분해 해마 부피와 비슷하고 내후각피질 두께·DTI-ALPS보다 높았으며, 인구학·구조 MRI·인지 변수를 더한 분류기는 진단 최대 4년 전 전환을 AUC 0.831(1년 이내 0.918)로 잡았다(양성예측도는 낮음). ADNI 외부검증 AUC는 전도도 0.805, RCI 0.797로, 표준 확산 시퀀스만으로 계산돼 T1 위축 지표를 보완할 정량 지표로 주목된다.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366165v1",
+          "tags": [
+            "확산MRI",
+            "뇌영상 정량",
+            "MCI 전환 예측"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "혈장 eMTBR-tau, SCD→MCI→AD 단계별 상승(AD는 SCD 대비 6.55배)·MCI→AD 전환 판별에서 p-tau217보다 우세(AUC 0.936 vs 0.882) — 시드니 메모리클리닉 436명 (medRxiv 프리프린트)",
+          "summary": "시드니대 Healthy Brain Ageing 클리닉 436명(SCD 186·MCI 228·AD 22)의 혈장 바이오마커 221종을 NULISAseq 패널로 비교한 결과 eMTBR-tau의 군간 차이가 가장 컸다(AD/SCD 6.55배, AD/MCI 3.88배). 약 2년 추적한 MCI 40명 중 6명의 AD 전환 판별 AUC는 eMTBR-tau 0.936, p-tau217 0.882였으나 전환 사례가 6명뿐인 탐색적 분석이다.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366056v1",
+          "tags": [
+            "혈액 바이오마커",
+            "eMTBR-tau",
+            "진행 예측"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "플랫폼·코호트가 다른 혈장 p-tau217 통합엔 (조건부) 분위수 매핑이 최선, CentiMarker·Z-점수는 비권장 — ADNI 219명·HCP 111명 (Alzheimer's & Dementia: DADM)",
+          "summary": "피츠버그대 Pascoal 연구팀이 반복측정 자료로 p-tau217의 측정 플랫폼 차이와 코호트 차이를 줄이는 하모나이제이션 방법을 비교했다. 플랫폼 차이에는 분위수 정규화·매핑이, 코호트 통합에는 조건부 분위수 매핑이 가장 효과적이면서 생물학적 변이를 보존했고, CentiMarker와 Z-점수 표준화는 기술적 변이를 거의 줄이지 못했다. 다기관 바이오마커·영상 데이터 통합 설계에 참고할 만하다.",
+          "source": "Alzheimer's & Dementia: DADM",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42921107/",
+          "tags": [
+            "혈액 바이오마커",
+            "p-tau217",
+            "하모나이제이션"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "2세대 타우 PET 18F-MK6240을 다운증후군에 처음 적용 — 아밀로이드 출현 직후 내측 측두엽 결합, 타우 범위가 클수록 일화기억 저하 (Alzheimer's & Dementia)",
+          "summary": "TRC-DS 코호트(18F-MK6240)와 ABC-DS 코호트(18F-Flortaucipir)의 Tau Extent를 하모나이즈해 비교한 결과, MK6240 결합은 아밀로이드 플라크 출현 직후 내측 측두엽에서 나타나 Flortaucipir 소견과 일치했다. 두 추적자 모두 타우 범위가 클수록 일화기억·전반 인지가 낮았다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://doi.org/10.1002/alz.71925",
+          "tags": [
+            "타우 PET",
+            "다운증후군",
+            "MK6240"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "체액 바이오마커 플랫폼 간 비교용 표준화 점수 SCeNS 제안 — 레카네맙 실사용 코호트에서 p-tau181 음전환 7.57% (Alzheimer's & Dementia: DADM)",
+          "summary": "가우시안 혼합모델 절단값을 기준으로 바이오마커 z-점수를 −100~100으로 재척도화하고 부호로 양성·음성을 표시하는 SCeNS(Symmetric Centipolar Normalized Score)를 제안해 여러 플랫폼의 CSF·혈장 AD 바이오마커에 적용했다. 레카네맙 치료 코호트에서 변화 폭은 p-tau217이 가장 컸고 음성 전환율은 p-tau181이 7.57%로 가장 높았다. 같은 주 p-tau217 하모나이제이션 논문은 CentiMarker류 표준화에 부정적이어서 함께 읽을 만하다.",
+          "source": "Alzheimer's & Dementia: DADM",
+          "url": "https://doi.org/10.1002/dad2.70516",
+          "tags": [
+            "혈액 바이오마커",
+            "표준화",
+            "레카네맙"
+          ]
+        },
+        {
+          "title": "Roche Elecsys 혈장 pTau181 검사 보관 안정성은 25℃ 2일·4℃ 7일·−20℃ 12주·−80℃ 16주 — 초기 규격 이탈은 버피코트 오염 탓 (Alzheimer's Research & Therapy)",
+          "summary": "LMU 병원이 여러 채혈 튜브로 Elecsys pT181p 검사의 전처리·보관 안정성을 평가했다. 첫 코호트(n=14)의 규격 이탈은 혈장 분리 시 버피코트·적혈구 오염 때문이었고, 절차 수정 후 별도 코호트(n=10)에서는 불안정성이 없었으며 1회 동결·해동 후에도 안정했다.",
+          "source": "Alzheimer's Research & Therapy",
+          "url": "https://doi.org/10.1186/s13195-026-02238-7",
+          "tags": [
+            "혈액 바이오마커",
+            "pTau181",
+            "전분석 조건"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "노년기 수축기혈압이 빨리 떨어질수록 사후 뇌 소동맥경화·죽상경화 심해 — 부검 2,033명, 소동맥경화 연관은 여성에서 더 강해 (Acta Neuropathologica)",
+          "summary": "Rush 알츠하이머병센터 등 4개 종단 코호트의 부검 노인 2,033명(기저 평균 79.7세, 여성 69%)을 평균 9.1년간 매년 측정한 혈압 기울기와 사후 뇌혈관 병리를 비교했다. 수축기혈압이 빨리 떨어질수록 소동맥경화(OR 1.24)와 죽상경화(OR 1.41)가 심했고, 소동맥경화와의 연관은 여성에서 더 강했다(상호작용 p=0.01). 백질 고신호 등 혈관성 MRI 지표 해석 시 성별·혈압 궤적을 고려할 근거다.",
+          "source": "Acta Neuropathologica",
+          "url": "https://doi.org/10.1007/s00401-026-03107-1",
+          "tags": [
+            "위험인자",
+            "혈압",
+            "뇌혈관 병리",
+            "성차"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "복지부 '의료AI 수가, 사용량 비례 대신 기관 단위·제품별 임상지표 성과로 보상' — 사전 지표계획 제출·단기 지표 평가, AI 활용 바우처 검토 (메디칼타임즈)",
+          "summary": "10월 23일 대한의료인공지능학회 학술대회에서 박정환 복지부 데이터진흥과장은 \"의료 AI 수가를 사용량에 비례하게 하지 않겠다\"며, 의료기관이 제품별 임상지표 개선 계획을 사전에 내고 달성 여부와 보안·표준화·거버넌스 등 운영 요건을 평가해 기관 단위로 보상하는 구상을 밝혔다. 평가는 장기 결과보다 단기 지표로 하고, 정식 수가 전 근거 축적 경로와 공공성 민간기관 대상 'AI 활용 바우처'(예산 확보 전)를 검토 중이나 수가 수준·비용 부담 방식은 미정이다. 뇌 MRI 판독보조 SW도 건당 분석료가 아닌 임상지표 개선 근거로 보상받는 구조가 될 수 있어, 치매 진단 SW가 내세울 단기 임상지표를 미리 설계할 필요가 있다.",
+          "source": "메디칼타임즈",
+          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171366",
+          "tags": [
+            "의료AI 수가",
+            "기관 단위 보상",
+            "보건복지부",
+            "대한의료인공지능학회"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "[후속] FDA 인력 공백, 국내 의료기기 업체도 체감 — 'FDA가 업무량 탓 자료 제출 시점 연기 요청' 증언 (메디칼타임즈)",
+          "summary": "CDRH 인력 약 22% 이탈 발표 이후 한 국내 업체 관계자는 FDA로부터 업무 과중을 이유로 자료 제출 시점을 늦춰달라는 요청을 받았다고 전했고, 다른 업체들은 아직 지연을 체감하지 못했다고 답했다. 새로 확인된 것은 국내 업체가 받은 실제 일정 조율 요청으로, 미국 510(k)·Q-Sub 일정에 여유를 둘 필요가 있다는 신호다.",
+          "source": "메디칼타임즈",
+          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171356",
+          "tags": [
+            "FDA",
+            "CDRH",
+            "인허가 일정",
+            "후속"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "휴대용 저자장 뇌 MRI 하이퍼파인, 'Optive AI' 업데이트로 CE·UKCA 획득 — 등방성 T1 시퀀스 추가, Swoop 모델2 해외 4개 시장 전개 (Business Wire)",
+          "summary": "Hyperfine이 노이즈 보정을 개선하고 모든 영상 평면에서 균일한 고해상도를 내는 등방성 T1 시퀀스를 더한 Optive AI 업데이트로 CE·UKCA 인증을 받았다. Swoop 모델2는 영국·프랑스·루마니아 등 해외 4개 시장에 보급 중이며, 독일 DZNE·본대병원의 치매예방 프로그램도 지원한다. 저자장 MRI에서 등방성 T1을 얻게 되면 휴대용 촬영 영상이 뇌 부피 정량분석 입력으로 쓰일 여지가 커진다.",
+          "source": "Business Wire (Yahoo Finance)",
+          "url": "https://finance.yahoo.com/healthcare/articles/hyperfine-advances-international-swoop-system-121500766.html",
+          "tags": [
+            "Hyperfine",
+            "저자장MRI",
+            "CE",
+            "T1"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "제이엘케이, 뇌졸중 협진 플랫폼 'FASTRO' 개편 — 뇌졸중 AI 12종 연동, 236명 비교서 전원 결정 69→50분 단축 (뉴스핌)",
+          "summary": "제이엘케이가 모바일 뇌졸중 협진 플랫폼 FASTRO를 뇌졸중 AI 솔루션 12종과 연동되도록 개편해 분석결과 알림·환자정보 조회·의료진 채팅·영상 공유를 지원한다. 경기도의료원 이천병원·분당서울대병원 236명 자료에서 전원 결정 시간이 69분에서 50분으로, 3시간 내 전원 비율이 66.2%에서 77.6%로 개선됐으며 지역-상급병원 협진과 공공조달 확대에 활용할 계획이다.",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261026000585",
+          "tags": [
+            "제이엘케이",
+            "뇌졸중",
+            "협진플랫폼"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "C2N 다이애그노스틱스, 세인트루이스 Cortex 'Catalyst' 건물 8만2,451평방피트 임차해 시설 3배 확장 — 임상검사실 3~4배, 2027년부터 검사 물량 확대 (St. Louis Magazine)",
+          "summary": "PrecivityAD 개발사 C2N이 Catalyst 건물 1~3층(82,451 sq ft)을 임차해 운영 공간을 3배, 임상검사실을 3~4배로 늘리고 연방 규제 검사실을 이전해 2027년부터 임상검사를 확대한다. 보도에 나온 1억 달러는 건물 전체 재개발 비용이다. 혈액검사 기업들이 검사 물량 급증에 대비하고 있다는 신호다.",
+          "source": "St. Louis Magazine",
+          "url": "https://www.stlmag.com/business/c2n-diagnostics-cortex-expansion-bioscience/",
+          "tags": [
+            "C2N",
+            "혈액검사",
+            "생산능력"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "아부다비 공중보건청장, 뷰노 '딥카스' 현지 실환자 적용 확인 — 'Medical Korea 2026 in UAE' 후속 (한국신용신문)",
+          "summary": "아부다비 공중보건센터(ADPHC) 수장이 10월 23일 링크드인에서 뷰노 DeepCARS(활력징후 기반 심정지 예측)와 씨어스테크놀로지 mobiCARE가 현지 병원 실환자에 적용되고 있다고 밝혔다. 치매 외 분야이지만 뷰노의 중동 도입 사례다.",
+          "source": "한국신용신문",
+          "url": "https://www.creditnews.kr/news/articleView.html?idxno=31932",
+          "tags": [
+            "뷰노",
+            "딥카스",
+            "UAE"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "172조 '치매머니' 노린 범죄, '환자가 자발적으로 준 돈' 주장하면 입증 어려워 — 간병인 13억7천만원 횡령 사건 등, 전문 후견인 확대 촉구 (중앙일보)",
+          "summary": "치매 환자 보유 자산(지난해 말 172조원, GDP의 약 6.9%)이 범죄 표적이 되지만 간병인 등이 '스스로 준 돈'이라 주장하면 진술·증거 확보가 어려운 수사 사각지대를 짚었다. 약 6년간 13억7,000만원을 빼낸 수원 간병인 모자 사건(항소심 징역 5년·3년) 등을 소개했고, 홍석철 서울대 교수는 후견 절차 간소화와 전문 후견인 확대를 요구했다.",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25472699",
+          "tags": [
+            "치매머니",
+            "후견제도",
+            "노인 경제적 학대"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "英 버밍엄 'Memory Matters' 시범사업, 80세 이상 치매 평가→치료 대기 31주→11주 단축 — GP 17곳 6개월 109건 (Birmingham Live)",
+          "summary": "버밍엄·솔리헐 정신건강 NHS 재단이 Alzheimer's Society 등과 GP·치매 전문의·지역단체를 묶어 6개월간 GP 17곳에서 109건을 평가했고, 80세 이상의 평가부터 치료까지 대기를 31주에서 11주로 줄였다. 12주 내 평가·진단 완료가 목표이며 재원은 지역 기금 50만 파운드로, 1차의료 중심 진단 경로의 실제 사례다.",
+          "source": "Birmingham Live",
+          "url": "https://www.birminghammail.co.uk/news/midlands-news/birmingham-dementia-pilot-cuts-waiting-34795024",
+          "tags": [
+            "NHS",
+            "진단 대기시간",
+            "1차의료"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "노인과학학술단체연합회 '돌봄 AI' 학술대회 — 스마트 기저귀 교체 후 15분 내 50.6% 배뇨 데이터, 기술이 관리인력·개인정보 부담 늘릴 수 있다는 지적 (디멘시아뉴스)",
+          "summary": "10월 23일 서울아산병원에서 열린 한국노인과학학술단체연합회 학술대회에서 연자들은 돌봄 AI가 인력 부담을 줄일 수 있지만 선택권을 보장하는 인간 중심 기술이어야 한다고 강조했다. 현장 데이터와 함께, 기술 도입이 오히려 관리 인력을 늘리고 개인정보 침해 우려를 낳을 수 있어 설계 단계부터 현장·노인·가족 참여가 필요하다는 지적이 나왔다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11239",
+          "tags": [
+            "돌봄 AI",
+            "학회"
+          ]
+        }
+      ]
+    }
+  ]
+}

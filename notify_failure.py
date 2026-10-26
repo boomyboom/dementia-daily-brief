@@ -26,6 +26,16 @@ MESSAGES = {
         "브리핑이 생성되지 않습니다.\n"
         "확인: `grep -A3 hooks ~/.claude/settings.json` → 존재하지 않는 경로를 가리키는 훅을 제거하세요."
     ),
+    "access": (
+        ":no_entry: *데일리 브리프 실행 차단 — 조직 설정에서 Claude Code 구독 접근이 비활성화됨*\n"
+        "로그 메시지: \"Your organization has disabled Claude subscription access for Claude Code\". "
+        "브리핑이 생성되지 않습니다. 조직 관리자에게 Claude Code 접근 재활성화를 요청하거나, "
+        "API 키 방식으로 전환해야 합니다."
+    ),
+    "unknown": (
+        ":warning: *데일리 브리프 자동 실행이 즉시 종료됨 — 원인 미분류*\n"
+        "claude 실행이 1분 안에 끝났고 브리핑이 생성되지 않았습니다. 로그 첫 줄:"
+    ),
     "timeout": (
         ":hourglass: *데일리 브리프 실행 시간초과 — 이번 회차 건너뜀*\n"
         "리서치가 제한 시간 안에 끝나지 않아 강제 종료됐고, 브리핑 갱신과 알림이 생략됐습니다.\n"
@@ -58,6 +68,10 @@ def main():
         return
 
     text = MESSAGES.get(reason, f":warning: 데일리 브리프 자동 실행 실패 ({reason})")
+    # 두 번째 인자로 로그 발췌를 받으면 덧붙인다 (원인 미분류 실패를 사람이 바로 판단할 수 있게)
+    detail = " ".join(sys.argv[2:]).strip()
+    if detail:
+        text += f"\n```\n{detail[:400]}\n```"
     card = {
         "type": "message",
         "attachments": [{
