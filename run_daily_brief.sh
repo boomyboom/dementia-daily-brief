@@ -35,12 +35,14 @@ BEFORE_REV="$(git rev-parse HEAD 2>/dev/null)"
 # 아침 회차의 옛 오류를 오후 회차가 다시 잡아 오탐 경고를 보낸다(2026-10-06 14:19 사례).
 LOG_START_LINE="$(wc -l < "$LOG")"
 
+CLAUDE_START="$(date +%s)"
 claude -p "$PROMPT" \
   --allowedTools "Task,Bash,WebSearch,WebFetch,Read,Write,Edit,Glob,Grep" \
   >> "$LOG" 2>&1
 
 # 이번 실행으로 새 커밋이 생겼으면(=브리핑이 새로 생성·갱신됨) 후처리
 AFTER_REV="$(git rev-parse HEAD 2>/dev/null)"
+CLAUDE_ELAPSED=$(( $(date +%s) - CLAUDE_START ))
 if [ "$BEFORE_REV" != "$AFTER_REV" ]; then
   echo "----- 변경 감지 -----" >> "$LOG"
   # (1) Teams 요약 발송 (평일만 — 스킵 로직은 스크립트 내부)
@@ -64,6 +66,15 @@ elif printf '%s\n' "$RUN_LOG" | grep -q "blocked by hook"; then
   # 2026-10-06: 삭제된 005_VIRTUAL_OFFICE/hook.py를 가리키는 훅이 프롬프트를 차단해 4일간 조용히 실패
   echo "----- 훅 차단 감지, 경고 발송 -----" >> "$LOG"
   python3 "$REPO/notify_failure.py" "hook" >> "$LOG" 2>&1
+elif printf '%s\n' "$RUN_LOG" | grep -q "disabled Claude subscription access"; then
+  # 2026-10-24 14시~10-26: 조직 설정으로 구독 접근이 막혀 4회차 연속 1초 만에 조용히 종료
+  echo "----- 조직 접근 차단 감지, 경고 발송 -----" >> "$LOG"
+  python3 "$REPO/notify_failure.py" "access" >> "$LOG" 2>&1
+elif [ "$BEFORE_REV" = "$AFTER_REV" ] && [ "$CLAUDE_ELAPSED" -lt 60 ]; then
+  # 정상 실행은 갱신할 게 없어도 리서치에 수 분이 걸린다. 1분 안에 끝났다면 처음 보는 오류로 즉시 종료된 것.
+  echo "----- 원인 미분류 즉시 종료 감지 (${CLAUDE_ELAPSED}초), 경고 발송 -----" >> "$LOG"
+  FIRST_LINE="$(printf '%s\n' "$RUN_LOG" | grep -v "^=====\|^-----\|^[[:space:]]*$" | head -1)"
+  python3 "$REPO/notify_failure.py" "unknown" "$FIRST_LINE" >> "$LOG" 2>&1
 fi
 
 echo "===== $(date '+%Y-%m-%d %H:%M:%S %Z') 종료 (exit=$?) =====" >> "$LOG"
