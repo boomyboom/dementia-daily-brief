@@ -83,6 +83,32 @@
             "내후각피질"
           ],
           "importance": "medium"
+        },
+        {
+          "title": "중년기 혈장 '신경구조 단백체'가 수십 년 뒤 인지저하·치매·AD 병리를 예측 — UK Biobank 다중모달 뇌영상×혈장 단백체 결합 (medRxiv 프리프린트)",
+          "summary": "밴더빌트대 연구진이 UK Biobank 참가자의 다중모달 뇌영상과 혈장 단백체를 결합해 뇌 구조·조직을 반영하는 혈중 단백체 서명('neurostructural proteome')을 도출했다. 이 서명은 약 20년 추적의 독립 코호트들에서 향후 인지저하·치매 발생·말년 AD 병리를 예측했고, 유전·단일핵 전사체 분석상 APOE 영역 밖 성상세포·미세아교세포·내피세포 경로로 AD 유전 구조와 수렴했다. 초록에 성능 수치는 제시되지 않았다.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.10.22.26366029v1",
+          "tags": [
+            "혈장 단백체",
+            "뇌 MRI",
+            "치매 예측",
+            "UK Biobank"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "APOE ε4 보인 AD 환자 84명, 망막 미세혈관 밀도 저하·아밀로이드 PET SUVR 상승·해마 위축 — 망막 표층혈관 밀도 추가 시 뇌영상 단독 모델 대비 판별력 소폭 향상 (CNS Neuroscience & Therapeutics)",
+          "summary": "아밀로이드 양성 AD 환자 84명에게 안저촬영·OCT 혈관조영술·혈장 바이오마커·아밀로이드 PET·MRI를 모두 시행해 APOE ε4 보인 여부에 따라 비교했다. 보인자는 망막 표층·심층 혈관 밀도가 낮고 아밀로이드 PET SUVR이 높았으며 PSMD 증가·해마 부피 감소를 보였다(모두 p<0.05). 망막 표층혈관 밀도는 LASSO 선택 후에도 독립 변수로 남아 뇌영상 바이오마커 단독 모델 대비 판별력·보정을 소폭 개선했다.",
+          "source": "CNS Neuroscience & Therapeutics",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42921695/",
+          "tags": [
+            "망막 영상",
+            "APOE ε4",
+            "아밀로이드 PET",
+            "다중모달"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -146,6 +172,55 @@
             "임상시험",
             "다양성",
             "정책"
+          ]
+        },
+        {
+          "title": "크로몰린+이부프로펜 병용제 ALZT-OP1 3상(COGNITE) 실패 — 조기 AD 619명·72주, CDR-SB 1차 평가변수 미달성 (Journal of Alzheimer's Disease)",
+          "summary": "조기 AD 619명을 크로몰린 흡입·이부프로펜·병용·위약 4군에 무작위 배정한 3상에서 병용군은 단독요법 대비 CDR-SB 1차 평가변수를 충족하지 못했다(크로몰린 대비 차이 0.16, p=0.675; 이부프로펜 대비 0.40, p=0.276). APOE4 비보인자에서 위약 대비 −0.96(p=0.069)의 수치상 이득만 관찰됐고, 안전성·내약성은 양호했다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42920249/",
+          "tags": [
+            "임상 3상",
+            "항염증",
+            "치료제 실패",
+            "APOE4"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "ACE 억제가 AD 위험을 높일 수 있다 — 단백체 전반 멘델 무작위화로 원인 후보 단백 15개, UK Biobank서 ACE 억제제 사용자 AD 발생 HR 1.23(ARB 대비) (Journal of the American Heart Association)",
+          "summary": "단백체 전반 멘델 무작위화로 AD 위험에 인과적 영향이 추정되는 혈장 단백 15개를 찾았고, 이 중 ACE 억제는 혈압과 독립적으로 AD 위험 증가와 연관됐다(OR 1.10, 95% CI 1.08–1.14). UK Biobank 관찰 분석에서 ACE 억제제 정기 사용자는 활성 대조군인 ARB 사용자보다 AD 발생이 높았다(HR 1.23, 95% CI 1.00–1.50). 처방 변경 전 실사용 근거·임상시험이 필요하다는 단서가 붙었다.",
+          "source": "Journal of the American Heart Association",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42924830/",
+          "tags": [
+            "멘델 무작위화",
+            "고혈압약",
+            "약물 재창출",
+            "UK Biobank"
+          ]
+        },
+        {
+          "title": "Brain Care Score 5점 높을수록 백질 고신호 부담 19% 낮고 PSMD·구조적 연결성도 양호 — 함부르크 시민 2,453명 MRI·DTI (European Journal of Neurology)",
+          "summary": "45~74세 함부르크 시민 2,453명(평균 63.8세)에서 생리·생활습관·사회 요인으로 만든 수정 Brain Care Score(0~18점)와 MRI·DTI 지표를 비교했다. 점수가 5점 높을수록 백질 고신호 부담이 낮고(상대 증가 0.81, 95% CI 0.75–0.87) PSMD도 낮았으며(0.97), 전역 효율 등 구조적 연결성과 처리속도·집행기능·언어유창성이 더 좋았다.",
+          "source": "European Journal of Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42922092/",
+          "tags": [
+            "위험인자",
+            "예방",
+            "백질 고신호",
+            "뇌 MRI"
+          ]
+        },
+        {
+          "title": "당뇨는 인지정상→MCI 전환 위험 1.73배 높이지만 MCI→AD 진행엔 영향 없어 — 아밀로이드→내후각피질 타우 경로 증폭, ADNI 1,638명 (Journal of Alzheimer's Disease)",
+          "summary": "ADNI 1,638명(인지정상 765명 중 당뇨 71명, MCI 873명 중 당뇨 91명) 종단 분석에서 당뇨는 인지정상→MCI 위험을 높였으나(보정 HR 1.73, p=0.028) MCI→AD 진행과는 무관했다(HR 1.10, p=0.574). 인지정상군에서 당뇨는 아밀로이드에 따른 내후각피질 타우 축적을 증폭(β=0.77, FDR p=0.043)하고 해마 부피의 인지 보호 효과를 약화시켰지만, MCI군에서는 이런 효과가 없었다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42925284/",
+          "tags": [
+            "당뇨",
+            "ATN",
+            "전임상 AD",
+            "ADNI"
           ]
         }
       ]
@@ -212,6 +287,18 @@
             "딥노이드",
             "인사"
           ]
+        },
+        {
+          "title": "美 하트플로우 '검사당 과금+보험' 모델로 2년 새 매출 2배 — 제이엘케이, FDA 510(k) 8건을 매출로 전환하는 단계 진입 분석 (머니투데이 더바이오)",
+          "summary": "심장 CT AI 기업 하트플로우의 매출이 2023년 8,717만 달러에서 2025년 1억7,603만 달러로 2배 이상 늘어난 배경으로 검사당 과금과 보험 적용 결합을 짚고, 같은 모델로 미국·일본을 공략하는 제이엘케이를 비교했다. 기사는 제이엘케이가 FDA 510(k) 8건과 JLK-CTP 중심 현지 기반을 갖춰 '인허가를 실제 매출로 전환하는 단계'에 들어섰다고 평가했으나, 신규 계약·매출 수치는 없다. 국내 뇌영상 AI 기업의 미국 수익화 경로(행위별 과금·보험)를 가늠하는 참고 분석이다.",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/amp/thebio/2026/10/27/2026102708432223717",
+          "tags": [
+            "제이엘케이",
+            "미국 진출",
+            "보험 수가",
+            "사업모델"
+          ]
         }
       ]
     },
@@ -254,6 +341,18 @@
             "재산범죄",
             "후견"
           ]
+        },
+        {
+          "title": "호주, 2025년 사망자 10명 중 1명 이상이 치매 — 1만9,019명으로 처음 10% 돌파, 2006년(5%) 대비 비중 두 배·여성 사망원인 10년째 1위 (호주 통계청 ABS)",
+          "summary": "호주 통계청이 10월 27일 발표한 2025년 사망원인 통계에서 알츠하이머를 포함한 치매 사망이 1만9,019명으로 전체 사망의 10%를 처음 넘었다. 치매가 4위·5%였던 2006년에 비해 비중이 거의 두 배가 됐고, 여성 치매 사망(1만1,628명)은 허혈성 심질환 사망의 약 두 배로 2016년부터 여성 사망원인 1위를 지키고 있다.",
+          "source": "Australian Bureau of Statistics",
+          "url": "https://www.abs.gov.au/media-centre/media-releases/dementia-causes-more-1-10-deaths",
+          "tags": [
+            "호주",
+            "치매 사망원인",
+            "역학통계"
+          ],
+          "importance": "medium"
         }
       ]
     }
