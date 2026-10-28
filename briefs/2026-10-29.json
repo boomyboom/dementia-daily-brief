@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T09:00:00+09:00",
+  "headline": "건정심이 과보상 CT·MRI 480개 항목(MRI 384개) 수가를 2027년 1월부터 인하(연 7천억 원 절감)하기로 의결해 뇌 MRI 촬영 수익 구조가 바뀐다 — 같은 날 바이오젠은 레켐비 3분기 글로벌 매출 2억200만 달러(+67%)를 발표했다.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "MRI만으로 합성 아밀로이드 PET를 만들고 불확실성까지 결합한 AD 분류 모델 'UNICAL' — 합성 PET SUVR이 실측과 r=0.954, 재학습 없이 ADNI3 외부검증 AUROC 0.836 (Journal of Imaging Informatics in Medicine)",
+          "summary": "T1 MRI에서 18F-florbetapir PET를 4번 확률적으로 합성하고, 그 평균과 복셀별 분산(불확실성)을 자기지도 3D MRI 인코더·라디오믹스 특징과 트랜스포머로 결합했다. 합성 PET는 OASIS-3 MRI–PET 228쌍에서 복셀 상관 r=0.864, 피질 합성 SUVR 상관 r=0.954였고, 개발 코호트(813세션) AUROC는 0.868(ECE 0.061)이었다. 재학습·재보정 없이 적용한 ADNI3 261명(AD 87·CN 174)에서도 AUROC 0.836(95% CI 0.791–0.876)으로 판별력은 유지됐지만 보정오차(ECE)는 0.089로 커져, 도메인 이동에는 보정이 더 취약했다.",
+          "source": "Journal of Imaging Informatics in Medicine",
+          "url": "https://doi.org/10.1007/s10278-026-02442-9",
+          "tags": [
+            "뇌 MRI AI",
+            "합성 PET",
+            "외부검증"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "타우 PET '공간 범위(TSE)' 지표로 MK6240과 플로르타우시피르 682명 맞비교 — MK6240이 더 낮은 아밀로이드 부담에서 타우 검출(내측측두엽 50% 검출 Centiloid 26 vs 45), TSE·SUVR 모두 트레이서 간 호환 불가 (medRxiv 프리프린트)",
+          "summary": "AD 연속선상 682명을 두 타우 PET 트레이서로 모두 촬영해, 영역 내 이상 복셀 비율(TSE)을 비교했다. 아밀로이드 양성 인지정상군의 내측측두엽 TSE는 MK6240 42%, 플로르타우시피르 25%였고, SUVR 양성 기준에 못 미치는 중간 범위 TSE(25–50%)에서도 아밀로이드 PET·혈장 p-tau217 양성 오즈가 약 3배(OR 2.90–3.46)였다. 다만 TSE와 SUVR 모두 트레이서 간 체계·비례 편향이 있어(내측측두엽 Deming 기울기 TSE 1.29, SUVR 2.69) 트레이서별 보정 없이는 값을 바꿔 쓸 수 없다.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.10.26.26366488v1",
+          "tags": [
+            "타우 PET",
+            "정량 지표",
+            "트레이서 비교"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "AD 혈장 바이오마커 단기 재검 신뢰도 — p-tau217·GFAP·NfL 등 핵심 마커 ICC≥0.84, p-tau217 이중 절단값 판정은 92%가 같은 범주 유지, 92명 반복 채혈 (Alzheimer's Research & Therapy)",
+          "summary": "UCL 연구진이 92명에게서 30분~3개월 간격으로 혈장을 두 번 채취해 Lumipulse p-tau217과 NULISAseq 등 131개 마커의 재측정 신뢰도를 평가했다. Aβ42, p-tau181/217/231, 뇌유래 p-tau, GFAP, NfL 등 핵심 마커는 모두 r≥0.79, ICC≥0.84였다. p-tau217 이중 절단값 판정에서는 92%가 같은 범주(고/중간/저)에 남았고 고↔저로 뒤바뀐 사람은 없었으며, NfL만 채혈 간격이 길수록 변동이 커졌다.",
+          "source": "Alzheimer's Research & Therapy",
+          "url": "https://doi.org/10.1186/s13195-026-02180-8",
+          "tags": [
+            "혈장 p-tau217",
+            "재현성"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "Olink Target 48 신경퇴행 패널, 암스테르담 연구진이 CSF·혈장 짝 352건으로 분석·임상 검증 — AD는 CSF pTau217 AUC 1.0, FTD는 혈장 NfL 0.952, DLB는 CSF DDC 0.901 (Alzheimer's & Dementia)",
+          "summary": "10/22에 실린 게이오대 프리프린트와 같은 패널이지만 별개 연구로, Teunissen 그룹이 인지정상·AD·FTD·DLB 각 44명의 CSF·혈장 짝 시료 352개로 검증했다. 42개 항목 중 검출 가능 항목은 CSF 31개, 혈장 38개였고 기존 기준 검사들과 상관이 좋아 변환식을 제시했다. 판별력은 AD에서 CSF pTau217 AUC 1.0, FTD에서 혈장 NfL 0.952, DLB에서 CSF 도파탈탄산효소(DDC) 0.901이었고 MMP10·ITGB2 같은 신규 후보도 나왔다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42949229/",
+          "tags": [
+            "체액 바이오마커",
+            "감별진단"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "태블릿 인지검사(CADi2)의 '완료 시간'은 백질병변보다 MRI AD형 위축 점수(ADLS)와 더 강하게 연관 — 일본 이즈모 지역주민 1,163명 (Alzheimer's & Dementia: DADM)",
+          "summary": "뇌 건강검진을 받은 지역주민 1,163명에서 iPad 인지검사의 반응시간 특징으로 MRI 지표 두 가지(AD형 위축 패턴 유사도 ADLS, 백질병변 부피)를 예측했다. 나이·성별 대비 추가 예측력은 ADLS에서만 유의했고(ΔR=+0.054, 95% CI 0.010–0.095; 백질병변 −0.006), 그 효과는 정답률이 아니라 완료 시간에서 나왔다. 잔차 분석에서도 ADLS와의 상관(r=0.160)이 백질병변(0.080)의 약 2배였다.",
+          "source": "Alzheimer's & Dementia: DADM",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42948203/",
+          "tags": [
+            "MRI 위축 지표",
+            "디지털 인지검사"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "MRI 자동정량 혈관주위공간(PVS)의 결정요인은 부위마다 달라 — 해마·중뇌 PVS는 AD 바이오마커·수면과, 반난원중심 PVS는 나이·심대사 위험과 연관, ALFA 인지정상 1,199명 (Journal of Cerebral Blood Flow & Metabolism)",
+          "summary": "AD 유전위험이 높은 스페인 ALFA 코호트의 인지정상 1,199명(54~65세, CSF 바이오마커 296명)에서 3T MRI로 기저핵·반난원중심·해마·중뇌 4개 부위의 PVS를 자동 정량했다. 반난원중심 PVS는 나이·남성·심혈관대사 요인과, 해마·중뇌 PVS는 AD 바이오마커 상태·수면·심리 지표와 더 밀접했고, 아밀로이드와 타우가 함께 양성일 때 연관이 가장 강했다. 남성은 반난원중심, 여성은 해마·중뇌·기저핵 PVS가 많아 부위·성별 특이성이 뚜렷했다.",
+          "source": "Journal of Cerebral Blood Flow & Metabolism",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42947582/",
+          "tags": [
+            "MRI 정량",
+            "혈관주위공간",
+            "전임상 AD"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "NFL 은퇴 선수 사망자 2,362명 전수 분석 — 기증 선택편향을 보정한 CTE 유병률 74.5%(기증 뇌 기준 93.5%), 생전 치매 27.2% (JAMA Network Open)",
+          "summary": "보스턴대 UNITE 뇌은행 자료를 국가사망지표와 연결해 2008~2023년 사망한 전 NFL 선수 2,362명(기증 396명·비기증 1,966명)을 분석했다. 인지 증상이 있으면 뇌를 기증할 확률이 CTE 없는 경우의 4.97배였고, 이 선택비로 보정한 인구 수준 CTE 유병률은 74.5%(95% CI 69.6~78.3%), 보정 후 생전 전체원인 치매 유병률은 27.2%였다. 선택편향이 기증자 기반 추정치를 부풀리지만 높은 CTE 부담을 모두 설명하지는 못한다는 결론이다.",
+          "source": "JAMA Network Open",
+          "url": "https://doi.org/10.1001/jamanetworkopen.2026.40884",
+          "tags": [
+            "CTE",
+            "역학",
+            "두부외상"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "인슐린 저항성 노인 40명 메트포르민 40주 무작위 투여 — 위약 대비 의사결정·학습 관련 뇌 영역의 포도당 섭취·부피·연결성 유지 (Journal of Clinical Investigation)",
+          "summary": "메이요클리닉 연구진은 성인 72명 비교에서 인슐린 저항성이 대뇌 백질·해마 부피 감소, 인지 관련 기능 연결성 저하와 연관됨을 보였다. 인슐린 저항성 노인 40명을 메트포르민 또는 위약 40주 투여군으로 무작위 배정하자, 메트포르민군은 전신 인슐린 감수성이 개선되면서 해당 영역의 뇌 포도당 섭취(PET)·부피·연결성이 유지됐다. 뇌 특이 인슐린 수용체 결손 마우스에서 ATP 생성 감소와 해마·전전두엽 의존 과제 결손이 나타나 기전 근거를 더했다.",
+          "source": "Journal of Clinical Investigation",
+          "url": "https://doi.org/10.1172/JCI207388",
+          "tags": [
+            "메트포르민",
+            "인슐린 저항성",
+            "치매 예방"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "AD 위험유전자 CASS4가 미세아교세포의 국소부착 신호를 조절 — 결손 시 5xFAD 마우스의 아밀로이드 침착·신경돌기 이상·인지결손 악화 (Journal of Experimental Medicine)",
+          "summary": "GWAS로 발굴된 미세아교세포 농축 AD 위험유전자 CASS4를 5xFAD 마우스에서 결손시키자 Aβ 침착, 신경돌기 이상, 인지결손이 모두 늘었다. CASS4가 없으면 미세아교세포가 플라크로 모이지 못해 플라크 응집이 줄었고, 인산화단백체 분석에서 국소부착(focal adhesion) 신호가 뚜렷하게 교란돼 있었다. 연구진은 CASS4를 AD 치료 표적 후보로 제시했다.",
+          "source": "Journal of Experimental Medicine",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42944718/",
+          "tags": [
+            "유전학",
+            "미세아교세포",
+            "기전"
+          ]
+        },
+        {
+          "title": "메디케어 2형 당뇨 환자, GLP-1 수용체 작용제 사용 시 치매 위험 HR 0.87 — 우울증은 HR 1.11로 늘고 효과는 처방 패턴에 따라 달라 (Diabetes, Obesity and Metabolism)",
+          "summary": "미 NIH 연구진이 메디케어 청구자료로 GLP-1 RA와 다른 2차 혈당강하제 사용자를 1:1 성향점수 매칭해 신경정신 결과 8개를 비교했다. GLP-1 RA군은 치매 위험이 낮았고(HR 0.87, 1,000인년당 2.8건 감소) 물질사용장애(HR 0.84)·자살·자해(HR 0.81)도 줄었지만 우울증은 HR 1.11로 늘었다. 단독요법군에서는 정신질환 위험이 HR 1.43으로 높아, 일률적인 계열 효과가 아니라 처방 맥락에 따라 다르다고 해석했다.",
+          "source": "Diabetes, Obesity and Metabolism",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42928425/",
+          "tags": [
+            "GLP-1",
+            "약물역학",
+            "치매 위험"
+          ]
+        },
+        {
+          "title": "'청력 저하→외로움→인지노화' 인과 경로는 근거 약해 — 유럽 SHARE 1만375명·최장 18년 추적과 멘델 무작위화 결과 (Alzheimer's & Dementia)",
+          "summary": "SHARE 코호트 1만375명의 최장 18년 자료로 잠재성장곡선을 분석하고 GWAS 8종으로 멘델 무작위화·공동국재 분석을 했다. 한 시점에서는 청력 저하·외로움·단어회상 저하가 서로 연관되고 외로움을 통한 간접효과도 유의했지만, 변화 간 종단 매개효과는 유의하지 않았다. 유전 분석에서도 청력 표현형이 직접 또는 외로움을 거쳐 AD·치매를 일으킨다는 근거는 거의 없어, 신경증 성향 등 공유 취약성 설명에 더 부합했다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42949226/",
+          "tags": [
+            "위험인자",
+            "난청",
+            "외로움"
+          ]
+        },
+        {
+          "title": "중국 조기 AD에서 레카네맙 병용 ICER 37만2,609위안/QALY — 현 약가로는 비용효과적이지 않아 바이알당 최소 18.0% 인하 필요 (Alzheimer's & Dementia)",
+          "summary": "광저우의대 연구진이 중국 실사용 자료로 마르코프 모델을 만들어 사회적 관점에서 레카네맙+표준치료와 표준치료 단독을 비교했다. 레카네맙 병용은 QALY를 1.2432 더 얻었지만 증분비용이 46만3,228위안이어서 ICER가 37만2,609위안/QALY였다. 지불의사 임계값 안에 들려면 바이알당 가격을 최소 18.0% 낮춰야 한다고 추정했다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42947268/",
+          "tags": [
+            "레카네맙",
+            "비용효과성",
+            "중국"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "건정심, 건강보험 수가 구조 혁신 이행안 의결 — 과보상 CT·MRI 480개 항목(MRI 384개) 수가 인하로 연 7천억 원 절감, 2027년 1월 시행 (보건복지부)",
+          "summary": "복지부가 10/28 건강보험정책심의위원회에서 지역·필수의료 수가 2.7조 원 상향과 함께, 비용 대비 수익이 150%를 넘는 검체·CT·MRI 검사 수가를 낮춰 연 2.6조 원을 절감하는 이행안을 의결했다. 영상검사는 CT 96개·MRI 384개 등 과보상 480개 항목 전체가 조정 대상(연 7천억 원)이며, 영상전문의 판독료와 응급가산은 현행 규모를 유지하고 2027년 1월부터 시행한다(언론 보도 기준 평균 인하율 CT 22%·MRI 33%). 뇌 MRI 촬영 수익이 줄어드는 만큼, 병원 대상 AI 영상분석 가치 제안과 별도 수가 설계에서 판독 효율·품질 근거의 비중이 커질 전망이다.",
+          "source": "보건복지부",
+          "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492342",
+          "tags": [
+            "수가",
+            "MRI",
+            "건정심",
+            "건강보험"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "식약처, 「의료기기 제품명 설정 가이드라인」 개정안 의견조회 — 디지털의료기기는 제품명 하나만·모델명 생략 가능, 기존 기기의 디지털 전환 시 동일 제품명 허용 (한국보건산업진흥원)",
+          "summary": "식약처 의료기기허가과가 디지털의료제품법 시행에 맞춰 디지털의료기기 제품명 관리사항을 반영한 민원인 안내서 개정안을 공개하고 11/2까지 의견을 받는다. 디지털의료기기는 하나의 제품명을 기재하고 모델명은 생략할 수 있으며, 기존 의료기기에 디지털 기술을 적용해 모델명을 달리하여 디지털의료기기로 새로 허가·인증받으면 같은 제품명을 쓸 수 있는 조항이 신설됐다. 뇌 MRI 분석 SW를 디지털의료기기로 재허가하거나 제품군을 늘릴 때 바로 적용되는 기준이다.",
+          "source": "한국보건산업진흥원",
+          "url": "https://www.khidi.or.kr/board/view?menuId=MENU01502&linkId=48951844",
+          "tags": [
+            "식약처",
+            "가이드라인",
+            "디지털의료기기"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "레켐비 3분기 글로벌 매출 2억200만 달러로 전년 대비 67% 증가 — 미국 1억700만 달러 (Biogen 3분기 실적)",
+          "summary": "바이오젠이 10/28 발표한 3분기 실적에서 레켐비 글로벌 매출(에자이 집계)은 2억200만 달러로 전년 동기 1억2,100만 달러보다 67% 늘었고, 이 중 미국 매출은 1억700만 달러였다. 바이오젠은 '분기 대비 성장이 이어졌다'고 설명했다. 항아밀로이드 치료 확산은 투여 전 아밀로이드 확인과 ARIA 모니터링 MRI 수요로 이어져 뇌영상 정량 SW 시장의 직접 수요 지표가 된다.",
+          "source": "Biogen (SEC 8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/875045/000087504526000094/exhibit991-q32026pressrele.htm",
+          "tags": [
+            "레켐비",
+            "바이오젠",
+            "실적"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "릴리, ADDF 진단가속기의 음성 바이오마커 데이터셋 'SpeechDx' 라이선스 — 바이오마커 확진 2,000명 이상·3년 추적, 지멘스 헬시니어스·Callyope에 이어 세 번째 (ADDF)",
+          "summary": "알츠하이머신약개발재단(ADDF) 진단가속기가 음성 데이터와 바이오마커로 확진된 진단을 함께 담은 SpeechDx 데이터셋을 일라이 릴리에 라이선스했다. 2,000명 이상을 3년간 추적하는 데이터로, 릴리는 지멘스 헬시니어스·Callyope에 이은 세 번째 라이선시다. 릴리 측은 '진단을 더 정확하고 접근하기 쉽고 덜 침습적으로 만드는 데 쓰겠다'고 밝혀, 치료제 기업이 혈액검사 다음 단계의 비침습 디지털 선별 도구에 투자하고 있음을 보여준다.",
+          "source": "Alzheimer's Drug Discovery Foundation",
+          "url": "https://www.alzdiscovery.org/news-room/announcements/alzheimers-drug-discovery-foundations-diagnostics-accelerator-licenses-speechdx-dataset-to-eli-lilly-and-company-advancing-speech-based-markers-as-a-critical-alzheimers-research-tool",
+          "tags": [
+            "릴리",
+            "음성 바이오마커",
+            "디지털 진단",
+            "파트너십"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "[후속] 뷰노, 유상증자 증권신고서 정정 — 딥카스 특허무효 판결 2건 대법원 상고장 제출 완료, 정부과제 9건 중 7건 연내 종료·내년 보건의료 R&D 예산 4.9% 감소를 위험요소로 추가 (DART)",
+          "summary": "뷰노가 10/28 증권신고서(지분증권)를 정정해, 에이아이트릭스와의 특허무효 2심 판결 2건에 대해 대법원에 상고장을 제출했다고 명시했다. 정부 R&D 위험 항목에는 수행 중인 과제 9건 중 7건이 2026년 12월 안에 끝나고, 보건의료 R&D 예산이 2026년 9,399억원에서 2027년 8,943억원으로 4.9% 줄어든다는 내용을 추가했다. 상고 방침은 10/20에 다뤘고, 이번 공시로 새로 확인된 것은 상고장 실제 제출과 정부과제 공백 위험이다.",
+          "source": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028000623",
+          "tags": [
+            "뷰노",
+            "유상증자",
+            "특허 소송"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "Brainomix, 비조영 CT 경색 부피 자동측정으로 3상 CHARM 사후분석 — 경색 125mL 미만 191명에서 정맥 글리부라이드 투여가 기능 예후 개선과 연관 (AuntMinnie)",
+          "summary": "Brainomix 360 Stroke로 3상 CHARM 참가자 428명의 급성 경색 부피를 비조영 CT에서 측정한 결과, 125mL 미만 191명에서 정맥 글리부라이드(Cirara) 투여가 90일 기능 예후 개선과 유의하게 연관됐다. CT 관류나 MRI 없이도 임상시험 대상자를 고를 수 있다는 근거로, 뇌영상 AI가 치료제 임상의 환자 선별 도구로 쓰이는 사례다. Cirara는 아직 허가 전이다.",
+          "source": "AuntMinnie",
+          "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/16050254/brainomix-highlights-ai-study-on-stroke-drug-responders",
+          "tags": [
+            "Brainomix",
+            "뇌졸중",
+            "임상시험 환자 선별"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": []
+    }
+  ]
+}
