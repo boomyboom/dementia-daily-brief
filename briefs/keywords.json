@@ -1,16 +1,201 @@
 {
- "generated_at": "2026-10-28T08:08:31+09:00",
+ "generated_at": "2026-10-28T14:10:28+09:00",
  "date": "2026-10-28",
  "prev_date": "2026-10-27",
  "window_days": 30,
  "topics": [
   {
    "rank": 1,
+   "keyword": "뇌 MRI",
+   "count": 137,
+   "prev_rank": 2,
+   "delta": 1,
+   "state": "up",
+   "items": [
+    {
+     "date": "2026-10-28",
+     "title": "구조 MRI 전용 자기지도 사전학습 'SYMBA' — 9개 코호트 T1 6,953건으로 학습, 미사용 외부 데이터셋에서 AD 분류 AUROC 0.930·MCI 전환 예측 0.772, 레이블 6명만으로도 AD/CN 약 0.90 (arXiv 프리프린트)",
+     "url": "https://arxiv.org/abs/2610.37074",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-28",
+     "title": "식약처, 디지털의료기기 허가·심사 업무설명회(10/28) — 10월 시행 '신기술 의료기기 허가심사 혁신방안'과 제·개정 가이드라인 13종 소개, 경도인지장애 등 7개 적응증 임상시험계획서 심사 방안·AI 의료기기 최신 보완 사례 공유 (식품의약품안전처)",
+     "url": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50439",
+     "section": "규제·인허가·정책",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-28",
+     "title": "[후속] 딥노이드, KoSAIM 2026에서 3개 부문 수상 — 판독문만으로 병변 위치를 학습하는 비전언어 AI 'GLINT' 최우수 구연상, 파운데이션 모델 기반 뇌 MRI 백질고신호(WMH) 분할 연구는 우수 포스터상 (메디게이트뉴스)",
+     "url": "https://www.medigatenews.com/news/2460193116",
+     "section": "경쟁사 동향",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-27",
+     "title": "MRI 자동 부피분석 파이프라인 volBrain CognitiveTree 검증 — ADNI AD 100명·정상 100명, 231개 영역 부피로 랜덤포레스트 AUC 0.95·정확도 90%, 기여도 1위는 하측두각 부피 (Clinical Anatomy)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42924505/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-27",
+     "title": "내후각피질 시각 위축척도 ERICA 체계적 고찰 — 6편·844명, MTA 척도보다 민감도 낮고 특이도 높아, 판독자 간 재현성은 동등 이상 (Arquivos de Neuro-Psiquiatria)",
+     "url": "https://doi.org/10.1055/s-0046-1829131",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-27",
+     "title": "중년기 혈장 '신경구조 단백체'가 수십 년 뒤 인지저하·치매·AD 병리를 예측 — UK Biobank 다중모달 뇌영상×혈장 단백체 결합 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.22.26366029v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-27",
+     "title": "Brain Care Score 5점 높을수록 백질 고신호 부담 19% 낮고 PSMD·구조적 연결성도 양호 — 함부르크 시민 2,453명 MRI·DTI (European Journal of Neurology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42922092/",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-10-26",
+     "title": "일반 확산 MRI의 백질 경로 지표(RCI)로 MCI·AD 전환을 최대 4년 전 탐지(AUC 0.831) — OASIS-3 1,706세션 개발, ADNI 609명 외부검증 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366165v1",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-26",
+     "title": "복지부 '의료AI 수가, 사용량 비례 대신 기관 단위·제품별 임상지표 성과로 보상' — 사전 지표계획 제출·단기 지표 평가, AI 활용 바우처 검토 (메디칼타임즈)",
+     "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171366",
+     "section": "규제·인허가·정책",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-26",
+     "title": "휴대용 저자장 뇌 MRI 하이퍼파인, 'Optive AI' 업데이트로 CE·UKCA 획득 — 등방성 T1 시퀀스 추가, Swoop 모델2 해외 4개 시장 전개 (Business Wire)",
+     "url": "https://finance.yahoo.com/healthcare/articles/hyperfine-advances-international-swoop-system-121500766.html",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-24",
+     "title": "AD·PD 공유 사전정보로 공간적응 전이학습한 구조 MRI 형태계측 분류기 — 질환별 단독 모델보다 진단 성능 통계적으로 우수, ADNI·PPMI (arXiv 프리프린트)",
+     "url": "https://arxiv.org/abs/2610.27150",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-24",
+     "title": "영국 뇌영상 분석 CRO IXICO, FY26(9월 결산) 매출 830만 파운드로 28% 증가 예상 — 상향 가이던스(800만 파운드) 초과, 수주잔고 1,600만 파운드 (IXICO)",
+     "url": "https://ixico.com/news-and-resources/news/ixico-trading-update-for-year-ending-30-september-2026",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-23",
+     "title": "구조 MRI AI로 신경퇴행질환 '감별진단' 82편 체계적 고찰 — 이진 분류는 90% 넘지만 3군 70~92%, 4군 이상·외부 도메인 65~88%로 하락, 사설 데이터 77%·외부검증 28%·병리 확진 라벨 18%뿐 (Imaging Neuroscience)",
+     "url": "https://doi.org/10.1162/imag.a.1448",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-23",
+     "title": "해마 MRI 기반 CN/MCI/AD 3군 분류 6개 모델 교차코호트 벤치마크 — 코호트 내 균형정확도 약 0.55가 타 코호트에선 0.38~0.45로 하락, 모델 간 유의차 없음, ADNI·OASIS·Kaggle (Machine Learning and Knowledge Extraction)",
+     "url": "https://doi.org/10.3390/make8110344",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-23",
+     "title": "정부 '바이오 분야 경쟁국 수준 규제 합리화 방안' — 가명 의료정보 연구는 IRB 심의 면제(생명윤리법 시행규칙 개정)·포괄동의 도입, 정형 의료데이터 가명처리 공통기준(26.11)·클라우드 원격분석 환경 기준(26.12) 마련 (보건복지부)",
+     "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492314",
+     "section": "규제·인허가·정책",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "워싱턴대 Knight ADRC, 1,645명·6,217회 촬영의 다중모달 뇌영상 데이터셋 'KARI' 공개 — 구조·기능 MRI와 아밀로이드·타우 PET, 분할·정량 처리 결과까지 제공 (Nature Communications)",
+     "url": "https://doi.org/10.1038/s41467-026-78439-3",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "LoRA로 미세조정한 비전 파운데이션 모델 4종, 뇌 MRI 분할 성능(Dice 78~81%)은 같아도 AD 분류 전이는 DINOv3만 개선되고 나머지 3종은 저하 (arXiv 프리프린트)",
+     "url": "https://arxiv.org/abs/2610.28255",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "[후속] FDA 디지털헬스센터장 '생성형 AI 초안 가이던스 수개월 내 발표, 백악관 최우선 과제' — 의견 500건+ 접수, AI 생애주기 가이던스 최종화도 우선순위 (MedTech Dive)",
+     "url": "https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "복지부 고시 제2026-217호 — 2027년 1월부터 건강보험 점수당 단가 병원 83.8→84.7원·의원 95.6→96.5원 (보건복지부)",
+     "url": "https://www.mohw.go.kr/board.es?mid=a10409020000&bid=0026&act=view&list_no=1492260",
+     "section": "규제·인허가·정책",
+     "importance": null
+    },
+    {
+     "date": "2026-10-22",
+     "title": "신포괄지불제도 15년 만에 포괄·비포괄 구분기준 재정비 논의 — MRI·PET 등 영상검사는 비포괄→포괄 이동(2028년 상대가치 상시조정 이후), 마취료는 비포괄로, 약제 '80% 비포괄' 폐지 (데일리메디)",
+     "url": "https://www.dailymedi.com/news/news_view.php?ca_id=22&wr_id=941723",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "FDA CDRH 센터장 '지난 1년여 이직률 약 22%, 임상 심사관 최대 30%·AI·디지털헬스 전문가 다수 이탈' — FY2026 MDUFA 채용 목표 63명 넘겨 65명 이상 충원 (MedTech Dive)",
+     "url": "https://www.medtechdive.com/news/cdrh-on-hiring-spree-after-significant-staff-losses-director-says/833659/",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-21",
+     "title": "구조 MRI 3D CNN 알츠하이머 분류의 '나이 편향'과 확률 보정 문제 — 잔차화(PMDN)로 나이 상관 거의 0·균형정확도 0.71, 사후 보정(isotonic·Bayesian binning)으로 MCE 약 0.21~0.24 (Int J Comput Assist Radiol Surg)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42891802/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-21",
+     "title": "실제 메모리클리닉에서 혈장 p-tau217 결과가 나오자 진단의 37.8~46.9%가 바뀌어 — APOE ε4 비보인자는 AD→비AD 재분류가 66% vs 14%로 쏠려, 베일러 100명 후향 분석 (Alzheimer Disease & Associated Disorders)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42899313/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-21",
+     "title": "[후속·국감] NECA '복지부·심평원과 근거 기반 AI 보상체계 연구 추진' — 최보윤 의원, 2023년 의료 AI 가치평가 연구를 하고도 제도개선 건의 0건 지적, 급여 28건(약 5%)·분석료 310~3,500원 재확인 (히트뉴스)",
+     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80057",
+     "section": "규제·인허가·정책",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-21",
+     "title": "동국제약, 가돌리늄 MRI 조영제 '유니레이프리필드주사' 공급부족 식약처 보고(10/20) — 중국 희토류 수출통제로 원료 차단, 국내 가도테레이트메글루민 시장 약 38%·유일한 국산 (메디칼타임즈)",
+     "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171288",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    }
+   ]
+  },
+  {
+   "rank": 2,
    "keyword": "아밀로이드",
    "count": 136,
    "prev_rank": 1,
-   "delta": 0,
-   "state": "same",
+   "delta": 1,
+   "state": "down",
    "items": [
     {
      "date": "2026-10-28",
@@ -186,191 +371,6 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42898005/",
      "section": "치매 전분야 연구",
      "importance": "medium"
-    }
-   ]
-  },
-  {
-   "rank": 2,
-   "keyword": "뇌 MRI",
-   "count": 134,
-   "prev_rank": 2,
-   "delta": 0,
-   "state": "same",
-   "items": [
-    {
-     "date": "2026-10-27",
-     "title": "MRI 자동 부피분석 파이프라인 volBrain CognitiveTree 검증 — ADNI AD 100명·정상 100명, 231개 영역 부피로 랜덤포레스트 AUC 0.95·정확도 90%, 기여도 1위는 하측두각 부피 (Clinical Anatomy)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42924505/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-27",
-     "title": "내후각피질 시각 위축척도 ERICA 체계적 고찰 — 6편·844명, MTA 척도보다 민감도 낮고 특이도 높아, 판독자 간 재현성은 동등 이상 (Arquivos de Neuro-Psiquiatria)",
-     "url": "https://doi.org/10.1055/s-0046-1829131",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-27",
-     "title": "중년기 혈장 '신경구조 단백체'가 수십 년 뒤 인지저하·치매·AD 병리를 예측 — UK Biobank 다중모달 뇌영상×혈장 단백체 결합 (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.10.22.26366029v1",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-27",
-     "title": "Brain Care Score 5점 높을수록 백질 고신호 부담 19% 낮고 PSMD·구조적 연결성도 양호 — 함부르크 시민 2,453명 MRI·DTI (European Journal of Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42922092/",
-     "section": "치매 전분야 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-10-26",
-     "title": "일반 확산 MRI의 백질 경로 지표(RCI)로 MCI·AD 전환을 최대 4년 전 탐지(AUC 0.831) — OASIS-3 1,706세션 개발, ADNI 609명 외부검증 (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366165v1",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-26",
-     "title": "복지부 '의료AI 수가, 사용량 비례 대신 기관 단위·제품별 임상지표 성과로 보상' — 사전 지표계획 제출·단기 지표 평가, AI 활용 바우처 검토 (메디칼타임즈)",
-     "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171366",
-     "section": "규제·인허가·정책",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-26",
-     "title": "휴대용 저자장 뇌 MRI 하이퍼파인, 'Optive AI' 업데이트로 CE·UKCA 획득 — 등방성 T1 시퀀스 추가, Swoop 모델2 해외 4개 시장 전개 (Business Wire)",
-     "url": "https://finance.yahoo.com/healthcare/articles/hyperfine-advances-international-swoop-system-121500766.html",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-24",
-     "title": "AD·PD 공유 사전정보로 공간적응 전이학습한 구조 MRI 형태계측 분류기 — 질환별 단독 모델보다 진단 성능 통계적으로 우수, ADNI·PPMI (arXiv 프리프린트)",
-     "url": "https://arxiv.org/abs/2610.27150",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-24",
-     "title": "영국 뇌영상 분석 CRO IXICO, FY26(9월 결산) 매출 830만 파운드로 28% 증가 예상 — 상향 가이던스(800만 파운드) 초과, 수주잔고 1,600만 파운드 (IXICO)",
-     "url": "https://ixico.com/news-and-resources/news/ixico-trading-update-for-year-ending-30-september-2026",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-23",
-     "title": "구조 MRI AI로 신경퇴행질환 '감별진단' 82편 체계적 고찰 — 이진 분류는 90% 넘지만 3군 70~92%, 4군 이상·외부 도메인 65~88%로 하락, 사설 데이터 77%·외부검증 28%·병리 확진 라벨 18%뿐 (Imaging Neuroscience)",
-     "url": "https://doi.org/10.1162/imag.a.1448",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-23",
-     "title": "해마 MRI 기반 CN/MCI/AD 3군 분류 6개 모델 교차코호트 벤치마크 — 코호트 내 균형정확도 약 0.55가 타 코호트에선 0.38~0.45로 하락, 모델 간 유의차 없음, ADNI·OASIS·Kaggle (Machine Learning and Knowledge Extraction)",
-     "url": "https://doi.org/10.3390/make8110344",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-23",
-     "title": "정부 '바이오 분야 경쟁국 수준 규제 합리화 방안' — 가명 의료정보 연구는 IRB 심의 면제(생명윤리법 시행규칙 개정)·포괄동의 도입, 정형 의료데이터 가명처리 공통기준(26.11)·클라우드 원격분석 환경 기준(26.12) 마련 (보건복지부)",
-     "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492314",
-     "section": "규제·인허가·정책",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-22",
-     "title": "워싱턴대 Knight ADRC, 1,645명·6,217회 촬영의 다중모달 뇌영상 데이터셋 'KARI' 공개 — 구조·기능 MRI와 아밀로이드·타우 PET, 분할·정량 처리 결과까지 제공 (Nature Communications)",
-     "url": "https://doi.org/10.1038/s41467-026-78439-3",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-22",
-     "title": "LoRA로 미세조정한 비전 파운데이션 모델 4종, 뇌 MRI 분할 성능(Dice 78~81%)은 같아도 AD 분류 전이는 DINOv3만 개선되고 나머지 3종은 저하 (arXiv 프리프린트)",
-     "url": "https://arxiv.org/abs/2610.28255",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-22",
-     "title": "[후속] FDA 디지털헬스센터장 '생성형 AI 초안 가이던스 수개월 내 발표, 백악관 최우선 과제' — 의견 500건+ 접수, AI 생애주기 가이던스 최종화도 우선순위 (MedTech Dive)",
-     "url": "https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-22",
-     "title": "복지부 고시 제2026-217호 — 2027년 1월부터 건강보험 점수당 단가 병원 83.8→84.7원·의원 95.6→96.5원 (보건복지부)",
-     "url": "https://www.mohw.go.kr/board.es?mid=a10409020000&bid=0026&act=view&list_no=1492260",
-     "section": "규제·인허가·정책",
-     "importance": null
-    },
-    {
-     "date": "2026-10-22",
-     "title": "신포괄지불제도 15년 만에 포괄·비포괄 구분기준 재정비 논의 — MRI·PET 등 영상검사는 비포괄→포괄 이동(2028년 상대가치 상시조정 이후), 마취료는 비포괄로, 약제 '80% 비포괄' 폐지 (데일리메디)",
-     "url": "https://www.dailymedi.com/news/news_view.php?ca_id=22&wr_id=941723",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-22",
-     "title": "FDA CDRH 센터장 '지난 1년여 이직률 약 22%, 임상 심사관 최대 30%·AI·디지털헬스 전문가 다수 이탈' — FY2026 MDUFA 채용 목표 63명 넘겨 65명 이상 충원 (MedTech Dive)",
-     "url": "https://www.medtechdive.com/news/cdrh-on-hiring-spree-after-significant-staff-losses-director-says/833659/",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-21",
-     "title": "구조 MRI 3D CNN 알츠하이머 분류의 '나이 편향'과 확률 보정 문제 — 잔차화(PMDN)로 나이 상관 거의 0·균형정확도 0.71, 사후 보정(isotonic·Bayesian binning)으로 MCE 약 0.21~0.24 (Int J Comput Assist Radiol Surg)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42891802/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-21",
-     "title": "실제 메모리클리닉에서 혈장 p-tau217 결과가 나오자 진단의 37.8~46.9%가 바뀌어 — APOE ε4 비보인자는 AD→비AD 재분류가 66% vs 14%로 쏠려, 베일러 100명 후향 분석 (Alzheimer Disease & Associated Disorders)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42899313/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-21",
-     "title": "[후속·국감] NECA '복지부·심평원과 근거 기반 AI 보상체계 연구 추진' — 최보윤 의원, 2023년 의료 AI 가치평가 연구를 하고도 제도개선 건의 0건 지적, 급여 28건(약 5%)·분석료 310~3,500원 재확인 (히트뉴스)",
-     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80057",
-     "section": "규제·인허가·정책",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-21",
-     "title": "동국제약, 가돌리늄 MRI 조영제 '유니레이프리필드주사' 공급부족 식약처 보고(10/20) — 중국 희토류 수출통제로 원료 차단, 국내 가도테레이트메글루민 시장 약 38%·유일한 국산 (메디칼타임즈)",
-     "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171288",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-21",
-     "title": "[후속] 복지부·WHO 'AI 헬스케어 서울선언문' 공동 채택(10/21) — '최종 판단은 인간', 효과·안전성 검증된 AI부터 확대, 사용목적·위험수준에 비례한 전 생애 감독 (메디파나뉴스)",
-     "url": "https://www.medipana.com/news/articleView.html?idxno=419760",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-21",
-     "title": "누라백스, 무증상 아밀로이드 양성자 대상 Aβ 백신 AV-1959R 美 FDA 패스트트랙 — 예방 2상 'AREVIA' 160명 모집 예정 (PR Newswire)",
-     "url": "https://www.prnewswire.com/news-releases/nuravax-receives-fda-fast-track-designation-for-av1959r-an-investigational-vaccine-designed-to-help-prevent-alzheimers-disease-before-symptoms-begin-302911695.html",
-     "section": "시장·투자",
-     "importance": null
-    },
-    {
-     "date": "2026-10-21",
-     "title": "클라우드 영상판독 플랫폼 시로나 메디컬, 4,000만 달러 시리즈D — 연간 1,200만 건 이상 계약, 매출 전년 대비 2.5배·누적 약 1억 5,000만 달러 (AuntMinnie)",
-     "url": "https://www.auntminnie.com/imaging-informatics/enterprise-imaging/news/15837538/sirona-medical-raises-40m-in-series-d-funding",
-     "section": "시장·투자",
-     "importance": null
     }
    ]
   },
@@ -932,7 +932,7 @@
   {
    "rank": 6,
    "keyword": "아밀로이드 PET",
-   "count": 74,
+   "count": 75,
    "prev_rank": 7,
    "delta": 1,
    "state": "up",
@@ -948,6 +948,13 @@
      "date": "2026-10-28",
      "title": "아밀로이드 PET·CSF가 빠진 멀티모달 MCI→AD 예후 모델, 설명 기여도의 12~23%를 '관측 안 된 모달리티'에 귀속 — LLM 설명 리포트 51,200건 검증 (arXiv 프리프린트)",
      "url": "https://arxiv.org/abs/2610.35430",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-28",
+     "title": "흑인·백인 '아밀로이드 역설'은 평균 아밀로이드 발생 연령 차이로 부분 설명 — 5개 기관 센틸로이드 PET 코호트 2,653명, 흑인의 발생 연령이 12.5년 늦어 전체 양성률은 낮지만 '발생까지 남은 연수' 구간별로는 더 높아 (JAMA Network Open)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42944683/",
      "section": "진단·영상 연구",
      "importance": "medium"
     },
@@ -1104,13 +1111,6 @@
      "url": "https://doi.org/10.1186/s13195-026-02234-x",
      "section": "진단·영상 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-10-19",
-     "title": "항아밀로이드 치료 전 MRI 내측측두엽 위축(VSRAD Z≥3)이 1년 뒤 CDR-SB 악화 +2.62 vs +0.64 예측, 미세출혈 동반 시 ARIA-H 오즈비 14.0 — 도쿄 실사용 161명(레카네맙 89·도나네맙 72) (Journal of Prevention of Alzheimer's Disease)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42892274/",
-     "section": "진단·영상 연구",
-     "importance": "high"
     }
    ]
   },
@@ -1487,11 +1487,18 @@
   {
    "rank": 9,
    "keyword": "타우",
-   "count": 67,
+   "count": 68,
    "prev_rank": 8,
    "delta": 1,
    "state": "down",
    "items": [
+    {
+     "date": "2026-10-28",
+     "title": "뇌간 에딩거-웨스트팔 핵의 타우 취약성과 회로 수준 회복탄력성이 AD 인지 결과를 좌우 — 3×Tg-AD 마우스·AD 환자 모두에서 향후 인지저하 예측 (Neuron)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42945962/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
     {
      "date": "2026-10-27",
      "title": "당뇨는 인지정상→MCI 전환 위험 1.73배 높이지만 MCI→AD 진행엔 영향 없어 — 아밀로이드→내후각피질 타우 경로 증폭, ADNI 1,638명 (Journal of Alzheimer's Disease)",
@@ -1658,13 +1665,6 @@
      "title": "ADNI3 145명 다중모달 영상으로 전뇌 '난류 역학'과 in silico 섭동 지표를 AT(N) 단계별 비교 — 대규모 난류는 A·T·N 세 요소 모두와 연관, 모델 기반 정보용량·감수성은 단계 진행에 따라 감소하나 분류 성능 향상은 '지표에 따라 미미' (medRxiv 프리프린트)",
      "url": "https://www.medrxiv.org/content/10.64898/2026.10.12.26365318v1",
      "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-14",
-     "title": "부검 확진 진행성핵상마비(PSP)는 생각보다 흔하고 '전형적'이지 않다 — 美 ADRC 부검 코호트 6,845명 중 297례, 치매·PSP로 등록된 4,310명의 4.5%·인지정상 등록 1,451명의 3.2%, 발생형 PSP는 사망연령 89.5세 vs 유병형 76.3세 (Acta Neuropathologica)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42867534/",
-     "section": "치매 전분야 연구",
      "importance": "medium"
     }
    ]
@@ -2412,11 +2412,25 @@
   {
    "rank": 14,
    "keyword": "임상시험",
-   "count": 51,
+   "count": 53,
    "prev_rank": 14,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-10-28",
+     "title": "흑인·백인 '아밀로이드 역설'은 평균 아밀로이드 발생 연령 차이로 부분 설명 — 5개 기관 센틸로이드 PET 코호트 2,653명, 흑인의 발생 연령이 12.5년 늦어 전체 양성률은 낮지만 '발생까지 남은 연수' 구간별로는 더 높아 (JAMA Network Open)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42944683/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-28",
+     "title": "식약처, 디지털의료기기 허가·심사 업무설명회(10/28) — 10월 시행 '신기술 의료기기 허가심사 혁신방안'과 제·개정 가이드라인 13종 소개, 경도인지장애 등 7개 적응증 임상시험계획서 심사 방안·AI 의료기기 최신 보완 사례 공유 (식품의약품안전처)",
+     "url": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50439",
+     "section": "규제·인허가·정책",
+     "importance": "high"
+    },
     {
      "date": "2026-10-27",
      "title": "UK 치매임상시험네트워크, 치매 임상시험 대표성 개선 실행 프레임워크 — 소수인종·저소득층·75세 이상·저중소득국 과소대표, 적격기준 개혁 등 5개 영역 (Alzheimer's & Dementia)",
@@ -2577,20 +2591,6 @@
      "url": "https://www.clinicaltrialvanguard.com/news/3-4m-grant-studies-menopause-link-to-alzheimers-risk-in-women/",
      "section": "시장·투자",
      "importance": null
-    },
-    {
-     "date": "2026-10-11",
-     "title": "[메디컬투데이] 무염 껍질구이 땅콩 하루 60g 16주 섭취 후 노년층 뇌 인슐린 반응 변화 — 31명 교차 RCT, ASL-MRI로 우반구 한 영역의 인슐린 유발 뇌혈류 반응 감소 확인 (메디컬투데이 10/11)",
-     "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=618078",
-     "section": "주요 언론",
-     "importance": null
-    },
-    {
-     "date": "2026-10-10",
-     "title": "[단독·국감] 식약처 '디지털의료제품 통합정보시스템' 구축업체 파산 — 선금 3억6,800만원 미회수, 법 시행 17개월 만인 6월에야 분할 개통 (머니투데이 10/10, 허종식 의원실)",
-     "url": "https://www.mt.co.kr/thebio/2026/10/10/2026100921420456090",
-     "section": "규제·인허가·정책",
-     "importance": "high"
     }
    ]
   },
@@ -2782,11 +2782,18 @@
   {
    "rank": 16,
    "keyword": "식약처",
-   "count": 43,
+   "count": 44,
    "prev_rank": 15,
    "delta": 1,
    "state": "down",
    "items": [
+    {
+     "date": "2026-10-28",
+     "title": "식약처, 디지털의료기기 허가·심사 업무설명회(10/28) — 10월 시행 '신기술 의료기기 허가심사 혁신방안'과 제·개정 가이드라인 13종 소개, 경도인지장애 등 7개 적응증 임상시험계획서 심사 방안·AI 의료기기 최신 보완 사례 공유 (식품의약품안전처)",
+     "url": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50439",
+     "section": "규제·인허가·정책",
+     "importance": "high"
+    },
     {
      "date": "2026-10-27",
      "title": "세븐포인트원, 1분 음성으로 치매 고위험군 선별하는 AI '알츠윈' — 치매안심센터 56곳서 약 5만명 검사·8,000명 선별, 식약처 확증임상 완료 (머니투데이)",
@@ -2954,13 +2961,6 @@
      "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492180",
      "section": "규제·인허가·정책",
      "importance": null
-    },
-    {
-     "date": "2026-10-07",
-     "title": "과기정통부, AI 의료기기 '고영향 AI' 확인요청 3건 모두 '비해당' — 뇌출혈 판독 우선순위 AI(3등급)도 제외, 식약처 허가 2등급 이상 AI 의료기기 538건 중 0건(10/6 국감자료)",
-     "url": "https://www.newsthevoice.com/news/articleView.html?idxno=47369",
-     "section": "규제·인허가·정책",
-     "importance": "high"
     }
    ]
   },
@@ -4504,11 +4504,18 @@
   {
    "rank": 7,
    "keyword": "딥노이드",
-   "count": 10,
+   "count": 11,
    "prev_rank": 7,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-10-28",
+     "title": "[후속] 딥노이드, KoSAIM 2026에서 3개 부문 수상 — 판독문만으로 병변 위치를 학습하는 비전언어 AI 'GLINT' 최우수 구연상, 파운데이션 모델 기반 뇌 MRI 백질고신호(WMH) 분할 연구는 우수 포스터상 (메디게이트뉴스)",
+     "url": "https://www.medigatenews.com/news/2460193116",
+     "section": "경쟁사 동향",
+     "importance": "medium"
+    },
     {
      "date": "2026-10-27",
      "title": "딥노이드, 재무기획본부장에 펩트론 출신 오제헌 이사 영입 — 전략기획팀장 겸직 (뉴스1)",
