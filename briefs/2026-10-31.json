@@ -12,7 +12,12 @@
           "summary": "SWI와 GRE를 모두 촬영한 55명(평균 72.1세)을 신경영상의학 전문의 3명이 판독했다. 미세출혈은 SWI에서 83개(평균 1.51개), GRE에서 54개(평균 0.98개)가 검출됐다. 미세출혈 부담 범주(0 / 1 / 2~4 / 5개 이상)는 61.8%에서만 일치했고, 30.9%는 SWI에서 더 높게, 7.3%는 GRE에서 더 높게 분류됐다. 레켐비·키순라 적격성 기준이 GRE 기반인 만큼, 저자들은 SWI용 안전 역치를 정하려면 전향 연구가 필요하다고 결론냈다.",
           "source": "Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring",
           "url": "https://pubmed.ncbi.nlm.nih.gov/42959393/",
-          "tags": ["뇌 MRI", "미세출혈", "ARIA", "항아밀로이드 적격성"],
+          "tags": [
+            "뇌 MRI",
+            "미세출혈",
+            "ARIA",
+            "항아밀로이드 적격성"
+          ],
           "importance": "medium"
         },
         {
@@ -20,7 +25,48 @@
           "summary": "인지정상 노인의 CSF와 혈장으로 샷건 지질체 분석을 하고 CDR 전환을 추적했다. CSF의 PE 아종은 CSF total tau·p-tau181·neurogranin·YKL-40과 양의 상관을 보였다. CSF의 TAG(C49:6)·PG(18:0-18:1)·CE(20:3)·PE(D16:0-18:1)는 CDR 전환을 독립적으로 예측했다. 혈장 스핑고미엘린은 약한 연관만 보였다(초록에 표본수 미기재).",
           "source": "Alzheimer's & Dementia",
           "url": "https://pubmed.ncbi.nlm.nih.gov/42947286/",
-          "tags": ["체액 바이오마커", "지질체", "전임상 예측"]
+          "tags": [
+            "체액 바이오마커",
+            "지질체",
+            "전임상 예측"
+          ]
+        },
+        {
+          "title": "MRI만으로 부위별 타우 PET 부담을 예측하는 딥러닝 모델 — 외부검증에서 Braak I–IV 영역 MAE 0.14·r=0.72, 타우 양성 판별 AUC 0.87~0.88 (Alzheimer's & Dementia)",
+          "summary": "ADNI·OASIS3·A4·HABS 공개 코호트로 구조 MRI(인구학 정보 포함/미포함)에서 부위별 타우 PET SUVR을 예측하는 딥러닝 모델을 학습하고 SCAN·Stanford 데이터로 외부검증했다. 초기 영역(Braak I–IV) MAE 0.14·r=0.72, 후기 영역(Braak V–VI) MAE 0.14·r=0.71이었고 영역별 타우 양성 판별 AUC는 0.87·0.88이었다. 타우 PET 없이 MRI로 타우 병기 정보를 추정하는 접근으로, 뇌 MRI 기반 진단 SW의 기능 확장 방향과 직결된다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://doi.org/10.1002/alz.71911",
+          "tags": [
+            "타우 PET",
+            "MRI",
+            "딥러닝",
+            "SUVR 예측"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "타우 PET 표준화 'CenTauR' 공통 변환식 제시 — 플로르타우시피르·MK-6240·PI-2620·RO948·GTP1 5개 트레이서의 부위별 SUVR을 단일 척도로 (Alzheimer's & Dementia)",
+          "summary": "SPM12 기반의 트레이서 공통 'Standard Method'를 정의하고, Joint Propagation Model로 5개 타우 트레이서의 부위별 SUVR을 트레이서 독립적인 CenTauR 척도로 바꾸는 선형 변환식을 도출했다. 횡단·종단·재검사 독립 데이터로 검증했으며, 임상 절단값과 병기 경계도 CenTauR 단위로 제시했다. 아밀로이드의 Centiloid에 해당하는 타우 정량 표준이 구체화된 것으로, PET 정량 SW가 맞춰야 할 기준이 될 가능성이 크다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://doi.org/10.1002/alz.71886",
+          "tags": [
+            "타우 PET",
+            "CenTauR",
+            "정량 표준화"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "망막 동정맥 비율이 낮을수록 경도행동장애(MBI) 발생 위험↑ — 싱가포르 메모리클리닉 비치매 노인 302명 최대 5년 추적, 백질고강도 부피와도 연관 (Alzheimer's & Dementia)",
+          "summary": "안저사진에서 측정한 세동맥/세정맥 비율(AVR) 감소와 세동맥 협소화가 MBI 신규 발생 가능성 증가와 연관됐다. 낮은 AVR은 MRI 백질고강도(WMH) 부피, 면역·염증 관련 혈장 단백과도 연관돼 소혈관 질환 경로를 시사했다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://doi.org/10.1002/alz.71933",
+          "tags": [
+            "망막 영상",
+            "백질고강도",
+            "소혈관 질환"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -33,7 +79,12 @@
           "summary": "51개 기관이 응답했고, 조직화된 기억클리닉은 20곳(인구의 60.7% 담당)이었다. 2024년 진료 2만1,721건은 추정 AD 환자의 10%에도 못 미친다. CSF 또는 아밀로이드 PET를 받은 비율은 26.2%였다. 전문가들은 현재 치료를 시작할 수 있는 환자를 701명으로 추정했고, 저자들은 진단 인프라 투자가 필요하다고 결론냈다. 혈액검사·MRI 기반 선별 도구의 수요를 보여 주는 근거다.",
           "source": "Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring",
           "url": "https://pubmed.ncbi.nlm.nih.gov/42953259/",
-          "tags": ["항아밀로이드", "진단 인프라", "바이오마커 접근성", "보건정책"],
+          "tags": [
+            "항아밀로이드",
+            "진단 인프라",
+            "바이오마커 접근성",
+            "보건정책"
+          ],
           "importance": "medium"
         },
         {
@@ -41,14 +92,57 @@
           "summary": "초파리 RNAi 스크리닝, 인간 AD 데이터, 세포 실험, 타우병증 마우스를 통합한 연구다. ARRDC4는 AD에서 증가했고 타우 부담과 상관했다. ARRDC4가 타우와 USP14를 가까이 붙여 타우의 유비퀴틴화·분해를 막는다는 기전을 제시했다. 유전적 결손이나 ARRDC4–USP14 결합면 약물 차단으로 타우 병리·신경염증·행동결손이 개선됐다.",
           "source": "Alzheimer's & Dementia",
           "url": "https://pubmed.ncbi.nlm.nih.gov/42957973/",
-          "tags": ["타우", "기전", "치료표적", "전임상"]
+          "tags": [
+            "타우",
+            "기전",
+            "치료표적",
+            "전임상"
+          ]
         },
         {
           "title": "GLP-1 작용제 둘라글루타이드와 분타네탑을 효과 없는 저용량으로 병용하자 APP/PS1 마우스의 기억·LTP가 회복 (Alzheimer's & Dementia: TRCI)",
           "summary": "단독으로는 효과가 미미한 용량(분타네탑 1 mg/kg, 둘라글루타이드 0.1 mg/kg)을 병용하자 방사형 수중미로 기억, 맥락 공포기억, CA1 LTP가 회복됐다. Aβ는 감소했고 PSD95는 회복됐다. 정상 마우스의 행동에는 영향이 없었다.",
           "source": "Alzheimer's & Dementia: Translational Research & Clinical Interventions",
           "url": "https://pubmed.ncbi.nlm.nih.gov/42959452/",
-          "tags": ["GLP-1", "병용요법", "전임상"]
+          "tags": [
+            "GLP-1",
+            "병용요법",
+            "전임상"
+          ]
+        },
+        {
+          "title": "노화에 따라 REM 수면 델타파가 '톱니파'에서 느린 NREM 유사파로 바뀌고, 이 변화가 아밀로이드·타우 부담 및 하룻밤 기억 공고화 저하와 연관 (Nature Communications)",
+          "summary": "버클리 Jagust·Walker 그룹이 두 독립 코호트에서 REM 수면 중 델타파의 성질 변화를 분석했다. 이 변화는 나이와 별개로 아밀로이드·타우 부담과 연관됐고, NREM 수면의 질과 무관하게 기억 공고화 저하와도 연결됐다. APOE 변이는 톱니파 밀도 감소와 독립적으로 연관됐다.",
+          "source": "Nature Communications",
+          "url": "https://doi.org/10.1038/s41467-026-78425-9",
+          "tags": [
+            "수면",
+            "아밀로이드",
+            "타우",
+            "APOE"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "Global CEO Initiative 작업반, AD 치료제 임상 효과를 '반응자 분석'·'절약된 시간(time saved)' 등 개인 수준 지표로 전달하자고 권고 (Alzheimer's & Dementia)",
+          "summary": "질환표적치료(DTT)의 효과 크기를 환자·의사가 이해할 수 있게 개인 수준에서 맥락화하고, 무증상·초기 단계 임상에 맞는 보완 평가지표를 개발해야 한다는 다자간 전문가 권고문이다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://doi.org/10.1002/alz.71951",
+          "tags": [
+            "임상시험 평가지표",
+            "항아밀로이드 치료"
+          ]
+        },
+        {
+          "title": "중금속·농약 배출시설 인근 거주가 진행성 핵상마비(PSP) 위험과 연관 — UK Biobank 환자 221명·대조군 2,249명, 농약 시설 OR 1.66 (Neurology)",
+          "summary": "UK Biobank 내포 환자-대조군 연구에서 중금속(OR 1.38)·농약(OR 1.66)·기타 유기(OR 1.52)·무기(OR 1.60) 오염물질 배출시설 근접 거주가 PSP 위험 증가와 연관됐다. 거리가 멀수록 위험이 줄었고 40년 넘게 거주한 경우 위험이 더 컸다(Class III 근거).",
+          "source": "Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42950187/",
+          "tags": [
+            "타우병증",
+            "PSP",
+            "환경 노출"
+          ]
         }
       ]
     },
@@ -61,7 +155,12 @@
           "summary": "10/30 발령된 「신의료기술의 안전성·유효성 평가결과 고시」 일부개정으로 이 기술이 별표3(혁신의료기술) 제48호에 추가됐다. 대상은 응급실에 내원한 만 19세 이상 급성 뇌졸중 의심 환자, 실시기관은 NECA에 신고한 종합병원·상급종합병원, 사용기간은 2026-12-01~2029-11-30이다. 같은 고시로 별표3 제15호 'MRA 영상 AI 기반 뇌동맥류 검출'의 사용기간이 2026-10-31에서 2027-10-31로 늘었고, 기간 종료 후 절차는 '재평가'에서 '후평가'로 바뀌었다. NECA 10/30 보도자료에는 이 AI 항목이 빠져 있고, 고시에 업체·제품명은 적혀 있지 않다. 뇌영상 AI가 혁신의료기술 트랙으로 임상 현장에 들어가는 선례가 계속 쌓이고 있어, BeauBrain의 뇌 MRI 치매진단 SW 급여 전략에도 참고가 된다.",
           "source": "보건복지부",
           "url": "https://www.mohw.go.kr/board.es?mid=a10409020000&bid=0026&act=view&list_no=1492386",
-          "tags": ["혁신의료기술", "뇌영상 AI", "신의료기술평가", "고시"],
+          "tags": [
+            "혁신의료기술",
+            "뇌영상 AI",
+            "신의료기술평가",
+            "고시"
+          ],
           "importance": "high"
         },
         {
@@ -69,7 +168,35 @@
           "summary": "「디지털의료제품법」에 따른 디지털융합의약품 심사 업무절차서(공무원지침서)가 10월 30일부터 적용된다. 의료기기·의약품·바이오의약품 심사자가 공동심사팀을 꾸려 분야별 심사와 결합 제품 공동심사를 함께 진행한다. 제품 유형 중에는 '새로운 알고리즘 기반 개인맞춤형 투여대상 선택 지원'이 포함된다. 식약처 평가원은 연내 임상시험 설계 가이드라인을 마련하겠다고 밝혔다. 항아밀로이드 치료제 투여 대상 선별 AI 같은 결합 제품이 밟을 수 있는 심사 경로다.",
           "source": "식품의약품안전처",
           "url": "https://www.mfds.go.kr/brd/m_99/view.do?seq=50459",
-          "tags": ["식약처", "디지털의료제품법", "통합심사"],
+          "tags": [
+            "식약처",
+            "디지털의료제품법",
+            "통합심사"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "복지부, 평가유예 신의료기술 고시 개정(제2026-226호) — 'AI 12유도 심전도 좌심실기능부전 선별'에 메디컬에이아이 제품 추가, 디지털치료기기 2건 신설 (보건복지부)",
+          "summary": "10/30 발령된 고시로, 기존 AI 심전도 평가유예 항목(58번)의 대상을 좌심실기능부전으로 정리하고 메디컬에이아이 제품을 추가했다(유예기간 2026-04-01~2028-03-31). 에버엑스·비욘드메디슨의 디지털치료기기 2건도 2026-11-01~2028-10-31 기간으로 새로 들어갔다. 이미 고시된 AI 기술 항목에 후발 제품이 추가되는 경로가 실제로 쓰이고 있어, 뇌 MRI AI의 평가유예 트랙 전략 수립에 참고할 사례다.",
+          "source": "보건복지부",
+          "url": "https://www.mohw.go.kr/board.es?mid=a10409020000&bid=0026&act=view&list_no=1492387",
+          "tags": [
+            "평가유예 신의료기술",
+            "AI 의료기기",
+            "고시"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "심평원, 9월부터 무릎 인공관절 진료비 심사에 AI 영상판독 활용 — '2026~2028 HIRA AX 실행계획'은 2027년 EMR 요약 AI 등으로 확대 예정 (청년의사)",
+          "summary": "심평원은 9월부터 슬관절 인공관절치환술 청구 심사에 AI 영상 판독 결과를 쓰고 있으며(KL 4등급·65세 이상 건), 척추·요로결석으로 범위를 넓힐 계획이지만 판독 일치도·오판독 통계는 아직 없다. 백종헌 의원실이 확보한 AX 실행계획에는 2027년부터 비정형 심사참고자료(EMR)를 AI가 인식·요약하는 모델, 2028년 이후 심사일관성 관리항목 제안 모델 도입이 담겼다. 보험자가 영상 AI를 심사 근거로 쓰기 시작했다는 점에서 영상 AI 급여 논의의 참고 선례다.",
+          "source": "청년의사",
+          "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044085",
+          "tags": [
+            "심평원",
+            "AI 영상판독",
+            "심사"
+          ],
           "importance": "medium"
         }
       ]
@@ -83,8 +210,34 @@
           "summary": "초기 AD 542명에게 35·50 mg/kg을 4주마다 투여한 결과, 18개월 iADRS 변화(주평가변수)와 CDR-SB 등 핵심 이차 평가변수 모두 위약과 유의한 차이가 없었다. PET 아밀로이드 플라크는 36주·76주에 유의하게 감소했고 ARIA-E는 투여군의 약 10%였다. 유일한 임상 자산이어서 회사는 공개 연장시험까지 중단하고 비용 절감과 전략적 대안 검토에 들어갔다. 주가는 개장 전 0.44달러로 떨어졌다. 아밀로이드 감소가 곧 임상 효과로 이어지지는 않는다는 사례가 하나 더 쌓였다.",
           "source": "BioSpace",
           "url": "https://www.biospace.com/drug-development/acumen-scraps-sole-asset-after-alzheimers-fail-plunging-stock-80",
-          "tags": ["사비르네투그", "2상 실패", "아밀로이드 올리고머"],
+          "tags": [
+            "사비르네투그",
+            "2상 실패",
+            "아밀로이드 올리고머"
+          ],
           "importance": "medium"
+        },
+        {
+          "title": "메타 슈퍼인텔리전스랩, 오하이오주립대 의대에 'Muse' AI 모델·연구비 제공 — 기억장애클리닉 데이터로 알츠하이머 진단 보조 멀티에이전트 시스템 개발 (WSYX ABC6)",
+          "summary": "메타가 미국 5개 대학이 나눠 받는 200만 달러 연구비와 Muse 모델 접근권을 제공하며, 오하이오주립대는 심부전 위험 예측·흉부 X선 판독문 초안·알츠하이머 진단 3개 과제를 수행한다. 알츠하이머 과제는 기억장애클리닉 데이터로 인지저하 패턴을 재구성하고 다음 진단 단계를 제안하는 멀티에이전트 모델이다. 빅테크 파운데이션 모델이 치매 진단 워크플로에 진입하는 사례이나, 뇌영상 분석은 언급되지 않았다.",
+          "source": "WSYX ABC6",
+          "url": "https://abc6onyourside.com/news/local/new-meta-partnership-brings-advanced-ai-tools-to-ohio-states-college-of-medicine-muse-ct-scans-x-rays-diagnosis-memory-disorder-clinic-university-alzheimers-disease-heart-care",
+          "tags": [
+            "메타",
+            "파운데이션 모델",
+            "AI 진단"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "경구 AD 후보물질 부탄테탑 개발사 아노비스 바이오, NYSE 상장유지 기준 미달 통보 — 30거래일 평균 시총 약 4,840만 달러, 자본잠식 약 430만 달러 (Investing.com)",
+          "summary": "아노비스 바이오는 시가총액·자기자본 기준 미달로 NYSE 통보를 받아 45일 안에 회복 계획을 내고 9개월 안에 기준을 맞춰야 한다. 알츠하이머 치료제 소형 바이오텍의 자금 압박을 보여 주는 신호다.",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/company-news/annovis-bio-receives-nyse-noncompliance-notice-93CH-4988728",
+          "tags": [
+            "아노비스",
+            "상장유지"
+          ]
         }
       ]
     },
@@ -102,7 +255,11 @@
           "summary": "11/17 레이트브레이킹 심포지엄에서 CELIA의 96주 장기연장 유효성·안전성, 76주 타우 PET·아밀로이드 PET 바이오마커, 항목별·하위군 분석을 공개한다. 7월 AAIC 발표 이후 나오는 추가 데이터다. 타우 PET가 항타우 치료의 반응 지표로 쓰이는지가 관전 포인트다.",
           "source": "Biogen (GlobeNewswire)",
           "url": "https://www.globenewswire.com/news-release/2026/10/29/3391082/0/en/biogen-to-present-new-data-across-alzheimer-s-disease-portfolio-at-ctad-2026.html",
-          "tags": ["CTAD 2026", "디라너센", "타우 PET"],
+          "tags": [
+            "CTAD 2026",
+            "디라너센",
+            "타우 PET"
+          ],
           "importance": "medium"
         },
         {
@@ -110,14 +267,44 @@
           "summary": "10/30 제5차 장기요양위원회가 결정했다. 세대당 월평균 보험료는 19,029원에서 20,129원으로 1,100원 오른다. 1등급 재가 월 한도액은 2,512,900원에서 2,891,400원으로 늘고, 3시간 방문요양 이용 횟수는 월 44회에서 48회로 늘어난다. 2024~2025년 2년간 수입은 약 1.3조원, 지출은 약 2.4조원 늘었다. 통합재가기관 700곳·재택의료센터 500곳 확대와 함께, 치매전문교육 이수를 요건으로 하는 유니트케어를 2028년 본사업으로 전환한다.",
           "source": "보건복지부",
           "url": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492396",
-          "tags": ["장기요양보험", "치매 돌봄", "재가서비스"]
+          "tags": [
+            "장기요양보험",
+            "치매 돌봄",
+            "재가서비스"
+          ]
         },
         {
           "title": "[국감] 통합돌봄 첫 실태조사, 치매관리주치의 수요는 25만189명으로 추정하고도 공급·충족률은 산출 안 해 — 실제 등록 환자는 7,044명 (메디게이트뉴스)",
           "summary": "통합돌봄 실태조사는 확대가 필요한 6개 서비스의 수요를 추정했다. 다제약물관리 29만2,959명, 치매관리주치의 25만189명 등이다. 그러나 공급 규모와 충족률은 산출하지 않았다. 서영석 의원은 치매관리주치의 등록 환자가 7,044명(6월 기준)인데도 기존 사업 실적이 공급 현황에 반영되지 않았다고 지적했다. 시군구(11월)·시도(12월) 지역계획 수립 전에 공급 현황부터 보완하라고 요구했다.",
           "source": "메디게이트뉴스",
           "url": "https://www.medigatenews.com/news/1506333253",
-          "tags": ["통합돌봄", "치매관리주치의", "국정감사"]
+          "tags": [
+            "통합돌봄",
+            "치매관리주치의",
+            "국정감사"
+          ]
+        },
+        {
+          "title": "신경퇴행 AI 컨소시엄 C-BRAIN, 엔비디아와 오픈소스 치매 AI 협력 — ARPA-H 300만 달러로 뇌 120개 공간단백체 데이터를 만들어 AD 파운데이션 모델 학습 (Alzforum)",
+          "summary": "C-BRAIN은 엔비디아 BioNeMo·MONAI를 자체 오픈소스 도구(OpenScientist·Insight Engine)에 통합한다. ARPA-H 10개월 과제로 워싱턴대 보관 뇌 120개에서 64종 단백질을 세포 이하 해상도로 측정한 약 1PB 데이터를 만들어 AD 파운데이션 모델 개념증명을 학습시킨다. 영상·MRI 모델은 언급되지 않았다.",
+          "source": "Alzforum",
+          "url": "https://www.alzforum.org/news/community-news/nvidia-board-c-brains-ai-models-get-boost",
+          "tags": [
+            "파운데이션 모델",
+            "엔비디아",
+            "ARPA-H"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "도네페질 3mg 후발약, 허가는 이틀 차이인데 약가는 16% 차이 — 종근당 '뉴로페질' 11월 408원, 삼진 '뉴토인'은 약가개편 전 6월 486원 등재 (데일리팜)",
+          "summary": "사실상 같은 시기에 허가된 두 품목의 급여 진입 시점이 약 5개월 벌어지면서 상한금액이 78원 차이 났다. 약가개편 전 등재된 뉴토인은 2027년부터 단계적으로 인하돼 2030년 4월 408원 수준이 된다.",
+          "source": "데일리팜",
+          "url": "https://www.dailypharm.com/user/news/344029",
+          "tags": [
+            "도네페질",
+            "약가"
+          ]
         }
       ]
     }

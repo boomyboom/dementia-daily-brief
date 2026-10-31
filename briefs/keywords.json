@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T08:10:06+09:00",
+ "generated_at": "2026-10-31T14:14:27+09:00",
  "date": "2026-10-31",
  "prev_date": "2026-10-30",
  "window_days": 30,
@@ -7,7 +7,7 @@
   {
    "rank": 1,
    "keyword": "뇌 MRI",
-   "count": 130,
+   "count": 132,
    "prev_rank": 1,
    "delta": 0,
    "state": "same",
@@ -21,10 +21,24 @@
     },
     {
      "date": "2026-10-31",
+     "title": "MRI만으로 부위별 타우 PET 부담을 예측하는 딥러닝 모델 — 외부검증에서 Braak I–IV 영역 MAE 0.14·r=0.72, 타우 양성 판별 AUC 0.87~0.88 (Alzheimer's & Dementia)",
+     "url": "https://doi.org/10.1002/alz.71911",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-31",
      "title": "복지부, '비조영 CT 활용 AI 응급 뇌 대혈관폐색 선별 보조'를 혁신의료기술로 신규 고시 — MRA 뇌동맥류 검출 AI 사용기간도 2027-10-31까지 1년 연장 (보건복지부 고시 제2026-225호)",
      "url": "https://www.mohw.go.kr/board.es?mid=a10409020000&bid=0026&act=view&list_no=1492386",
      "section": "규제·인허가·정책",
      "importance": "high"
+    },
+    {
+     "date": "2026-10-31",
+     "title": "복지부, 평가유예 신의료기술 고시 개정(제2026-226호) — 'AI 12유도 심전도 좌심실기능부전 선별'에 메디컬에이아이 제품 추가, 디지털치료기기 2건 신설 (보건복지부)",
+     "url": "https://www.mohw.go.kr/board.es?mid=a10409020000&bid=0026&act=view&list_no=1492387",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
     },
     {
      "date": "2026-10-30",
@@ -172,27 +186,13 @@
      "url": "https://doi.org/10.3390/make8110344",
      "section": "진단·영상 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-10-23",
-     "title": "정부 '바이오 분야 경쟁국 수준 규제 합리화 방안' — 가명 의료정보 연구는 IRB 심의 면제(생명윤리법 시행규칙 개정)·포괄동의 도입, 정형 의료데이터 가명처리 공통기준(26.11)·클라우드 원격분석 환경 기준(26.12) 마련 (보건복지부)",
-     "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492314",
-     "section": "규제·인허가·정책",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-22",
-     "title": "워싱턴대 Knight ADRC, 1,645명·6,217회 촬영의 다중모달 뇌영상 데이터셋 'KARI' 공개 — 구조·기능 MRI와 아밀로이드·타우 PET, 분할·정량 처리 결과까지 제공 (Nature Communications)",
-     "url": "https://doi.org/10.1038/s41467-026-78439-3",
-     "section": "진단·영상 연구",
-     "importance": "high"
     }
    ]
   },
   {
    "rank": 2,
    "keyword": "아밀로이드",
-   "count": 128,
+   "count": 129,
    "prev_rank": 2,
    "delta": 0,
    "state": "same",
@@ -210,6 +210,13 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42959452/",
      "section": "치매 전분야 연구",
      "importance": null
+    },
+    {
+     "date": "2026-10-31",
+     "title": "노화에 따라 REM 수면 델타파가 '톱니파'에서 느린 NREM 유사파로 바뀌고, 이 변화가 아밀로이드·타우 부담 및 하룻밤 기억 공고화 저하와 연관 (Nature Communications)",
+     "url": "https://doi.org/10.1038/s41467-026-78425-9",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
     },
     {
      "date": "2026-10-31",
@@ -364,20 +371,13 @@
      "url": "https://www.newsis.com/view/NISX20261022_0003837032",
      "section": "시장·투자",
      "importance": null
-    },
-    {
-     "date": "2026-10-23",
-     "title": "아이슬란드 Arctic Therapeutics, 초과청약으로 2,150만 달러 조달 — 경구 응집 억제제 AT-001은 유전성 시스타틴C 아밀로이드 혈관병증 2b/3상·MCI/경도 AD 2a상 (PR Newswire)",
-     "url": "https://www.prnewswire.com/news-releases/arctic-therapeutics-closes-oversubscribed-us21-5-million-financing-302915211.html",
-     "section": "시장·투자",
-     "importance": null
     }
    ]
   },
   {
    "rank": 3,
    "keyword": "급여·수가",
-   "count": 108,
+   "count": 110,
    "prev_rank": 3,
    "delta": 0,
    "state": "same",
@@ -388,6 +388,20 @@
      "url": "https://www.mohw.go.kr/board.es?mid=a10409020000&bid=0026&act=view&list_no=1492386",
      "section": "규제·인허가·정책",
      "importance": "high"
+    },
+    {
+     "date": "2026-10-31",
+     "title": "심평원, 9월부터 무릎 인공관절 진료비 심사에 AI 영상판독 활용 — '2026~2028 HIRA AX 실행계획'은 2027년 EMR 요약 AI 등으로 확대 예정 (청년의사)",
+     "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044085",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-31",
+     "title": "도네페질 3mg 후발약, 허가는 이틀 차이인데 약가는 16% 차이 — 종근당 '뉴로페질' 11월 408원, 삼진 '뉴토인'은 약가개편 전 6월 486원 등재 (데일리팜)",
+     "url": "https://www.dailypharm.com/user/news/344029",
+     "section": "주요 언론",
+     "importance": null
     },
     {
      "date": "2026-10-30",
@@ -541,20 +555,6 @@
      "title": "[후속] 알츠하이머리서치UK '레디 포 어 큐어' 캠페인 공식화 — 치매약 기금과 함께 'NHS 신규 치매 진단검사 국가계획'·전국 임상시험 연결 체계 요구, 암약 기금은 2013년까지 3만4,000명 혜택 (Alzheimer's Research UK)",
      "url": "https://www.alzheimersresearchuk.org/news/alzheimers-research-uk-calls-for-dedicated-dementia-drugs-fund/",
      "section": "시장·투자",
-     "importance": null
-    },
-    {
-     "date": "2026-10-21",
-     "title": "[후속] 신경과의사회 '치매·뇌졸중 평가·상담 수가 공백' — 보호자만 내원 시 NPI 검사 수가 인정 심평원·공단에 질의, 대리처방 진찰료 50%·전문상담 보상 논의서 신경과 제외 (메디파나뉴스)",
-     "url": "https://www.medipana.com/news/articleView.html?idxno=419599",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-21",
-     "title": "도네페질·메만틴 치매 복합제 후발 3품목 10월 잇단 허가(영풍·위더스·대웅바이오) — 우선판매 판매금지 효력으로 실제 경쟁은 내년 1월 말 이후, 5월 급여 진입 6품목 상한가 최대 1,084원 차이 (메디파나뉴스)",
-     "url": "https://www.medipana.com/news/articleView.html?idxno=419708",
-     "section": "주요 언론",
      "importance": null
     }
    ]
@@ -747,16 +747,30 @@
   {
    "rank": 5,
    "keyword": "MRI",
-   "count": 102,
+   "count": 104,
    "prev_rank": 5,
    "delta": 0,
    "state": "same",
    "items": [
     {
      "date": "2026-10-31",
+     "title": "망막 동정맥 비율이 낮을수록 경도행동장애(MBI) 발생 위험↑ — 싱가포르 메모리클리닉 비치매 노인 302명 최대 5년 추적, 백질고강도 부피와도 연관 (Alzheimer's & Dementia)",
+     "url": "https://doi.org/10.1002/alz.71933",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-31",
      "title": "포르투갈 전국 기억클리닉 조사 — 지금 항아밀로이드 치료를 시작할 수 있는 환자는 701명, CSF·아밀로이드 PET 시행률 26.2%로 바이오마커 접근이 병목 (Alzheimer's & Dementia: DADM)",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42953259/",
      "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-31",
+     "title": "신경퇴행 AI 컨소시엄 C-BRAIN, 엔비디아와 오픈소스 치매 AI 협력 — ARPA-H 300만 달러로 뇌 120개 공간단백체 데이터를 만들어 AD 파운데이션 모델 학습 (Alzforum)",
+     "url": "https://www.alzforum.org/news/community-news/nvidia-board-c-brains-ai-models-get-boost",
+     "section": "주요 언론",
      "importance": "medium"
     },
     {
@@ -912,20 +926,6 @@
      "url": "https://doi.org/10.1002/alz.71934",
      "section": "진단·영상 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-10-23",
-     "title": "MCI·노화에서 DCE-MRI로 본 영역별 혈뇌장벽 누출이 영역별 인지 저하와 대응, 부피 MRI 위축은 인지와 연관 약해 — MCI 46명·연령대응 대조 46명·젊은 대조 43명 (Brain Communications)",
-     "url": "https://doi.org/10.1093/braincomms/fcag342",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-23",
-     "title": "혈장 N말단 타우 조각(NT1)이 높을수록 해마 위축이 빨라지고, 기억력 저하의 70.1%를 해마 위축이 매개 — ADNI 755명, 인지저하와의 연관은 아밀로이드가 조절 (Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42906069/",
-     "section": "진단·영상 연구",
-     "importance": "high"
     }
    ]
   },
@@ -1302,7 +1302,7 @@
   {
    "rank": 8,
    "keyword": "타우",
-   "count": 67,
+   "count": 68,
    "prev_rank": 8,
    "delta": 0,
    "state": "same",
@@ -1313,6 +1313,13 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42957973/",
      "section": "치매 전분야 연구",
      "importance": null
+    },
+    {
+     "date": "2026-10-31",
+     "title": "노화에 따라 REM 수면 델타파가 '톱니파'에서 느린 NREM 유사파로 바뀌고, 이 변화가 아밀로이드·타우 부담 및 하룻밤 기억 공고화 저하와 연관 (Nature Communications)",
+     "url": "https://doi.org/10.1038/s41467-026-78425-9",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
     },
     {
      "date": "2026-10-30",
@@ -1474,24 +1481,24 @@
      "url": "https://www.rynekzdrowia.pl/Polityka-zdrowotna/Pierwszy-pacjent-w-Polsce-z-Alzheimerem-przejdzie-operacje-wspomagajaca-leczenie-choroby-w-Slupsku,290109,14.html",
      "section": "주요 언론",
      "importance": null
-    },
-    {
-     "date": "2026-10-17",
-     "title": "APOE4 희소돌기아교세포의 지질방울 축적은 Wnt 신호 저하·GSK3B 과활성 탓 — 전장유전체 CRISPR 스크린, GSK3B 억제 시 오가노이드·APOE4;PS19 마우스에서 수초화 개선 (Cell Stem Cell)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42880287/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 9,
    "keyword": "APOE",
-   "count": 63,
+   "count": 64,
    "prev_rank": 9,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-10-31",
+     "title": "노화에 따라 REM 수면 델타파가 '톱니파'에서 느린 NREM 유사파로 바뀌고, 이 변화가 아밀로이드·타우 부담 및 하룻밤 기억 공고화 저하와 연관 (Nature Communications)",
+     "url": "https://doi.org/10.1038/s41467-026-78425-9",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
     {
      "date": "2026-10-30",
      "title": "콩고 킨샤사 노인 786명 혈장 단백체 분석 — 뇌유래 pTau217 단독 AUC 0.612, 10개 마커+나이·성별·APOE 결합 모델 0.768 (medRxiv 프리프린트)",
@@ -1657,13 +1664,6 @@
      "date": "2026-10-18",
      "title": "도나네맙 52주 아밀로이드 제거(24.1 CL 미만)의 최강 예측인자는 낮은 기저 아밀로이드 — TRAILBLAZER-ALZ 2 사후분석, 제거군만 76주 타우 축적이 유의하게 느려 (Alzheimer's Research & Therapy)",
      "url": "https://doi.org/10.1186/s13195-026-02163-9",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-18",
-     "title": "APOE ε4 보인자는 50대 중반부터 혈장 p-tau217·GFAP가 더 가파르게 올라 — 네덜란드 쌍둥이 레지스트리 30~80세 5,913명, APOE 외 AD 다유전자점수는 무관 (Nature Communications)",
-     "url": "https://www.nature.com/articles/s41467-026-78723-2",
      "section": "진단·영상 연구",
      "importance": "medium"
     }
@@ -3152,7 +3152,7 @@
   {
    "rank": 18,
    "keyword": "신의료기술",
-   "count": 35,
+   "count": 36,
    "prev_rank": 18,
    "delta": 0,
    "state": "same",
@@ -3163,6 +3163,13 @@
      "url": "https://www.mohw.go.kr/board.es?mid=a10409020000&bid=0026&act=view&list_no=1492386",
      "section": "규제·인허가·정책",
      "importance": "high"
+    },
+    {
+     "date": "2026-10-31",
+     "title": "복지부, 평가유예 신의료기술 고시 개정(제2026-226호) — 'AI 12유도 심전도 좌심실기능부전 선별'에 메디컬에이아이 제품 추가, 디지털치료기기 2건 신설 (보건복지부)",
+     "url": "https://www.mohw.go.kr/board.es?mid=a10409020000&bid=0026&act=view&list_no=1492387",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
     },
     {
      "date": "2026-10-30",
@@ -3322,13 +3329,6 @@
      "date": "2026-10-12",
      "title": "[neuroRAD 2026] \"임상 AI는 허가가 아니라 결과를 바꾼다는 증거가 필요\" — 기존 워크플로와 병렬로 돌리되 결과를 제공하지 않는 섀도 배포로 상시 성능 추적 제안 (AuntMinnie Europe 10/9)",
      "url": "https://www.auntminnieeurope.com/imaging-informatics/artificial-intelligence/article/15837146/continuous-evidence-tracking-in-clinical-ai-systems-explained",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-12",
-     "title": "딥노이드 최우식 \"허가 549건이 시장은 아니다\" — 뇌동맥류 AI '딥뉴로' 혁신의료기술 선정(2023.8)에서 첫 청구(2024.4)까지 8개월, 17→29개 기관, 근거창출 비용·기간 예측 불가 호소, 김현정 \"수가 못 받으면 쓸모없다\" (데일리메디 10/12)",
-     "url": "https://www.dailymedi.com/news/news_view.php?ca_id=22&wr_id=941108",
      "section": "규제·인허가·정책",
      "importance": "medium"
     }
