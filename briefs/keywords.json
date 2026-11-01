@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T08:09:55+09:00",
+ "generated_at": "2026-11-01T14:08:23+09:00",
  "date": "2026-11-01",
  "prev_date": "2026-10-31",
  "window_days": 30,
@@ -377,7 +377,7 @@
   {
    "rank": 3,
    "keyword": "급여·수가",
-   "count": 109,
+   "count": 110,
    "prev_rank": 3,
    "delta": 0,
    "state": "same",
@@ -395,6 +395,13 @@
      "url": "https://www.dailypharm.com/user/news/343955",
      "section": "시장·투자",
      "importance": null
+    },
+    {
+     "date": "2026-11-01",
+     "title": "한국거래소, 기술특례 상장 기술성평가 모델 개편 — 의료기기 SW는 '알고리즘 성능·학습데이터 품질·임상검증 데이터셋·사이버보안'으로 평가, 2027년 2분기 신청분부터 (이데일리)",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=01138166645641456&mediaCodeNo=257",
+     "section": "시장·투자",
+     "importance": "medium"
     },
     {
      "date": "2026-10-31",
@@ -549,20 +556,13 @@
      "url": "https://www.democrata.es/en/health/ceafa-brings-to-the-ombudsman-the-lack-of-public-funds-for-treatments-against-alzheimer-s/",
      "section": "주요 언론",
      "importance": null
-    },
-    {
-     "date": "2026-10-21",
-     "title": "[후속·국감] NECA '복지부·심평원과 근거 기반 AI 보상체계 연구 추진' — 최보윤 의원, 2023년 의료 AI 가치평가 연구를 하고도 제도개선 건의 0건 지적, 급여 28건(약 5%)·분석료 310~3,500원 재확인 (히트뉴스)",
-     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80057",
-     "section": "규제·인허가·정책",
-     "importance": "high"
     }
    ]
   },
   {
    "rank": 4,
    "keyword": "MRI",
-   "count": 105,
+   "count": 107,
    "prev_rank": 5,
    "delta": 1,
    "state": "up",
@@ -571,6 +571,20 @@
      "date": "2026-11-01",
      "title": "도나네맙 12개월 실사용 아밀로이드 PET — 평균 96% 제거·72% 시각판독 음성, 후대상·쐐기앞소엽부터 빠지고 측두엽에 잔존, 제거 정도는 내측측두 위축·인지변화와 무관 — 일본 조기 AD 18명 (Alzheimer's & Dementia: DADM)",
      "url": "https://onlinelibrary.wiley.com/doi/10.1002/dad2.70539",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-01",
+     "title": "영상 기반 AI의 전두측두치매(FTD) 진단 메타분석 — 23개 연구 3,670명 통합 AUC 0.96, 의미변이 원발진행실어증 0.98로 최고지만 비뚤림 위험 높아 전향적 외부검증 필요 (European Radiology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42965691/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-01",
+     "title": "특발성 정상압수두증(iNPH)의 DESH 3요소를 해부학 VOI로 정량 — 연속지표 metric-I가 AD·PSP·정상군과의 감별에서 AUC 0.995, 독립 진단정확도는 아냐 (Japanese Journal of Radiology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42965774/",
      "section": "진단·영상 연구",
      "importance": "medium"
     },
@@ -727,27 +741,13 @@
      "url": "https://doi.org/10.1007/s00401-026-03107-1",
      "section": "치매 전분야 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-10-24",
-     "title": "해마 자동분할 SW 5종(InnerEye·ASHS·FastSurfer·HippoSeg·FreeSurfer) 앙상블과 불확실성 정량 — 3종 부분앙상블이 정확도·효율 균형, 불확실성 점수로 부정확 분할 선별·움직임 아티팩트와 상관 (arXiv 프리프린트)",
-     "url": "https://arxiv.org/abs/2610.31505",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-24",
-     "title": "두 시점 영상의 시간차를 조건으로 거는 확률적 Siamese MAE 사전학습(STAMP) — 종단 MRI 기반 AD 진행 예측에서 기존 시계열 MAE·파운데이션 모델 상회 (IEEE Transactions on Medical Imaging)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42911836/",
-     "section": "진단·영상 연구",
-     "importance": "high"
     }
    ]
   },
   {
    "rank": 5,
    "keyword": "혈액 바이오마커",
-   "count": 101,
+   "count": 102,
    "prev_rank": 4,
    "delta": 1,
    "state": "down",
@@ -763,6 +763,13 @@
      "date": "2026-11-01",
      "title": "신생아 혈장 p-tau217이 AD 환자의 2배(17 vs 8.6 pg/mL) — 혈액 p-tau 판독에는 생애주기 맥락이 필요, 신생아 42명·고령 대조 41명·AD 73명 (Brain Communications)",
      "url": "https://doi.org/10.1093/braincomms/fcag413",
+     "section": "진단·영상 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-01",
+     "title": "부검 확진 123명의 혈장 타우 8종을 IP-MS로 비교 — p-tau217/tau212-221 비율이 신경심리검사 8개 중 6개와 연관, 부검 확진 AD와 비슷한 효과크기 (Journal of Neurology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42965704/",
      "section": "진단·영상 연구",
      "importance": null
     },
@@ -919,13 +926,6 @@
      "url": "https://www.sec.gov/Archives/edgar/data/0001022079/000102207926000097/dgx093020268-kex991.htm",
      "section": "시장·투자",
      "importance": "medium"
-    },
-    {
-     "date": "2026-10-24",
-     "title": "UAE 무바달라 헬스 두바이·타왐 분자영상센터, 영국 Re:Cognition Health와 기억·뇌건강 진료 제휴 — 혈액검사·MRI·아밀로이드 PET·CSF 진단경로 후 질병조절치료 연결 (Abu Dhabi Media Office)",
-     "url": "https://www.mediaoffice.abudhabi/en/health/mubadala-health-dubai-and-tawam-molecular-imaging-centre-partner-with-re-cognition-health-to-expand-access-to-specialist-brain-and-memory-health-services-in-uae/",
-     "section": "시장·투자",
-     "importance": null
     }
    ]
   },
@@ -1117,7 +1117,7 @@
   {
    "rank": 7,
    "keyword": "p-tau217",
-   "count": 73,
+   "count": 74,
    "prev_rank": 6,
    "delta": 1,
    "state": "down",
@@ -1126,6 +1126,13 @@
      "date": "2026-11-01",
      "title": "신생아 혈장 p-tau217이 AD 환자의 2배(17 vs 8.6 pg/mL) — 혈액 p-tau 판독에는 생애주기 맥락이 필요, 신생아 42명·고령 대조 41명·AD 73명 (Brain Communications)",
      "url": "https://doi.org/10.1093/braincomms/fcag413",
+     "section": "진단·영상 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-01",
+     "title": "부검 확진 123명의 혈장 타우 8종을 IP-MS로 비교 — p-tau217/tau212-221 비율이 신경심리검사 8개 중 6개와 연관, 부검 확진 AD와 비슷한 효과크기 (Journal of Neurology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42965704/",
      "section": "진단·영상 연구",
      "importance": null
     },
@@ -1287,13 +1294,6 @@
      "date": "2026-10-23",
      "title": "대만 메모리클리닉 139명에서 로슈 전자동 혈장 p-tau217이 아밀로이드 양성 판별 AUC 0.973 — 이중 절단값(0.225/0.336 pg/mL)으로 88.1%를 확정 구간에 분류·일치도 95.0%, eGFR 낮을수록 p-tau217 상승 (Journal of Neurology)",
      "url": "https://doi.org/10.1007/s00415-026-14193-2",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-23",
-     "title": "APOE ε4 보유 인지정상인의 내측측두엽 과관류(ASL MRI)는 p-tau217 음성일 때만 실행기능 우위와 연관 — '회복탄력성' 영상 지표 가능성, 148명(혈장 p-tau217 126명) (Alzheimer's & Dementia)",
-     "url": "https://doi.org/10.1002/alz.71934",
      "section": "진단·영상 연구",
      "importance": "medium"
     }
@@ -2042,11 +2042,18 @@
   {
    "rank": 12,
    "keyword": "예방",
-   "count": 48,
+   "count": 49,
    "prev_rank": 12,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-11-01",
+     "title": "미 HHS, 2026년 알츠하이머 국가계획 개정판 — 6대 목표를 질병 단계에 맞춘 4대 목표(위험감소·예방/치료 혁신·고가치 돌봄·지원서비스)로 재편 (Alzforum)",
+     "url": "https://www.alzforum.org/news/community-news/streamlining-national-plan-hhs-prioritizes-prevention-innovation",
+     "section": "주요 언론",
+     "importance": null
+    },
     {
      "date": "2026-10-27",
      "title": "Brain Care Score 5점 높을수록 백질 고신호 부담 19% 낮고 PSMD·구조적 연결성도 양호 — 함부르크 시민 2,453명 MRI·DTI (European Journal of Neurology)",
@@ -2214,13 +2221,6 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42860380/",
      "section": "치매 전분야 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-10-13",
-     "title": "뇌졸중·TIA 후 혈압강하·항혈전·지질강하제는 치매·MCI·인지저하 위험을 의미 있게 줄이지 못했다 — 체계적 고찰 8편 통합, 평균 추적 2.0~4.9년, 근거 확실성 대부분 '낮음' (Journal of Prevention of Alzheimer's Disease)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42863385/",
-     "section": "치매 전분야 연구",
-     "importance": null
     }
    ]
   },
