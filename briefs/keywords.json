@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T08:15:03+09:00",
+ "generated_at": "2026-11-03T14:29:48+09:00",
  "date": "2026-11-03",
  "prev_date": "2026-11-02",
  "window_days": 30,
@@ -192,7 +192,7 @@
   {
    "rank": 2,
    "keyword": "아밀로이드",
-   "count": 127,
+   "count": 128,
    "prev_rank": 2,
    "delta": 0,
    "state": "same",
@@ -201,6 +201,13 @@
      "date": "2026-11-03",
      "title": "혈장 pTau217(Elecsys) 아밀로이드 배제 절단값 0.169 pg/mL — 기억클리닉 코호트 AUC 0.854, 민감도 87.7%·특이도 77.0%로 '단독 배제'에는 부족 (Journal of Alzheimer's Disease)",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42968340/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-11-03",
+     "title": "타우 PET Braak 병기, 플로르타우시피르와 MK6240은 서로 바꿔 쓸 수 없다 — 682명 이중 촬영에서 병기 일치율 43%(가중 κ 0.54), 불일치의 90% 이상은 MK6240이 약 1단계 높게 판정 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.11.01.26367034v1",
      "section": "진단·영상 연구",
      "importance": "high"
     },
@@ -364,20 +371,13 @@
      "url": "https://doi.org/10.1002/alz.71925",
      "section": "진단·영상 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-10-24",
-     "title": "APOE ε4는 혈장 p-tau217 상승 속도를 높이지만 GFAP엔 영향 없어 — 효과 대부분이 아밀로이드를 거치지 않는 직접 경로, p-tau217 궤적은 해마 위축과 동반, ADNI 325명 최장 10년 (Neurological Sciences)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42909513/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 3,
    "keyword": "MRI",
-   "count": 110,
+   "count": 111,
    "prev_rank": 3,
    "delta": 0,
    "state": "same",
@@ -395,6 +395,13 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42963006/",
      "section": "진단·영상 연구",
      "importance": "high"
+    },
+    {
+     "date": "2026-11-03",
+     "title": "알라마·나이팅게일, UK Biobank 혈액 8만 건으로 신경퇴행 단백체 연구 'UKB-PRISM' 착수 — NULISA로 혈중 단백 마커 수백 종 측정, 2027년 말 완료 후 공개 (Medical Device Network)",
+     "url": "https://www.medicaldevice-network.com/news/uk-biobank-study-initiated-to-assess-early-indicators-of-neurodegeneration/",
+     "section": "시장·투자",
+     "importance": "medium"
     },
     {
      "date": "2026-11-02",
@@ -549,20 +556,13 @@
      "url": "https://www.medrxiv.org/content/10.64898/2026.10.21.26366180v1",
      "section": "치매 전분야 연구",
      "importance": null
-    },
-    {
-     "date": "2026-10-28",
-     "title": "[후속·국감] '가명 의료정보 연구 IRB 심의 면제' 철회 요구 — 국회가 디지털헬스케어법 심사 중인데 시행규칙으로 우회한다는 지적 (히트뉴스)",
-     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80253",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 4,
    "keyword": "혈액 바이오마커",
-   "count": 106,
+   "count": 110,
    "prev_rank": 5,
    "delta": 1,
    "state": "up",
@@ -597,10 +597,38 @@
     },
     {
      "date": "2026-11-03",
+     "title": "타우 PET Braak 병기, 플로르타우시피르와 MK6240은 서로 바꿔 쓸 수 없다 — 682명 이중 촬영에서 병기 일치율 43%(가중 κ 0.54), 불일치의 90% 이상은 MK6240이 약 1단계 높게 판정 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.11.01.26367034v1",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-11-03",
+     "title": "젊은 나이 발병 치매 클리닉에서 AD·정신질환 다유전자위험점수는 질환 특이적이고 혈장 바이오마커와 독립적 — 687명, AD PRS OR 1.69, NfL에 PRS 추가해도 AUC 0.764→0.773 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.31.26366908v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-03",
+     "title": "알라마·나이팅게일, UK Biobank 혈액 8만 건으로 신경퇴행 단백체 연구 'UKB-PRISM' 착수 — NULISA로 혈중 단백 마커 수백 종 측정, 2027년 말 완료 후 공개 (Medical Device Network)",
+     "url": "https://www.medicaldevice-network.com/news/uk-biobank-study-initiated-to-assess-early-indicators-of-neurodegeneration/",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-03",
      "title": "[뉴요커] '세계가 하룻밤에 수억 명의 알츠하이머 환자를 얻었나' — 무증상 아밀로이드 양성까지 질병으로 보는 생물학적 정의와 혈액검사 확산을 둘러싼 학계 분열 (The New Yorker)",
      "url": "https://www.newyorker.com/magazine/2026/11/09/did-the-world-just-gain-hundreds-of-millions-of-alzheimers-patients",
      "section": "주요 언론",
      "importance": "medium"
+    },
+    {
+     "date": "2026-11-03",
+     "title": "인지정상인데 아밀로이드 양성이라 키썬라 6회 투여 — 58세 APOE4 보인자, 아밀로이드 PET 수치 86→4, 사설 예방 클리닉의 허가범위 밖 전임상 투약 사례 (TODAY.com)",
+     "url": "https://www.today.com/health/disease/early-alzheimers-tau-amyloid-medical-interventions-delay-progress-rcna606595",
+     "section": "주요 언론",
+     "importance": null
     },
     {
      "date": "2026-11-02",
@@ -712,34 +740,6 @@
      "title": "레켐비 실사용 181명 다기관 코호트 — 혈장 p-tau217·Aβ42/40이 투여 3개월째부터 변해 임상 반응보다 앞서, 12개월 반응 예측 AUC 0.773·ARIA 7.2%(전부 무증상) (Alzheimer's & Dementia)",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42934846/",
      "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-28",
-     "title": "초저입력 메틸화 분석(LABS)으로 혈청 cfDNA에서 병리 확진 AD와 대조군의 메틸화 차이 검출 (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.10.24.26366278v1",
-     "section": "진단·영상 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-10-27",
-     "title": "혈장 pTau217 자동화 플랫폼 Lumipulse vs Ella 직접 비교 — 정성 판정은 일치하나 Lumipulse가 체계적으로 낮고 고농도일수록 편차 커 수치 호환 불가 (Journal of Alzheimer's Disease)",
-     "url": "https://doi.org/10.1177/13872877261500491",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-27",
-     "title": "APOE ε4 보인 AD 환자 84명, 망막 미세혈관 밀도 저하·아밀로이드 PET SUVR 상승·해마 위축 — 망막 표층혈관 밀도 추가 시 뇌영상 단독 모델 대비 판별력 소폭 향상 (CNS Neuroscience & Therapeutics)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42921695/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-27",
-     "title": "로슈 진단사업부 1~9월 매출 102억8,100만 스위스프랑(CER +4%) — 코어랩 +5%·병리 +10%, 'FDA 허가 Elecsys pTau217'을 성과로 명시 (Roche)",
-     "url": "https://www.roche.com/media/releases/med-cor-2026-10-22",
-     "section": "경쟁사 동향",
      "importance": "medium"
     }
    ]
@@ -932,7 +932,7 @@
   {
    "rank": 6,
    "keyword": "아밀로이드 PET",
-   "count": 77,
+   "count": 78,
    "prev_rank": 6,
    "delta": 0,
    "state": "same",
@@ -943,6 +943,13 @@
      "url": "https://doi.org/10.1186/s13195-026-02242-x",
      "section": "진단·영상 연구",
      "importance": "medium"
+    },
+    {
+     "date": "2026-11-03",
+     "title": "인지정상인데 아밀로이드 양성이라 키썬라 6회 투여 — 58세 APOE4 보인자, 아밀로이드 PET 수치 86→4, 사설 예방 클리닉의 허가범위 밖 전임상 투약 사례 (TODAY.com)",
+     "url": "https://www.today.com/health/disease/early-alzheimers-tau-amyloid-medical-interventions-delay-progress-rcna606595",
+     "section": "주요 언론",
+     "importance": null
     },
     {
      "date": "2026-11-02",
@@ -1104,20 +1111,13 @@
      "url": "https://www.newsis.com/view/NISX20261023_0003838490",
      "section": "경쟁사 동향",
      "importance": "high"
-    },
-    {
-     "date": "2026-10-23",
-     "title": "대만 메모리클리닉 139명에서 로슈 전자동 혈장 p-tau217이 아밀로이드 양성 판별 AUC 0.973 — 이중 절단값(0.225/0.336 pg/mL)으로 88.1%를 확정 구간에 분류·일치도 95.0%, eGFR 낮을수록 p-tau217 상승 (Journal of Neurology)",
-     "url": "https://doi.org/10.1007/s00415-026-14193-2",
-     "section": "진단·영상 연구",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 7,
    "keyword": "p-tau217",
-   "count": 76,
+   "count": 77,
    "prev_rank": 7,
    "delta": 0,
    "state": "same",
@@ -1140,6 +1140,13 @@
      "date": "2026-11-03",
      "title": "원격 채혈용 지연원심분리 튜브 비교 — 상온 5일 보관 후 P100은 p-tau217 순위 보존(ρ=0.98)·분류 일치 97.5%, Aβ42는 72.8~95.5% 손실 (medRxiv 프리프린트)",
      "url": "https://www.medrxiv.org/content/10.64898/2026.10.30.26366958v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-03",
+     "title": "젊은 나이 발병 치매 클리닉에서 AD·정신질환 다유전자위험점수는 질환 특이적이고 혈장 바이오마커와 독립적 — 687명, AD PRS OR 1.69, NfL에 PRS 추가해도 AUC 0.764→0.773 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.31.26366908v1",
      "section": "진단·영상 연구",
      "importance": "medium"
     },
@@ -1287,13 +1294,6 @@
      "date": "2026-10-24",
      "title": "혈액 바이오마커 단독의 13년 치매 예측력은 기존 위험요인 모델 수준 — p-tau217 C-index 0.693·4종 합산 0.760, 위험요인 모델에 더하면 0.765→0.813, 화이트홀 II 5,225명 (Neurology)",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42913444/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-24",
-     "title": "APOE ε4는 혈장 p-tau217 상승 속도를 높이지만 GFAP엔 영향 없어 — 효과 대부분이 아밀로이드를 거치지 않는 직접 경로, p-tau217 궤적은 해마 위축과 동반, ADNI 325명 최장 10년 (Neurological Sciences)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42909513/",
      "section": "진단·영상 연구",
      "importance": "medium"
     }
@@ -1487,17 +1487,31 @@
   {
    "rank": 9,
    "keyword": "APOE",
-   "count": 62,
+   "count": 64,
    "prev_rank": 9,
    "delta": 0,
    "state": "same",
    "items": [
     {
      "date": "2026-11-03",
+     "title": "젊은 나이 발병 치매 클리닉에서 AD·정신질환 다유전자위험점수는 질환 특이적이고 혈장 바이오마커와 독립적 — 687명, AD PRS OR 1.69, NfL에 PRS 추가해도 AUC 0.764→0.773 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.31.26366908v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-03",
      "title": "입원 중 섬망을 겪은 인지정상 노인, 이후 MCI 위험 3.67배·치매 위험 5.39배 — 메이요 MCSA 3,501명 중앙값 7.2년 추적 (JAMA Neurology)",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42970282/",
      "section": "치매 전분야 연구",
      "importance": "medium"
+    },
+    {
+     "date": "2026-11-03",
+     "title": "인지정상인데 아밀로이드 양성이라 키썬라 6회 투여 — 58세 APOE4 보인자, 아밀로이드 PET 수치 86→4, 사설 예방 클리닉의 허가범위 밖 전임상 투약 사례 (TODAY.com)",
+     "url": "https://www.today.com/health/disease/early-alzheimers-tau-amyloid-medical-interventions-delay-progress-rcna606595",
+     "section": "주요 언론",
+     "importance": null
     },
     {
      "date": "2026-11-02",
@@ -1652,27 +1666,13 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42899313/",
      "section": "진단·영상 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-10-21",
-     "title": "노년기 발병 뇌전증(65세 이상)의 혈관 위험인자 — 6개 미국 코호트 42,257명 평균 9.3년 추적, 뇌졸중 HR 1.99·당뇨 1.42·흡연 1.39, APOE ε4 2개 보유 시 HR 1.84 (JAMA Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42895730/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-20",
-     "title": "기저 뇌 MRI·APOE4만으로 환자별 미래 뇌 MRI를 생성하는 다중모달 조건부 잠재확산모델(MC-LDM) — 타우 PET·CDR은 학습에만 쓰고 추론 시 보조예측기로 대체, 영역 부피 MAE 차순위 기법 대비 18% 감소 (arXiv 프리프린트)",
-     "url": "https://arxiv.org/abs/2610.25481",
-     "section": "진단·영상 연구",
-     "importance": "high"
     }
    ]
   },
   {
    "rank": 10,
    "keyword": "FDA",
-   "count": 56,
+   "count": 57,
    "prev_rank": 10,
    "delta": 0,
    "state": "same",
@@ -1683,6 +1683,13 @@
      "url": "https://www.medicaldaily.com/medicare-autonomous-ai-payment-cassidy-patient-ai-act-480674",
      "section": "규제·인허가·정책",
      "importance": "high"
+    },
+    {
+     "date": "2026-11-03",
+     "title": "美 딥리즈닝AI, 두경부 CT 혈관조영 시각화 AI 'NeuroDR' FDA 510(k) 허가 — 뼈·연조직·정맥 자동 제거 후 3D 재구성을 PACS로 전송, 제출 105일 만 (의학신문)",
+     "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015210",
+     "section": "규제·인허가·정책",
+     "importance": null
     },
     {
      "date": "2026-11-03",
@@ -1844,20 +1851,13 @@
      "url": "https://www.pharmaceutical-technology.com/news/qci-inmune-bio-study-xpro-alzheimers/",
      "section": "시장·투자",
      "importance": null
-    },
-    {
-     "date": "2026-10-17",
-     "title": "미국의사협회(AMA), 의료용 에이전틱 AI 거버넌스 프레임워크 발표 — 자율형 AI 임상 도입 시 근거·권한·감독·책임 정렬 요구 (MedTech Dive)",
-     "url": "https://www.medtechdive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833208/",
-     "section": "규제·인허가·정책",
-     "importance": null
     }
    ]
   },
   {
    "rank": 11,
    "keyword": "예방",
-   "count": 50,
+   "count": 51,
    "prev_rank": 11,
    "delta": 0,
    "state": "same",
@@ -1873,6 +1873,13 @@
      "date": "2026-11-03",
      "title": "분당서울대병원 김기웅 교수 창업 '플랜비포유', 병원 밖 치매 전주기 관리 — 신경심리검사 보고서 자동화로 처리시간 절반, 보행 분석 인지저하 탐지·일본 진출 추진 (메디칼타임즈)",
      "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171535",
+     "section": "주요 언론",
+     "importance": null
+    },
+    {
+     "date": "2026-11-03",
+     "title": "인지정상인데 아밀로이드 양성이라 키썬라 6회 투여 — 58세 APOE4 보인자, 아밀로이드 PET 수치 86→4, 사설 예방 클리닉의 허가범위 밖 전임상 투약 사례 (TODAY.com)",
+     "url": "https://www.today.com/health/disease/early-alzheimers-tau-amyloid-medical-interventions-delay-progress-rcna606595",
      "section": "주요 언론",
      "importance": null
     },
@@ -2029,13 +2036,6 @@
      "url": "https://www.sierradailynews.com/national-news/major-alzheimers-prevention-trial-testing-single-and-combo-therapy-assigns-first-participant/",
      "section": "시장·투자",
      "importance": "medium"
-    },
-    {
-     "date": "2026-10-15",
-     "title": "아밀로이드 음성 인지정상인 절반의 'Centiloid 0.93~20' 경도 아밀로이드도 약 10년 뒤 인지장애 위험 1.43배 — 인지정상 1,896명 최대 20.3년 추적, 양성 기준 CL>20이 고위험군을 놓칠 수 있다 (Annals of Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42873601/",
-     "section": "진단·영상 연구",
-     "importance": "high"
     }
    ]
   },
@@ -2227,11 +2227,18 @@
   {
    "rank": 13,
    "keyword": "레켐비",
-   "count": 46,
+   "count": 47,
    "prev_rank": 13,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-11-03",
+     "title": "레켐비 원개발사 바이오아틱, 노바티스와의 BrainTransporter 공동개발·옵션 계약 해지 통보 — 선급금 3,000만 달러는 반환 없이 2026년 매출 인식 (BioArctic)",
+     "url": "https://mfn.se/cis/a/bioarctic/bioarctic-collaborator-novartis-terminates-agreement-824abb3b",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
     {
      "date": "2026-11-03",
      "title": "뉴로핏, 美 래피드AI 플랫폼에 뇌영상 AI 탑재 — 2,500개 이상 병원·100여 개국 유통망, ARIA 모니터링 'AQUA AD Plus' 먼저 연동 후 SCALE PET·AQUA MS로 확대 (PR Newswire)",
@@ -2399,23 +2406,201 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42874425/",
      "section": "치매 전분야 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-10-19",
-     "title": "[후속] 英 알츠하이머협회 여론조사 '성인 4분의 3, 효과가 크지 않아도 NHS가 신약 지원해야' — 2,068명 조사 (The Telegraph)",
-     "url": "https://www.yahoo.com/news/us/articles/alzheimer-patients-betrayed-nhs-drug-190000677.html",
-     "section": "주요 언론",
-     "importance": null
     }
    ]
   },
   {
    "rank": 14,
+   "keyword": "NfL",
+   "count": 45,
+   "prev_rank": 16,
+   "delta": 2,
+   "state": "up",
+   "items": [
+    {
+     "date": "2026-11-03",
+     "title": "α-시누클레인 동반 AD는 3년간 혈장 p-tau217이 가장 가파르게 오른다(+2.19 pg/mL) — 바르셀로나 기억클리닉 223명, NfL도 FTD 수준으로 높아 (Neurology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42970748/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-03",
+     "title": "아프리카계 미국인은 CSF·혈장의 타우·NfL이 일관되게 낮다 — 18개 연구 1만3,191명 메타분석, 백인 중심 진단 절단값의 일률 적용에 신중론 (Alzheimer's Research & Therapy)",
+     "url": "https://doi.org/10.1186/s13195-026-02242-x",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-03",
+     "title": "혈장 NfL, Simoa와 Lumipulse 상관 ρ=0.90이지만 절대값은 Lumipulse가 체계적으로 높아 — 신경질환 383명, 플랫폼별 해석 필요 (Clinical Chemistry and Laboratory Medicine)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42960454/",
+     "section": "진단·영상 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-03",
+     "title": "젊은 나이 발병 치매 클리닉에서 AD·정신질환 다유전자위험점수는 질환 특이적이고 혈장 바이오마커와 독립적 — 687명, AD PRS OR 1.69, NfL에 PRS 추가해도 AUC 0.764→0.773 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.31.26366908v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-01",
+     "title": "신생아 혈장 p-tau217이 AD 환자의 2배(17 vs 8.6 pg/mL) — 혈액 p-tau 판독에는 생애주기 맥락이 필요, 신생아 42명·고령 대조 41명·AD 73명 (Brain Communications)",
+     "url": "https://doi.org/10.1093/braincomms/fcag413",
+     "section": "진단·영상 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-10-30",
+     "title": "광주 GARD 코호트, 혈장 pTau217의 아밀로이드 PET 양성 판별 AUC>0.91 — AD 진단은 콜레스테롤·혈당 추가 시 AUC 0.781→0.873, 진행 예측은 GFAP 결합 0.867 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.27.26366659v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-29",
+     "title": "AD 혈장 바이오마커 단기 재검 신뢰도 — p-tau217·GFAP·NfL 등 핵심 마커 ICC≥0.84, p-tau217 이중 절단값 판정은 92%가 같은 범주 유지, 92명 반복 채혈 (Alzheimer's Research & Therapy)",
+     "url": "https://doi.org/10.1186/s13195-026-02180-8",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-29",
+     "title": "Olink Target 48 신경퇴행 패널, 암스테르담 연구진이 CSF·혈장 짝 352건으로 분석·임상 검증 — AD는 CSF pTau217 AUC 1.0, FTD는 혈장 NfL 0.952, DLB는 CSF DDC 0.901 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42949229/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-29",
+     "title": "알츠하이머 연속체에서 MRI 글림프 지표(DTI-ALPS)가 단계적으로 감소하고 뇌혈류 저하와 연동 — 정상 78명·SCD 53명·MCI 40명·AD 110명 다중모달 MRI (NeuroImage)",
+     "url": "https://doi.org/10.1016/j.neuroimage.2026.122322",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-29",
+     "title": "혈장 β-시누클레인이 [11C]UCB-J PET로 잰 해마 시냅스 밀도 감소와 연관 — 83명, 아밀로이드 양성이면 인지정상군에서도 상승 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42947251/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-29",
+     "title": "NFL 은퇴 선수 사망자 2,362명 전수 분석 — 기증 선택편향을 보정한 CTE 유병률 74.5%(기증 뇌 기준 93.5%), 생전 치매 27.2% (JAMA Network Open)",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2026.40884",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-24",
+     "title": "혈액 바이오마커 단독의 13년 치매 예측력은 기존 위험요인 모델 수준 — p-tau217 C-index 0.693·4종 합산 0.760, 위험요인 모델에 더하면 0.765→0.813, 화이트홀 II 5,225명 (Neurology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42913444/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-23",
+     "title": "대만 메모리클리닉 139명에서 로슈 전자동 혈장 p-tau217이 아밀로이드 양성 판별 AUC 0.973 — 이중 절단값(0.225/0.336 pg/mL)으로 88.1%를 확정 구간에 분류·일치도 95.0%, eGFR 낮을수록 p-tau217 상승 (Journal of Neurology)",
+     "url": "https://doi.org/10.1007/s00415-026-14193-2",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "인지정상인에서 혈장 p-tau217과 아밀로이드 PET(Centiloid≥20)이 엇갈릴 때 — p-tau+/PET−는 GFAP·NfL이 높고 p-tau+ 두 군 모두 임상 진행 위험 증가, 중국 CPAS 594명+ADNI 475명 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42902436/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "메모리클리닉 3,645명·최장 30년 추적 — 혈장 p-tau217이 Aβ 병리·임상 AD 판별과 5·10년 진행 예측에서 최우수, 전체원인 치매 판별은 NfL·GFAP와 비슷 (medRxiv 프리프린트)",
+     "url": "https://doi.org/10.64898/2026.10.19.26365317",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-22",
+     "title": "p38α 억제제 네플라마피모드, 루이소체치매 2b상(159명) 주평가변수 실패 — CDR-SB 평균차 −0.02, 2a상 결과 재현 안 돼 (Alzheimer's Research & Therapy)",
+     "url": "https://doi.org/10.1186/s13195-026-02239-6",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-21",
+     "title": "신장 기능이 '정상 범위 안에서' 조금만 떨어져도 혈장 p-tau217 상승 — eGFR 60~90에서 36%, 60 미만에서 116% 높아, 신경질환 없는 성인 180명 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.18.26365853v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-21",
+     "title": "섬망 입원환자는 혈장 NfL이 크게 높아 — 치매·1차 정신질환과 감별 AUC 0.89(기준치 24.1 pg/mL), 독립 검증 집단 AUC 0.95 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.18.26365854v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-20",
+     "title": "초고령(92~107세) 559명 최장 16년 추적 — 사망을 일관되게 예측한 혈장 지표는 NfL뿐(HR 1.21~1.38), Aβ·p-tau181 등 AD 특이 마커는 예측 못 해 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.17.26365798v1",
+     "section": "진단·영상 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-10-19",
+     "title": "[Alzforum] 메모리클리닉 무작위 시험 PLASMAR — 혈장 p-tau217·NfL 결과를 조기 공개하자 3개월 시점 고확신 진단 50% vs 5%, 추가검사 필요 30% vs 53% (Alzforum)",
+     "url": "https://www.alzforum.org/news/research-news/randomized-trial-blood-tests-improved-care",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-18",
+     "title": "일반 T1 MRI 위축 패턴(SPARE-AD·SPARE-BA)에 혈장 p-tau217·NfL을 더한 모델이 인지장애 판별과 진행 예측 모두 최고 — 치매 없는 다인종 1,297명 (Alzheimer's & Dementia)",
+     "url": "https://doi.org/10.1002/alz.71889",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-10-18",
+     "title": "APOE ε4 보인자는 50대 중반부터 혈장 p-tau217·GFAP가 더 가파르게 올라 — 네덜란드 쌍둥이 레지스트리 30~80세 5,913명, APOE 외 AD 다유전자점수는 무관 (Nature Communications)",
+     "url": "https://www.nature.com/articles/s41467-026-78723-2",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-18",
+     "title": "혈액 바이오마커(Aβ42/40·p-tau217·NfL·GFAP) 군집으로 다영역 생활중재가 듣는 MCI 하위군 식별 — J-MINT 269명 중 GFAP 상승·다중 이상 군집 51명에서만 18개월 인지궤적 차이 (Alzheimer's & Dementia: TRCI)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42890602/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-17",
+     "title": "혈장 pTau217이 11년 뒤 치매를 AUC 0.773으로 예측, 위험점수 7종 추가는 소폭 개선(0.775~0.783)·NfL은 추가 이득 없음 — 노르웨이 HUNT 3,935명 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.10.15.26365615v1",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-10-17",
+     "title": "손끝 모세혈 자가채혈(Tasso+·TAPII)로 잰 Aβ42/40·NfL·GFAP는 정맥혈과 강한 상관(NfL r=0.91)이지만 pTau217은 r=0.23 — 존스홉킨스 192명 (Annals of Clinical and Translational Neurology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42885968/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    }
+   ]
+  },
+  {
+   "rank": 15,
    "keyword": "역학",
    "count": 45,
    "prev_rank": 14,
-   "delta": 0,
-   "state": "same",
+   "delta": 1,
+   "state": "down",
    "items": [
     {
      "date": "2026-11-03",
@@ -2595,12 +2780,12 @@
    ]
   },
   {
-   "rank": 15,
+   "rank": 16,
    "keyword": "임상시험",
    "count": 44,
    "prev_rank": 15,
-   "delta": 0,
-   "state": "same",
+   "delta": 1,
+   "state": "down",
    "items": [
     {
      "date": "2026-11-03",
@@ -2776,191 +2961,6 @@
      "url": "https://www.newsway.co.kr/news/view?ud=2026101215232984165",
      "section": "경쟁사 동향",
      "importance": null
-    }
-   ]
-  },
-  {
-   "rank": 16,
-   "keyword": "NfL",
-   "count": 44,
-   "prev_rank": 16,
-   "delta": 0,
-   "state": "same",
-   "items": [
-    {
-     "date": "2026-11-03",
-     "title": "α-시누클레인 동반 AD는 3년간 혈장 p-tau217이 가장 가파르게 오른다(+2.19 pg/mL) — 바르셀로나 기억클리닉 223명, NfL도 FTD 수준으로 높아 (Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42970748/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-03",
-     "title": "아프리카계 미국인은 CSF·혈장의 타우·NfL이 일관되게 낮다 — 18개 연구 1만3,191명 메타분석, 백인 중심 진단 절단값의 일률 적용에 신중론 (Alzheimer's Research & Therapy)",
-     "url": "https://doi.org/10.1186/s13195-026-02242-x",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-03",
-     "title": "혈장 NfL, Simoa와 Lumipulse 상관 ρ=0.90이지만 절대값은 Lumipulse가 체계적으로 높아 — 신경질환 383명, 플랫폼별 해석 필요 (Clinical Chemistry and Laboratory Medicine)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42960454/",
-     "section": "진단·영상 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-11-01",
-     "title": "신생아 혈장 p-tau217이 AD 환자의 2배(17 vs 8.6 pg/mL) — 혈액 p-tau 판독에는 생애주기 맥락이 필요, 신생아 42명·고령 대조 41명·AD 73명 (Brain Communications)",
-     "url": "https://doi.org/10.1093/braincomms/fcag413",
-     "section": "진단·영상 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-10-30",
-     "title": "광주 GARD 코호트, 혈장 pTau217의 아밀로이드 PET 양성 판별 AUC>0.91 — AD 진단은 콜레스테롤·혈당 추가 시 AUC 0.781→0.873, 진행 예측은 GFAP 결합 0.867 (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.10.27.26366659v1",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-29",
-     "title": "AD 혈장 바이오마커 단기 재검 신뢰도 — p-tau217·GFAP·NfL 등 핵심 마커 ICC≥0.84, p-tau217 이중 절단값 판정은 92%가 같은 범주 유지, 92명 반복 채혈 (Alzheimer's Research & Therapy)",
-     "url": "https://doi.org/10.1186/s13195-026-02180-8",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-29",
-     "title": "Olink Target 48 신경퇴행 패널, 암스테르담 연구진이 CSF·혈장 짝 352건으로 분석·임상 검증 — AD는 CSF pTau217 AUC 1.0, FTD는 혈장 NfL 0.952, DLB는 CSF DDC 0.901 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42949229/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-29",
-     "title": "알츠하이머 연속체에서 MRI 글림프 지표(DTI-ALPS)가 단계적으로 감소하고 뇌혈류 저하와 연동 — 정상 78명·SCD 53명·MCI 40명·AD 110명 다중모달 MRI (NeuroImage)",
-     "url": "https://doi.org/10.1016/j.neuroimage.2026.122322",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-29",
-     "title": "혈장 β-시누클레인이 [11C]UCB-J PET로 잰 해마 시냅스 밀도 감소와 연관 — 83명, 아밀로이드 양성이면 인지정상군에서도 상승 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42947251/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-29",
-     "title": "NFL 은퇴 선수 사망자 2,362명 전수 분석 — 기증 선택편향을 보정한 CTE 유병률 74.5%(기증 뇌 기준 93.5%), 생전 치매 27.2% (JAMA Network Open)",
-     "url": "https://doi.org/10.1001/jamanetworkopen.2026.40884",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-24",
-     "title": "혈액 바이오마커 단독의 13년 치매 예측력은 기존 위험요인 모델 수준 — p-tau217 C-index 0.693·4종 합산 0.760, 위험요인 모델에 더하면 0.765→0.813, 화이트홀 II 5,225명 (Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42913444/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-23",
-     "title": "대만 메모리클리닉 139명에서 로슈 전자동 혈장 p-tau217이 아밀로이드 양성 판별 AUC 0.973 — 이중 절단값(0.225/0.336 pg/mL)으로 88.1%를 확정 구간에 분류·일치도 95.0%, eGFR 낮을수록 p-tau217 상승 (Journal of Neurology)",
-     "url": "https://doi.org/10.1007/s00415-026-14193-2",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-22",
-     "title": "인지정상인에서 혈장 p-tau217과 아밀로이드 PET(Centiloid≥20)이 엇갈릴 때 — p-tau+/PET−는 GFAP·NfL이 높고 p-tau+ 두 군 모두 임상 진행 위험 증가, 중국 CPAS 594명+ADNI 475명 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42902436/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-22",
-     "title": "메모리클리닉 3,645명·최장 30년 추적 — 혈장 p-tau217이 Aβ 병리·임상 AD 판별과 5·10년 진행 예측에서 최우수, 전체원인 치매 판별은 NfL·GFAP와 비슷 (medRxiv 프리프린트)",
-     "url": "https://doi.org/10.64898/2026.10.19.26365317",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-22",
-     "title": "p38α 억제제 네플라마피모드, 루이소체치매 2b상(159명) 주평가변수 실패 — CDR-SB 평균차 −0.02, 2a상 결과 재현 안 돼 (Alzheimer's Research & Therapy)",
-     "url": "https://doi.org/10.1186/s13195-026-02239-6",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-21",
-     "title": "신장 기능이 '정상 범위 안에서' 조금만 떨어져도 혈장 p-tau217 상승 — eGFR 60~90에서 36%, 60 미만에서 116% 높아, 신경질환 없는 성인 180명 (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.10.18.26365853v1",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-21",
-     "title": "섬망 입원환자는 혈장 NfL이 크게 높아 — 치매·1차 정신질환과 감별 AUC 0.89(기준치 24.1 pg/mL), 독립 검증 집단 AUC 0.95 (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.10.18.26365854v1",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-20",
-     "title": "초고령(92~107세) 559명 최장 16년 추적 — 사망을 일관되게 예측한 혈장 지표는 NfL뿐(HR 1.21~1.38), Aβ·p-tau181 등 AD 특이 마커는 예측 못 해 (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.10.17.26365798v1",
-     "section": "진단·영상 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-10-19",
-     "title": "[Alzforum] 메모리클리닉 무작위 시험 PLASMAR — 혈장 p-tau217·NfL 결과를 조기 공개하자 3개월 시점 고확신 진단 50% vs 5%, 추가검사 필요 30% vs 53% (Alzforum)",
-     "url": "https://www.alzforum.org/news/research-news/randomized-trial-blood-tests-improved-care",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-18",
-     "title": "일반 T1 MRI 위축 패턴(SPARE-AD·SPARE-BA)에 혈장 p-tau217·NfL을 더한 모델이 인지장애 판별과 진행 예측 모두 최고 — 치매 없는 다인종 1,297명 (Alzheimer's & Dementia)",
-     "url": "https://doi.org/10.1002/alz.71889",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-10-18",
-     "title": "APOE ε4 보인자는 50대 중반부터 혈장 p-tau217·GFAP가 더 가파르게 올라 — 네덜란드 쌍둥이 레지스트리 30~80세 5,913명, APOE 외 AD 다유전자점수는 무관 (Nature Communications)",
-     "url": "https://www.nature.com/articles/s41467-026-78723-2",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-18",
-     "title": "혈액 바이오마커(Aβ42/40·p-tau217·NfL·GFAP) 군집으로 다영역 생활중재가 듣는 MCI 하위군 식별 — J-MINT 269명 중 GFAP 상승·다중 이상 군집 51명에서만 18개월 인지궤적 차이 (Alzheimer's & Dementia: TRCI)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42890602/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-17",
-     "title": "혈장 pTau217이 11년 뒤 치매를 AUC 0.773으로 예측, 위험점수 7종 추가는 소폭 개선(0.775~0.783)·NfL은 추가 이득 없음 — 노르웨이 HUNT 3,935명 (medRxiv 프리프린트)",
-     "url": "https://www.medrxiv.org/content/10.64898/2026.10.15.26365615v1",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-17",
-     "title": "손끝 모세혈 자가채혈(Tasso+·TAPII)로 잰 Aβ42/40·NfL·GFAP는 정맥혈과 강한 상관(NfL r=0.91)이지만 pTau217은 r=0.23 — 존스홉킨스 192명 (Annals of Clinical and Translational Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42885968/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-17",
-     "title": "중년(평균 59세) 혈장 p-tau181이 약 20년 뒤 기억력 저하 속도를 예측 — 중년 Aβ42/40·NfL·GFAP는 무관, 노년기엔 p-tau181·NfL·GFAP 모두 연관, ARIC 1,515명 (Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42886876/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
     }
    ]
   },
@@ -3337,11 +3337,18 @@
   {
    "rank": 19,
    "keyword": "타우 PET",
-   "count": 32,
+   "count": 33,
    "prev_rank": 19,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-11-03",
+     "title": "타우 PET Braak 병기, 플로르타우시피르와 MK6240은 서로 바꿔 쓸 수 없다 — 682명 이중 촬영에서 병기 일치율 43%(가중 κ 0.54), 불일치의 90% 이상은 MK6240이 약 1단계 높게 판정 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.11.01.26367034v1",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
     {
      "date": "2026-11-03",
      "title": "CTAD 2026 프리뷰: 랜티우스, 타우 PET 플로르퀴니타우(F18) 3상 진단성능 포스터와 성상세포 MAO-B PET 트레이서 18F-FDED 데이터 발표 (GlobeNewswire)",
@@ -3509,13 +3516,6 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42852594/",
      "section": "진단·영상 연구",
      "importance": "high"
-    },
-    {
-     "date": "2026-10-10",
-     "title": "혈장 eMTBR-tau243이 flortaucipir 타우PET·인지와 가장 강하게 상관, 단 경미·국소 타우PET 환자 45%에서는 검출 불가 — AD 4개 임상표현형 20명+대조 10명 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42851168/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
     }
    ]
   },
@@ -3709,11 +3709,18 @@
   {
    "rank": 1,
    "keyword": "뷰노",
-   "count": 22,
+   "count": 23,
    "prev_rank": 1,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-11-03",
+     "title": "[후속] 뷰노 이예하 대표, 신주인수권증서 90만1,356주 장외매도 계획 재제출 — 매매기간 12/2~12/11로 이동 (DART)",
+     "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000240",
+     "section": "경쟁사 동향",
+     "importance": null
+    },
     {
      "date": "2026-10-30",
      "title": "[후속] 뷰노 딥카스 신의료기술평가 결과 '11월 중 발표 예상' — 유상증자 약 310억원 중 200억원 채무상환·106억원 운영자금 (매경헬스)",

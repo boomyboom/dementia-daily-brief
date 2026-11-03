@@ -108,6 +108,54 @@
             "Lumipulse",
             "플랫폼 비교"
           ]
+        },
+        {
+          "title": "타우 PET Braak 병기, 플로르타우시피르와 MK6240은 서로 바꿔 쓸 수 없다 — 682명 이중 촬영에서 병기 일치율 43%(가중 κ 0.54), 불일치의 90% 이상은 MK6240이 약 1단계 높게 판정 (medRxiv 프리프린트)",
+          "summary": "AD 연속선상 682명을 두 트레이서로 모두 촬영한 결과, 트레이서별 Braak 위계 부합률은 89~92%였으나 트레이서 간 병기 일치율은 43%(가중 κ 0.54)에 그쳤다. MK6240이 높게 매긴 사례는 Aβ 부담이 크고 혈장 바이오마커와 인지가 더 나빴으며, 부검 코호트(4,422명)와 비교하면 초기 단계에서 PET 병기가 병리보다 MK6240은 약 2단계, 플로르타우시피르는 약 3단계 늦었다. 10/29에 실은 타우 공간범위(TSE) 논문과 같은 코호트의 별개 분석으로, 트레이서별 정량·병기 기준을 따로 잡아야 한다는 근거다.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.11.01.26367034v1",
+          "tags": [
+            "타우 PET",
+            "Braak 병기",
+            "트레이서 비교"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "치매 진단 뒤 다시 MCI로 기록되는 '진단 역전' 13.7% — UCSF 전자의무기록 5,965명, 스페인어 사용자 OR 2.26·동반질환이 많을수록 빈번 (Alzheimer's & Dementia: DADM)",
+          "summary": "UCSF EHR에서 50세 이상 신규 치매 진단 환자 5,965명을 분석한 결과 13.7%가 이후 MCI로 재진단됐다. 역전 오즈는 고령일수록 낮고(OR 0.95/년) 스페인어 사용자(OR 2.26), 심혈관 위험(OR 1.16), Charlson 동반질환지수(OR 1.09)가 높을수록 컸다. 저자들은 오진·임상적 불확실성을 반영한다고 해석해, 객관적 진단 보조도구의 필요성을 보여준다.",
+          "source": "Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/dad2.70523",
+          "tags": [
+            "진단 정확도",
+            "전자의무기록",
+            "오진"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "진료노트 속 주관적 인지저하(SCD) 호소를 LLM으로 분류 — 65세 이상 2,175명, 13개 주제·40개 하위주제 체계, 주제 분류 micro-F1 84.8% (Alzheimer's & Dementia: DADM)",
+          "summary": "EHR 기반 SCD 표현형 환자 2,175명의 진료노트에서 LLM과 전문가 검토로 인지 호소 분류체계(주제 13개·하위주제 40개)를 만들었고, 주제 수준 분류 성능은 micro-F1 84.8%였다. 가장 흔한 호소는 기억 문제(68.5%)였으며 주제 분포는 연령·성별·혼인·교육 수준에 따라 달랐다.",
+          "source": "Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/dad2.70525",
+          "tags": [
+            "LLM",
+            "전자의무기록",
+            "주관적 인지저하"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "젊은 나이 발병 치매 클리닉에서 AD·정신질환 다유전자위험점수는 질환 특이적이고 혈장 바이오마커와 독립적 — 687명, AD PRS OR 1.69, NfL에 PRS 추가해도 AUC 0.764→0.773 (medRxiv 프리프린트)",
+          "summary": "호주 MiND 코호트 687명(정상 195, 원발성 정신질환 283, AD 55, 비AD 신경퇴행 154)에서 APOE 제외 AD PRS는 AD와만(OR 1.69/SD), 정신질환 PRS는 정신질환과만 연관됐다. 어떤 PRS도 혈장 NfL·GFAP·p-tau217(332명)과 연관되지 않았고, 정신질환-신경퇴행 감별력 향상은 미미했다(AUC 0.764→0.773).",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.10.31.26366908v1",
+          "tags": [
+            "혈장 바이오마커",
+            "다유전자위험점수",
+            "조기발병 치매"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -181,6 +229,17 @@
             "생활습관",
             "의사결정능력"
           ]
+        },
+        {
+          "title": "파킨슨병 인지장애에 마이네르트 기저핵(NBM) 간헐 자극 DBS 병합 — 5명 실현가능성 연구, 6개월 뒤 전원 임상적으로 의미 있는 인지 개선 (medRxiv 프리프린트)",
+          "summary": "STN DBS 대상 PD 인지장애 환자 5명에게 NBM 또는 외측 원심섬유다발 전극을 추가해 하루 1시간 간헐 자극을 줬고, 이상반응 없이 6개월 뒤 5명 모두 신경심리 배터리에서 의미 있는 개선을 보였다. 대조군 없는 5명 연구라 근거 수준은 낮다.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.11.02.26366824v1",
+          "tags": [
+            "뇌심부자극",
+            "파킨슨병 치매",
+            "콜린성"
+          ]
         }
       ]
     },
@@ -213,6 +272,17 @@
             "뇌졸중",
             "예후 예측"
           ]
+        },
+        {
+          "title": "美 딥리즈닝AI, 두경부 CT 혈관조영 시각화 AI 'NeuroDR' FDA 510(k) 허가 — 뼈·연조직·정맥 자동 제거 후 3D 재구성을 PACS로 전송, 제출 105일 만 (의학신문)",
+          "summary": "코넬대 AI 교수진이 창업한 딥리즈닝AI가 3DR Labs와 개발한 두경부 CTA 후처리 AI 'NeuroDR'이 FDA 510(k)를 받았으며, 허가 신청은 Innolitics가 대행해 제출 105일 만에 통과했다. 치매 진단과 직접 경쟁하지 않지만, 신경영상 SaMD가 외부 대행으로 3~4개월 만에 510(k)를 받은 사례로 미국 인허가 일정 수립에 참고할 만하다.",
+          "source": "의학신문",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015210",
+          "tags": [
+            "FDA",
+            "510(k)",
+            "신경영상 AI"
+          ]
         }
       ]
     },
@@ -244,6 +314,30 @@
             "VC 동향"
           ],
           "importance": "medium"
+        },
+        {
+          "title": "레켐비 원개발사 바이오아틱, 노바티스와의 BrainTransporter 공동개발·옵션 계약 해지 통보 — 선급금 3,000만 달러는 반환 없이 2026년 매출 인식 (BioArctic)",
+          "summary": "노바티스가 2025년 8월 체결한 BrainTransporter(뇌 전달 기술) 옵션·공동개발·라이선스 계약을 해지했다. 바이오아틱은 노바티스의 프로그램 중단 결정에 따른 것으로 기술과는 무관하다고 밝혔고, 선급금 3,000만 달러 중 미인식분을 2026년 매출로 인식하며 BrainTransporter 파트너십 5건은 유지된다.",
+          "source": "BioArctic",
+          "url": "https://mfn.se/cis/a/bioarctic/bioarctic-collaborator-novartis-terminates-agreement-824abb3b",
+          "tags": [
+            "바이오아틱",
+            "노바티스",
+            "뇌 전달 기술"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "알라마·나이팅게일, UK Biobank 혈액 8만 건으로 신경퇴행 단백체 연구 'UKB-PRISM' 착수 — NULISA로 혈중 단백 마커 수백 종 측정, 2027년 말 완료 후 공개 (Medical Device Network)",
+          "summary": "나이팅게일 헬스가 알라마의 NULISA 플랫폼으로 UK Biobank 참가자 혈액 8만 건에서 수백 종의 혈중 단백 바이오마커를 측정해 기존 영상·유전체 데이터와 결합, AD·PD 등의 조기 지표를 찾는다. 마이클 J. 폭스 재단·영국 알츠하이머 연구재단·LifeArc가 재원을 대며 결과 데이터는 승인된 연구자에게 공개된다. 대규모 영상+혈액 단백체 공개 데이터는 MRI 기반 진단 모델 검증·병합 연구의 자원이 될 수 있다.",
+          "source": "Medical Device Network",
+          "url": "https://www.medicaldevice-network.com/news/uk-biobank-study-initiated-to-assess-early-indicators-of-neurodegeneration/",
+          "tags": [
+            "혈액 바이오마커",
+            "단백체",
+            "UK Biobank"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -263,6 +357,17 @@
             "미국 진출"
           ],
           "importance": "high"
+        },
+        {
+          "title": "[후속] 뷰노 이예하 대표, 신주인수권증서 90만1,356주 장외매도 계획 재제출 — 매매기간 12/2~12/11로 이동 (DART)",
+          "summary": "이예하 대표가 11/2 유상증자 신주인수권증서 90만1,356주(예정가 4,980원, 약 4억4,900만원) 장외매도 계획을 다시 공시했다. 10/22 철회한 계획을 대체하는 것으로 매매기간만 12/2~12/11로 바뀌었고, 주식수와 납입일(12/29) 등 나머지는 기존과 같다.",
+          "source": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261102000240",
+          "tags": [
+            "뷰노",
+            "유상증자",
+            "공시"
+          ]
         }
       ]
     },
@@ -303,6 +408,17 @@
             "디지털헬스",
             "신경심리검사",
             "스타트업"
+          ]
+        },
+        {
+          "title": "인지정상인데 아밀로이드 양성이라 키썬라 6회 투여 — 58세 APOE4 보인자, 아밀로이드 PET 수치 86→4, 사설 예방 클리닉의 허가범위 밖 전임상 투약 사례 (TODAY.com)",
+          "summary": "NBC 프로듀서 수전 크롤은 혈액검사·PET에서 아밀로이드 양성이었지만 MCI도 없는 상태에서 2025년 12월부터 키썬라를 맞았고, 6회 투여 뒤 스캔 수치가 86에서 4로 떨어졌다고 밝혔다. 증상 있는 초기 AD로 한정된 허가 범위 밖의 전임상 투약으로, 오늘 실린 뉴요커 기사의 '생물학적 정의' 논쟁이 현장에서 이미 벌어지고 있음을 보여준다.",
+          "source": "TODAY.com",
+          "url": "https://www.today.com/health/disease/early-alzheimers-tau-amyloid-medical-interventions-delay-progress-rcna606595",
+          "tags": [
+            "전임상 AD",
+            "키썬라",
+            "아밀로이드 PET"
           ]
         }
       ]
