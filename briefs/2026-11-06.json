@@ -1,0 +1,324 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T09:00:00+09:00",
+  "headline": "美 CMS가 2027 외래수가 최종규칙에서 뇌 MRI 정량분석 코드(0865T/0866T)를 신설 'SaMS' 범주·신기술 APC(201~300달러)로 확정했다 — 다만 급여는 별도라 11/14 마감 MAC 비급여 LCD 초안이 미국 진출의 다음 관문.",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "서양 데이터로 학습한 MRI 딥러닝 AD 분류기, 재학습 없이 중국 SILCODE 코호트에서 AUC 0.913 — 고위험자 90.5%를 임상 진단 2~3년 전에 식별, 위험점수는 혈장 p-tau217과 연관 (Advanced Science)",
+          "summary": "서양 표본으로 사전학습한 T1 MRI 딥러닝 분류기를 재학습 없이 중국 SILCODE 코호트(722명, 스캔 1,105건)에 적용했다. AD 분류 AUC 0.913·민감도 95.2%였고, 고위험자의 90.5%를 임상 진단 2~3년 전에 식별했다. 위험점수는 인지검사·혈장 지표(특히 p-tau217)와 유의하게 상관했으며, 개인별 뇌 위험지도로 인지저하가 빠른 아형도 구분했다 — 뇌 MRI AI의 인종·코호트 간 외부검증 선례.",
+          "source": "Advanced Science",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42985795/",
+          "tags": [
+            "뇌 MRI",
+            "딥러닝",
+            "외부검증",
+            "p-tau217"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "간호사 주도 'ACE-AD' — 인지검사·혈액 바이오마커·휴대용 MRI를 한 번에 묶은 치매 평가, 전문클리닉 진단과 원인 진단 100% 일치 (Alzheimer's & Dementia)",
+          "summary": "캔자스대가 임상면담·인지검사·혈액 바이오마커·휴대용 MRI를 묶은 간호사 주도 워크플로를 표준 기억클리닉 진단과 비교했다. 1단계(20명)에서 1차 원인 진단은 전원 일치했고 AD를 주·기여 원인으로 본 판단은 90% 일치했지만, 인지 병기 일치는 13명(65%)에 그쳤다. 휴대용 MRI는 표준 MRI와 같은 임상적 이상소견을 잡았고, 농촌 신경과 적용(2단계, 7명)에서 진단 확신·효율이 개선됐다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42982740/",
+          "tags": [
+            "휴대용 MRI",
+            "혈액 바이오마커",
+            "진단 경로"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "무료 단축 인지검사 10종(MoCA·Mini-Cog·AD8 등) 진단정확도 체계적 문헌고찰 — 1차 진료 민감도 0.17~0.98로 편차 커, 알츠하이머협회 1차 진료 지침의 근거 (Alzheimer's & Dementia)",
+          "summary": "알츠하이머협회 주도로 15분 이내 무료 인지검사 10종을 다룬 47개 연구를 QUADAS-2·GRADE로 평가했다(MMSE는 기준 미충족으로 제외). 1차 진료에서 민감도 0.17~0.98, 특이도 0.10~0.98, 전문 진료에서 민감도 0.73~0.97·특이도 0.45~0.90으로 편차가 커 대부분 통합분석이 불가능했다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42983912/",
+          "tags": [
+            "진단정확도",
+            "인지선별",
+            "체계적 고찰"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "7T MRI 청반(LC) 신경돌기 미세구조 저하가 짧고 끊기는 수면과 연관 — 혈장 p-tau217·GFAP가 높을수록 연관 강해져, 인지정상 39명 (Alzheimer's & Dementia)",
+          "summary": "인지정상 노인 39명에게 7T 청반 전용 영상·NODDI 확산 MRI·액티그래피·혈장 AD 바이오마커를 측정했다(20명은 가정용 수면 EEG 추가). 청반 방향분산지수(ODI)가 낮을수록 수면이 짧고 분절됐으며, 이 연관은 혈장 p-tau217·GFAP가 높을 때 더 강했다. 소규모 횡단 연구다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42982755/",
+          "tags": [
+            "7T MRI",
+            "청반",
+            "수면",
+            "p-tau217"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "기억 자기인식 표현형 4가지가 AD 바이오마커·진행과 연관 — 저하를 자각 못하는 'Unaware'형은 진행 위험 HR 2.41, ADNI 기억상실형 MCI 590명 (medRxiv 프리프린트)",
+          "summary": "MGH 연구팀이 ADNI 기억상실형 MCI 590명에서 본인·정보제공자 ECog 기억 점수 차이로 자기인식을 산출해 4개 표현형으로 군집화했다. Aware·Unaware군은 CSF Aβ가 낮고 CSF p-tau·아밀로이드 PET이 높았으며, Unaware형은 진행 위험 HR 2.41(95% CI 1.48~3.92), 'Worried Well'형은 HR 0.58(0.34~0.99)이었다. 동료심사 전 원고.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.11.03.26367187v1",
+          "tags": [
+            "MCI",
+            "예후",
+            "아밀로이드 PET",
+            "프리프린트"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "두정엽 EEG 감마 파워가 아밀로이드-내측측두 타우 연관을 조절 — 아밀로이드 양성 인지정상인에서만 감마와 내후각 타우 상관(ρ=0.90), 24명 파일럿 (medRxiv 프리프린트)",
+          "summary": "웨일코넬 연구팀이 휴지기 EEG와 아밀로이드 PET을 받은 24명(인지정상 20명은 타우 PET 추가)을 분석했다. 아밀로이드 부담이 클수록 두정엽 주기성 감마 파워가 높았고(β=+0.50), 아밀로이드 양성군에서만 감마가 내후각 타우와 상관했다(ρ=+0.90). 저자 스스로 파일럿이라 밝힌 소규모 연구.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.10.30.26366850v1",
+          "tags": [
+            "EEG",
+            "아밀로이드 PET",
+            "타우 PET",
+            "프리프린트"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "미세아교세포 P2RX7이 타우를 실은 세포외소포 분비를 늘려 타우 확산 유도 — PS19 생쥐에서 P2rx7 제거 시 뇌위축·타우 축적·인지저하 완화 (Neuron)",
+          "summary": "메이요클리닉 연구팀이 타우병증 생쥐(PS19)에서 ATP 개폐 채널 P2RX7을 없애자 뇌위축·타우 축적·인지장애가 줄었고, 이 효과는 성상세포가 아닌 미세아교세포 결손에서만 나타났다. 단일세포 분석으로 P2rx7 고발현 '최초 반응 미세아교세포(FRM)' 상태를 찾았으며, P2RX7이 타우·미토콘드리아 DNA를 실은 세포외소포를 늘려 인터페론 신호와 신경세포 타우 인산화를 촉진했다. 저자들은 P2RX7-EV 축을 치료 표적으로 제시했다.",
+          "source": "Neuron",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42982039/",
+          "tags": [
+            "기전",
+            "타우",
+            "미세아교세포"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "설하 일산화질소+Piezo1 표적 전신진동 병용, 혈중 뇌 유래 단백(Aβ40·42, GFAP) 증가 — 건강 성인 29명 '뇌 노폐물 배출' 중재 연구 (Nature Communications)",
+          "summary": "오울루대·Nedergaard 연구팀이 건강 성인 29명에게 설하 NO와 Piezo1 표적 전신진동을 적용한 결과, 병용 중재에서 뇌 유체역학 변화와 함께 혈중 가용성 뇌 유래 단백(Aβ40·42, GFAP)이 늘었다. 효과는 고령일수록, NO로 혈압이 많이 떨어질수록 컸고 1차 평가변수를 충족했다. 치매 환자가 아닌 건강인의 일시적 재분포 관찰이라 임상 효과는 미지수다.",
+          "source": "Nature Communications",
+          "url": "https://doi.org/10.1038/s41467-026-78894-y",
+          "tags": [
+            "글림프",
+            "아밀로이드 배출",
+            "비약물 중재"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "평생 에스트로겐 노출이 길수록 노년기 뇌소혈관질환 부담 적어 — 경구피임약·폐경호르몬요법 병용자 백질 무결성 최고, 스웨덴 H70 여성 352명 (Neurology)",
+          "summary": "스웨덴 H70-1944 코호트 인지정상 여성 352명(평균 70세)이 70세와 5년 뒤 뇌 MRI를 찍었다. 생식 기간이 길수록 소혈관질환 부담이 낮았고(OR 0.92), 경구피임약과 폐경호르몬요법(MHT) 병용자의 FA가 가장 높았다(β 0.45). MHT는 APOE ε4 보유자에서만 AD 취약부위 피질두께 증가와 연관됐다. 노출은 자가보고 관찰연구다.",
+          "source": "Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42981558/",
+          "tags": [
+            "여성",
+            "호르몬요법",
+            "APOE4",
+            "소혈관질환"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "불면증약 수보렉산트, 뇌척수액 p-tau181 비율은 낮추고 혈장에서는 오히려 높여 — 무작위 위약대조 시험 25명 2차 분석 (medRxiv 프리프린트)",
+          "summary": "워싱턴대 Lucey 연구팀이 수보렉산트 20mg 대 위약 시험(25명)에서 카테터로 짝지어 채취한 CSF·혈장을 분석한 결과, 08~16시 사이 pT181/T181 비율이 혈장에서는 오르고 CSF에서는 내렸다. 저자들은 혈장 바이오마커를 선별·임상시험 등록에 쓸 때 복용 약물 영향을 고려해야 한다고 강조했다. 동료심사 전 원고.",
+          "source": "medRxiv",
+          "url": "https://doi.org/10.64898/2026.11.03.26367196",
+          "tags": [
+            "수면·오렉신",
+            "혈장 p-tau",
+            "바이오마커 해석",
+            "프리프린트"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "美 CMS, 2027 외래수가(OPPS) 최종규칙에서 뇌 MRI 정량분석(0865T/0866T)을 신설 'SaMS' 범주로 확정 — 신기술 APC 1504(201~300달러)·새 상태지표 'O1', 단 '수가 배정이 급여를 뜻하지 않는다' (CMS)",
+          "summary": "CMS가 11/4 CY2027 OPPS 최종규칙에서 알고리즘 기반 소프트웨어 명칭을 SaaS에서 'Software as a Medical Service(SaMS)'로 바꾸고, 이를 신기술 APC에 배정하는 정책과 신규 상태지표 'O1'(별도 지급·다중시술 할인 없음)을 확정했다. 뇌 MRI 정량분석 코드 0865T·0866T는 APC 1504(201~300달러)·O1로 확정됐으나, 규칙은 'does not imply coverage'라고 명시했고 지급 대상은 FDA 시판허가 제품으로 한정된다. 실제 급여는 MAC별 LCD가 정하며 Palmetto·Noridian 뇌 MRI 비급여 LCD 초안 의견수렴은 11/14 마감이어서, 미국 진출 시 수가 코드는 열렸지만 급여 확보는 별도 과제로 남는다.",
+          "source": "CMS",
+          "url": "https://www.cms.gov/newsroom/fact-sheets/calendar-year-2027-hospital-outpatient-prospective-payment-system-opps-ambulatory-surgical-center-0",
+          "tags": [
+            "CMS",
+            "SaMS",
+            "0865T",
+            "뇌 MRI 정량",
+            "미국 수가"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "[후속] 복지부, 평가유예·혁신의료기술·혁신의료기기 통합심사·시장즉시진입 '선진입 4개 제도' 단일 체계로 정비 추진 — 근거창출 불이행 시 퇴출·비급여 가격관리 원칙 수립 (의학신문)",
+          "summary": "복지부가 국감 서면답변에서 '여러 선진입 경로를 단일 체계로 정비하고 가격 관리 원칙을 수립할 계획'이라고 밝혔다. 근거창출계획서 관리와 불이행 시 퇴출이 포함되며, 퇴출 기준·시행 시점은 미정이다. AI 의료기기에 대해서는 '개발·실증 단계부터 평가와 보상을 고려한 임상근거 생성 필요'에 공감하며 지원사업 확대를 검토하겠다고 했다. 뇌 MRI AI가 혁신의료기기 통합심사·평가유예로 진입할 경로가 하나로 합쳐지는 대신 진입 후 근거창출 의무와 비급여 가격 통제가 강해질 수 있다.",
+          "source": "의학신문",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015755",
+          "tags": [
+            "선진입",
+            "평가유예",
+            "혁신의료기술",
+            "혁신의료기기",
+            "AI 의료기기"
+          ],
+          "importance": "high"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "랜티우스 3분기 아밀로이드 PET 제제 뉴라첵 매출 4,560만 달러로 123% 급증 — 타우 PET '토클라리파이'는 우선 신약 임상 지원용, 큐리움 인수 앞두고 가이던스 철회 (Lantheus/SEC 8-K)",
+          "summary": "랜티우스 3분기 매출은 3억8,990만 달러(+1.5%)였고 이 중 아밀로이드 PET 제제 뉴라첵 매출이 4,560만 달러로 123.0% 늘었다. FDA 허가를 받은 타우 PET 플로르퀴니타우(TAUKLARIFY)는 당분간 Pharma Solutions로 AD 치료제 임상을 지원하며 일반 판매 경로를 검토한다. 큐리움 합병(최대 약 80억 달러)이 진행 중이라 2026년 가이던스를 거뒀다 — 항아밀로이드 치료제 확산이 아밀로이드 PET 수요를 실제로 끌어올리고 있다는 지표.",
+          "source": "Lantheus (SEC 8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1521036/000119312526448606/lnth-ex99_1.htm",
+          "tags": [
+            "아밀로이드 PET",
+            "Neuraceq",
+            "타우 PET",
+            "실적"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "[후속] 아노비스 바이오, 주당 1달러에 2,100만 달러 공모 — NYSE 상장유지 미달 통보 직후, 동수 워런트 병행해 경구 AD 후보 부탄테탑 개발비 마련 (GlobeNewswire)",
+          "summary": "아노비스가 보통주 1,900만 주와 사전납입 워런트 최대 200만 주를 주당 1.00달러에 발행하고 행사가 1.00달러·5년 만기 워런트 최대 2,100만 주를 붙여 약 2,100만 달러를 조달한다. 단독 주관사는 Canaccord Genuity이며 자금은 부탄테탑 임상 개발과 운전자본에 쓴다.",
+          "source": "Annovis Bio (GlobeNewswire)",
+          "url": "https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/annovis-announces-pricing-of-210-million-public-offering/2462989",
+          "tags": [
+            "투자",
+            "공모",
+            "부탄테탑"
+          ]
+        },
+        {
+          "title": "코르사나, 현금 4억5,620만 달러로 '2029년까지 운영' — BBB 셔틀 아밀로이드 이중항체 KRSA-028, CTAD 2026 포스터(11/18) 후 2027년 중반 1상 데이터 (GlobeNewswire)",
+          "summary": "아밀로이드-β와 트랜스페린 수용체를 동시에 겨냥하는 KRSA-028의 비임상 PK·결합력·포식작용 데이터를 CTAD 2026 포스터(11/18)로 공개한다. 9/30 기준 현금 약 4억5,620만 달러로 2029년까지 운영 가능하며 3분기 순손실은 4,640만 달러다. 건강인 1상 데이터는 2027년 중반, 환자 중간 POC는 2027년 말~2028년 1분기 예정.",
+          "source": "Korsana Biosciences (GlobeNewswire)",
+          "url": "https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/korsana-biosciences-reports-third-quarter-2026-financial-results-and-provides-corporate-update/2462824",
+          "tags": [
+            "BBB 셔틀",
+            "아밀로이드 항체",
+            "CTAD 2026"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "명인제약, 퇴행성 뇌질환 바이오텍 쓰리브룩스테라퓨틱스에 전략적 투자 — TRPML1 활성화제 경구 후보로 파킨슨·알츠하이머 공동개발 모색, 금액 비공개 (데일리팜)",
+          "summary": "명인제약이 11/4 쓰리브룩스테라퓨틱스와 전략적 투자계약을 맺고 파킨슨병·알츠하이머병 동물모델에서 효능을 확인한 경구 TRPML1 활성화제의 공동개발·사업화를 검토한다. 투자금액·지분율은 공개되지 않았다.",
+          "source": "데일리팜",
+          "url": "https://www.dailypharm.com/user/news/344216",
+          "tags": [
+            "투자",
+            "오픈이노베이션",
+            "명인제약"
+          ]
+        },
+        {
+          "title": "아리바이오홀딩스, AR1001 CTAD 3상 탑라인(11/16) 앞두고 상한가 — 11/4 종가 3,620원(+29.98%) (금강일보)",
+          "summary": "아리바이오홀딩스가 11/4 전 거래일 대비 29.98%(835원) 오른 3,620원에 마감했다. CTAD 3상 탑라인 발표를 열흘여 앞두고 관계사 주가가 실제로 반응한 첫 신호다.",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1191209",
+          "tags": [
+            "아리바이오",
+            "AR1001",
+            "CTAD 2026"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[후속] 애큐멘 2상 실패 여파로 같은 아밀로이드 올리고머 표적 프로미스 뉴로사이언스 주가 급락 — CEO '완전한 과잉반응' (STAT)",
+          "summary": "애큐멘 사비르네투그 2상 실패 뒤 유사 기전 AD 치료제를 개발하는 프로미스 주가가 급락했고, 닐 워마 CEO는 '완전한 과잉반응이며 정당하지 않다'고 반박했다. 올리고머 표적 계열 전반으로 투자심리 위축이 번지고 있다.",
+          "source": "STAT",
+          "url": "https://www.statnews.com/2026/11/05/promis-neurosciences-alzheimers-disease-acumen-vertex-kidney-drug/",
+          "tags": [
+            "애큐멘",
+            "프로미스",
+            "올리고머 항체"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "[후속] 뉴로핏 '아쿠아 AD 플러스' 래피드AI 플랫폼 연동 내년 초 완료 목표 — 판매 매출을 사전 합의 비율로 나누는 수수료 구조, 스케일 펫 연동은 미정 (메디칼타임즈)",
+          "summary": "뉴로핏이 미국 병원 직접 영업에 더해 래피드AI 고객망으로 기억장애센터 등 AD 진료기관을 겨냥한다. 아쿠아 AD 플러스 연동은 막바지로 '내년 초 이내 통합'이 목표이며, 수익은 제품 판매 매출을 사전 합의 비율로 나누는 수수료 방식이다(비율 비공개). 아쿠아·스케일 펫의 추가 연동 시점은 정해지지 않았다 — 레켐비 ARIA 모니터링 시장에서 경쟁사의 미국 유통이 내년 초 본격화된다는 의미.",
+          "source": "메디칼타임즈",
+          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171653",
+          "tags": [
+            "뉴로핏",
+            "RapidAI",
+            "AQUA AD Plus",
+            "미국 진출"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "영국 Oxford Brain Diagnostics, 확산 MRI 피질지표 'CDM'으로 2026 CNS Summit 혁신 쇼케이스 우승 — MCI 196명에서 CDM 양성군 치매 진행 중앙값 2.1년 vs 음성군 6.7년 (Tech Times)",
+          "summary": "뇌 MRI 기반 치매 예후 SW 업체 OBD가 11/4 CNS Summit 혁신 쇼케이스(결선 10개사)에서 심사위원·청중 투표로 우승했다. 근거로 제시한 MCI 196명 연구에서 CDM 양성군은 중앙값 2.1년, 음성군은 6.7년 만에 치매로 진행했다(p<0.001, 학회 발표 자료). 2025년 'CDM Insights' FDA 510(k)를 받았고 신경퇴행 임상시험용 제약 협업을 넓히고 있다.",
+          "source": "Tech Times",
+          "url": "https://www.techtimes.com/articles/330086/20261105/alzheimers-mri-software-sorts-dementia-patients-2-year-7-year-groups-wins-drug-vote.htm",
+          "tags": [
+            "Oxford Brain Diagnostics",
+            "확산 MRI",
+            "MCI 예후"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "제이엘케이, 일본 권역별 유통 협업사 5곳과 판매망 구축 — 현지 의료기관 데모 후 계약·예산 반영 협의 중 (머니투데이 더바이오)",
+          "summary": "제이엘케이가 일본 인허가를 받은 뇌졸중 AI를 중심으로 주요 권역별 5개 유통 협업사와 판매망을 구축했고, 대학병원·지역 거점 뇌졸중 기관에서 데모 후 계약·예산 반영을 협의 중이라고 밝혔다. 확정 계약 건수·금액은 공개되지 않았다.",
+          "source": "머니투데이(더바이오)",
+          "url": "https://www.mt.co.kr/thebio/2026/11/05/2026110509211945494",
+          "tags": [
+            "제이엘케이",
+            "일본",
+            "뇌졸중 AI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "[후속] '타우 항체 무덤'에 선 아델 — 핵심 동물 효능시험 독립 제3기관 재현 검증 없어, 전문평가기관 '경쟁 후보 대비 개발단계 열위' (디멘시아뉴스)",
+          "summary": "이달 코스닥 기술특례 상장을 앞둔 아델에 대해, 기사는 자고테네맙·세모리네맙·포스디네맙 등 타우 항체의 잇단 실패를 짚었다. 사노피에 기술이전한 ADEL-Y01은 1a상(건강인 40명)에서 약물 관련 이상반응이 없었지만 환자 효능 데이터는 없고, 회사는 주요 동물 효능시험을 독립 제3기관에서 재현 검증한 적이 없다고 인정했다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11256",
+          "tags": [
+            "아델",
+            "IPO",
+            "타우 항체"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "젬백스, 전 대한치매학회 이사장 이재홍 전 서울아산병원 신경과 교수를 CMO로 영입 — PSP·ALS 등 신경퇴행 파이프라인 임상 총괄 (메디게이트뉴스)",
+          "summary": "서울아산병원 신경과에서 30여 년 재직하며 파킨슨·알츠하이머센터 소장, 대한치매학회 이사장, 국가치매연구개발위원회 위원을 지낸 이재홍 박사가 젬백스 바이오 사업부의 임상 개발·운영을 총괄한다.",
+          "source": "메디게이트뉴스",
+          "url": "https://www.medigatenews.com/news/2760185803",
+          "tags": [
+            "젬백스",
+            "인사"
+          ]
+        }
+      ]
+    }
+  ]
+}
