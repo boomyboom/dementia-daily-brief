@@ -1,0 +1,257 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T09:00:00+09:00",
+  "headline": "아밀로이드 PET 'Centiloid 71'이 MCI의 3년 내 AD 치매 진행을 가르는 예후 절단값으로 제시됐다(MMSE<27 동반 시 위험 6.39배) — 진단용 25 CL과 별도의 예후 기준이 정량 PET 보고서에 들어갈 근거",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "아밀로이드 PET 'Centiloid 71' 예후 절단값으로 MCI→AD 치매 3년 진행 위험 층화 — MMSE<27 동반 시 위험 6.39배·3년 진행률 47.8% (Alzheimer's & Dementia)",
+          "summary": "AIBL·ADNI의 아밀로이드 양성(>25 CL) CDR 0.5 MCI 454명을 최대 7년 추적해 Youden 지수로 3년 진행 예측 최적 절단값을 구했다. 아밀로이드 PET >71 CL(HR 2.67, 3년 위험 36.7%)과 MMSE <27점(HR 2.27, 36.8%)이 최적이었고, 둘 다 해당하면 위험 6.39배·3년 진행률 47.8%로 가장 가파르게 저하됐다. 진단용 양성 기준(25 CL)과 별개로 '예후용 Centiloid 절단값'을 제시한 연구다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42989479/",
+          "tags": [
+            "아밀로이드 PET",
+            "Centiloid",
+            "MCI 진행 예측",
+            "ADNI",
+            "AIBL"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "지멘스, 딥러닝 형태계측으로 ADNI 1,003명의 '정상압수두증(iNPH) 유사' 뇌 형태 패턴 정량화 — 자동 뇌량각 측정, 전문가 판독과 일치도 AC1 0.939 (AJNR)",
+          "summary": "아밀로이드 음성 iNPH 환자 30명으로 형태계측 프로파일(PCA+가우시안 모델)을 만들어 ADNI 1,003명의 T1 MRI에 개인별 'iNPH 유사도 점수'를 매겼다. 점수는 인지 단계가 나쁠수록 높았고(정상 대비 치매 +0.09, p<0.001), 인지장애자 중 생물학적 AD군이 비AD군보다 높았다(+0.08). 자동 뇌량각은 전문가 Radscale 판독과 높게 일치(Gwet's AC1 0.939)했으며, 저자들은 추가 임상검증이 필요하다고 밝혔다.",
+          "source": "American Journal of Neuroradiology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42988576/",
+          "tags": [
+            "뇌 MRI 형태계측",
+            "딥러닝",
+            "정상압수두증",
+            "감별진단",
+            "지멘스"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "FDA 승인 Lumipulse 혈장 pTau217/Aβ42 절단값, 뇌혈관질환 많은 싱가포르 코호트에선 특이도 86%·판정유보 29%로 하락 — 자체 3구간 절단값은 정확도 95%·유보 10% (medRxiv 프리프린트)",
+          "summary": "아밀로이드 영상이 있는 싱가포르 참여자 205명에서 pTau217/Aβ42 비율이 pTau217 단독보다 아밀로이드 판별력이 높았고(AUC 0.951 vs 0.925, p=0.004) 뇌혈관질환 중증도와 무관하게 비슷했다. 자체 3구간 절단값은 NPV 98%·PPV 88%·정확도 95%, 판정유보 10%였다. FDA 승인 절단값을 그대로 쓰면 민감도·NPV는 97%로 유지되나 특이도 86%·PPV 77%·정확도 85%로 떨어지고 판정유보가 29%로 늘었다.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.11.04.26367313v1",
+          "tags": [
+            "혈장 p-tau217",
+            "Lumipulse",
+            "절단값",
+            "아시아 코호트",
+            "뇌혈관질환"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "바이오마커+해마 용적으로 정의한 '추정 LATE'는 AD보다 인지저하가 느려 — ADAS-Cog 연간 0.81 vs 2.08점, ADNI 108명 (Alzheimer's & Dementia)",
+          "summary": "ADNI 108명을 인지상태·아밀로이드·타우 바이오마커·MRI 해마 용적으로 AD, 추정 LATE, 인지정상으로 나눠 전향적 궤적을 비교했다. 두 질환군 모두 정상보다 빨리 저하됐지만 AD가 더 가팔랐다(연간 ADAS-Cog 0.81 vs 2.08, CDR-SB 0.24 vs 0.36, TMT-B 5.83 vs 10.98). '아밀로이드·타우 음성 + 해마 위축' 환자를 생전에 별도로 분류할 근거로, MRI 해마 용적 정량의 감별진단 가치를 보여준다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42989530/",
+          "tags": [
+            "LATE",
+            "해마 용적",
+            "감별진단",
+            "ADNI"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "AD 가족력 있는 인지정상 노인의 기억 호소는 '좌측 측두엽' 백질고신호(WMH)와 연관 — 전체·타 부위 WMH나 실행기능 호소와는 무관, 150명 (Journal of Alzheimer's Disease)",
+          "summary": "1촌 AD 가족력과 주관적 기억 호소가 있는 인지정상 노인 150명(65~89세)의 T1·FLAIR MRI에서 자동 파이프라인으로 부위별 WMH를 정량했다. 인구학적 요인·두개내용적·촬영기관·APOE ε4·기분 증상 보정 후에도 좌측 측두엽 WMH가 클수록 기억 관련 SCD(CCI-20)와 총 SCD가 높았고, 실행기능 호소와 연관된 부위는 없었다. WMH는 총량보다 부위별 정량이 필요하다는 결과다.",
+          "source": "Journal of Alzheimer's Disease",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42992378/",
+          "tags": [
+            "백질고신호",
+            "부위별 정량",
+            "주관적 인지저하",
+            "FLAIR MRI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "과민성 방광 β3 작용제가 항콜린제보다 치매 위험 낮지 않아 — 83만393명 분석, 고위험 항콜린제는 오히려 HR 0.90, '항콜린제→치매' 연관은 잔여 교란 가능성 (JAMA Network Open)",
+          "summary": "과민성 방광 신규 치료를 시작한 40~90세 830,393명(치매 65,134명)을 IPTW로 분석한 결과, 고위험 항콜린제(옥시부티닌·톨테로딘·솔리페나신)는 β3 작용제보다 치매 위험이 낮았고(HR 0.90, 95% CI 0.87~0.93) 저위험 항콜린제는 차이가 없었다(HR 0.97). 사용 기간이 길어도 위험은 늘지 않았다. E-value 1.29로 크지 않은 미측정 교란으로도 설명될 수 있어, 저자들은 기존의 위험 증가 보고가 잔여 교란일 수 있다고 결론지었다.",
+          "source": "JAMA Network Open",
+          "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856326",
+          "tags": [
+            "약물 위험인자",
+            "항콜린제",
+            "약물역학"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "심폐체력 상위군은 치매 위험 47% 낮아 — 12개 코호트 231만7,053명 메타분석, 1 MET 증가당 7%↓ (GeroScience)",
+          "summary": "인지정상 일반인구 12개 코호트(2,317,053명)를 통합한 메타분석에서 심폐체력 최상위군은 최하위군보다 치매 위험이 낮았다(RR 0.53, 95% CI 0.44~0.64). 1 MET 증가당 RR 0.93(0.90~0.95), 인지장애에서도 RR 0.63으로 유의했다. AD만 본 분석은 2개 연구뿐이라 유의하지 않았다(RR 0.35, 0.07~1.83).",
+          "source": "GeroScience",
+          "url": "https://doi.org/10.1007/s11357-026-02637-6",
+          "tags": [
+            "역학",
+            "위험인자",
+            "신체활동",
+            "메타분석"
+          ]
+        },
+        {
+          "title": "덴마크 199만 명 레지스트리 — 치매로 잃는 수명, 장기교육군 남 5.01년·여 5.29년으로 단기교육군(3.99년)보다 커 (Alzheimer's & Dementia)",
+          "summary": "2000~2022년 덴마크 65~100세 1,991,379명을 교육 수준·성별·출생 코호트별로 분석해 치매의 사망률비와 기대수명 손실을 산출했다. 사망률비는 장기교육군과 최근 출생 코호트에서 가장 높았고, 수명 손실은 장기교육군 남 5.01년·여 5.29년, 단기교육군 남녀 3.99년이었다. 저자들은 교육이 치매 발병을 늦춰 치매 없는 기간을 늘린다고 해석했다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42989503/",
+          "tags": [
+            "역학",
+            "교육",
+            "사망률",
+            "레지스트리"
+          ]
+        },
+        {
+          "title": "뇌졸중 후 치매 환자는 심장 병리가 더 심해 — CogFAST 부검 75명 전원 관상동맥 50% 이상 협착, 심근경색 62%, 심장 교감신경 탈신경·성상신경절 α-시누클레인과 연관 (Alzheimer's & Dementia)",
+          "summary": "뉴캐슬 CogFAST 코호트 뇌졸중 생존자 75명의 관상동맥·심장·뇌 조직을 부검 분석했다. 전원이 주요 관상동맥 1개 이상에서 50% 넘게 협착됐고 약 80%가 심장 병리, 62%가 심근경색을 보였다. 관상동맥 협착은 뇌 소혈관질환·신경퇴행 병리와 직접 연관되지 않았으나 심장 교감신경 탈신경·성상신경절 α-시누클레인과는 연관됐고, 뇌졸중 후 치매군은 심근경색이 더 많았다(P<0.001).",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42992675/",
+          "tags": [
+            "혈관성 치매",
+            "신경병리",
+            "심뇌 연관"
+          ]
+        },
+        {
+          "title": "탄자니아 농촌 60세 이상 1,054명 중 81.9%가 다차원 빈곤 — 박탈 점수 증가 시 우울 선별양성 OR 17.18·인지점수 β −1.97, 공동체 단위에선 관계 역전 (medRxiv 프리프린트)",
+          "summary": "킬리만자로 농촌 3개 공동체 노인 1,054명을 9개 지표 다차원 박탈지수로 분석한 결과 81.9%가 박탈 상태였다. 박탈 점수 1단위 증가는 우울 선별양성(OR 17.18), IDEA 인지선별 점수 저하(β −1.97), 언어유창성 저하(β −2.57)와 독립적으로 연관됐다. 반면 가장 가난한 공동체가 우울은 가장 낮고 인지는 가장 높아 공동체 회복탄력성 연구 필요성을 제기했다.",
+          "source": "medRxiv",
+          "url": "https://www.medrxiv.org/content/10.64898/2026.11.04.26367284v1",
+          "tags": [
+            "역학",
+            "사회적 결정요인",
+            "저소득국"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "식약처, 2027년 1차 용역연구 공모 — 의료기기 8과제(10.5억원)에 'AI 디지털의료제품 시판 후 조사 차등화·전주기 안전관리'와 '피지컬AI 디지털의료기기 허가·심사 가이드라인' 포함 (식품의약품안전처 공고)",
+          "summary": "식약처가 11/5 2027년 제1차 용역연구개발과제 54개(총 158억700만원)를 공모했다(접수 11/6~12/7). 의료기기 분야 '시판 후 조사 제도 개선 및 전주기 안전관리 체계 구축'(1억원)은 AI 적용 디지털의료제품 증가를 배경으로 위해도·시판 전 근거 수준에 따라 조사 대상·기간·증례 수를 차등화하고 FDA Section 522·EU MDR PMCF와 비교하는 과제이며, '피지컬AI 기반 디지털의료기기 허가·심사 가이드라인'(1억원)도 들어갔다. 뇌 MRI 분석 SaMD에 일률적으로 붙던 시판 후 조사 부담이 위해도 기반으로 조정될 수 있는 제도 개편의 출발점이다.",
+          "source": "식품의약품안전처",
+          "url": "https://www.mfds.go.kr/brd/m_76/view.do?seq=16403",
+          "tags": [
+            "식약처",
+            "시판 후 조사",
+            "디지털의료제품",
+            "SaMD",
+            "규제과학 R&D"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[후속] 「보건의료데이터 활용 가이드라인」 6차 개정안, 환자정보 활용 LLM 4유형 분류 — 해외 서버 구독형 챗GPT·제미나이 등은 불가, '개발 완료 AI의 진단보조 사용은 DRB 심의 불요' (데일리메디)",
+          "summary": "11/1에 다룬 개정안의 생성형 AI 조항이 새로 보도됐다. 해외 서버 일반 구독형 LLM은 의료데이터 활용 불가, 보안형 기업용 서비스는 저장·학습 차단과 국내 서버를 갖춘 경우만 제한 허용, AWS·Azure·구글 클라우드 등 폐쇄형 클라우드에도 '국내 서버+유출·학습 차단' 조건이 붙는다. 이미 개발된 AI를 진단보조 업무에 쓸 때는 DRB 심의가 필요 없다는 조항도 담겼으며, 복지부는 이달 중 개정할 계획이다. 클라우드형 뇌 MRI 분석 공급 시 서버 소재지·학습 차단이 병원 도입 요건이 되는 반면, 진단보조 AI 사용 자체의 DRB 장벽은 낮아진다.",
+          "source": "데일리메디",
+          "url": "https://dailymedi.com/news/news_view.php?wr_id=942171",
+          "tags": [
+            "복지부",
+            "보건의료데이터 가이드라인",
+            "LLM",
+            "클라우드",
+            "DRB"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "캐나다 CDA-AMC, 릴리 키썬라(도나네맙) 공적 급여 '긍정 권고' — 허가 6개월 만, APOE ε4 비보유·이형접합 MCI·경도 치매 대상 (Eli Lilly Canada/CNW)",
+          "summary": "릴리 캐나다는 11/6 CDA-AMC가 키썬라 급여에 긍정 권고를 냈다고 밝혔다. 대상은 아밀로이드 병리가 확인된 MCI·경도 치매 중 APOE ε4 비보유자 또는 이형접합자로, 2026-04-30 캐나다 허가 후 6개월 만이다. 권고가 최종인지 초안인지와 가격인하 조건은 CDA-AMC 원문 접근이 막혀 확인되지 않았다. 아밀로이드 확인 검사 수요로 이어지는 공적 급여 경로의 첫 관문이다.",
+          "source": "Eli Lilly Canada (BioSpace 게재)",
+          "url": "https://www.biospace.com/press-releases/lilly-canada-welcomes-positive-cda-amc-recommendation-to-reimburse-kisunla-donanemab-for-early-alzheimers-disease",
+          "tags": [
+            "도나네맙",
+            "키썬라",
+            "캐나다",
+            "급여"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "액섬 '오벨리티', 알츠하이머 초조 적응증 출시 후 첫 완전 분기 매출 2억760만 달러(+53%) — 65세 이상 신규처방 211%↑ (Axsome/SEC 8-K)",
+          "summary": "액섬은 11/2 3분기 실적에서 오벨리티 순매출 2억760만 달러(전년 1억3,610만 달러 대비 +53%), 총처방 약 30만2,000건(+40%)을 발표했다. 65세 이상 신규처방·총처방은 각각 211%·101% 늘었다. 다만 우울증 포함 제품 전체 수치로, 알츠하이머 초조 적응증 비중은 공개하지 않았다.",
+          "source": "Axsome Therapeutics (SEC 8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001579428/000119312526442628/axsm-ex99_1.htm",
+          "tags": [
+            "알츠하이머 초조",
+            "오벨리티",
+            "실적"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "서큘러 지노믹스, 파마트로픽스와 혈액 circRNA 바이오마커 제휴 — 경구 p75 표적 LM11A-31의 AD 바이오마커 연구에 'CircPath' 적용, 금액 비공개 (PRNewswire)",
+          "summary": "서큘러 지노믹스는 11/4 혈액 circRNA 프로파일링을 파마트로픽스의 경구 후보 LM11A-31 공개 라벨 AD 연구에 적용해 반응군 특성과 약력학 반응을 추적한다고 발표했다. circRNA 결과는 임상·인지·영상·단백체·기존 AD 바이오마커와 통합 분석하며, 플랫폼은 연구용(RUO)이다.",
+          "source": "Circular Genomics (BioSpace 게재)",
+          "url": "https://www.biospace.com/press-releases/circular-genomics-and-pharmatrophix-announce-strategic-collaboration-to-advance-circrna-biomarkers-in-neurodegenerative-drug-development",
+          "tags": [
+            "혈액 바이오마커",
+            "circRNA",
+            "파트너십"
+          ]
+        },
+        {
+          "title": "[후속] 프로테나, BMS 타우 항체 모포네투그 2상 'TargetTau-1'(약 310명) 결과 2027년 상반기 예상 — 현금 2억7,220만 달러·무차입 (Prothena)",
+          "summary": "프로테나는 11/6 3분기 실적에서 BMS가 초기 AD 약 310명 대상 2상을 진행 중이며 결과는 2027년 상반기로 예상한다고 밝혔다. 10/30 브리프(PRX019 반환) 이후 결과 발표 시점이 새로 확인됐다. 9/30 기준 현금 2억7,220만 달러, 부채 없음.",
+          "source": "Prothena (BioSpace 게재)",
+          "url": "https://www.biospace.com/press-releases/prothena-reports-third-quarter-2026-financial-results-and-business-highlights",
+          "tags": [
+            "타우 항체",
+            "모포네투그",
+            "BMS",
+            "실적"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": []
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "대한핵의학회 '핵의학도 필수의료' — 전공의 지원율 20% 미만, 알츠하이머 영상진단 인력난 속 PET 급여기준 개선 요구 (의협신문)",
+          "summary": "대한핵의학회는 11/6 추계학술대회 기자간담회에서 전공의 지원율이 2016년 이후 하락해 20% 미만이며 대학·종합병원 검사·진료에 차질이 생기고 있다고 밝혔다. 암·파킨슨·알츠하이머 영상진단 핵심 인력으로서 필수의료 인정, PET 급여기준 정비, SPECT/CT 수가 신설, 방사성의약품 적정 수가를 요구했다. 레켐비 처방 확대로 아밀로이드 PET 판독 수요가 느는 가운데 판독 인력 병목을 보여준다.",
+          "source": "의협신문",
+          "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=167182",
+          "tags": [
+            "핵의학",
+            "아밀로이드 PET",
+            "인력난",
+            "급여기준"
+          ],
+          "importance": "medium"
+        }
+      ]
+    }
+  ]
+}
