@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T08:10:42+09:00",
+ "generated_at": "2026-11-08T14:10:42+09:00",
  "date": "2026-11-08",
  "prev_date": "2026-11-07",
  "window_days": 30,
@@ -7,7 +7,7 @@
   {
    "rank": 1,
    "keyword": "뇌 MRI",
-   "count": 137,
+   "count": 139,
    "prev_rank": 1,
    "delta": 0,
    "state": "same",
@@ -32,6 +32,20 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/42980478/",
      "section": "치매 전분야 연구",
      "importance": null
+    },
+    {
+     "date": "2026-11-08",
+     "title": "[후속] 美 CMS 2027 외래수가 최종규칙의 영상 부문 — 조영제 없는 CT·MRI를 병원 외래·독립 의원에 동일 수가 지급하는 '사이트 중립' 확대, 10년간 90억 달러 이상 절감 추산 (MedTech Dive)",
+     "url": "https://www.medtechdive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873992/",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "FDA 510(k) AI 의료기기 163개 중 34.4%가 허가 후 알고리즘 업데이트, 업데이트 기기의 85.7%는 임상·운영상 이익 미보고 — 검증 데이터 출처 미기재도 42.9% (JAMA Network Open)",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2026.41071",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
     },
     {
      "date": "2026-11-07",
@@ -170,20 +184,6 @@
      "date": "2026-11-04",
      "title": "안저사진 망막혈관 프랙털 차원, MCI에서 해마 위축·소혈관질환·혈장 p-tau217·GFAP와 연관 — MCI 77명·인지정상 93명 (Translational Vision Science & Technology)",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42975098/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-04",
-     "title": "[후속] 첫 보건의료발전계획(2027~2031) 기초연구 최종보고서 공개 — 14개 정책목표에 'AI 기반 진료지원 확산·AI 혁신병원 육성'과 '신의료기술 수가체계 정비·가치기반수가 전환' 포함 (청년의사)",
-     "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044271",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-03",
-     "title": "행동변이형 전측두엽치매, ASL MRI로 잰 전두엽 혈류 저하가 위축·FDG 저대사와 공간적으로 일치 — bvFTD 35명 vs 정상 27명, 방사선 없는 보조 영상지표로 제안 (CNS Neuroscience & Therapeutics)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42968588/",
      "section": "진단·영상 연구",
      "importance": "medium"
     }
@@ -747,15 +747,29 @@
   {
    "rank": 5,
    "keyword": "급여·수가",
-   "count": 102,
+   "count": 104,
    "prev_rank": 5,
    "delta": 0,
    "state": "same",
    "items": [
     {
      "date": "2026-11-08",
+     "title": "일본 웹 기반 치매 예방 레지스트리(J-TRC) 6년 — 3년 이상 참여 19.4%, 1년 공백 후 2년 내 복귀 7.2%로 반복 인지검사 해석 주의 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.11.06.26367280v1",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-08",
      "title": "[후속] 美 CMS SaMS 최종규칙 로펌 해설 — 비검사 SaMS는 FDA 시판허가가 Medicare 지급 요건, 2027년은 '잠정 첫 단계'로 2028년 정식 기준 논의 예고 (Reed Smith)",
      "url": "https://www.reedsmith.com/our-insights/blogs/health-industry-washington-watch/102o8ks/cms-finalizes-interim-payment-policy-for-software-as-a-medical-service-in-hospita/",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "[후속] 美 CMS 2027 외래수가 최종규칙의 영상 부문 — 조영제 없는 CT·MRI를 병원 외래·독립 의원에 동일 수가 지급하는 '사이트 중립' 확대, 10년간 90억 달러 이상 절감 추산 (MedTech Dive)",
+     "url": "https://www.medtechdive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873992/",
      "section": "규제·인허가·정책",
      "importance": "medium"
     },
@@ -912,20 +926,6 @@
      "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044085",
      "section": "규제·인허가·정책",
      "importance": "medium"
-    },
-    {
-     "date": "2026-10-31",
-     "title": "도네페질 3mg 후발약, 허가는 이틀 차이인데 약가는 16% 차이 — 종근당 '뉴로페질' 11월 408원, 삼진 '뉴토인'은 약가개편 전 6월 486원 등재 (데일리팜)",
-     "url": "https://www.dailypharm.com/user/news/344029",
-     "section": "주요 언론",
-     "importance": null
-    },
-    {
-     "date": "2026-10-30",
-     "title": "APOE ε4 보유 수가 많을수록 아밀로이드가 전형적 AD 패턴대로 쌓인다 — ADNI·제네바 코호트 아밀로이드 양성 781명 복셀 단위 PET 분석 (Alzheimer's & Dementia)",
-     "url": "https://doi.org/10.1002/alz.71935",
-     "section": "진단·영상 연구",
-     "importance": "high"
     }
    ]
   },
@@ -1672,7 +1672,7 @@
   {
    "rank": 10,
    "keyword": "FDA",
-   "count": 56,
+   "count": 57,
    "prev_rank": 10,
    "delta": 0,
    "state": "same",
@@ -1681,6 +1681,13 @@
      "date": "2026-11-08",
      "title": "[후속] 美 CMS SaMS 최종규칙 로펌 해설 — 비검사 SaMS는 FDA 시판허가가 Medicare 지급 요건, 2027년은 '잠정 첫 단계'로 2028년 정식 기준 논의 예고 (Reed Smith)",
      "url": "https://www.reedsmith.com/our-insights/blogs/health-industry-washington-watch/102o8ks/cms-finalizes-interim-payment-policy-for-software-as-a-medical-service-in-hospita/",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-08",
+     "title": "FDA 510(k) AI 의료기기 163개 중 34.4%가 허가 후 알고리즘 업데이트, 업데이트 기기의 85.7%는 임상·운영상 이익 미보고 — 검증 데이터 출처 미기재도 42.9% (JAMA Network Open)",
+     "url": "https://doi.org/10.1001/jamanetworkopen.2026.41071",
      "section": "규제·인허가·정책",
      "importance": "medium"
     },
@@ -1843,13 +1850,6 @@
      "title": "美 HHS, 국가 알츠하이머·치매 계획 2026년 개정판 공개 — 케네디 장관·오즈 CMS청장 브로워드헬스 발표, FDA '신경과학 혁신 넥서스(NAIN)' 첫 사업 '알츠하이머 예방 가속기'에 5,000만 달러 (WLRN)",
      "url": "https://www.wlrn.org/health/2026-10-22/rfk-jr-dr-oz-visit-broward-health-to-outline-new-federal-alzheimers-initiative",
      "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-23",
-     "title": "[후속] 코그니션 테라퓨틱스, 제르비메신(CT1812) 루이소체치매(DLB) 정신증 3상 핵심 설계에 FDA와 합의 — 경도~중등도 DLB, 1일 1회 100mg vs 위약 9개월, 1차 평가변수 NPI-2(환각·망상) (Cognition Therapeutics 보도자료)",
-     "url": "https://www.globenewswire.com/news-release/2026/10/22/3386131/0/en/cognition-therapeutics-announces-alignment-with-fda-on-pivotal-phase-3-trial-of-zervimesine-ct1812-in-dementia-with-lewy-bodies.html",
-     "section": "시장·투자",
      "importance": "medium"
     }
    ]
@@ -2042,11 +2042,25 @@
   {
    "rank": 12,
    "keyword": "예방",
-   "count": 48,
+   "count": 50,
    "prev_rank": 13,
    "delta": 1,
    "state": "up",
    "items": [
+    {
+     "date": "2026-11-08",
+     "title": "일본 웹 기반 치매 예방 레지스트리(J-TRC) 6년 — 3년 이상 참여 19.4%, 1년 공백 후 2년 내 복귀 7.2%로 반복 인지검사 해석 주의 (medRxiv 프리프린트)",
+     "url": "https://www.medrxiv.org/content/10.64898/2026.11.06.26367280v1",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-08",
+     "title": "노년기 뇌 건강, 식단만으론 부족 — 유럽·미국 전문가 28명 리뷰 '운동·구강·수면·스트레스 함께 봐야', 영양 부족 노인 치매 위험 57%↑ (디멘시아뉴스)",
+     "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11258",
+     "section": "주요 언론",
+     "importance": null
+    },
     {
      "date": "2026-11-06",
      "title": "유전성 프리온병 E200K 보유자, 뇌척수액 RT-QuIC 양성이 발병 평균 2년 전에 먼저 나타나 — 94명 종단 추적, 발병 11명 전원 사전 양성 (medRxiv 프리프린트)",
@@ -2205,20 +2219,6 @@
      "date": "2026-10-18",
      "title": "인지정상 노인 1,705명에서 과음은 APOE ε4 관련 인지저하를 키우고 충분한 수면은 ε4 관련 불안 증가를 줄여 — A4·LEARN 2차 분석, 인종·민족별로 연관이 달라 (Alzheimer's & Dementia: DADM)",
      "url": "https://pubmed.ncbi.nlm.nih.gov/42877708/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-10-18",
-     "title": "한성숙 총리, 대전 통합돌봄 현장·치매안심센터 방문 — '시행 반년 약 7만8천명에 1인당 3.5개 서비스 연계, 내년 돌봄 취약지역 공공 돌봄센터 30곳 신설·제1차 통합돌봄 기본계획 수립' (서울Pn)",
-     "url": "https://go.seoul.co.kr/news/prnewsView.php?id=452112",
-     "section": "주요 언론",
-     "importance": null
-    },
-    {
-     "date": "2026-10-17",
-     "title": "노화한 해마 과립세포가 분비하는 포스포리파제 PLA2G2F가 인지 회복력을 만든다 — 결손 시 시냅스 소실·염증성 미세아교세포·지질방울 축적, 노화기 증강 시 기억저하 예방 (Nature Neuroscience)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42881225/",
      "section": "치매 전분야 연구",
      "importance": "medium"
     }
