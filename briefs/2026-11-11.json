@@ -1,0 +1,293 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T09:00:00+09:00",
+  "headline": "레켐비 국내 이상사례가 올 상반기에만 247건으로 지난해 연간(141건)의 1.75배, 무증상 ARIA 64건 — 투여 확대와 함께 추적 MRI의 ARIA 판독 지원 수요가 커지고 있다",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "혈장 p-tau217, Centiloid로 전체 아밀로이드를 보정해도 2세대 타우 PET(florzolotau) 분포·강도와 연관 유지 — Aβ42/40·GFAP 상관은 보정 후 사라져, 게이오대 92명 (Japanese Journal of Radiology)",
+          "summary": "게이오대 연구팀이 AD 연속체 92명(아밀로이드 음성 대조군 40명, 전임상 AD 10명, AD로 인한 MCI 21명, AD 치매 21명)에서 florzolotau 타우 PET SUVR을 아밀로이드 PET Centiloid 및 혈장 바이오마커와 복셀 단위로 비교했다. 전체 아밀로이드 양을 보정하자 Aβ42/40·GFAP와 타우의 상관은 사라졌고, p-tau217만 피질 전반에서 강한 연관을 유지했다(p-tau181·NfL은 측두두정 부위만). BeauBrain 관점: Centiloid 정량과 혈장 p-tau217을 함께 보면 타우 병기를 가늠할 수 있다는 근거로, PET 정량 리포트에 혈액 바이오마커를 병기하는 설계에 참고된다.",
+          "source": "Japanese Journal of Radiology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43007615/",
+          "tags": [
+            "타우 PET",
+            "Centiloid",
+            "혈장 p-tau217",
+            "PET 정량"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "MRI 맥락얼기 부피는 아밀로이드보다 신경퇴행 지표 — 해마 위축과 일관되게 연관되지만 아밀로이드 양성·음성은 못 가르고 혈장 GFAP와 가장 강하게 연관, ADNI 641명 (Alzheimer's & Dementia: DADM)",
+          "summary": "ADNI 641명의 MRI, 아밀로이드·타우 PET, CSF·혈장 바이오마커, 인지 자료를 상관·층화·구조방정식 모형으로 분석했다. 맥락얼기(CP) 부피는 해마 위축과 일관되게 연관됐으나 아밀로이드 양성 여부는 구분하지 못했고, 혈장 GFAP와 가장 강하게 연관됐다(아밀로이드 양성군에서 뚜렷). 모형상 CP 부피와 내후각 타우가 해마 위축으로 이어지고 아밀로이드는 타우를 거쳐 간접 기여했다. BeauBrain 관점: CP 부피를 신경퇴행·신경염증 보조 지표로 MRI 정량 리포트에 넣을 근거지만 아밀로이드 판별용으로는 부적합하다.",
+          "source": "Alzheimer's & Dementia: DADM",
+          "url": "https://doi.org/10.1002/dad2.70491",
+          "tags": [
+            "맥락얼기",
+            "MRI 정량",
+            "GFAP",
+            "ADNI"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "천체물리 '우주망' 분류 기법을 구조 MRI에 적용한 형태 지표 SHARP — 뇌나이 예측 오차 6.04→4.71년(CamCAN), OASIS-3 CDR 양성 판별 민감도 85%(특이도 86%) vs 해부 지표 기준모델 78% (bioRxiv 프리프린트)",
+          "summary": "스페인 라라구나대 연구팀이 매듭·필라멘트·면·빈 공간으로 나누는 계층적 우주망 분류를 구조 MRI에 옮긴 SHARP를 제안했다. 36개 부위 해부 지표·전뇌 부피·성별 기반 신경망에 SHARP를 더하자 뇌나이 평균절대오차가 CamCAN 6.04→4.71년, OASIS-3 4.57→4.07년으로 줄었고, OASIS-3 인지상태 분류에서 같은 특이도(86%)의 민감도가 78%→85%로 올랐다. BeauBrain 관점: 부위별 부피·두께 외 기하학적 형태 특징이 AI 진단 성능을 높일 수 있다는 신호지만, 동료심사 전이고 임상 외부검증은 없다.",
+          "source": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764800v1",
+          "tags": [
+            "구조 MRI",
+            "뇌나이",
+            "AI 진단",
+            "프리프린트"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "도나네맙 중국 6개 기관 실사용 108명 — ARIA 11.1%·주입반응 13.0%, 아밀로이드 PET 음성 전환 6개월 24.3%·12개월 32.0% (Alzheimer's Research & Therapy)",
+          "summary": "중국 6개 센터에서 4주 간격 점진 증량으로 도나네맙을 투여한 증상성 AD 108명을 분석했다. 주입 관련 반응은 14명(13.0%), ARIA는 12명(11.1%, 증상성 1명)이었고, 혈장 p-tau217·p-tau181은 3·6개월에 감소했다. 아밀로이드 PET 음성 전환은 6개월 37명 중 9명(24.3%), 12개월 25명 중 8명(32.0%)이었다. BeauBrain 관점: 아시아 실사용에서도 투여 중단 판정·ARIA 감시에 추적 아밀로이드 PET 정량과 MRI 판독이 필요하다는 근거다.",
+          "source": "Alzheimer's Research & Therapy",
+          "url": "https://doi.org/10.1186/s13195-026-02252-9",
+          "tags": [
+            "도나네맙",
+            "실사용",
+            "아밀로이드 PET",
+            "ARIA"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "혈장 단백체로 잰 15개 장기의 '생물학적 나이'와 뇌 MRI·신경퇴행질환 — UK바이오뱅크 5만2,667명(MRI 5,078명), 장기 나이 격차를 모두 더해도 AD 예측 AUC +0.037 (bioRxiv 프리프린트)",
+          "summary": "룬드대 Vogel 연구팀이 UK바이오뱅크 5만2,667명의 혈장 단백체로 15개 장기·2개 전신 시스템 지표를 세 방식으로 만들고 5,078명의 뇌 MRI와 비교했다. 신경퇴행·혈관 질환과 가장 일관되게 연관된 것은 나이 격차 지표였지만, 기본 인구학 모형에 모두 더해도 AD 예측 ROC-AUC 증가는 0.037, 유전 위험 매개 효과는 1~8%에 그쳤다. BeauBrain 관점: MRI 뇌나이와 혈액 다중오믹스 결합의 근거는 되지만 단독 추가 예측력은 작다.",
+          "source": "bioRxiv",
+          "url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765339v1",
+          "tags": [
+            "혈장 단백체",
+            "장기 나이",
+            "뇌 MRI",
+            "프리프린트"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "브라질 AD 신규 투약자 14만2,758명 표적시험 모사 — 리바스티그민 시작 시 24개월 메만틴 추가 위험 5.6%로 도네페질(9.7%)보다 낮아, 위험비 0.58 (medRxiv 프리프린트)",
+          "summary": "브라질 공공의료(SUS) 전국 조제 기록(2018~2025)으로 도네페질 7만4,165명, 갈란타민 3만691명, 리바스티그민 3만7,902명을 비교했다. 진행 대리지표인 메만틴 추가 처방의 24개월 누적발생률은 도네페질 9.7%, 갈란타민 9.0%, 리바스티그민 5.6%였다(도네페질 대비 위험비 0.58, 95% CI 0.55~0.61). 처방 패턴을 대리지표로 쓴 한계가 있어 영상 기반 진행 지표를 함께 쓰는 실사용 근거가 필요하다.",
+          "source": "medRxiv",
+          "url": "https://doi.org/10.64898/2026.11.06.26367201",
+          "tags": [
+            "콜린에스테라제 억제제",
+            "표적시험 모사",
+            "실사용 근거"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "경동맥 죽상경화는 치매 위험을 높이지만 재개통술의 인지 보호 근거는 없어 — 97개 연구 메타분석, 무증상 50~100% 협착 HR 1.48, CREST-2 인지효과 0.03 (medRxiv 프리프린트)",
+          "summary": "에라스무스 MC 연구진이 관찰연구 43편(10만326명)과 중재연구 54편(1만5,788명)을 메타분석했다. 내중막 두께 1SD당 치매 HR 1.07, 무증상 50~100% 협착 HR 1.48(95% CI 1.06~2.07)이었다. 비무작위 연구의 재개통술 인지 개선(SMD 0.73)은 모두 비뚤림 위험이 높았고 대규모 CREST-2에서는 효과가 없었다(0.03, 95% CI −0.09~0.15).",
+          "source": "medRxiv",
+          "url": "https://doi.org/10.64898/2026.11.09.26367363",
+          "tags": [
+            "혈관성 위험인자",
+            "경동맥",
+            "메타분석"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "치매 위험 다유전자지수는 '병전 인지 수준'과 '저하 속도' 두 경로로 갈린다 — APOE ε4·당뇨·뇌졸중·LDL은 속도, 교육·흡연·BMI는 병전 수준, 미국 1만1,518명 26년 (medRxiv 프리프린트)",
+          "summary": "워싱턴대 연구진이 다인종 미국 표본 1만1,518명의 26년 자료에 종단-위험 결합모형을 적용했다. APOE ε4와 ADRD·제2형 당뇨·뇌졸중·LDL·난청 다유전자지수는 인지저하 속도를 통해, 교육·인지기능·신체활동·BMI·흡연·외로움 지수는 병전 인지 수준을 통해 치매 위험과 연결됐고 일부는 조상 집단별로 달랐다. 개인 위험 해석에서 단면 측정보다 종단 변화량이 중요하다는 근거다.",
+          "source": "medRxiv",
+          "url": "https://doi.org/10.64898/2026.11.06.26367441",
+          "tags": [
+            "유전",
+            "다유전자지수",
+            "APOE",
+            "인지 궤적"
+          ]
+        },
+        {
+          "title": "요양시설 AD 환자 2세대 항정신병약 4종 비교 — 1만7,766명 표적시험 모사, 12개월 일상기능은 비슷하고 쿠에티아핀만 아리피프라졸보다 인지 저하 소폭 커(β −0.203) (Alzheimer's & Dementia: TRCI)",
+          "summary": "미국 장기요양시설·메디케어 연계 자료로 리스페리돈·쿠에티아핀·올란자핀·아리피프라졸 신규 사용자 1만7,766명을 비교했다. ADL 궤적은 약물 간 비슷했고, BIMS 인지 궤적에서 쿠에티아핀이 아리피프라졸보다 저하가 조금 더 컸다(β −0.203, 95% CI −0.380~−0.027). 행동심리증상 약물치료 중인 환자의 추적 평가 해석 시 약물 노출 보정이 필요하다.",
+          "source": "Alzheimer's & Dementia: TRCI",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43005395/",
+          "tags": [
+            "항정신병약",
+            "요양시설",
+            "BPSD"
+          ]
+        },
+        {
+          "title": "세계 FINGERS 네트워크 바이오뱅크 현황 — 39개 다영역 예방시험 중 30곳이 보유·구축 중, 혈액 아밀로이드·타우 측정과 전처리 표준 지침 제시 (Alzheimer's & Dementia)",
+          "summary": "카롤린스카 FINGERS 뇌건강연구소 등이 WW-FINGERS 39개 연구팀을 설문한 결과 30곳이 바이오뱅크를 보유하거나 구축 중이었고 4곳은 계획, 5곳은 없었다. 혈액 아밀로이드·타우·신경퇴행 지표와 다중오믹스 측정이 늘고 있었으며 저자들은 전처리 표준 지침을 제시했다. 생활습관 예방시험의 효과 판정에 표준화된 영상·바이오마커를 공급할 협력 기회가 될 수 있다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43001342/",
+          "tags": [
+            "예방",
+            "FINGER",
+            "바이오뱅크"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "진료기록 AI의 의료기기 해당 여부가 규제 쟁점으로 — 호주 TGA, 디지털 스크라이브 12개 중 8개가 의료기기 가능성; 식약처 LLM 가이드라인은 '임상 소견 초안·진단·치료 옵션 생성'을 디지털의료기기로 구분 (데일리메디)",
+          "summary": "호주 TGA는 검토한 디지털 스크라이브 12개 중 8개에 의료기기 정의에 해당할 가능성이 높은 기능이 있다고 판단하며 '면책 문구만으로는 충분하지 않다'고 밝혔다. 국내에서는 EMR 작성 지원용 독립형 SW가 제조업허가 제외 대상이지만, 식약처 LLM 기반 디지털의료기기 가이드라인은 임상 소견 초안이나 진단·치료 옵션을 생성하면 의료기기로 본다. BeauBrain 관점: 뇌 MRI 판독문 초안·소견 문구를 LLM으로 생성하는 기능을 붙이면 허가 범위 변경 대상이 되는지 미리 판단해 둘 필요가 있다.",
+          "source": "데일리메디",
+          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=942296",
+          "tags": [
+            "SaMD 경계",
+            "LLM",
+            "식약처",
+            "TGA"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "로슈, CTAD 2026에서 경구 NLRP3 억제제 RG6434 2상 'TARBELA-AD' 착수 공개 — 트론티네맙 3상 예방시험 설계와 Elecsys pTau217 1차진료 건강경제 데이터도 발표 (Roche)",
+          "summary": "로슈는 CTAD 2026(11/16~19, 보스턴)에서 초록 16편을 발표하고 초기 증상성 AD 대상 경구 NLRP3 억제제 RG6434 2상 TARBELA-AD를 시작한다고 밝혔다. 트론티네맙은 3상 예방시험 PrevenTRON 설계를 구두 발표하고, 진단 부문은 Elecsys pTau217·pTau181 실제 진료 도입의 건강경제·진단경로 효율 데이터를 내놓는다. BeauBrain 관점: 혈액검사가 1차 선별로 퍼지면 뒤따르는 MRI 기반 적격성·ARIA 평가 수요가 커진다.",
+          "source": "Roche",
+          "url": "https://www.roche.com/media/releases/med-cor-2026-11-10",
+          "tags": [
+            "로슈",
+            "트론티네맙",
+            "Elecsys pTau217",
+            "CTAD 2026"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "알지온, 경구 발틸트라미프로세이트(ALZ-801) 두 번째 3상 'ORION-E4' 설계 공개 — APOE4/4 동형접합 MCI 약 550명·78주, 정기 MRI로 ARIA 모니터링 (Alzheon)",
+          "summary": "알지온이 CTAD 2026을 앞두고 APOE4/4 동형접합 MCI 약 550명에게 ALZ-801 265mg을 하루 2회 78주 투여하는 3상 ORION-E4(약 12개국 150개 기관, 1차 평가변수 CDR-SB)를 소개했다. 시험은 정기 MRI로 ARIA-E·ARIA-H를 감시하며, 회사는 APOLLOE4 추가 분석에서 자발적 미세출혈(ARIA-H) 발생이 39% 줄었다고 밝혔다. 항체치료가 어려운 APOE4 동형접합군에 경구 대안이 생기더라도 MRI 감시 수요는 유지된다.",
+          "source": "Alzheon",
+          "url": "https://alzheon.com/alzheon-highlights-orion-e4-phase-3-trial-launch-for-oral-valiltramiprosate-alz-801-and-expansion-of-its-oral-anti-amyloid-aggregation-inhibitor-portfolio-at-ctad-2026-conference-in-boston-november-1/",
+          "tags": [
+            "알지온",
+            "ALZ-801",
+            "3상",
+            "APOE4",
+            "ARIA"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "일라이 릴리 참여, 英 오이스터 테라퓨틱스(구 케스말리아) 6,000만 달러 시리즈 A-2 — 경구·뇌투과 타우 분해제 임상 진입 자금 (BioSpace/Business Wire)",
+          "summary": "표적단백질분해제 기업 케스말리아가 오이스터 테라퓨틱스로 사명을 바꾸고 4BIO Capital 주도, 일라이 릴리·CE Ventures·Actium Group·TOHO Ventures가 참여한 6,000만 달러 시리즈 A-2를 마감했다. 자금은 병적 타우만 골라 제거하는 경구·뇌투과 타우 분해제의 임상 진입에 쓰인다. 키순라 판매사 릴리가 차세대 타우 표적 저분자에 투자했다는 점에서 항아밀로이드 이후 치료 시장의 축을 보여준다.",
+          "source": "BioSpace",
+          "url": "https://www.biospace.com/press-releases/kesmalea-therapeutics-announces-60-million-series-a-financing-to-advance-next-generation-targeted-protein-degraders-for-alzheimers-and-other-neurodegenerative-diseases-and-rebrands-as-oyster-therapeutics",
+          "tags": [
+            "투자",
+            "타우",
+            "단백질분해제",
+            "일라이 릴리"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "영국 MHRA, 바이오젠·아이오니스 타우 ASO '디라너센'에 이노베이션 패스포트 부여 — ILAP 경로로 심사 150일·HTA 조기 논의, 3상 준비 중 (pharmaphorum)",
+          "summary": "MHRA가 신약 3종에 이노베이션 패스포트를 부여했고 AD 약물로는 타우 생성 억제 안티센스 디라너센이 포함됐다. 디라너센은 2상 CELIA에서 1차 평가변수를 충족하지 못했지만 인지 개선 신호로 3상을 준비 중이며, 지정 약물은 심사기간이 150일로 줄고 NICE 등과 급여 논의를 초기부터 진행한다. 항아밀로이드제 NHS 비승인 논란 속 타우 표적 약물이 조기 접근 경로를 확보한 사례다.",
+          "source": "pharmaphorum",
+          "url": "https://pharmaphorum.com/news/mhra-grants-innovation-passports-three-novel-drugs",
+          "tags": [
+            "MHRA",
+            "디라너센",
+            "타우",
+            "영국"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "C2N 다이애그노스틱스, 日 LSI 메디엔스와 혈액 AD 검사 PrecivityAD2 일본 인허가·상업화 제휴 (BioSpace/C2N 보도자료)",
+          "summary": "C2N이 PHC홀딩스 자회사인 일본 임상검사 기업 LSI 메디엔스와 PrecivityAD2의 일본 체외진단 허가·보험 적용·상업화를 함께 추진하는 전략적 제휴를 11/10 발표했다. 2024년부터 같은 그룹 메디포드가 맡아 온 연구용 검사와 별도로 임상 진단 경로를 여는 것이며, 출시 시점과 계약 금액은 공개되지 않았다. BeauBrain 관점: 미국 허가 혈액 AD 검사가 일본 임상 시장에 들어오면서 아시아에서 MRI 기반 진단 앞단의 선별 경쟁자가 늘어난다.",
+          "source": "BioSpace",
+          "url": "https://www.biospace.com/press-releases/c2n-diagnostics-and-lsi-medience-partner-to-bring-precivityad2-alzheimers-disease-blood-test-to-japan",
+          "tags": [
+            "C2N",
+            "혈액 바이오마커",
+            "일본",
+            "제휴"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "Cortechs.ai, Subtle Medical과 제휴해 NeuroQuant를 벤더 중립 MRI 플랫폼에 탑재 — SubtleHD 촬영시간 최대 80% 단축 영상과 부피측정 워크플로 통합, RSNA 2026 공동 참가 (PR Newswire)",
+          "summary": "Cortechs.ai가 NeuroQuant·NeuroQuant MS·Lesion Surveillance를 Subtle Medical의 벤더 중립 영상 플랫폼에 통합해 FDA 허가 화질개선 SW SubtleHD·정렬 SW SubtleALIGN과 한 워크플로로 묶고 결과를 PACS로 보낸다. 양사는 공동 영업과 함께 화질개선·정렬이 스캐너 간·종단 부피측정 일관성에 미치는 영향을 공동 연구해 백서를 낼 계획이다(계약 금액 비공개). BeauBrain 관점: 가장 직접적인 MRI 부피측정 경쟁사가 고속 촬영 프로토콜과 묶여 유통 채널을 넓히는 것으로, 단축 촬영 영상에서의 정량 일관성이 차별화 쟁점이 될 수 있다.",
+          "source": "PR Newswire",
+          "url": "https://www.prnewswire.com/news-releases/cortechsai-and-subtle-medical-partner-to-deliver-faster-mri-with-standardized-quantitative-neuroimaging-302933797.html",
+          "tags": [
+            "Cortechs.ai",
+            "NeuroQuant",
+            "MRI 부피측정",
+            "제휴"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "[후속] 금감원, 뷰노 유상증자 증권신고서에 정정신고서 제출 요구 — 신고서 효력 정지로 314억 유증(신주배정기준일 11/16) 일정 재지연 가능 (DART)",
+          "summary": "금융감독원이 뷰노가 10/28 제출한 지분증권 증권신고서에 대해 '중요사항 기재 누락·불분명'을 사유로 11/10 정정신고서 제출을 요구했다. 요구일부터 신고서 효력이 정지되며 3개월 내 정정하지 않으면 철회로 간주된다. 딥카스 신의료기술평가 지연으로 이미 두 차례 미뤄진 유상증자가 다시 늦어질 수 있어, 국내 경쟁사 뷰노의 자금 조달이 신의료기술평가와 금감원 심사에 함께 묶여 있음을 보여준다.",
+          "source": "DART",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261110100012",
+          "tags": [
+            "뷰노",
+            "유상증자",
+            "DART"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "레켐비 국내 이상사례 올해 상반기에만 247건 — 지난해 연간 141건의 약 1.75배, 누적 388건 중 무증상 ARIA 64건(ARIA-H 47·ARIA-E 17) (디멘시아뉴스)",
+          "summary": "식약처 의약품 부작용 보고시스템 통계에서 레켐비를 의심약물로 한 이상사례는 2025년 141건, 2026년 상반기 247건으로 누적 388건이었다. 주입 관련 반응 191건이 가장 많았고 무증상 ARIA-H 47건·ARIA-E 17건이 뒤를 이었으며, 보고의 83.0%(322건)는 시험·연구 보고이고 투여 환자 수가 공개되지 않아 발생률은 계산할 수 없다. BeauBrain 관점: 국내 투여 확대와 함께 무증상 ARIA 보고가 빠르게 쌓이고 있어, 정기 추적 MRI의 ARIA 탐지·정량 지원 수요를 보여주는 근거다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11263",
+          "tags": [
+            "레켐비",
+            "ARIA",
+            "이상사례",
+            "MRI 모니터링"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "美 NIA, 워싱턴대 나이트 ADRC 최장기 알츠하이머 종단연구 5년 3,200만 달러 갱신 — 2031년까지, 북부 세인트루이스 이동 클리닉으로 신규 300명 모집 (WashU Medicine)",
+          "summary": "미국 국립노화연구소가 워싱턴대 나이트 ADRC의 'Healthy Aging and Senile Dementia' 종단연구를 5년간 3,200만 달러로 갱신했다. 지금까지 1,877명 이상이 등록했으며, 약 40명 규모 시범사업을 이동 클리닉으로 넓혀 신규 300명을 모집하고 혈액·조직 시료를 수집한다. 다양한 인구집단 장기 코호트 확대 흐름이나 영상 데이터 관련 내용은 명시되지 않았다.",
+          "source": "WashU Medicine",
+          "url": "https://medicine.washu.edu/news/32-million-nih-grant-expands-decades-long-alzheimers-study/",
+          "tags": [
+            "NIH",
+            "종단 코호트",
+            "Knight ADRC"
+          ]
+        }
+      ]
+    }
+  ]
+}
