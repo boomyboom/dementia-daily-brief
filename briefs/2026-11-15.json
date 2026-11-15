@@ -34,6 +34,31 @@
             "뇌위축"
           ],
           "importance": "medium"
+        },
+        {
+          "title": "정상압수두증 환자의 T1 MRI 측뇌실 곡률·형상으로 뇌생검 아밀로이드 병리 예측 — 인구학·APOE 결합 분류기 AUC 0.817, CSF 비율 추가 시 0.835 (Journal of Alzheimer's Disease Reports)",
+          "summary": "특발성 정상압수두증(iNPH) 환자 178명의 T1 MRI에서 측뇌실 3D 메쉬의 곡률·형상 특징을 뽑아 인구학·APOE와 결합한 분류기가 전두엽 생검 아밀로이드를 AUC 0.817(SD 0.053)로 예측했다. CSF 코호트 155명에서 CSF 바이오마커 비율을 더하자 AUC 0.835(SD 0.065)로 올라, 일상 T1 구조 MRI만으로 아밀로이드 동반 병리를 선별할 가능성을 보였다.",
+          "source": "Journal of Alzheimer's Disease Reports",
+          "url": "https://doi.org/10.1177/25424823261505427",
+          "tags": [
+            "뇌MRI",
+            "AI 진단",
+            "아밀로이드 예측",
+            "정상압수두증"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "MCI·AD 내측측두엽 DTI 확산도 상승은 세포 수 감소·Braak 병기와 연관 — 뇌 기증자 54명 사후 MRI-병리 대조와 생체 84명 분석 (Brain Structure and Function)",
+          "summary": "뇌 기증자 54명의 세포 수와 고정 반구 18개의 사후 MRI를 대조한 결과, 내측측두엽 확산도는 총 세포 수와 음의 상관, Braak 병기와 양의 상관을 보였고 FA는 CERAD 점수와 음의 상관을 보였다. 생체 분석(정상 39·MCI 31·AD 14명)에서는 AD에서 확산도 증가·FA 감소가, MCI에서는 중간 수준 변화가 나타나 DTI 지표의 병리학적 근거를 뒷받침했다.",
+          "source": "Brain Structure and Function",
+          "url": "https://doi.org/10.1007/s00429-026-03223-4",
+          "tags": [
+            "DTI",
+            "내측측두엽",
+            "영상-병리 대조",
+            "MCI"
+          ]
         }
       ]
     },
@@ -113,6 +138,18 @@
             "bvFTD",
             "일상기능"
           ]
+        },
+        {
+          "title": "알츠하이머병 전방 미상핵 병리 지도 — 회백질엔 확산성 아밀로이드 판, 백질엔 인산화 타우 실…타우 부담 따라 FLT1+/IL1B+ 미세아교세포 증가 (Cell Genomics)",
+          "summary": "기증자 41명의 전방 미상핵을 디지털 병리·단일핵·공간 전사체로 분석한 결과, 회백질에는 주로 확산성 Aβ 판이, 백질에는 인산화 타우 실이 분포해 피질과 다른 양상을 보였다. 병리가 늘어도 신경세포 유형별 수의 유의한 변화는 없었고, 타우 부담에 비례해 FLT1+/IL1B+ 미세아교세포 집단이 늘었다.",
+          "source": "Cell Genomics",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43020054/",
+          "tags": [
+            "신경병리",
+            "공간전사체",
+            "미상핵",
+            "타우"
+          ]
         }
       ]
     },
@@ -146,6 +183,18 @@
             "Bracco",
             "Avicenna.AI"
           ]
+        },
+        {
+          "title": "[후속] 대한치매학회 '레켐비 국내 건강보험 급여 내년 중순 전망' — JOY-ALZ 32개 병원 실사용 연구 진행 중, 해외 처방약 개인 반입 허용돼도 레켐비 반입은 어려울 것 (메디칼트리뷴)",
+          "summary": "박기형 대한치매학회 이사장은 11/14 추계학술대회 기자간담회에서 2024년 허가 후 비급여로 남아 있는 레켐비의 건강보험 급여가 내년 중순께 이뤄질 것으로 전망했다. 학회는 전국 32개 병원 다기관 연구(JOY-ALZ)로 국내 실제 효과를 분석 중이며 수치는 추후 공개하겠다고 했다. 급여가 되면 투여 대상자 선별(아밀로이드 확인)과 ARIA 감시 MRI 수요가 함께 늘어나 뇌영상 정량 SW 시장에 간접 호재다.",
+          "source": "메디칼트리뷴",
+          "url": "https://www.medical-tribune.co.kr/news/articleView.html?idxno=215896",
+          "tags": [
+            "레켐비",
+            "급여",
+            "대한치매학회"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -157,7 +206,33 @@
     {
       "id": "competitors",
       "title": "경쟁사 동향",
-      "items": []
+      "items": [
+        {
+          "title": "시스멕스, 후지레비오 혈장 'Lumipulse G pTau 217' 브라질 출시 — 안비자(ANVISA) 승인 첫 알츠하이머 혈액검사, 10월부터 민간 검사망서 처방 시행 (PR Newswire Brasil)",
+          "summary": "시스멕스 브라질은 후지레비오의 혈장 pTau217 시약이 ANVISA 등록을 받아 10월부터 민간 검사망에서 증상 환자 대상 처방 검사로 시행되고 있다고 11/12 밝혔다. Lumipulse G1200·G600II 자동화 장비에서 구동되며, 브라질 연구기관과 자국 인구 기준값 연구도 진행 중이다. 보도자료는 브라질 60세 이상의 약 8.5%(270만 명)가 치매이고 사례의 약 80%가 미진단이라고 인용했다.",
+          "source": "PR Newswire Brasil",
+          "url": "https://www.prnewswire.com/br/comunicados-para-a-imprensa/sysmex-lanca-o-lumipulse-g-ptau-217-primeiro-exame-de-sangue-aprovado-pela-anvisa-para-apoiar-a-investigacao-do-alzheimer-302938174.html",
+          "tags": [
+            "후지레비오",
+            "혈액 바이오마커",
+            "p-tau217",
+            "브라질"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "코어라인소프트 3Q 누적 매출 52.2억원(+76.4%)·해외 비중 첫 과반 53.7% — 3Q 단독 매출 23.3억원 분기 최대, 분기 영업손실 22.2억원으로 상장 후 최소 (라포르시안)",
+          "summary": "뇌CT AI 'AVIEW NeuroCAD'를 보유한 코어라인소프트의 3Q 누적 연결 매출은 52억2,000만원으로 76.4% 늘었고, 해외 매출이 28억원(+152.3%)으로 처음 절반을 넘었다. SW 반복매출은 23억2,000만원(+79.0%)으로 SW 매출 중 비중이 45.0%→55.0%로 올랐고, 누적 영업손실은 76억9,000만원으로 26.9% 줄었다. 매출이 39% 줄어든 제이엘케이(11/14 게재)와 대비되는 의료영상 AI 상장사 실적이다.",
+          "source": "라포르시안",
+          "url": "https://www.rapportian.com/news/articleView.html?idxno=242434",
+          "tags": [
+            "코어라인소프트",
+            "실적",
+            "의료영상 AI"
+          ],
+          "importance": "medium"
+        }
+      ]
     },
     {
       "id": "media",
