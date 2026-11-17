@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T10:30:00+09:00",
+  "headline": "CTAD 2026에서 영국 IXICO가 뇌 MRI 미세출혈 탐지 AI(평균 약 90% 탐지)를 공개하고, C2N은 FDA 허가판 PrecivityAD2 혈액검사의 미국 처방을 시작했다 — 항아밀로이드 치료 확산에 맞춰 안전성 MRI 판독 지원 AI와 혈액 기반 진단이 동시에 상용화 단계로 들어서는 흐름",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "남아시아(인도) 기억클리닉 315명서 혈청 p-tau217 AD 판별 AUC 0.85, NfL/p-tau217 비율로 AD vs FTD 감별 AUC 0.78 — 다중 임계값 방식이 단일 cut-off보다 우수 (Alzheimer's & Dementia)",
+          "summary": "인도 인지장애 클리닉의 인지정상·MCI·AD·FTD 315명에서 Simoa HD-X로 혈청 p-tau217·p-tau181·NfL을 측정했다. AD 판별은 p-tau217(AUC 0.85), FTD 판별은 NfL이 가장 좋았고, p-tau181은 정상군과 차이가 없었다. NfL/p-tau217 비율은 AD와 FTD 감별(AUC 0.78)에 도움이 됐고, 다중 임계값 접근이 단일 cut-off보다 진단 성능이 우수해 서구 밖 코호트에서도 혈액 바이오마커 활용 근거를 더했다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43040622/",
+          "tags": [
+            "혈액 바이오마커",
+            "p-tau217",
+            "감별진단"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "루이소체치매 162명 — 상용 MRI 위축 분석(VSRAD)상 내측측두엽 위축이 클수록 심장 MIBG 섭취가 보존돼(지연 H/M ρ=0.196), 동반 AD 병리가 MIBG 위음성 원인일 가능성 (medRxiv 프리프린트)",
+          "summary": "일본 연구팀이 probable DLB 162명에서 VSRAD Z-score(내측측두엽 위축)와 123I-MIBG 심장 섭취(H/M 비)의 관계를 분석했다. 나이·성별·유병기간을 보정한 뒤에도 위축이 클수록 지연 H/M 비가 높았고(ρ=0.196, P=0.013), 당뇨·심장질환 40명을 빼도 유지됐다(ρ=0.231). MRI 위축 정량이 DLB 감별진단에서 동반 AD 병리를 가늠하는 보조 지표가 될 수 있음을 시사한다.",
+          "source": "medRxiv",
+          "url": "https://doi.org/10.64898/2026.11.13.26367891",
+          "tags": [
+            "MRI 정량",
+            "루이소체치매",
+            "감별진단"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "휴지기 fMRI '네트워크 분리도'가 높으면 아밀로이드 부담이 커도 인지저하 완화 — ADNI 375명, 시간×Aβ×분리도 상호작용 B=0.184 (Alzheimer's Research & Therapy)",
+          "summary": "ADNI 375명(정상 216·MCI 112·치매 47)에서 502-노드 휴지기 fMRI의 전역 시스템 분리도와 florbetapir PET SUVR, PACC 인지 궤적을 분석했다. Aβ 부담은 낮은 인지(B=−0.591)와, 분리도는 높은 인지(B=0.501)와 연관됐고, 시간×Aβ×분리도 상호작용(B=0.184, p=0.005)이 유의했다. 뇌 네트워크 분리도가 인지예비능의 영상 지표가 될 수 있다는 결과다.",
+          "source": "Alzheimer's Research & Therapy",
+          "url": "https://doi.org/10.1186/s13195-026-02260-9",
+          "tags": [
+            "기능MRI",
+            "아밀로이드 PET",
+            "인지예비능"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "리튬 MCI 무작위시험(LATTICE) 80명 혈장 단백체 분석 — GDF15가 CDR-SB 궤적·치료반응 예측, p-tau217은 해마 부피 변화와 가장 일관된 연관 (medRxiv 프리프린트)",
+          "summary": "피츠버그대 연구팀이 저용량 리튬 또는 위약을 2년간 투여한 MCI 80명(아밀로이드 PET 양성 21명)의 혈장을 NULISAseq 120종 패널로 분석했다. 기저 단백체 차이는 치료 배정보다 아밀로이드 PET 상태와 더 강하게 연관됐다. 기억성 MCI에서 GDF15는 CDR-SB 궤적과 치료효과 수식에 FDR 보정 후에도 유의했고, p-tau217은 해마 부피 궤적과 가장 일관되게 연관됐다.",
+          "source": "medRxiv",
+          "url": "https://doi.org/10.64898/2026.11.14.26368038",
+          "tags": [
+            "혈장 단백체",
+            "p-tau217",
+            "해마 부피"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "5개국 21.9만 명·78.3만 회 기억검사 분석 — 늦게 태어난 세대일수록 기억력이 높은 상태로 노년에 들어서고 감퇴도 느려, 10년당 13% 치매 발생률 감소를 설명 (Nature Medicine)",
+          "summary": "오슬로대 Fjell·Walhovd 팀이 최장 30년 추적한 5개 종단연구를 분석한 결과, 늦게 태어난 세대는 노년기 기억력 수준이 높고 감퇴 속도도 느린 '이중 배당'을 누렸으며 이는 해마 위축 감속으로도 확인됐다. 보고된 10년당 13%의 치매 발생률 감소를 이 효과로 설명할 수 있다고 봤다. 저자들은 기억 수준은 어린 시절에, 감퇴 속도는 성인기에 형성되므로 생애 전반의 예방정책이 필요하다고 결론지었다.",
+          "source": "Nature Medicine",
+          "url": "https://doi.org/10.1038/s41591-026-04759-y",
+          "tags": [
+            "역학",
+            "세대효과",
+            "예방"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "미세아교세포 STING–인터페론–CH25H 축이 만든 지질 25-HC가 타우 전파를 가속 — Ch25h 결손 P301S 쥐에서 타우 응집·뇌위축 억제, 기억 회복 (Nature Communications)",
+          "summary": "미세아교세포의 STING–인터페론 신호가 CH25H를 유도해 생성된 옥시스테롤 25-하이드록시콜레스테롤(25-HC)이 타우 전파를 촉진했다. Ch25h를 결손시킨 암컷 P301S 타우 쥐에서는 타우 응집이 억제되고 시냅스가 보존됐으며, 뇌위축이 막히고 기억이 회복됐다. 인간 iPSC 유래 신경세포에서도 25-HC가 타우 전파를 직접 가속해, 새로운 항타우 표적으로 제시됐다.",
+          "source": "Nature Communications",
+          "url": "https://doi.org/10.1038/s41467-026-79072-w",
+          "tags": [
+            "타우",
+            "신경염증",
+            "기전"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "90세 이상 647명 — 방문 간 수축기혈압 변동성이 높으면 정상→치매 전환 위험 2.9배, MCI→치매 1.44배 (Alzheimer's & Dementia)",
+          "summary": "초고령 코호트 The 90+ Study 647명에서 방문 간 수축기혈압 변동성이 높을수록 정상인지에서 인지장애로(HR 1.36), 정상에서 치매로(HR 2.90), 인지장애에서 치매로(HR 1.44) 전환할 위험이 컸다. 평균 혈압이 아니라 변동성 자체가 90세 이상에서도 치매 위험 지표가 될 수 있음을 보였다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43040596/",
+          "tags": [
+            "혈압 변동성",
+            "초고령",
+            "위험인자"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "뇌기증자 1,079명 — 조립·제조 등 '생산직' 경력자는 루이소체 병리 보유 위험 23% 높아(aOR 1.23) (Alzheimer's & Dementia)",
+          "summary": "뇌기증자 1,079명의 부검 자료에서 루이소체 병리는 32%에 있었고, 생산직 경력자(12%)는 보정 후 루이소체 보유 오즈가 23% 높았다(aOR 1.23, 95% CI 1.11–1.35). 직업적 화학물질 노출 등 환경 요인이 루이소체 병리에 기여할 가능성을 제기한다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43040586/",
+          "tags": [
+            "루이소체",
+            "직업 노출",
+            "신경병리"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "식약처 '2027 디지털의료제품 정책방향' 간담회 — 업계 'AI만 추가해도 하드웨어 라벨 교체·저위험 AI 보조기능에 주 기기 등급 DGMP·사이버보안 증빙 중복' 문제 제기, 식약처는 침해사고 신고 완화를 내년 업무계획에 포함 (메디게이트뉴스)",
+          "summary": "식약처는 11/17 간담회에서 올해 디지털의료제품 법령·가이드라인 8건을 제·개정했다고 밝혔다. 업계는 해외 인증 제품에도 사이버보안 세부 증빙을 다시 요구하는 점, 저위험 AI 보조기능에 주 기기 등급의 DGMP를 적용하는 점, 26년 신규 허가품이 내년 1월 24일부터 곧바로 표시·기재 가이드라인을 지켜야 하는 점을 지적했다. 식약처는 '전자적 침해행위→침해사고' 신고 기준 완화를 내년 업무계획에 넣고, DGMP 등급 문제는 2027년에 검토하겠다고 답했다. 단독 SaMD인 뇌 MRI 분석 SW도 표시·기재(내년 1/24 이후)·사이버보안 증빙 요구를 그대로 받으므로 내년 인허가 일정에 반영해야 한다.",
+          "source": "메디게이트뉴스",
+          "url": "https://www.medigatenews.com/news/2132672376",
+          "tags": [
+            "식약처",
+            "디지털의료제품법",
+            "AI 의료기기",
+            "사이버보안"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "김선민 의원 '생명에 영향 주는 의료 AI는 AI기본법상 고영향 AI로 다뤄야' — 의료인 최종판단 원칙 탓에 고영향 판정이 거의 없다고 지적, AI 의료기기 업데이트 시 전문가 평가 후 의사 통보 제안 (더메디컬)",
+          "summary": "11/17 국회 'AI-DX 미래포럼' 발제에서 김선민 의원(과방위, 전 심평원장)은 진단용 AI 의료기기가 고영향 AI에서 빠지면 오히려 의사들의 신뢰를 얻기 어렵다고 주장했다. 진단·진료 AI는 별도 수가를 받기 어려워 병원의 구매 동인이 약하다는 진단도 내놨다. 아직 의원 개인 의견이지만, 진단 SW가 고영향 AI로 분류되면 AI기본법상 영향평가·투명성 의무가 더해진다.",
+          "source": "더메디컬",
+          "url": "https://www.themedical.kr/news/articleView.html?idxno=3673",
+          "tags": [
+            "AI기본법",
+            "고영향 AI",
+            "국회"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "[후속] 푸싱제약, AR1001 글로벌 판권 옵션 아직 미행사 — 3상 톱라인 데이터 수령 후 90일 내 결정, 행사 시 선급금 8,000만 달러 추가 (메디코파마뉴스)",
+          "summary": "아리바이오 AR1001 3상 결과 발표 뒤 푸싱제약은 미국·유럽·일본 등 글로벌 판권 옵션을 아직 행사하지 않았고, 추가 분석을 거쳐 계약상 기한 안에 결정하겠다고 공시했다. 기한은 전체 톱라인 데이터를 받은 날부터 90일이다. 옵션료 6,000만 달러는 7월에 지급됐고, 행사하면 선급금 8,000만 달러가 추가되며 계약 규모는 판매 마일스톤 포함 최대 47억 달러다. 전체군 유의성 미확보가 상업화 파트너의 결정에 어떻게 반영될지가 다음 관문이다.",
+          "source": "메디코파마뉴스",
+          "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70500",
+          "tags": [
+            "치료제 시장",
+            "라이선스",
+            "AR1001"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "바이오젠, 영국 TrimTech와 신경퇴행 질환 단백질 분해제 공동연구 — 선급금·연구 마일스톤 최대 3,200만 달러, 총 최대 4억1,100만 달러 (Contract Pharma)",
+          "summary": "바이오젠이 독성 단백질 응집체·올리고머를 분해하도록 설계된 TrimTech의 TRIMTAC·TRIMGLUE 플랫폼으로 신경퇴행 질환 후보물질을 공동 개발한다. TrimTech는 선급금·연구 마일스톤 최대 3,200만 달러, 로열티 별도 총 최대 4억1,100만 달러를 받을 수 있다. 대상 질환은 공개되지 않았다.",
+          "source": "Contract Pharma",
+          "url": "https://www.contractpharma.com/breaking-news/biogen-trimtech-partner-on-neurodegenerative-disease-degraders/",
+          "tags": [
+            "파트너십",
+            "신경퇴행",
+            "단백질 분해"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "[CTAD 2026] 영국 뇌영상 CRO IXICO, 뇌 MRI 미세출혈 탐지 AI 도구 공개 — 후보 탐지 후 혈관 등 유사 구조물을 거르는 2단계 방식, 참여자별 미세출혈 평균 약 90% 탐지 (IXICO)",
+          "summary": "IXICO가 CTAD 2026에서 뇌 MRI의 대뇌 미세출혈(CMB) 판독을 돕는 AI 도구를 발표했다. 뇌 전체에서 미세출혈 후보를 찾은 뒤 혈관 등 유사 구조물을 걸러내는 2단계 방식으로, 참여자별 스캔에서 미세출혈의 평균 약 90%를 탐지했다. 항아밀로이드 치료 중 반복 안전성 MRI(ARIA-H) 판독 지원을 겨냥한 것으로, 특이도·표본 수와 인허가 계획은 밝히지 않았다.",
+          "source": "IXICO",
+          "url": "https://ixico.com/news-and-resources/news/new-ai-tool-supporting-radiologists-to-detect-vascular-dysfunction-in-alzheimers-disease/",
+          "tags": [
+            "뇌 MRI AI",
+            "ARIA",
+            "미세출혈",
+            "CTAD 2026"
+          ],
+          "importance": "high"
+        },
+        {
+          "title": "C2N, FDA 허가판 PrecivityAD2 혈액검사 미국 의료진 처방 개시 — 인지 증상이 있는 40세 이상 성인 대상 (C2N 보도자료)",
+          "summary": "C2N 다이애그노스틱스가 FDA 허가를 받은 PrecivityAD2 혈액검사를 미국 의료진이 처방할 수 있게 됐다고 11/16 밝혔다. 인지 증상이 있는 40세 이상 성인을 대상으로 한 FDA 허가 알츠하이머 혈액검사로, 허가 이후 실제 진료 현장 공급이 시작된 것이다. 보도자료에 정확도 수치·가격·보험 정보는 없다.",
+          "source": "C2N Diagnostics",
+          "url": "https://www.c2n.com/news-releases/c2n-diagnostics-fda-cleared-precivityad2-now-available-to-health-care-professionals-to-improve-diagnosis-of-alzheimers-disease-in-symptomatic-patients",
+          "tags": [
+            "혈액 바이오마커",
+            "C2N",
+            "FDA"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "퀀터릭스, 美 뉴욕·뉴저지 셔먼 에이브럼스 검사실과 다중 바이오마커 AD 혈액검사 'LucentAD Complete' 독점 공급 제휴 (BioSpace/Business Wire)",
+          "summary": "퀀터릭스가 브루클린의 임상·해부병리 검사실 Sherman Abrams Laboratory와 독점 계약을 맺고, 뉴저지와 뉴욕·뉴저지 광역권 의뢰 의사망에 LucentAD Complete를 공급한다. 계약 기간·금액과 정확도 수치는 공개되지 않았다. 지역 검사실 채널을 통한 혈액 AD 검사 확산 사례다.",
+          "source": "BioSpace",
+          "url": "https://www.biospace.com/press-releases/quanterix-expands-access-to-blood-based-alzheimers-testing-in-new-jersey-and-surrounding-area-through-exclusive-partnership-with-sherman-abrams-laboratory",
+          "tags": [
+            "혈액 바이오마커",
+            "Quanterix",
+            "공급계약"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "C2N, 혈장 Aβ 6종(Aβ37~43)을 한 번에 정량하는 연구용 질량분석 검사 'C2N-Aβ-MAA (6x)' 출시 (BioSpace/C2N 보도자료)",
+          "summary": "C2N이 혈장 한 샘플에서 Aβ37·38·39·40·42·43 여섯 종을 LC-MS/MS로 정량하는 연구용(RUO) 다중분석 검사를 내놨다. 기존 뇌척수액용 Aβ-MAA(6x)를 혈장으로 확장한 제품으로, 성능 수치는 공개되지 않았다.",
+          "source": "BioSpace",
+          "url": "https://www.biospace.com/press-releases/c2n-diagnostics-expands-portfolio-of-blood-tests-with-next-generation-brain-amyloid-assay-for-clinical-researchers-studying-alzheimers-disease-and-related-neurological-disorders",
+          "tags": [
+            "혈액 바이오마커",
+            "C2N",
+            "연구용 검사"
+          ]
+        },
+        {
+          "title": "딥노이드, 폴스타헬스케어·21세기영상의학과의원과 흉부 X선 생성형 AI 'M4CXR' 원격판독 고도화 MOU — 전국 1,000여 의료기관 판독망 (파이낸셜뉴스)",
+          "summary": "딥노이드가 26년간 원격판독을 해온 폴스타헬스케어, 21세기영상의학과의원과 MOU를 맺고 폴스타의 원격판독 플랫폼 '호크아이'에 M4CXR을 연동한다. 전국 1,000여 개 의료기관을 담당하는 판독센터 실무에서 정확도와 판독문 품질을 평가한다. 3Q 매출 급감(누적 -69%) 이후 원격판독 채널로 생성형 판독 AI의 상용 접점을 넓히는 행보다.",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611171148475493",
+          "tags": [
+            "딥노이드",
+            "원격판독",
+            "생성형 AI"
+          ],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "[후속] 레켐비 감시 MRI 급여 불발 후 대한치매학회 '키썬라 도입 때 재건의, 투약 상담 수가도 제안' — JOY-ALZ 추적 MRI 657명 중 106명 ARIA, 유증상은 4명 (매일경제)",
+          "summary": "대한치매학회는 비급여 약제에 딸린 검사라는 이유로 거절된 레켐비 감시 MRI 급여를 키썬라 국내 도입에 맞춰 다시 건의하고, 최대 1시간이 드는 투약 설명·상담(현재 수가 0원)의 수가 신설도 제안할 계획이다. 전국 49개 병원 레지스트리(JOY-ALZ)에서 추적 MRI를 받은 657명 중 106명(약 16%)에게 ARIA가 확인됐고 증상이 있던 환자는 4명이었다. 서울아산병원은 도입 초기 투약 대기가 최대 20주까지 늘었다.",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/it/12210911",
+          "tags": [
+            "ARIA",
+            "뇌 MRI",
+            "급여",
+            "레켐비"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[후속] 대한치매학회 추계학회 정책 세션 — 인지 정상이지만 아밀로이드 양성인 65세 이상 약 146만 명 추정, 치매관리주치의 시범사업 지속 참여율 12.4% (디멘시아뉴스)",
+          "summary": "박영호 교수(분당서울대병원)는 국내 65세 이상 중 인지는 정상이나 아밀로이드 양성인 인구를 약 146만 명으로 추정하면서도, 이 단계의 조기 항아밀로이드 치료 이득은 입증되지 않았다고 했다. 국립중앙치매센터 발표에서 치매관리주치의 시범사업 지속 참여율은 12.4%, 만성질환 포함 통합관리 참여율은 5.3%에 그쳤다. 최호진 교수(한양대)는 지역사회 치매관리율이 1%p 오르면 환자 100만 명 기준 연 약 1,400억 원의 비용 차이가 날 수 있다는 추산을 소개했다.",
+          "source": "디멘시아뉴스",
+          "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11276",
+          "tags": [
+            "치매 정책",
+            "무증상 아밀로이드",
+            "치매관리주치의"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "美 텍사스 주민투표로 통과된 30억 달러 치매연구기금(DPRIT), 1년째 소송에 묶여 미집행 — 항소심 계류에 기금 폐지 법안까지 (The Texas Tribune)",
+          "summary": "2025년 11월 유권자 70%가 찬성한 30억 달러 규모의 텍사스 치매예방연구소(DPRIT)가 개표기 인증 문제를 다투는 소송 때문에 아직 출범하지 못했다. 1심은 2월에 기각됐지만 제15항소법원에 계류 중이고, 기금은 주 감사관실에 묶여 있다. DPRIT를 없애고 재산세 감면에 쓰자는 법안(HB 822)도 발의됐다.",
+          "source": "The Texas Tribune",
+          "url": "https://www.texastribune.org/2026/11/17/texas-dementia-alzheimers-research-fund-dprit/",
+          "tags": [
+            "해외 정책",
+            "연구비"
+          ]
+        }
+      ]
+    }
+  ]
+}
