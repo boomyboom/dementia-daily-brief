@@ -54,6 +54,20 @@
             "해마 부피"
           ],
           "importance": "medium"
+        },
+        {
+          "title": "CDR 0.5 단계에서 호전·유지·진행을 함께 예측하는 동적 모델, OASIS-3에서 모델을 고정한 채 외부검증 — MMSE를 갱신하면 12개월 진행 AUC가 0.071 오르지만 호전 위험은 2배 이상 과소예측 (Alzheimer's Research & Therapy)",
+          "summary": "ADNI 2,447명(랜드마크 4,517개)으로 MMSE 갱신값을 반영하는 랜드마크 Cox 모델을 만들고, OASIS-3 491명에서 모델을 고정한 채 외부검증했다. 호전/진행 판별 AUC는 12개월 0.680/0.721, 36개월 0.747/0.729였다. 정적 모델보다 12개월 진행 AUC가 0.071(95% CI 0.024–0.129) 높았다. 반면 'CDR 0.5 유지' 판별 AUC는 0.50–0.54로 거의 판별하지 못했다. 호전 위험의 관측/기대 비는 2.15–2.28로 외부 코호트에서 재보정이 필요했다.",
+          "source": "Alzheimer's Research & Therapy",
+          "url": "https://doi.org/10.1186/s13195-026-02257-4",
+          "tags": [
+            "예후예측",
+            "MCI",
+            "외부검증",
+            "ADNI",
+            "OASIS-3"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -107,6 +121,69 @@
             "직업 노출",
             "신경병리"
           ]
+        },
+        {
+          "title": "[CTAD 2026] 바이오젠 타우 ASO 디라너센, 2년(96주) 시점 CDR-SB 악화 38% 지연(1.09점 차) — 76주 26%에서 효과 확대, 단 대조군은 공개 연장기에 전환된 원래 위약군 (BioSpace/Biogen 보도자료)",
+          "summary": "2상 CELIA(416명) 장기연장 분석에서 저용량군(60mg, 6개월마다 투여)은 원래 위약군보다 CDR-SB 악화가 38% 느렸다(1.09점 차). 76주 대비 효과는 CDR-SB 26%→38%, ADAS-Cog13 42%→54%로 커졌다. 타우 PET 신호와 CSF p-tau181, 혈장 p-tau217도 줄었다. 다만 96주 시점 위약군은 디라너센을 0~1회 맞은 상태인 공개 연장기 비교라, 근거 수준이 무작위 비교보다 낮다. 바이오젠은 3상을 진행한다.",
+          "source": "BioSpace (Biogen 보도자료)",
+          "url": "https://www.biospace.com/press-releases/biogens-diranersen-demonstrates-increasing-clinical-benefit-at-two-years-in-early-alzheimers-disease",
+          "tags": [
+            "CTAD2026",
+            "디라너센",
+            "항타우",
+            "ASO",
+            "타우PET"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "뇌 경계 대식세포(BAM)가 휴식기마다 리듬을 타며 아밀로이드를 청소 — BAM에서 시계유전자 Bmal1을 지우면 혈관주위·연수막 Aβ 플라크 악화 (Immunity)",
+          "summary": "하루 주기에 걸친 뇌 면역세포 단일세포 분석에서 경계 대식세포가 가장 강한 일주기 리듬을 보였다. 휴식기에는 내포작용이 늘어 Aβ 같은 체액성 물질을 더 많이 흡수했다. 이 리듬은 Bmal1과 CD206 수용체에 달려 있고 나이가 들면 무너진다. AD 마우스의 BAM에서 Bmal1을 없애자 혈관주위·연수막 아밀로이드가 늘어, 일주기 교란이 아밀로이드증으로 이어지는 경로를 제시한다(마우스 연구).",
+          "source": "Immunity",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43044601/",
+          "tags": [
+            "기전",
+            "대식세포",
+            "일주기",
+            "아밀로이드",
+            "CAA"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "AD 마우스 뇌의 세포유형별 단백체 지도 — 미세아교세포·성상세포·OPC·뉴런에서 13,411개 단백질 정량, 변화의 약 30%는 mRNA와 불일치 (Neuron)",
+          "summary": "5xFAD·AppNL-G-F 마우스에서 세포유형별로 단백체를 분석해 13,411개 단백질 중 3,028개의 차등 발현을 찾았다. 대부분은 뇌 전체를 한꺼번에 분석하는 방식으로는 잡히지 않던 변화다. 단백체 변화의 약 30%는 전사체와 일치하지 않았다. 성상세포가 만드는 플레이오트로핀(PTN)이 미세아교세포에 쌓이는 현상은 사람 AD 뇌에서도 확인됐고, PTN은 인간 iPSC 유래 미세아교세포를 활성화했다.",
+          "source": "Neuron",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43044584/",
+          "tags": [
+            "기전",
+            "단백체학",
+            "미세아교세포",
+            "성상세포"
+          ],
+          "importance": "medium"
+        },
+        {
+          "title": "[CTAD 2026] 아카디아 레믈리판세린, AD 정신증 2상 RADIANT 상세 결과 — 1차 평가변수 근소 실패(p=0.0603), CGI-I 개선 비율 44.0% vs 31.8%로 3상 지속 (BioSpace/Acadia 보도자료)",
+          "summary": "60mg군의 6주차 SAPS-H+D 변화는 위약 대비 -2.2점(p=0.0603)으로 1차 평가변수에 미달했다. CTAD에서는 6주차 CGI-I '개선' 비율 44.0% vs 31.8%(명목 p=0.0208), NPI 정신증 점수 -7.3 vs -5.9(명목 p=0.0385)를 추가로 공개했다. 회사는 3상을 계속한다.",
+          "source": "BioSpace (Acadia 보도자료)",
+          "url": "https://www.biospace.com/press-releases/acadia-pharmaceuticals-presents-additional-phase-2-radiant-study-results-evaluating-remlifanserin-for-the-treatment-of-alzheimers-disease-psychosis-at-the-2026-clinical-trials-on-alzheimers-disease-ctad-conference",
+          "tags": [
+            "CTAD2026",
+            "정신증",
+            "2상"
+          ]
+        },
+        {
+          "title": "[CTAD 2026] 프리어보이드 경구 D-펩타이드 PRI-002 2상 PRImus-AD(304명), CDR-SB 1차 유효성 평가변수 실패 — ARIA-E 300mg 2%·600mg 0%(위약 1%) (BioSpace/Priavoid 보도자료)",
+          "summary": "48주 2상에서 1차 안전성 평가변수는 충족했지만 1차 유효성 평가변수(CDR-SB)는 충족하지 못했다. ARIA-E는 300mg 2%, 600mg 0%, 위약 1%였다. 바이오마커 결과는 예비 관찰 수준이고, 전체 데이터는 2027년에 공개된다.",
+          "source": "BioSpace (Priavoid 보도자료)",
+          "url": "https://biospace.com/press-releases/priavoid-announces-topline-phase-2-data-for-oral-all-d-peptide-pri-002-in-alzheimers-disease-at-ctad-2026",
+          "tags": [
+            "CTAD2026",
+            "경구 항아밀로이드",
+            "ARIA"
+          ]
         }
       ]
     },
@@ -137,6 +214,20 @@
             "고영향 AI",
             "국회"
           ]
+        },
+        {
+          "title": "[후속] 복지부 '의료AI, 병원별 성과 평가해 효과 확인되면 신속 보상' — 행위별 수가·선진입 제도는 유지하고 기관 성과보상 추가, 평가기준·지급방식은 내부 논의 중 (데일리메디)",
+          "summary": "박정환 복지부 의료인공지능데이터정책과장이 11/18 '헬스케어 AI 투자 포럼'에서 현행 행위별 수가와 선진입 제도를 유지하면서 의료기관별 성과에 따른 보상을 추가하는 방안을 검토 중이라고 밝혔다. 병원이 제품별 성과 측정 계획을 미리 내면 목표 달성 여부를 평가하고, 효과가 확인되면 바로 보상하는 구조다. 평가기준과 지급방식은 아직 정해지지 않았다. 투자사는 선진입 유예가 길어지며 벤처 매출이 1~2년씩 흔들린다며 보상의 연속성을 요구했다. 뇌 MRI 판독보조 AI처럼 단품 수가를 받기 어려운 제품에는 병원 단위 성과보상이 새 수익 경로가 될 수 있다.",
+          "source": "데일리메디",
+          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=942733",
+          "tags": [
+            "의료AI",
+            "수가",
+            "보상체계",
+            "복지부",
+            "선진입"
+          ],
+          "importance": "high"
         }
       ]
     },
@@ -165,6 +256,17 @@
             "파트너십",
             "신경퇴행",
             "단백질 분해"
+          ]
+        },
+        {
+          "title": "[후속] 삼진제약 'AR1001 3상 성공 판단, 상업화 속도' — MMSE 위약 대비 0.7점(p=0.0232), p-tau217 감소(p=0.0402), 중대 이상반응 10.0% vs 9.8% (히트뉴스)",
+          "summary": "아리바이오의 2대 주주이자 AR1001 국내 제조·독점 판매권을 가진 삼진제약이 3상 결과를 '성공'으로 판단한다고 공식 밝혔다. 이전 보도에 없던 수치로 2차 평가지표 MMSE에서 위약 대비 0.7점(p=0.0232), 바이오마커 p-tau217 감소(p=0.0402), 중대 이상반응 10.0% vs 9.8%를 제시했다. 다만 기사는 이 수치가 단독요법군인지 전체군인지 밝히지 않았다.",
+          "source": "히트뉴스",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80886",
+          "tags": [
+            "AR1001",
+            "아리바이오",
+            "삼진제약"
           ]
         }
       ]
@@ -232,6 +334,19 @@
             "생성형 AI"
           ],
           "importance": "medium"
+        },
+        {
+          "title": "[후속] 뷰노, 유상증자 지연으로 12/27 영구CB 금리 스텝업 불가피 — 3회차 237억원 표면금리 0%→4%, 연 이자 약 9.5억원 (더벨)",
+          "summary": "314억원 유상증자 증권신고서가 금감원 정정요구로 멈추면서, 증자금 200억원으로 갚으려던 3회차 영구CB(2024.12.27 발행, 237억2,920만원)의 첫 금리 스텝업이 불가피해졌다. 표면금리는 0%에서 4%로, 만기보장수익률은 5%에서 9%로 오르고, 이후 매년 4%p씩 더해진다. 4%를 적용하면 연 이자는 약 9억4,900만원이다. 영구CB를 모두 빼면 조정 자본총계는 -169억원이고, 4·5회차 200억원도 2027년 12월과 2028년 2월에 스텝업이 예정돼 있다. 더벨은 금감원이 핵심 매출원 '딥카스'의 사업 불확실성을 문제 삼은 것으로 봤다.",
+          "source": "더벨",
+          "url": "https://www.thebell.co.kr/front/newsview.asp?click=F&key=202611160954434200107051",
+          "tags": [
+            "뷰노",
+            "유상증자",
+            "영구CB",
+            "딥카스"
+          ],
+          "importance": "medium"
         }
       ]
     },
@@ -273,6 +388,19 @@
             "해외 정책",
             "연구비"
           ]
+        },
+        {
+          "title": "美 NIA, 유전성 조기발병 알츠하이머 국제 코호트 DIAN 관찰연구에 5년 4,300만 달러 — 참가자 2배 확대, 10년 넘게 항아밀로이드 면역치료를 받은 참가자까지 추적 (WashU Medicine)",
+          "summary": "2008년부터 750명 이상을 모은 DIAN 관찰연구가 NIA의 5년 4,300만 달러 지원으로 참가자를 2배로 늘린다. 기대 발병 나이를 지나도 증상이 없는 '저항성' 보인자를 집중 연구한다. 일부는 10년 넘게 항아밀로이드 면역치료를 받아 왔으며, 아밀로이드가 수년간 제거된 상태로 유지될 때의 경과도 추적한다.",
+          "source": "WashU Medicine",
+          "url": "https://medicine.washu.edu/news/43-million-extends-global-study-of-inherited-alzheimers-disease/",
+          "tags": [
+            "DIAN",
+            "NIA",
+            "유전성AD",
+            "연구비"
+          ],
+          "importance": "medium"
         }
       ]
     }
