@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T09:00:00+09:00",
+  "headline": "로슈 혈장 pTau217·pTau181 검사가 한국 K-ROAD 1,895명에서 현지 기준값 조정 없이 아밀로이드 영상 대비 성능 기준(90%)을 넘었고, 미국에서는 원격 1차진료 기업이 FDA 허가 혈액검사 중심의 기억력 평가 경로를 열었다 — 일부 환자는 확진 PET 없이 결론을 내는 '혈액검사 우선' 진단 경로가 국내외로 넓어지는 흐름",
+  "sections": [
+    {
+      "id": "research",
+      "title": "진단·영상 연구",
+      "items": [
+        {
+          "title": "종단 MRI 위축 패턴을 데이터 기반으로 군집화해 AD를 4개 유형(진행성·느린 진행·지연 위축·고위축)으로 분류 — 연속 병기 모델과 결합, 단 재현성은 제한적 (Alzheimer's Research & Therapy)",
+          "summary": "연속 잠재시간 병기 모델과 비선형 혼합효과 군집화를 결합해 ADNI·OASIS 종단 MRI에서 위축 패턴 4개 군집을 찾았다. 지연 위축군은 말기까지 비교적 보존되다 급격히 위축됐고, 고위축군은 전형적 AD 부위 위축이 컸다. 다만 발견 코호트를 교란하면 군집이 부분적으로만 재현됐고 BioFINDER-2 검증에서는 2개 군집만 나와, 저자들은 이산 아형보다 연속적 진행 패턴의 혼합으로 해석했다.",
+          "source": "Alzheimer's Research & Therapy",
+          "url": "https://doi.org/10.1186/s13195-026-02261-8",
+          "tags": ["뇌 MRI", "위축 패턴", "AD 아형", "질병 진행 모델"],
+          "importance": "high"
+        },
+        {
+          "title": "타우 PET '중심고랑 주변/전체' 섭취 비율로 뇌아밀로이드혈관병증(CAA)과 AD 감별 — 유도 코호트 AUC 0.836, flortaucipir 외부검증 AUC 0.844 (Neurology)",
+          "summary": "중국 화산병원 코호트(대조 22명·CAA 80명·AD 64명)에서 CAA 환자의 중심고랑 주변/전체 타우 비율은 AD보다 높았다(0.93 vs 0.82). 절단값 0.90에서 유도 코호트 AUC 0.836, 외부 검증 코호트(CAA 65명·AD 19명)에서 AUC 0.844였다. CAA에서는 국소 아밀로이드와 백질고신호(WMH) 부피가 타우 침착과 연관됐다.",
+          "source": "Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43056657/",
+          "tags": ["타우 PET", "CAA", "감별진단", "WMH"],
+          "importance": "medium"
+        },
+        {
+          "title": "해석 가능한 다영역 모델로 AD·혈관·TDP-43 등 7개 신경병리를 한 번에 예측 — ROSMAP 부검 1,463명 개발, NACC 2,613명 외부검증 AUROC 0.77 (Alzheimer's & Dementia)",
+          "summary": "임상·인지·위험인자 등 다영역 생전 정보로 설명 가능한 부스팅 분류기 체인을 만들어 부검 병리 7종을 동시에 예측했다. 거시평균 AUROC는 ROSMAP 0.80, NACC 0.77(병리별 0.72~0.83)이었다. 혼합 병리가 흔하고 조합도 다양해, 단일 병리 가정의 진단 모델이 놓치는 부분을 보여준다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43053544/",
+          "tags": ["혼합 병리", "예측 모델", "설명가능 AI", "외부검증"],
+          "importance": "medium"
+        },
+        {
+          "title": "일상 진료 1,059명 CSF α-시누클레인 시드 증폭검사 — 루이체치매 93.4% 양성, AD·PSP·CBS에서도 약 25~33% 양성, 2형 시드는 MSA 밖에선 2.6%뿐 (Neurology)",
+          "summary": "이상운동질환 클리닉 연속 환자 1,059명을 synSAA로 검사해 54.2%에서 α-시누클레인 시드가 검출됐다. 파킨슨병 84.7%, 루이체치매 93.4%였고 AD 등 비시누클레인 질환에서도 약 25~33%가 양성이었다. 1형 시드는 후각저하·환각과 연관돼, AD 진단 시 시누클레인 동반병리 평가 필요성을 뒷받침한다.",
+          "source": "Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43038489/",
+          "tags": ["α-시누클레인", "SAA", "동반병리", "CSF 바이오마커"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "research_broad",
+      "title": "치매 전분야 연구",
+      "items": [
+        {
+          "title": "[CTAD 2026] 레켐비 Clarity AD 뇌척수액 하위연구 — 아밀로이드 양성자 20.4%가 α-시누클레인 동반병리, 이 군에서도 18개월 CDR-SB 악화 41% 감소 (에자이 보도자료)",
+          "summary": "Clarity AD 뇌척수액 623건을 분석한 결과 α-시누클레인 양성률은 아밀로이드 양성군 20.4%로 음성군 10.0%보다 높았고, 양성군은 기저 아밀로이드가 86 CL로 음성군(67 CL)보다 많고 진행도 빨랐다. 위약 대비 CDR-SB 악화 감소는 전체 27%, 검사군 26%, α-시누클레인 양성군 41%였다(탐색적 분석). 동반병리가 있어도 치료 이득이 유지된다는 근거다.",
+          "source": "PR Newswire (Eisai·Biogen)",
+          "url": "https://www.prnewswire.com/news-releases/clarity-ad-csf-substudy-findings-on-lecanemab-treatment-and--synuclein-co-pathology-presented-at-ctad-2026-302945650.html",
+          "tags": ["레켐비", "α-시누클레인", "CTAD 2026", "동반병리"],
+          "importance": "medium"
+        },
+        {
+          "title": "중국 실사용 레카네맙 13개월 다기관 전향 코호트 122명 — 84%가 CDR 단계 유지·개선, 66.67% 아밀로이드 음전(<12 CL), ARIA 10.66% (Journal of Neurology)",
+          "summary": "쓰촨대 화서병원 등 다기관 코호트에서 레카네맙 투여 122명을 13개월 추적했다. ARIA는 10.66%, 주입 관련 반응은 5.74%였고 중단 사유는 안전성보다 반복 주입의 불편이 많았다. 아밀로이드 감소 폭과 인지 개선의 연관은 뚜렷하지 않았고 기저 임상변수로 치료 반응을 예측하지 못했다.",
+          "source": "Journal of Neurology",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43049898/",
+          "tags": ["레켐비", "실사용 데이터", "ARIA", "센틸로이드"],
+          "importance": "medium"
+        },
+        {
+          "title": "고긴장 직업은 교육 수준과 무관하게 남녀 모두 치매 위험 높여 — 미국 HRS 패널 10,347명, 일한 적 없는 여성·수동적 직무 남성도 위험 상승 (Alzheimer's & Dementia)",
+          "summary": "미국 건강·은퇴 연구(HRS) 10,347명에서 직무 요구·통제 수준으로 분류한 직업 긴장도와 치매 발생을 분석했다. 교육을 보정해도 고긴장 직업은 저긴장 직업보다 치매 위험이 높았다. 직업 유형 효과가 성별에 따라 다르게 나타나 생애주기 위험인자 연구에 시사점을 준다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43053515/",
+          "tags": ["역학", "직업", "위험인자"]
+        },
+        {
+          "title": "혈관주위세포 PDGFR-β 결핍이 AQP-4 위치와 글림프 순환을 교란해 Aβ 병리 악화 — AQP-4 촉진제 TGN-073로 일부 회복, 마우스 연구 (Alzheimer's & Dementia)",
+          "summary": "Pdgfr-β 이형접합 마우스에서 혈관 주위 AQP-4 감소와 기저막 손상이 나타났고, APP/PS1과 교배하자 AD 유사 병리가 악화됐다. AQP-4 촉진제 TGN-073 투여로 일부가 회복돼, 혈관주위세포-글림프 축이 아밀로이드 청소의 표적이 될 수 있음을 시사한다.",
+          "source": "Alzheimer's & Dementia",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43046622/",
+          "tags": ["글림프 시스템", "혈관주위세포", "기전"]
+        }
+      ]
+    },
+    {
+      "id": "regulatory",
+      "title": "규제·인허가·정책",
+      "items": [
+        {
+          "title": "美 CMS '임상 초지능 로드맵' — 의료AI는 이용량이 아닌 건강 성과로 보상, 만성질환 성과보상 모델 ACCESS를 일차의료로 확대하고 FDA는 일부 AI 기기에 '의사 자격심사식' 역량 기반 평가 검토 (데일리메디)",
+          "summary": "CMS가 11/13 공개한 로드맵은 방문·청구 건수를 늘리는 AI가 아니라 결과를 개선하고 비용을 낮추는 AI에 보상한다는 원칙을 내걸고, AI 주도 일차의료 서비스를 혁신센터 시범사업에 참여시키는 방안을 담았다. FDA·CMS는 디지털 의료기기 시범사업 TEMPO와 ACCESS를 연계해 시판 후 감시도 강화한다. 영상 AI를 직접 다루진 않지만, 11/18 복지부의 '병원별 성과평가 후 보상' 구상과 같은 방향이라 국내외 모두 단품 수가보다 성과 근거 설계가 중요해지고 있다.",
+          "source": "데일리메디",
+          "url": "https://www.dailymedi.com/news/news_view.php?wr_id=942802",
+          "tags": ["CMS", "의료AI 수가", "성과기반 보상", "미국"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "market",
+      "title": "시장·투자",
+      "items": [
+        {
+          "title": "PillPack 창업팀의 원격 1차진료 General Medicine, 美 '메모리 케어 패스웨이' 출시 — FDA 허가 p-tau217 혈액검사 처방, 일부는 확진 PET 없이 결론·MRI는 필요 시 예약, 릴리 웹사이트에 진료 옵션으로 연결 (PR Newswire)",
+          "summary": "대부분 당일 온라인 첫 진료가 가능하고 보험 적용 시 통상 본인부담 25달러이며, 메디케어를 전국에서 받는다. 임상의가 필요한 검사를 고르고 증상이 있는 성인에게 FDA 허가 p-tau217 혈액검사를 처방하며, 신경과 전문의 e-컨설트와 필요 시 대면 뇌 MRI 예약까지 연결한다. 회사는 인지평가와 혈액검사만으로 확진 PET 없이 결론을 내는 경우가 있다고 밝혀, 키썬라 처방 전 진단 경로에서 영상의 위치가 '필요 시'로 재편되는 사례다.",
+          "source": "PR Newswire (General Medicine)",
+          "url": "https://www.prnewswire.com/news-releases/general-medicine-launches-memory-care-pathway-to-speed-early-alzheimers-disease-evaluation-302945810.html",
+          "tags": ["진단 경로", "p-tau217", "원격진료", "릴리"],
+          "importance": "medium"
+        },
+        {
+          "title": "삼성제약, GV1001 알츠하이머 3상 '개발 잠정 보류'·췌장암 '잠정 중단' — 3분기보고서서 진행성핵상마비(PSP)에 집중, 재개 계획 '미정' (메디칼타임즈)",
+          "summary": "11/18 제출된 3분기보고서 연구개발 총괄표에서 알츠하이머 적응증이 8월 반기보고서의 '임상 3상 준비 중'에서 '개발 잠정 보류'로 바뀌었다. 삼성제약은 2023년 5월 젬백스앤카엘과 총 1,200억원 규모 국내 독점 라이선스를 맺고 계약금 120억원을 지급했으며, 지난해 12월 체결한 4개국 2,200억원 규모 PSP 계약에 역량을 모은다. 국내 AD 치료제 파이프라인 하나가 사실상 멈춘 셈이다.",
+          "source": "메디칼타임즈",
+          "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171961",
+          "tags": ["GV1001", "삼성제약", "국내 파이프라인"],
+          "importance": "medium"
+        },
+        {
+          "title": "스위스 뉴로테크 Indivi, 임페리얼 칼리지 스핀아웃 Cogitat 인수 — EEG 파운데이션 모델로 알츠하이머 신약 임상의 치료 반응 조기 탐지 (tech.eu)",
+          "summary": "인수 조건은 공개되지 않았다. Indivi는 Cogitat의 뇌파 해독 AI를 활용해 알츠하이머 등 신경질환 임상시험에서 시험 약물의 효과를 조기에 탐지하는 제약사 대상 서비스를 확장할 계획이다.",
+          "source": "tech.eu",
+          "url": "https://tech.eu/2026/11/17/swiss-neurotech-company-indivi-acquires-imperial-college-spin-out-cogitat-to-advance-ai-powered-brain-monitoring/",
+          "tags": ["M&A", "EEG", "임상시험 바이오마커"]
+        }
+      ]
+    },
+    {
+      "id": "competitors",
+      "title": "경쟁사 동향",
+      "items": [
+        {
+          "title": "[CTAD 2026] 로슈 혈장 pTau217·pTau181, 한국 K-ROAD 1,895명·중국 508명에서 글로벌 기준값 그대로 통용 — 중국 영상 일치율 92~96%, 한국은 두 검사 모두 CEOi 성능 기준(90%) 상회 (Roche)",
+          "summary": "로슈가 CTAD에서 발표한 아시아 코호트 검증 결과로, 중국 다기관 508명에서 pTau217 글로벌 기준값은 아밀로이드 영상과 진단·배제 모두 92~96% 일치했다. 한국 K-ROAD 1,895명에서는 pTau217·pTau181 모두 각 용도별로 Global CEO Initiative의 90% 성능 기준을 넘어 현지 컷오프 조정 없이 쓸 수 있다고 밝혔다(논문 준비 중). 국내 환자에서 혈액검사가 아밀로이드 PET 앞단 선별로 자리 잡을 근거가 쌓이는 셈이라, MRI 기반 진단 SW는 혈액검사와의 결합 경로를 염두에 둘 필요가 있다.",
+          "source": "Roche",
+          "url": "https://www.roche.com/stories/inclusive-science-in-alzheimers",
+          "tags": ["로슈", "p-tau217", "K-ROAD", "혈액 바이오마커"],
+          "importance": "medium"
+        },
+        {
+          "title": "영국 뇌영상 CRO IXICO, IXI 플랫폼 새 버전 출시와 함께 Neuropacs(FDA De Novo 파킨슨 MRI 알고리즘)·ZRO Imaging(PET 정량) 기술 제휴 — 30여 개 분석 알고리즘의 외부 라이선스 시장 겨냥 (Proactive)",
+          "summary": "IXICO는 FDA De Novo를 받은 Neuropacs의 파킨슨병 알고리즘 AIDP와 ZRO Imaging의 고급 PET 분석을 IXI 플랫폼에 추가한다. 새 버전은 임상시험 영상 품질관리·운영 효율을 높이고 외부 상업 사용을 위해 확장성을 키워 기술 라이선스·통합·파트너십을 열겠다고 밝혔다. 계약 금액은 공개하지 않았고, 11/18 공개한 미세출혈 탐지 AI와는 별개 발표다.",
+          "source": "Proactive Investors",
+          "url": "https://www.proactiveinvestors.com/companies/news/1102082/ixico-adds-parkinson-s-and-pet-tools-to-brain-imaging-platform-1102082.html",
+          "tags": ["IXICO", "뇌영상 플랫폼", "PET 정량", "제휴"],
+          "importance": "medium"
+        },
+        {
+          "title": "타임X AI(구 피플바이오), 43.85억원 채무상계 제3자배정 유상증자 — 납입 후 최대주주 (유)휴먼데이타 외 1인(29.96%)으로 변경 예정 (DART)",
+          "summary": "보통주 376만4,000주를 주당 1,165원에 발행하며, 변제기가 도래한 금전채권을 출자하는 채무상계 방식이다. 납입일 11/27, 신주 상장 12/11 예정이며 1년간 보호예수된다. 국내 혈액 AD 검사 '알츠온' 보유사의 지배구조가 바뀌는 건이다.",
+          "source": "DART 주요사항보고서",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119000223",
+          "tags": ["타임X AI", "유상증자", "최대주주 변경", "혈액 AD 검사"],
+          "importance": "medium"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "주요 언론",
+      "items": [
+        {
+          "title": "[CTAD 2026] 뉴암스테르담, CETP 억제제 오비세트라핍 전임상 AD 2b상 'SPINOZA' 설계 공개 — 약 400명, 1차 평가변수는 52주 혈장 p-tau217 변화 (NeurologyLive)",
+          "summary": "55~85세 인지정상인을 APOE로 층화해 등록하고 APOE4 동형접합자를 최소 100명 포함한다. 혈장 p-tau217로 대상자를 선별하고 APOE3/E3·E3/E4 보유자는 GFAP 기준도 함께 적용한다. 혈액 바이오마커를 선별과 1차 평가변수에 모두 쓰는 예방 임상 설계 사례다.",
+          "source": "NeurologyLive",
+          "url": "https://www.neurologylive.com/view/phase-2-spinoza-trial-test-cetp-inhibitor-obicetrapib-apoe-stratified-preclinical-alzheimers",
+          "tags": ["CTAD 2026", "오비세트라핍", "p-tau217", "예방 임상"]
+        }
+      ]
+    }
+  ]
+}
