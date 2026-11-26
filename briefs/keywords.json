@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T08:09:27+09:00",
+ "generated_at": "2026-11-26T14:10:35+09:00",
  "date": "2026-11-26",
  "prev_date": "2026-11-25",
  "window_days": 30,
@@ -7,7 +7,7 @@
   {
    "rank": 1,
    "keyword": "뇌 MRI",
-   "count": 116,
+   "count": 118,
    "prev_rank": 1,
    "delta": 0,
    "state": "same",
@@ -35,6 +35,13 @@
     },
     {
      "date": "2026-11-26",
+     "title": "딥러닝 MRI 뇌나이 격차(BAG)는 나이 들수록 AD 판별력이 약해진다 — AD에서 55~65세 +8.16년 → 75~80세 +2.07년, 설명가능 AI로 해마·뇌실 패턴 규명 (Human Brain Mapping)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43080091/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-11-26",
      "title": "\"약값만 연 3,000만원\" 국회 국민동의청원에 '레켐비 2027년 상반기 건보 적용' 요구 — 투약 전 아밀로이드 PET·경과 관찰 검사비 부담 완화와 급여 심사·약가 협상 진행상황 공개도 요청 (뉴스더보이스헬스케어)",
      "url": "https://www.newsthevoice.com/news/articleView.html?idxno=48206",
      "section": "규제·인허가·정책",
@@ -44,6 +51,13 @@
      "date": "2026-11-26",
      "title": "NECA, 2026년 제4차 '신의료기술평가 길라잡이' 모집(11/25~12/4) — 1차 선정 15개 기술 중 AI·디지털치료제가 66.7%, 지원 후 평가유예 신의료기술 선정 사례도 (한국보건의료연구원)",
      "url": "https://www.neca.re.kr/lay1/bbs/S1T12C38/F/38/view.do?article_seq=17587",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "[후속] 복지부, 「보건의료데이터 활용 가이드라인」 전부개정 확정 — 가명처리 위험도별 DRB 심의 차등화(저위험은 담당자 심의), 정형데이터 안전기준 충족 시 심의 면제, 의료기관 가명처리 외부 위탁 허용, 서류 23종→10종, LLM은 국내 서버·학습 금지 원칙 (보건복지부)",
+     "url": "https://www.mohw.go.kr/board.es?mid=a10503000000&bid=0027&act=view&list_no=1492668",
      "section": "규제·인허가·정책",
      "importance": "medium"
     },
@@ -172,30 +186,201 @@
      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=942714",
      "section": "규제·인허가·정책",
      "importance": "medium"
-    },
-    {
-     "date": "2026-11-19",
-     "title": "에이블인사이트 뇌 MRI 3D 분석 AI 'MedNeuro3D', CES 2027 혁신상 — 질환 점수·감별진단 후보 제시, 인허가 경로는 미정·알츠하이머 등 신경퇴행 질환으로 확장 예정 (전자신문)",
-     "url": "https://www.etnews.com/20261119000110",
-     "section": "경쟁사 동향",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-18",
-     "title": "식약처 '2027 디지털의료제품 정책방향' 간담회 — 업계 'AI만 추가해도 하드웨어 라벨 교체·저위험 AI 보조기능에 주 기기 등급 DGMP·사이버보안 증빙 중복' 문제 제기, 식약처는 침해사고 신고 완화를 내년 업무계획에 포함 (메디게이트뉴스)",
-     "url": "https://www.medigatenews.com/news/2132672376",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 2,
+   "keyword": "아밀로이드",
+   "count": 111,
+   "prev_rank": 4,
+   "delta": 2,
+   "state": "up",
+   "items": [
+    {
+     "date": "2026-11-26",
+     "title": "타우 PET(flortaucipir)·시냅스 밀도 PET(SynVesT-1) 동시 촬영 — 비정형·조발성 AD 31명에서 아형별 시냅스 소실 패턴이 타우 증가 부위와 겹쳐 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43079857/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "구조 MRI 신경망 뇌나이 격차(BAG)가 아밀로이드·APOE 보정 후에도 5년 인지저하와 연관 — 인지정상 1,071명 CHARIOT-PRO (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43079928/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "MCI 혈액 단백체 18종 패널 — MCI 판별 AUC 0.88~0.92, AD 0.95~0.97, 뇌 아밀로이드 양성 0.86~0.88, 중국·유럽 4개 코호트 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43080064/",
+     "section": "진단·영상 연구",
+     "importance": "high"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "루이소체 치매 뇌척수액 NULISA 다중 단백체 분석 — 852개 검체로 진단·인지 진행·병리(시누클레인/아밀로이드) 아형별 단백 지문 제시, ADNI 917명에서 재현 (Science Translational Medicine)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43084645/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "부탄테탑 초기 파킨슨병 3상 523명, 1차 평가변수(MDS-UPDRS Part II) 실패 — 사후분석에서 아밀로이드 양성 PD-MCI·경도 치매군 인지 개선 신호 (npj Dementia)",
+     "url": "https://doi.org/10.1038/s44400-026-00148-x",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "BuLiPro, 리튬을 부티르산·프롤린과 결합한 배위화합물 — 쥐 뇌 리튬 축적이 탄산리튬보다 61.6% 많고 신독성은 줄어, 암컷 AD 생쥐 타우·Aβ 병리와 인지 개선 (Nature Communications)",
+     "url": "https://doi.org/10.1038/s41467-026-79416-6",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-26",
+     "title": "가족성 AD 변이 뇌 오가노이드를 국제우주정거장에서 40일 배양 — 우주비행이 Aβ 처리·타우 인산화와 시냅스·GABA/글루탐산 신호 프로그램을 바꿔 (Science Advances)",
+     "url": "https://doi.org/10.1126/sciadv.aei3430",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-26",
+     "title": "니아신 수용체 HCAR2, 아밀로이드 병리 초기·말기 모두에서 보호 효과 — 5xFAD 생쥐에서 결손 시 병리 악화, 진행기에 니아신 투여해도 병리 감소 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43079858/",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-26",
+     "title": "[후속] 뉴로핏, 일본 도쿄 법인 설립 공식 발표 — 호쿠야쿠 다케야마 외 규슈 '아스템'·간사이 '산쇼도'와 2차 지역 대리점 계약, AQUA·SCALE PET·AQUA AD Plus 공급 (히트뉴스)",
+     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=81111",
+     "section": "경쟁사 동향",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "항아밀로이드 치료 중 ARIA-E와 함께 생긴 미세출혈(ARIA-H) 214개 중 71개가 MRI에서 사라져 — DIAN-TU 간테네루맙 19명 증례 시리즈 (JAMA Neurology)",
+     "url": "https://doi.org/10.1001/jamaneurol.2026.4470",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "레카네맙 대 도나네맙 실사용 직접 비교 — 6개월 지속률 92.4% vs 78.1%, ARIA는 11.2% vs 3.8%, 일본 가나자와대 219명 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43075952/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "AD 위험유전자 CD33이 또 다른 위험유전자 CD45(PTPRC)와 결합해 기능 억제 — 위험 변이 보유자·AD 환자 단핵구에서 결합 증가 (Nature Communications)",
+     "url": "https://doi.org/10.1038/s41467-026-79540-3",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "부검 뇌에서 정의한 AD 전사 프로그램이 혈액에서도 검출, MCI 단계에서 가장 뚜렷 — 혈액 코호트 5개 1,975명, 독립 검증 분류 AUC 0.822 (Journal of Alzheimer's Disease)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43055363/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "장내 미생물 대사물질 352종을 환자 iPSC 뉴런에서 스크리닝해 아그마틴 발굴 — 타우 과인산화 감소, 5xFAD 생쥐 인지·아밀로이드 개선 (Cell Reports)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43071539/",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-24",
+     "title": "장내세균 아밀로이드 '컬리'가 혈장 세포외소포를 타고 뇌로 이동해 Aβ 진행·인지저하 유발 — AD로 진행한 MCI 환자에서 혈장 소포 내 컬리 상승 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43073050/",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-24",
+     "title": "레켐비 국내 매출 올해 상반기 250억원 — 3분기 누적 글로벌 5억5,400만 달러, 프로스트앤드설리번 '항AD 치료제 시장 2030년 95억~149억 달러, 2033년 190억 달러' (뉴스토마토)",
+     "url": "https://www.newstomato.com/ReadNews.aspx?no=1321207",
+     "section": "시장·투자",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-23",
+     "title": "예테보리 임상검사실, 뇌척수액 뉴로그라닌 ELISA 임상용 검증 — 측정범위 38~1,200 ng/L, 아밀로이드 음성 기준 상한 390 ng/L (Clinical Chemistry and Laboratory Medicine)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43059210/",
+     "section": "진단·영상 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-22",
+     "title": "장(腸) 조직의 α-시누클레인·AD형 타우(tau-dGAE) 시드 응집이 뇌 병리를 정량적으로 반영 — 루이소체병·비루이소체 부검례 비교 (medRxiv 프리프린트)",
+     "url": "https://doi.org/10.64898/2026.11.19.26367659",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-21",
+     "title": "MRI 이완 첨도 영상(RKI)으로 AD 백질 손상을 축삭형·탈수초형 두 표현형으로 구분 — 305명, CDR 장애 분류 AUC 0.933 (medRxiv 프리프린트)",
+     "url": "https://doi.org/10.64898/2026.11.17.26368344",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "SEMA3G, 뇌아밀로이드혈관병증(CAA) 체액 바이오마커로는 지지 안 돼 — GNPC 혈장 6,917명·CSF 1,982명, 3T MRI 161명서 미세출혈 개수와 무관 (medRxiv 프리프린트)",
+     "url": "https://doi.org/10.64898/2026.11.18.26368450",
+     "section": "진단·영상 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-21",
+     "title": "[후속] 후지레비오, 혈장 β-아밀로이드1-42 시약 일본 제조판매 승인(11/17) — 11/11 승인 pTau217과 묶어 혈장 pTau217/Aβ42 비율검사 가능해져 (약사일보)",
+     "url": "https://www.yakuji.co.jp/entry141937.html",
+     "section": "규제·인허가·정책",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-21",
+     "title": "[CTAD 2026 결산] Being Patient 창업자 \"곧 시장에 나올 신약은 없다\" — 커밍스 2026 파이프라인 약물 158개·임상 192건, 아밀로이드 표적 비중 3분의 1→5분의 1 (Being Patient)",
+     "url": "https://beingpatient.com/alzheimers-drug-pipeline-what-i-learned-at-this-years-ctad-conference/",
+     "section": "주요 언론",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-20",
+     "title": "타우 PET '중심고랑 주변/전체' 섭취 비율로 뇌아밀로이드혈관병증(CAA)과 AD 감별 — 유도 코호트 AUC 0.836, flortaucipir 외부검증 AUC 0.844 (Neurology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43056657/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-20",
+     "title": "[CTAD 2026] 레켐비 Clarity AD 뇌척수액 하위연구 — 아밀로이드 양성자 20.4%가 α-시누클레인 동반병리, 이 군에서도 18개월 CDR-SB 악화 41% 감소 (에자이 보도자료)",
+     "url": "https://www.prnewswire.com/news-releases/clarity-ad-csf-substudy-findings-on-lecanemab-treatment-and--synuclein-co-pathology-presented-at-ctad-2026-302945650.html",
+     "section": "치매 전분야 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-20",
+     "title": "혈관주위세포 PDGFR-β 결핍이 AQP-4 위치와 글림프 순환을 교란해 Aβ 병리 악화 — AQP-4 촉진제 TGN-073로 일부 회복, 마우스 연구 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43046622/",
+     "section": "치매 전분야 연구",
+     "importance": null
+    }
+   ]
+  },
+  {
+   "rank": 3,
    "keyword": "혈액 바이오마커",
-   "count": 109,
+   "count": 110,
    "prev_rank": 2,
-   "delta": 0,
-   "state": "same",
+   "delta": 1,
+   "state": "down",
    "items": [
     {
      "date": "2026-11-26",
@@ -208,6 +393,13 @@
      "date": "2026-11-26",
      "title": "Braak 단계별 MRI 위축과 연관된 혈장 단백체 지문 — 초기는 염증 단백(SIGLEC7 등), 후기는 시냅스 단백 감소, 게이오대 161명 Olink HT (Brain Communications)",
      "url": "https://pubmed.ncbi.nlm.nih.gov/43081202/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "렘수면행동장애 환자 혈장 NT-proBNP가 높을수록 PD·DLB 관련 FDG PET 대사 패턴이 강하고 표현형 전환이 빨라 — 서울대 보라매병원 116명 전향 코호트 (Annals of Neurology)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43079749/",
      "section": "진단·영상 연구",
      "importance": "medium"
     },
@@ -364,209 +556,24 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/43049195/",
      "section": "진단·영상 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-11-19",
-     "title": "규제 승인 Lumipulse 혈장 p-tau217·p-tau217/Aβ42, 승인 CSF 검사와 정확도 대등 — 기억클리닉·1차의료·연구 3개 코호트 514명서 아밀로이드 PET 판별 AUC 0.90~0.96, 정확도 83~92% vs CSF 88~90% (Nature Aging)",
-     "url": "https://doi.org/10.1038/s43587-026-01259-z",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    }
-   ]
-  },
-  {
-   "rank": 3,
-   "keyword": "아밀로이드",
-   "count": 109,
-   "prev_rank": 4,
-   "delta": 1,
-   "state": "up",
-   "items": [
-    {
-     "date": "2026-11-26",
-     "title": "타우 PET(flortaucipir)·시냅스 밀도 PET(SynVesT-1) 동시 촬영 — 비정형·조발성 AD 31명에서 아형별 시냅스 소실 패턴이 타우 증가 부위와 겹쳐 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43079857/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-11-26",
-     "title": "구조 MRI 신경망 뇌나이 격차(BAG)가 아밀로이드·APOE 보정 후에도 5년 인지저하와 연관 — 인지정상 1,071명 CHARIOT-PRO (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43079928/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-11-26",
-     "title": "MCI 혈액 단백체 18종 패널 — MCI 판별 AUC 0.88~0.92, AD 0.95~0.97, 뇌 아밀로이드 양성 0.86~0.88, 중국·유럽 4개 코호트 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43080064/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-11-26",
-     "title": "부탄테탑 초기 파킨슨병 3상 523명, 1차 평가변수(MDS-UPDRS Part II) 실패 — 사후분석에서 아밀로이드 양성 PD-MCI·경도 치매군 인지 개선 신호 (npj Dementia)",
-     "url": "https://doi.org/10.1038/s44400-026-00148-x",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-26",
-     "title": "BuLiPro, 리튬을 부티르산·프롤린과 결합한 배위화합물 — 쥐 뇌 리튬 축적이 탄산리튬보다 61.6% 많고 신독성은 줄어, 암컷 AD 생쥐 타우·Aβ 병리와 인지 개선 (Nature Communications)",
-     "url": "https://doi.org/10.1038/s41467-026-79416-6",
-     "section": "치매 전분야 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-11-26",
-     "title": "가족성 AD 변이 뇌 오가노이드를 국제우주정거장에서 40일 배양 — 우주비행이 Aβ 처리·타우 인산화와 시냅스·GABA/글루탐산 신호 프로그램을 바꿔 (Science Advances)",
-     "url": "https://doi.org/10.1126/sciadv.aei3430",
-     "section": "치매 전분야 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-11-26",
-     "title": "니아신 수용체 HCAR2, 아밀로이드 병리 초기·말기 모두에서 보호 효과 — 5xFAD 생쥐에서 결손 시 병리 악화, 진행기에 니아신 투여해도 병리 감소 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43079858/",
-     "section": "치매 전분야 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-11-25",
-     "title": "항아밀로이드 치료 중 ARIA-E와 함께 생긴 미세출혈(ARIA-H) 214개 중 71개가 MRI에서 사라져 — DIAN-TU 간테네루맙 19명 증례 시리즈 (JAMA Neurology)",
-     "url": "https://doi.org/10.1001/jamaneurol.2026.4470",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-25",
-     "title": "레카네맙 대 도나네맙 실사용 직접 비교 — 6개월 지속률 92.4% vs 78.1%, ARIA는 11.2% vs 3.8%, 일본 가나자와대 219명 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43075952/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-25",
-     "title": "AD 위험유전자 CD33이 또 다른 위험유전자 CD45(PTPRC)와 결합해 기능 억제 — 위험 변이 보유자·AD 환자 단핵구에서 결합 증가 (Nature Communications)",
-     "url": "https://doi.org/10.1038/s41467-026-79540-3",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-24",
-     "title": "부검 뇌에서 정의한 AD 전사 프로그램이 혈액에서도 검출, MCI 단계에서 가장 뚜렷 — 혈액 코호트 5개 1,975명, 독립 검증 분류 AUC 0.822 (Journal of Alzheimer's Disease)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43055363/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-24",
-     "title": "장내 미생물 대사물질 352종을 환자 iPSC 뉴런에서 스크리닝해 아그마틴 발굴 — 타우 과인산화 감소, 5xFAD 생쥐 인지·아밀로이드 개선 (Cell Reports)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43071539/",
-     "section": "치매 전분야 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-11-24",
-     "title": "장내세균 아밀로이드 '컬리'가 혈장 세포외소포를 타고 뇌로 이동해 Aβ 진행·인지저하 유발 — AD로 진행한 MCI 환자에서 혈장 소포 내 컬리 상승 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43073050/",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-24",
-     "title": "레켐비 국내 매출 올해 상반기 250억원 — 3분기 누적 글로벌 5억5,400만 달러, 프로스트앤드설리번 '항AD 치료제 시장 2030년 95억~149억 달러, 2033년 190억 달러' (뉴스토마토)",
-     "url": "https://www.newstomato.com/ReadNews.aspx?no=1321207",
-     "section": "시장·투자",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-23",
-     "title": "예테보리 임상검사실, 뇌척수액 뉴로그라닌 ELISA 임상용 검증 — 측정범위 38~1,200 ng/L, 아밀로이드 음성 기준 상한 390 ng/L (Clinical Chemistry and Laboratory Medicine)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43059210/",
-     "section": "진단·영상 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-11-22",
-     "title": "장(腸) 조직의 α-시누클레인·AD형 타우(tau-dGAE) 시드 응집이 뇌 병리를 정량적으로 반영 — 루이소체병·비루이소체 부검례 비교 (medRxiv 프리프린트)",
-     "url": "https://doi.org/10.64898/2026.11.19.26367659",
-     "section": "치매 전분야 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-11-21",
-     "title": "MRI 이완 첨도 영상(RKI)으로 AD 백질 손상을 축삭형·탈수초형 두 표현형으로 구분 — 305명, CDR 장애 분류 AUC 0.933 (medRxiv 프리프린트)",
-     "url": "https://doi.org/10.64898/2026.11.17.26368344",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-21",
-     "title": "SEMA3G, 뇌아밀로이드혈관병증(CAA) 체액 바이오마커로는 지지 안 돼 — GNPC 혈장 6,917명·CSF 1,982명, 3T MRI 161명서 미세출혈 개수와 무관 (medRxiv 프리프린트)",
-     "url": "https://doi.org/10.64898/2026.11.18.26368450",
-     "section": "진단·영상 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-11-21",
-     "title": "[후속] 후지레비오, 혈장 β-아밀로이드1-42 시약 일본 제조판매 승인(11/17) — 11/11 승인 pTau217과 묶어 혈장 pTau217/Aβ42 비율검사 가능해져 (약사일보)",
-     "url": "https://www.yakuji.co.jp/entry141937.html",
-     "section": "규제·인허가·정책",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-21",
-     "title": "[CTAD 2026 결산] Being Patient 창업자 \"곧 시장에 나올 신약은 없다\" — 커밍스 2026 파이프라인 약물 158개·임상 192건, 아밀로이드 표적 비중 3분의 1→5분의 1 (Being Patient)",
-     "url": "https://beingpatient.com/alzheimers-drug-pipeline-what-i-learned-at-this-years-ctad-conference/",
-     "section": "주요 언론",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-20",
-     "title": "타우 PET '중심고랑 주변/전체' 섭취 비율로 뇌아밀로이드혈관병증(CAA)과 AD 감별 — 유도 코호트 AUC 0.836, flortaucipir 외부검증 AUC 0.844 (Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43056657/",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-20",
-     "title": "[CTAD 2026] 레켐비 Clarity AD 뇌척수액 하위연구 — 아밀로이드 양성자 20.4%가 α-시누클레인 동반병리, 이 군에서도 18개월 CDR-SB 악화 41% 감소 (에자이 보도자료)",
-     "url": "https://www.prnewswire.com/news-releases/clarity-ad-csf-substudy-findings-on-lecanemab-treatment-and--synuclein-co-pathology-presented-at-ctad-2026-302945650.html",
-     "section": "치매 전분야 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-20",
-     "title": "혈관주위세포 PDGFR-β 결핍이 AQP-4 위치와 글림프 순환을 교란해 Aβ 병리 악화 — AQP-4 촉진제 TGN-073로 일부 회복, 마우스 연구 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43046622/",
-     "section": "치매 전분야 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-11-20",
-     "title": "[CTAD 2026] 환자 본인 지방 유래 줄기세포를 뇌실에 직접 주입한 1상 — 12주 ADAS 개선·아밀로이드 23.6% 감소 보고, 인지 개선은 1년 유지 안 돼·위약군 없음 (The Telegraph)",
-     "url": "https://www.yahoo.com/news/science/articles/stem-cells-injected-brain-alzheimer-162318421.html",
-     "section": "주요 언론",
-     "importance": null
-    },
-    {
-     "date": "2026-11-19",
-     "title": "치매 없는 본태성 떨림 환자 57명 부검 — 아밀로이드·타우 병리는 주의력·실행기능 저하와, 해마 위축은 기억력 저하와 연관 (Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43050637/",
-     "section": "치매 전분야 연구",
-     "importance": null
     }
    ]
   },
   {
    "rank": 4,
    "keyword": "MRI",
-   "count": 103,
+   "count": 104,
    "prev_rank": 3,
    "delta": 1,
    "state": "down",
    "items": [
+    {
+     "date": "2026-11-26",
+     "title": "[후속] Cortechs.ai, 단일 로그인 클라우드 작업공간 'Cortechs Connect' 공개하고 RSNA 2026서 첫선 — 회사 RSNA 안내상 같은 부스(5107)에서 8월 FDA 510(k) 받은 아밀로이드 PET 정량 'NeuroQuant PET'도 시연 (Cortechs.ai)",
+     "url": "https://www.cortechs.ai/introducing-cortechs-connect/",
+     "section": "경쟁사 동향",
+     "importance": "high"
+    },
     {
      "date": "2026-11-25",
      "title": "T1 MRI 딥러닝으로 뇌를 9개 영역으로 나눠 '영역별 뇌나이 격차' 산출 — 측두엽 격차가 전뇌 격차보다 CSF Aβ42·인지와 더 강하게 연관, MCI→AD 전환 판별도 소폭 개선 (medRxiv 프리프린트)",
@@ -734,20 +741,13 @@
      "url": "https://doi.org/10.1038/s41586-026-11305-w",
      "section": "치매 전분야 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-11-19",
-     "title": "Subtle Medical, MRI 가속·화질개선 AI 'SubtleHD(MR)' 일본 제3자 인증 획득 — 벤더 중립형, 촬영시간 최대 80% 단축 주장 (PR Newswire)",
-     "url": "https://www.prnewswire.com/news-releases/subtle-medical-receives-regulatory-clearance-in-japan-for-subtlehdmr-expanding-global-access-to-faster-higher-quality-mri-302943262.html",
-     "section": "규제·인허가·정책",
-     "importance": null
     }
    ]
   },
   {
    "rank": 5,
    "keyword": "급여·수가",
-   "count": 90,
+   "count": 91,
    "prev_rank": 5,
    "delta": 0,
    "state": "same",
@@ -758,6 +758,13 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/43079739/",
      "section": "진단·영상 연구",
      "importance": "medium"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "혈중 TIMP2가 높을수록 인지 기능 좋고 뇌 용적 커 — 사람 3개 코호트(UCSF 83·스탠퍼드 31·ROSMAP 213명)와 생쥐 실험에서 신체활동·풍부한 환경이 TIMP2 올려 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43079735/",
+     "section": "치매 전분야 연구",
+     "importance": null
     },
     {
      "date": "2026-11-26",
@@ -919,20 +926,13 @@
      "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044685",
      "section": "시장·투자",
      "importance": null
-    },
-    {
-     "date": "2026-11-19",
-     "title": "중국 초기 증상성 AD 잠재 대상 1,417만 명인데 현 진료·진단·바이오마커 검사 여건에선 항아밀로이드 치료 적격 3만9,825명 — 27개 연구 31만 명 메타분석·퍼널 모형 (Advances in Therapy)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43050111/",
-     "section": "시장·투자",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 6,
    "keyword": "아밀로이드 PET",
-   "count": 80,
+   "count": 82,
    "prev_rank": 7,
    "delta": 1,
    "state": "up",
@@ -953,6 +953,13 @@
     },
     {
      "date": "2026-11-26",
+     "title": "혈중 미량 리튬과 MCI 인지 기능의 연관은 APOE ε4 보유 여부에 따라 달라 — 일본 MCI 110명, FDG PET 대사·염증 사이토카인과 상호작용, 아밀로이드 PET과는 무관 (Alzheimer's & Dementia: TRCI)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43080299/",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-26",
      "title": "\"약값만 연 3,000만원\" 국회 국민동의청원에 '레켐비 2027년 상반기 건보 적용' 요구 — 투약 전 아밀로이드 PET·경과 관찰 검사비 부담 완화와 급여 심사·약가 협상 진행상황 공개도 요청 (뉴스더보이스헬스케어)",
      "url": "https://www.newsthevoice.com/news/articleView.html?idxno=48206",
      "section": "규제·인허가·정책",
@@ -962,6 +969,13 @@
      "date": "2026-11-26",
      "title": "SyntheticMR(Combinostics 모회사) 3분기 매출 10.9백만 크로나로 12% 감소, 치매 MRI 분석 'cNeuro' 매출은 23% 증가 — ARIA 검출 'cMRI ARIA'는 FDA 심사 중으로 2027년 1분기 허가 기대 (Cision/SyntheticMR 분기보고서)",
      "url": "https://news.cision.com/syntheticmr-ab/r/interim-report-july---september-2026,c4428777",
+     "section": "경쟁사 동향",
+     "importance": "high"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "[후속] Cortechs.ai, 단일 로그인 클라우드 작업공간 'Cortechs Connect' 공개하고 RSNA 2026서 첫선 — 회사 RSNA 안내상 같은 부스(5107)에서 8월 FDA 510(k) 받은 아밀로이드 PET 정량 'NeuroQuant PET'도 시연 (Cortechs.ai)",
+     "url": "https://www.cortechs.ai/introducing-cortechs-connect/",
      "section": "경쟁사 동향",
      "importance": "high"
     },
@@ -1097,31 +1111,24 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/43046619/",
      "section": "진단·영상 연구",
      "importance": null
-    },
-    {
-     "date": "2026-11-18",
-     "title": "휴지기 fMRI '네트워크 분리도'가 높으면 아밀로이드 부담이 커도 인지저하 완화 — ADNI 375명, 시간×Aβ×분리도 상호작용 B=0.184 (Alzheimer's Research & Therapy)",
-     "url": "https://doi.org/10.1186/s13195-026-02260-9",
-     "section": "진단·영상 연구",
-     "importance": "medium"
-    },
-    {
-     "date": "2026-11-18",
-     "title": "리튬 MCI 무작위시험(LATTICE) 80명 혈장 단백체 분석 — GDF15가 CDR-SB 궤적·치료반응 예측, p-tau217은 해마 부피 변화와 가장 일관된 연관 (medRxiv 프리프린트)",
-     "url": "https://doi.org/10.64898/2026.11.14.26368038",
-     "section": "진단·영상 연구",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 7,
    "keyword": "p-tau217",
-   "count": 75,
+   "count": 76,
    "prev_rank": 6,
    "delta": 1,
    "state": "down",
    "items": [
+    {
+     "date": "2026-11-26",
+     "title": "루이소체 치매 뇌척수액 NULISA 다중 단백체 분석 — 852개 검체로 진단·인지 진행·병리(시누클레인/아밀로이드) 아형별 단백 지문 제시, ADNI 917명에서 재현 (Science Translational Medicine)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43084645/",
+     "section": "진단·영상 연구",
+     "importance": "medium"
+    },
     {
      "date": "2026-11-25",
      "title": "아밀로이드와 백질 고신호(WMH)가 인지저하에 미치는 영향은 병기에 따라 달라 — 인지정상 단계에선 둘이 함께 있을 때 상승작용, 싱가포르·ADNI 1,693명 (Neurology)",
@@ -1287,13 +1294,6 @@
      "date": "2026-11-17",
      "title": "Lumipulse 혈장 p-tau217 단일 임계값 0.193 pg/mL, 센터·장비·시약 로트·임상집단이 달라도 그대로 통용 — 아밀로이드 판별 AUC 0.96, 회색지대는 CSF 2차검사로 86~89% 해소 (Neurology)",
      "url": "https://pubmed.ncbi.nlm.nih.gov/43038487/",
-     "section": "진단·영상 연구",
-     "importance": "high"
-    },
-    {
-     "date": "2026-11-17",
-     "title": "혈장 p-tau217+나이·성별·APOE4로 인지정상인의 5·10년 MCI 절대위험 산출 — 75세 기준 10년 위험 15%→35%, 85세 고농도군은 66% (JAMA Neurology)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/43037989/",
      "section": "진단·영상 연구",
      "importance": "high"
     }
@@ -1487,7 +1487,7 @@
   {
    "rank": 9,
    "keyword": "APOE",
-   "count": 54,
+   "count": 55,
    "prev_rank": 9,
    "delta": 0,
    "state": "same",
@@ -1503,6 +1503,13 @@
      "date": "2026-11-26",
      "title": "아프리카계 AD 뇌 단일세포 멀티오믹스 — APOE ε4 보유자는 특정 교세포에서 리보솜·번역 경로(L13a/GAIT) 손상, 뉴런 변화는 대부분 APOE와 무관 (Alzheimer's & Dementia)",
      "url": "https://pubmed.ncbi.nlm.nih.gov/43079938/",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
+    {
+     "date": "2026-11-26",
+     "title": "혈중 미량 리튬과 MCI 인지 기능의 연관은 APOE ε4 보유 여부에 따라 달라 — 일본 MCI 110명, FDG PET 대사·염증 사이토카인과 상호작용, 아밀로이드 PET과는 무관 (Alzheimer's & Dementia: TRCI)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43080299/",
      "section": "치매 전분야 연구",
      "importance": null
     },
@@ -1659,20 +1666,13 @@
      "url": "https://pubmed.ncbi.nlm.nih.gov/43008775/",
      "section": "치매 전분야 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-11-11",
-     "title": "알지온, 경구 발틸트라미프로세이트(ALZ-801) 두 번째 3상 'ORION-E4' 설계 공개 — APOE4/4 동형접합 MCI 약 550명·78주, 정기 MRI로 ARIA 모니터링 (Alzheon)",
-     "url": "https://alzheon.com/alzheon-highlights-orion-e4-phase-3-trial-launch-for-oral-valiltramiprosate-alz-801-and-expansion-of-its-oral-anti-amyloid-aggregation-inhibitor-portfolio-at-ctad-2026-conference-in-boston-november-1/",
-     "section": "시장·투자",
-     "importance": "medium"
     }
    ]
   },
   {
    "rank": 10,
    "keyword": "FDA",
-   "count": 51,
+   "count": 52,
    "prev_rank": 10,
    "delta": 0,
    "state": "same",
@@ -1681,6 +1681,13 @@
      "date": "2026-11-26",
      "title": "SyntheticMR(Combinostics 모회사) 3분기 매출 10.9백만 크로나로 12% 감소, 치매 MRI 분석 'cNeuro' 매출은 23% 증가 — ARIA 검출 'cMRI ARIA'는 FDA 심사 중으로 2027년 1분기 허가 기대 (Cision/SyntheticMR 분기보고서)",
      "url": "https://news.cision.com/syntheticmr-ab/r/interim-report-july---september-2026,c4428777",
+     "section": "경쟁사 동향",
+     "importance": "high"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "[후속] Cortechs.ai, 단일 로그인 클라우드 작업공간 'Cortechs Connect' 공개하고 RSNA 2026서 첫선 — 회사 RSNA 안내상 같은 부스(5107)에서 8월 FDA 510(k) 받은 아밀로이드 PET 정량 'NeuroQuant PET'도 시연 (Cortechs.ai)",
+     "url": "https://www.cortechs.ai/introducing-cortechs-connect/",
      "section": "경쟁사 동향",
      "importance": "high"
     },
@@ -1844,13 +1851,6 @@
      "url": "https://www.gehealthcare.com/en-us/about/newsroom/press-releases/ge-healthcare-establishes-magnus-neuro-alliance-to-unlock-new-possibilities-in-mri-for-neuroscience",
      "section": "시장·투자",
      "importance": "medium"
-    },
-    {
-     "date": "2026-11-11",
-     "title": "Cortechs.ai, Subtle Medical과 제휴해 NeuroQuant를 벤더 중립 MRI 플랫폼에 탑재 — SubtleHD 촬영시간 최대 80% 단축 영상과 부피측정 워크플로 통합, RSNA 2026 공동 참가 (PR Newswire)",
-     "url": "https://www.prnewswire.com/news-releases/cortechsai-and-subtle-medical-partner-to-deliver-faster-mri-with-standardized-quantitative-neuroimaging-302933797.html",
-     "section": "경쟁사 동향",
-     "importance": "high"
     }
    ]
   },
@@ -2042,7 +2042,7 @@
   {
    "rank": 12,
    "keyword": "역학",
-   "count": 41,
+   "count": 42,
    "prev_rank": 13,
    "delta": 1,
    "state": "up",
@@ -2053,6 +2053,13 @@
      "url": "https://doi.org/10.1212/WNL.0000000000218865",
      "section": "치매 전분야 연구",
      "importance": "medium"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "말초 장기 생물학적 나이가 젊을수록 인지 유지 가능성 높아 — 지역사회 노인 1,448명 최대 6년 추적, AD 바이오마커 기반 뇌나이가 높아도 유지되고 저학력층에서 효과 더 커 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43086182/",
+     "section": "치매 전분야 연구",
+     "importance": null
     },
     {
      "date": "2026-11-24",
@@ -2214,13 +2221,6 @@
      "url": "https://doi.org/10.1007/s00415-026-14251-9",
      "section": "치매 전분야 연구",
      "importance": "medium"
-    },
-    {
-     "date": "2026-11-08",
-     "title": "맥락얼기 부피·DTI-ALPS·자유수 분율을 묶은 'MRI 뇌 유체역학 복합지표' — AD·백질 고신호와 연관되나 뇌실 부피와 강하게 결합(r=0.779), 56명 탐색 연구 (Alzheimer's & Dementia: DADM)",
-     "url": "https://doi.org/10.1002/dad2.70538",
-     "section": "진단·영상 연구",
-     "importance": null
     }
    ]
   },
@@ -2597,7 +2597,7 @@
   {
    "rank": 15,
    "keyword": "위험인자",
-   "count": 37,
+   "count": 38,
    "prev_rank": 15,
    "delta": 0,
    "state": "same",
@@ -2608,6 +2608,13 @@
      "url": "https://doi.org/10.1212/WNL.0000000000218865",
      "section": "치매 전분야 연구",
      "importance": "medium"
+    },
+    {
+     "date": "2026-11-26",
+     "title": "제2형 당뇨병 환자의 잔여 콜레스테롤이 중간·높은 궤적이면 치매 위험 2.25~2.41배 — 뉴질랜드 4만3,505명 25년 코호트, TyG 지수 궤적은 뚜렷한 연관 없어 (Alzheimer's & Dementia: DADM)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43080231/",
+     "section": "치매 전분야 연구",
+     "importance": null
     },
     {
      "date": "2026-11-25",
@@ -2767,13 +2774,6 @@
      "date": "2026-11-07",
      "title": "심폐체력 상위군은 치매 위험 47% 낮아 — 12개 코호트 231만7,053명 메타분석, 1 MET 증가당 7%↓ (GeroScience)",
      "url": "https://doi.org/10.1007/s11357-026-02637-6",
-     "section": "치매 전분야 연구",
-     "importance": null
-    },
-    {
-     "date": "2026-11-05",
-     "title": "상하이 지역사회 노인 2,464명 7년 추적 — 교정 가능 위험인자 6개가 MCI 발생의 19.2% 설명 (Alzheimer's & Dementia: DADM)",
-     "url": "https://onlinelibrary.wiley.com/doi/10.1002/dad2.70532",
      "section": "치매 전분야 연구",
      "importance": null
     }
@@ -2967,11 +2967,18 @@
   {
    "rank": 17,
    "keyword": "예방",
-   "count": 31,
+   "count": 32,
    "prev_rank": 16,
    "delta": 1,
    "state": "down",
    "items": [
+    {
+     "date": "2026-11-26",
+     "title": "혈중 TIMP2가 높을수록 인지 기능 좋고 뇌 용적 커 — 사람 3개 코호트(UCSF 83·스탠퍼드 31·ROSMAP 213명)와 생쥐 실험에서 신체활동·풍부한 환경이 TIMP2 올려 (Alzheimer's & Dementia)",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43079735/",
+     "section": "치매 전분야 연구",
+     "importance": null
+    },
     {
      "date": "2026-11-24",
      "title": "A4 솔라네주맙 시험 240주 결측 약 30% 재분석 — 아밀로이드 감소 효과(−8.7 CL)는 견고하나, PACC·CDR-SB 결론은 결측 가정에 민감 (medRxiv 프리프린트)",
@@ -3139,13 +3146,6 @@
      "url": "https://www.dementianews.co.kr/news/articleView.html?idxno=11249",
      "section": "주요 언론",
      "importance": "medium"
-    },
-    {
-     "date": "2026-11-03",
-     "title": "낮잠을 더 많이 자는 노인일수록 금융·건강 문해력 저하가 느려 — 손목 활동기록계로 측정한 러시 MAP 765명, 문해력은 연 약 1%p씩 하락 (Alzheimer's & Dementia)",
-     "url": "https://pubmed.ncbi.nlm.nih.gov/42967585/",
-     "section": "치매 전분야 연구",
-     "importance": null
     }
    ]
   },
@@ -3845,11 +3845,18 @@
   {
    "rank": 2,
    "keyword": "뉴로핏",
-   "count": 16,
+   "count": 17,
    "prev_rank": 2,
    "delta": 0,
    "state": "same",
    "items": [
+    {
+     "date": "2026-11-26",
+     "title": "[후속] 뉴로핏, 일본 도쿄 법인 설립 공식 발표 — 호쿠야쿠 다케야마 외 규슈 '아스템'·간사이 '산쇼도'와 2차 지역 대리점 계약, AQUA·SCALE PET·AQUA AD Plus 공급 (히트뉴스)",
+     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=81111",
+     "section": "경쟁사 동향",
+     "importance": "medium"
+    },
     {
      "date": "2026-11-25",
      "title": "뉴로핏, 美 서틀메디컬과 PET 통합 파트너십 — 아밀로이드 PET 센틸로이드 정량 'SCALE PET'을 SubtleHD(PET) 플랫폼에 통합해 미국 유통 확대, RSNA 2026서 공개 (PR Newswire)",
@@ -4700,11 +4707,49 @@
   },
   {
    "rank": 12,
+   "keyword": "Cortechs.ai",
+   "count": 4,
+   "prev_rank": 13,
+   "delta": 1,
+   "state": "up",
+   "items": [
+    {
+     "date": "2026-11-26",
+     "title": "[후속] Cortechs.ai, 단일 로그인 클라우드 작업공간 'Cortechs Connect' 공개하고 RSNA 2026서 첫선 — 회사 RSNA 안내상 같은 부스(5107)에서 8월 FDA 510(k) 받은 아밀로이드 PET 정량 'NeuroQuant PET'도 시연 (Cortechs.ai)",
+     "url": "https://www.cortechs.ai/introducing-cortechs-connect/",
+     "section": "경쟁사 동향",
+     "importance": "high"
+    },
+    {
+     "date": "2026-11-25",
+     "title": "뉴로핏, 美 서틀메디컬과 PET 통합 파트너십 — 아밀로이드 PET 센틸로이드 정량 'SCALE PET'을 SubtleHD(PET) 플랫폼에 통합해 미국 유통 확대, RSNA 2026서 공개 (PR Newswire)",
+     "url": "https://www.prnewswire.com/news-releases/neurophet-and-subtle-medical-partner-to-combine-faster-higher-quality-pet-imaging-with-advanced-quantitative-analysis-302947966.html",
+     "section": "경쟁사 동향",
+     "importance": "high"
+    },
+    {
+     "date": "2026-11-19",
+     "title": "Subtle Medical, MRI 가속·화질개선 AI 'SubtleHD(MR)' 일본 제3자 인증 획득 — 벤더 중립형, 촬영시간 최대 80% 단축 주장 (PR Newswire)",
+     "url": "https://www.prnewswire.com/news-releases/subtle-medical-receives-regulatory-clearance-in-japan-for-subtlehdmr-expanding-global-access-to-faster-higher-quality-mri-302943262.html",
+     "section": "규제·인허가·정책",
+     "importance": null
+    },
+    {
+     "date": "2026-11-11",
+     "title": "Cortechs.ai, Subtle Medical과 제휴해 NeuroQuant를 벤더 중립 MRI 플랫폼에 탑재 — SubtleHD 촬영시간 최대 80% 단축 영상과 부피측정 워크플로 통합, RSNA 2026 공동 참가 (PR Newswire)",
+     "url": "https://www.prnewswire.com/news-releases/cortechsai-and-subtle-medical-partner-to-deliver-faster-mri-with-standardized-quantitative-neuroimaging-302933797.html",
+     "section": "경쟁사 동향",
+     "importance": "high"
+    }
+   ]
+  },
+  {
+   "rank": 13,
    "keyword": "Linus Health",
    "count": 3,
    "prev_rank": 12,
-   "delta": 0,
-   "state": "same",
+   "delta": 1,
+   "state": "down",
    "items": [
     {
      "date": "2026-11-17",
@@ -4726,37 +4771,6 @@
      "url": "https://news.exeter.ac.uk/faculty-of-health-and-life-sciences/exeter-led-20-million-hub-will-create-ten-brain-health-clinics-to-help-nhs-reduce-dementia-risk/",
      "section": "시장·투자",
      "importance": "medium"
-    }
-   ]
-  },
-  {
-   "rank": 13,
-   "keyword": "Cortechs.ai",
-   "count": 3,
-   "prev_rank": 13,
-   "delta": 0,
-   "state": "same",
-   "items": [
-    {
-     "date": "2026-11-25",
-     "title": "뉴로핏, 美 서틀메디컬과 PET 통합 파트너십 — 아밀로이드 PET 센틸로이드 정량 'SCALE PET'을 SubtleHD(PET) 플랫폼에 통합해 미국 유통 확대, RSNA 2026서 공개 (PR Newswire)",
-     "url": "https://www.prnewswire.com/news-releases/neurophet-and-subtle-medical-partner-to-combine-faster-higher-quality-pet-imaging-with-advanced-quantitative-analysis-302947966.html",
-     "section": "경쟁사 동향",
-     "importance": "high"
-    },
-    {
-     "date": "2026-11-19",
-     "title": "Subtle Medical, MRI 가속·화질개선 AI 'SubtleHD(MR)' 일본 제3자 인증 획득 — 벤더 중립형, 촬영시간 최대 80% 단축 주장 (PR Newswire)",
-     "url": "https://www.prnewswire.com/news-releases/subtle-medical-receives-regulatory-clearance-in-japan-for-subtlehdmr-expanding-global-access-to-faster-higher-quality-mri-302943262.html",
-     "section": "규제·인허가·정책",
-     "importance": null
-    },
-    {
-     "date": "2026-11-11",
-     "title": "Cortechs.ai, Subtle Medical과 제휴해 NeuroQuant를 벤더 중립 MRI 플랫폼에 탑재 — SubtleHD 촬영시간 최대 80% 단축 영상과 부피측정 워크플로 통합, RSNA 2026 공동 참가 (PR Newswire)",
-     "url": "https://www.prnewswire.com/news-releases/cortechsai-and-subtle-medical-partner-to-deliver-faster-mri-with-standardized-quantitative-neuroimaging-302933797.html",
-     "section": "경쟁사 동향",
-     "importance": "high"
     }
    ]
   },
